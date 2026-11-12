@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/allergiya-na-berezu-i-produkty/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/allergiya-na-berezu-i-produkty/390.jpg",
+  "source_path": "site/articles/allergiya-na-berezu-i-produkty/index.html",
+  "source_sha256": "a8de0b640a22caf831140473ee3adf3d95e4b364bd3565ed79a73220f4271d85",
+  "started_UTC": "2026-11-12T22:03:44.705Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9809,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Аллергия на берёзу и еда: почему чешется во рту от яблок и орехов — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 14,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 543787,
+  "sha256": "cffd2cfe68d64626a75c72016b4aaebcf78c6517fbdf0ffc149984376850d613",
+  "finished_UTC": "2026-11-12T22:03:45.947Z"
+}

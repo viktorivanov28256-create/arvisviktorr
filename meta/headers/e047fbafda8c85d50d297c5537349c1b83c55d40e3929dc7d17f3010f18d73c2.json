@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://arvisclinic.ru/recovery-assets/clinic/voroshilova/arvis-voroshilova-05-koridor-98e2998f9a2e.jpg",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:49:47 GMT",
+      "Content-Type": "image/jpeg",
+      "Content-Length": "221257",
+      "Last-Modified": "Sun, 08 Nov 2026 23:01:15 GMT",
+      "Connection": "close",
+      "ETag": "\"6af0ff3b-36049\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

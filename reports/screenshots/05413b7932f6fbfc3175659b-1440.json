@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/alfa-laktalbumin-f76/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/alfa-laktalbumin-f76/1440.jpg",
+  "source_path": "site/analizy/alfa-laktalbumin-f76/index.html",
+  "source_sha256": "15292f15c7b69ed7d13e95f076523e8a71f9943c066c90e7dfa39546c6128ae8",
+  "started_UTC": "2026-11-12T22:02:19.611Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4183,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Альфа-лактальбумин Bos d 4 (f76) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 428631,
+  "sha256": "a54d41a0b8a0eb54bf21a37724c86c8ab329c07da3bb9da52e697d28ecff4066",
+  "finished_UTC": "2026-11-12T22:02:20.344Z"
+}

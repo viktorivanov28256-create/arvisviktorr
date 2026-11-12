@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/botulinoterapiya-skolko-edinic/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/botulinoterapiya-skolko-edinic/1440.jpg",
+  "source_path": "site/articles/botulinoterapiya-skolko-edinic/index.html",
+  "source_sha256": "751be1b55ac2d78ca3f96d531543809cb4b74b4071091a4523d4b1e763a16ea2",
+  "started_UTC": "2026-11-12T22:03:58.598Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7764,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Ботулинотерапия: сколько единиц нужно и сколько это стоит — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 10,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 810974,
+  "sha256": "6c97e42cc673411cb03a49e76b7142d812cf54348ecb59366557620cdb836b81",
+  "finished_UTC": "2026-11-12T22:03:59.680Z"
+}

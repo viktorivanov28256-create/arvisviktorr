@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/arvis-doctor-mobile-p1-a9500019ebe7.css",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:49:39 GMT",
+      "Content-Type": "text/css",
+      "Content-Length": "4475",
+      "Last-Modified": "Mon, 09 Nov 2026 22:44:38 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6af24cd6-117b\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

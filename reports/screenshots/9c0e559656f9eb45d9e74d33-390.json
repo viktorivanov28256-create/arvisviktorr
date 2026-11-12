@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/nosogubnye-skladki/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/nosogubnye-skladki/390.jpg",
+  "source_path": "site/articles/nosogubnye-skladki/index.html",
+  "source_sha256": "e9385101d172756327e8c658396872105a145c112ad18600eef2b13388be8eef",
+  "started_UTC": "2026-11-12T22:04:27.115Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 10228,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Носогубные складки: почему углубляются и что с ними делают — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 14,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 541044,
+  "sha256": "7e3aed21f94844a88b3bba34e7fc4eacd753787bbfd545921a40f1e218f813a6",
+  "finished_UTC": "2026-11-12T22:04:28.299Z"
+}

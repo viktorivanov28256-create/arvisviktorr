@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/triptaza/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/triptaza/1440.jpg",
+  "source_path": "site/analizy/triptaza/index.html",
+  "source_sha256": "3b1fd4b452ffce6f1ec2c5fbb89594b16ddbcf8421928d964d55201889a98e15",
+  "started_UTC": "2026-11-12T22:03:36.026Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 6690,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Триптаза (ImmunoCAP) — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 638583,
+  "sha256": "a0cd0bd2c013672fc4b206596d8cd47d0639df490e21b7d4b368900fbd1c36a2",
+  "finished_UTC": "2026-11-12T22:03:36.994Z"
+}

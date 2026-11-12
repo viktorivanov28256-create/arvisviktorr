@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-gusinoe-pero-e70/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-gusinoe-pero-e70/1440.jpg",
+  "source_path": "site/analizy/ige-gusinoe-pero-e70/index.html",
+  "source_sha256": "430e2d9e5932508588aab65f9020c8e1e373f1ddf0f742651af692a469ffe408",
+  "started_UTC": "2026-11-12T22:02:50.015Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4832,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к гусиному перу (e70) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 550980,
+  "sha256": "3877da35b93c10b5fdbfe41685012b5a038be843d62ede6a3da1d98b1e3b4b61",
+  "finished_UTC": "2026-11-12T22:02:50.715Z"
+}

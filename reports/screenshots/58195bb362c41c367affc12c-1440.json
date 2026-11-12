@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-yachmen-f6/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-yachmen-f6/1440.jpg",
+  "source_path": "site/analizy/ige-yachmen-f6/index.html",
+  "source_sha256": "09b70e4f92b46e124039141a6c86082a6e89754ad5fb0baa56bdc26723b6df12",
+  "started_UTC": "2026-11-12T22:03:23.512Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4546,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к ячменю (f6) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 517177,
+  "sha256": "777c560f41f81c5ee67964f7feaec8c75363df00e1af1bb545f262368cc9aa34",
+  "finished_UTC": "2026-11-12T22:03:24.243Z"
+}

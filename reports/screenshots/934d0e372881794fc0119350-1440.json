@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-grusha-f94/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-grusha-f94/1440.jpg",
+  "source_path": "site/analizy/ige-grusha-f94/index.html",
+  "source_sha256": "8845efeebffc242bed203c121cb39364dd6eede287b85234e43d8f9963b47bdb",
+  "started_UTC": "2026-11-12T22:02:49.566Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4654,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к груше (f94) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 516665,
+  "sha256": "e087b27fcd313702180d796c3ddce6286e15f1def2e54aba93d8d81059307b5b",
+  "finished_UTC": "2026-11-12T22:02:50.380Z"
+}

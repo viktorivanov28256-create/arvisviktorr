@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-imbir-f270/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-imbir-f270/1440.jpg",
+  "source_path": "site/analizy/ige-imbir-f270/index.html",
+  "source_sha256": "acf6bf41656c6c579c8ee695cfa8ebc7176c2c27a62b669d69b5288142ebfe5e",
+  "started_UTC": "2026-11-12T22:02:50.543Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4784,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к имбирю (f270) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 551369,
+  "sha256": "0f24fa1357fcf6597e2b07038ad2785d6a9b0b7c0f6d5d5ee7a340074a5bd90f",
+  "finished_UTC": "2026-11-12T22:02:51.245Z"
+}

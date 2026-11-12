@@ -1,0 +1,4538 @@
+{
+  "robots.txt": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/robots.txt"
+    ],
+    "URL": "https://arvisclinic.ru/robots.txt",
+    "variant_path": "site/robots.txt"
+  },
+  "sitemap.xml": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/sitemap.xml"
+    ],
+    "URL": "https://arvisclinic.ru/sitemap.xml",
+    "variant_path": "site/sitemap.xml"
+  },
+  "index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/"
+    ],
+    "URL": "https://arvisclinic.ru/",
+    "variant_path": "site/index.html"
+  },
+  "en/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/en/"
+    ],
+    "URL": "https://arvisclinic.ru/en/",
+    "variant_path": "site/en/index.html"
+  },
+  "search/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/search/"
+    ],
+    "URL": "https://arvisclinic.ru/search/",
+    "variant_path": "site/search/index.html"
+  },
+  "404/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/404/"
+    ],
+    "URL": "https://arvisclinic.ru/404/",
+    "variant_path": "site/404/index.html"
+  },
+  "about/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/about/"
+    ],
+    "URL": "https://arvisclinic.ru/about/",
+    "variant_path": "site/about/index.html"
+  },
+  "about/authorities/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/about/authorities/"
+    ],
+    "URL": "https://arvisclinic.ru/about/authorities/",
+    "variant_path": "site/about/authorities/index.html"
+  },
+  "about/documents/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/about/documents/"
+    ],
+    "URL": "https://arvisclinic.ru/about/documents/",
+    "variant_path": "site/about/documents/index.html"
+  },
+  "about/news/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/about/news/"
+    ],
+    "URL": "https://arvisclinic.ru/about/news/",
+    "variant_path": "site/about/news/index.html"
+  },
+  "about/privacy-policy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/about/privacy-policy/"
+    ],
+    "URL": "https://arvisclinic.ru/about/privacy-policy/",
+    "variant_path": "site/about/privacy-policy/index.html"
+  },
+  "about/requisites/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/about/requisites/"
+    ],
+    "URL": "https://arvisclinic.ru/about/requisites/",
+    "variant_path": "site/about/requisites/index.html"
+  },
+  "allergarda/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/allergarda/"
+    ],
+    "URL": "https://arvisclinic.ru/allergarda/",
+    "variant_path": "site/allergarda/index.html"
+  },
+  "allergarda/issledovaniya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/allergarda/issledovaniya/"
+    ],
+    "URL": "https://arvisclinic.ru/allergarda/issledovaniya/",
+    "variant_path": "site/allergarda/issledovaniya/index.html"
+  },
+  "allergarda/kurs/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/allergarda/kurs/"
+    ],
+    "URL": "https://arvisclinic.ru/allergarda/kurs/",
+    "variant_path": "site/allergarda/kurs/index.html"
+  },
+  "allergarda/voprosy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/allergarda/voprosy/"
+    ],
+    "URL": "https://arvisclinic.ru/allergarda/voprosy/",
+    "variant_path": "site/allergarda/voprosy/index.html"
+  },
+  "allergolog/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/allergolog/"
+    ],
+    "URL": "https://arvisclinic.ru/allergolog/",
+    "variant_path": "site/allergolog/index.html"
+  },
+  "analizy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/",
+    "variant_path": "site/analizy/index.html"
+  },
+  "analizy/alex3/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/alex3/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/alex3/",
+    "variant_path": "site/analizy/alex3/index.html"
+  },
+  "analizy/alfa-laktalbumin-f76/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/alfa-laktalbumin-f76/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/alfa-laktalbumin-f76/",
+    "variant_path": "site/analizy/alfa-laktalbumin-f76/index.html"
+  },
+  "analizy/allergokomponenty/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/allergokomponenty/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/allergokomponenty/",
+    "variant_path": "site/analizy/allergokomponenty/index.html"
+  },
+  "analizy/allergopaneli/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/allergopaneli/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/allergopaneli/",
+    "variant_path": "site/analizy/allergopaneli/index.html"
+  },
+  "analizy/alt-a-1-m229/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/alt-a-1-m229/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/alt-a-1-m229/",
+    "variant_path": "site/analizy/alt-a-1-m229/index.html"
+  },
+  "analizy/ara-h-1-f422/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ara-h-1-f422/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ara-h-1-f422/",
+    "variant_path": "site/analizy/ara-h-1-f422/index.html"
+  },
+  "analizy/ara-h-2-f423/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ara-h-2-f423/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ara-h-2-f423/",
+    "variant_path": "site/analizy/ara-h-2-f423/index.html"
+  },
+  "analizy/ara-h-3-f424/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ara-h-3-f424/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ara-h-3-f424/",
+    "variant_path": "site/analizy/ara-h-3-f424/index.html"
+  },
+  "analizy/ara-h-8-f352/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ara-h-8-f352/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ara-h-8-f352/",
+    "variant_path": "site/analizy/ara-h-8-f352/index.html"
+  },
+  "analizy/ara-h-9-f427/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ara-h-9-f427/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ara-h-9-f427/",
+    "variant_path": "site/analizy/ara-h-9-f427/index.html"
+  },
+  "analizy/art-v-1-w231/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/art-v-1-w231/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/art-v-1-w231/",
+    "variant_path": "site/analizy/art-v-1-w231/index.html"
+  },
+  "analizy/bet-v-1-t215/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/bet-v-1-t215/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/bet-v-1-t215/",
+    "variant_path": "site/analizy/bet-v-1-t215/index.html"
+  },
+  "analizy/beta-laktoglobulin-f77/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/beta-laktoglobulin-f77/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/beta-laktoglobulin-f77/",
+    "variant_path": "site/analizy/beta-laktoglobulin-f77/index.html"
+  },
+  "analizy/bos-d-6-e204/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/bos-d-6-e204/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/bos-d-6-e204/",
+    "variant_path": "site/analizy/bos-d-6-e204/index.html"
+  },
+  "analizy/can-f-2-e102/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/can-f-2-e102/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/can-f-2-e102/",
+    "variant_path": "site/analizy/can-f-2-e102/index.html"
+  },
+  "analizy/der-p-1-d202/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/der-p-1-d202/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/der-p-1-d202/",
+    "variant_path": "site/analizy/der-p-1-d202/index.html"
+  },
+  "analizy/der-p-10-d205/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/der-p-10-d205/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/der-p-10-d205/",
+    "variant_path": "site/analizy/der-p-10-d205/index.html"
+  },
+  "analizy/eozinofilnyy-kationnyy-belok/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/eozinofilnyy-kationnyy-belok/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/eozinofilnyy-kationnyy-belok/",
+    "variant_path": "site/analizy/eozinofilnyy-kationnyy-belok/index.html"
+  },
+  "analizy/fadiatop-detskiy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/fadiatop-detskiy/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/fadiatop-detskiy/",
+    "variant_path": "site/analizy/fadiatop-detskiy/index.html"
+  },
+  "analizy/fadiatop/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/fadiatop/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/fadiatop/",
+    "variant_path": "site/analizy/fadiatop/index.html"
+  },
+  "analizy/fel-d-1-e94/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/fel-d-1-e94/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/fel-d-1-e94/",
+    "variant_path": "site/analizy/fel-d-1-e94/index.html"
+  },
+  "analizy/fel-d-2-e220/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/fel-d-2-e220/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/fel-d-2-e220/",
+    "variant_path": "site/analizy/fel-d-2-e220/index.html"
+  },
+  "analizy/gipereozinofilnyy-sindrom/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/gipereozinofilnyy-sindrom/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/gipereozinofilnyy-sindrom/",
+    "variant_path": "site/analizy/gipereozinofilnyy-sindrom/index.html"
+  },
+  "analizy/gly-m-4-f353/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/gly-m-4-f353/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/gly-m-4-f353/",
+    "variant_path": "site/analizy/gly-m-4-f353/index.html"
+  },
+  "analizy/ige-abrikos-f237/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-abrikos-f237/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-abrikos-f237/",
+    "variant_path": "site/analizy/ige-abrikos-f237/index.html"
+  },
+  "analizy/ige-aloe-w65/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-aloe-w65/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-aloe-w65/",
+    "variant_path": "site/analizy/ige-aloe-w65/index.html"
+  },
+  "analizy/ige-alternaria-m6/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-alternaria-m6/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-alternaria-m6/",
+    "variant_path": "site/analizy/ige-alternaria-m6/index.html"
+  },
+  "analizy/ige-ambroziya-w1/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-ambroziya-w1/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-ambroziya-w1/",
+    "variant_path": "site/analizy/ige-ambroziya-w1/index.html"
+  },
+  "analizy/ige-ananas-f210/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-ananas-f210/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-ananas-f210/",
+    "variant_path": "site/analizy/ige-ananas-f210/index.html"
+  },
+  "analizy/ige-anis-f271/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-anis-f271/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-anis-f271/",
+    "variant_path": "site/analizy/ige-anis-f271/index.html"
+  },
+  "analizy/ige-arakhis-f13/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-arakhis-f13/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-arakhis-f13/",
+    "variant_path": "site/analizy/ige-arakhis-f13/index.html"
+  },
+  "analizy/ige-aspergillus-fumigatus-m3/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-aspergillus-fumigatus-m3/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-aspergillus-fumigatus-m3/",
+    "variant_path": "site/analizy/ige-aspergillus-fumigatus-m3/index.html"
+  },
+  "analizy/ige-baklazhan-f262/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-baklazhan-f262/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-baklazhan-f262/",
+    "variant_path": "site/analizy/ige-baklazhan-f262/index.html"
+  },
+  "analizy/ige-baranina-f88/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-baranina-f88/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-baranina-f88/",
+    "variant_path": "site/analizy/ige-baranina-f88/index.html"
+  },
+  "analizy/ige-belokochannaya-kapusta-f216/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-belokochannaya-kapusta-f216/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-belokochannaya-kapusta-f216/",
+    "variant_path": "site/analizy/ige-belokochannaya-kapusta-f216/index.html"
+  },
+  "analizy/ige-bereza-t3/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-bereza-t3/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-bereza-t3/",
+    "variant_path": "site/analizy/ige-bereza-t3/index.html"
+  },
+  "analizy/ige-chelovecheskiy-insulin-c73/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-chelovecheskiy-insulin-c73/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-chelovecheskiy-insulin-c73/",
+    "variant_path": "site/analizy/ige-chelovecheskiy-insulin-c73/index.html"
+  },
+  "analizy/ige-cheremukha-t38/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-cheremukha-t38/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-cheremukha-t38/",
+    "variant_path": "site/analizy/ige-cheremukha-t38/index.html"
+  },
+  "analizy/ige-chereshnya-i-vishnya-f242/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-chereshnya-i-vishnya-f242/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-chereshnya-i-vishnya-f242/",
+    "variant_path": "site/analizy/ige-chereshnya-i-vishnya-f242/index.html"
+  },
+  "analizy/ige-chernika-golubika-brusnika/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-chernika-golubika-brusnika/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-chernika-golubika-brusnika/",
+    "variant_path": "site/analizy/ige-chernika-golubika-brusnika/index.html"
+  },
+  "analizy/ige-cladosporium-m2/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-cladosporium-m2/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-cladosporium-m2/",
+    "variant_path": "site/analizy/ige-cladosporium-m2/index.html"
+  },
+  "analizy/ige-domashnyaya-pyl-h1/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-domashnyaya-pyl-h1/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-domashnyaya-pyl-h1/",
+    "variant_path": "site/analizy/ige-domashnyaya-pyl-h1/index.html"
+  },
+  "analizy/ige-dynya-f87/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-dynya-f87/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-dynya-f87/",
+    "variant_path": "site/analizy/ige-dynya-f87/index.html"
+  },
+  "analizy/ige-enterotoksin-a-stafilokokka-m80/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-enterotoksin-a-stafilokokka-m80/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-enterotoksin-a-stafilokokka-m80/",
+    "variant_path": "site/analizy/ige-enterotoksin-a-stafilokokka-m80/index.html"
+  },
+  "analizy/ige-ezha-sbornaya-g3/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-ezha-sbornaya-g3/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-ezha-sbornaya-g3/",
+    "variant_path": "site/analizy/ige-ezha-sbornaya-g3/index.html"
+  },
+  "analizy/ige-finiki-f289/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-finiki-f289/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-finiki-f289/",
+    "variant_path": "site/analizy/ige-finiki-f289/index.html"
+  },
+  "analizy/ige-fistashki-f203/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-fistashki-f203/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-fistashki-f203/",
+    "variant_path": "site/analizy/ige-fistashki-f203/index.html"
+  },
+  "analizy/ige-funduk-f17/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-funduk-f17/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-funduk-f17/",
+    "variant_path": "site/analizy/ige-funduk-f17/index.html"
+  },
+  "analizy/ige-geran-w35/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-geran-w35/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-geran-w35/",
+    "variant_path": "site/analizy/ige-geran-w35/index.html"
+  },
+  "analizy/ige-govyadina-f27/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-govyadina-f27/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-govyadina-f27/",
+    "variant_path": "site/analizy/ige-govyadina-f27/index.html"
+  },
+  "analizy/ige-greypfrut-f209/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-greypfrut-f209/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-greypfrut-f209/",
+    "variant_path": "site/analizy/ige-greypfrut-f209/index.html"
+  },
+  "analizy/ige-grusha-f94/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-grusha-f94/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-grusha-f94/",
+    "variant_path": "site/analizy/ige-grusha-f94/index.html"
+  },
+  "analizy/ige-gusinoe-pero-e70/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-gusinoe-pero-e70/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-gusinoe-pero-e70/",
+    "variant_path": "site/analizy/ige-gusinoe-pero-e70/index.html"
+  },
+  "analizy/ige-imbir-f270/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-imbir-f270/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-imbir-f270/",
+    "variant_path": "site/analizy/ige-imbir-f270/index.html"
+  },
+  "analizy/ige-khlorgeksidin-c8/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-khlorgeksidin-c8/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-khlorgeksidin-c8/",
+    "variant_path": "site/analizy/ige-khlorgeksidin-c8/index.html"
+  },
+  "analizy/ige-khomyak-e84/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-khomyak-e84/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-khomyak-e84/",
+    "variant_path": "site/analizy/ige-khomyak-e84/index.html"
+  },
+  "analizy/ige-kleshch-domashney-pyli/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-kleshch-domashney-pyli/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-kleshch-domashney-pyli/",
+    "variant_path": "site/analizy/ige-kleshch-domashney-pyli/index.html"
+  },
+  "analizy/ige-kleshch-euroglyphus-maynei-d74/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-kleshch-euroglyphus-maynei-d74/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-kleshch-euroglyphus-maynei-d74/",
+    "variant_path": "site/analizy/ige-kleshch-euroglyphus-maynei-d74/index.html"
+  },
+  "analizy/ige-klever-lugovoy-w34/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-klever-lugovoy-w34/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-klever-lugovoy-w34/",
+    "variant_path": "site/analizy/ige-klever-lugovoy-w34/index.html"
+  },
+  "analizy/ige-konskiy-kashtan-t203/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-konskiy-kashtan-t203/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-konskiy-kashtan-t203/",
+    "variant_path": "site/analizy/ige-konskiy-kashtan-t203/index.html"
+  },
+  "analizy/ige-korova-e4/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-korova-e4/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-korova-e4/",
+    "variant_path": "site/analizy/ige-korova-e4/index.html"
+  },
+  "analizy/ige-koshka-e1/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-koshka-e1/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-koshka-e1/",
+    "variant_path": "site/analizy/ige-koshka-e1/index.html"
+  },
+  "analizy/ige-koster-bezostyy-g11/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-koster-bezostyy-g11/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-koster-bezostyy-g11/",
+    "variant_path": "site/analizy/ige-koster-bezostyy-g11/index.html"
+  },
+  "analizy/ige-krapiva-w20/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-krapiva-w20/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-krapiva-w20/",
+    "variant_path": "site/analizy/ige-krapiva-w20/index.html"
+  },
+  "analizy/ige-krevetka-f24/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-krevetka-f24/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-krevetka-f24/",
+    "variant_path": "site/analizy/ige-krevetka-f24/index.html"
+  },
+  "analizy/ige-krysa-e87/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-krysa-e87/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-krysa-e87/",
+    "variant_path": "site/analizy/ige-krysa-e87/index.html"
+  },
+  "analizy/ige-kryzhovnik-f327/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-kryzhovnik-f327/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-kryzhovnik-f327/",
+    "variant_path": "site/analizy/ige-kryzhovnik-f327/index.html"
+  },
+  "analizy/ige-kukuruza-f8/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-kukuruza-f8/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-kukuruza-f8/",
+    "variant_path": "site/analizy/ige-kukuruza-f8/index.html"
+  },
+  "analizy/ige-kukuruza-g202/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-kukuruza-g202/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-kukuruza-g202/",
+    "variant_path": "site/analizy/ige-kukuruza-g202/index.html"
+  },
+  "analizy/ige-lebeda-w15/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-lebeda-w15/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-lebeda-w15/",
+    "variant_path": "site/analizy/ige-lebeda-w15/index.html"
+  },
+  "analizy/ige-leshchina-t4/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-leshchina-t4/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-leshchina-t4/",
+    "variant_path": "site/analizy/ige-leshchina-t4/index.html"
+  },
+  "analizy/ige-mak-f224/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-mak-f224/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-mak-f224/",
+    "variant_path": "site/analizy/ige-mak-f224/index.html"
+  },
+  "analizy/ige-masliny-i-olivki-f342/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-masliny-i-olivki-f342/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-masliny-i-olivki-f342/",
+    "variant_path": "site/analizy/ige-masliny-i-olivki-f342/index.html"
+  },
+  "analizy/ige-mat-i-machekha-w38/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-mat-i-machekha-w38/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-mat-i-machekha-w38/",
+    "variant_path": "site/analizy/ige-mat-i-machekha-w38/index.html"
+  },
+  "analizy/ige-molochnaya-syvorotka-f236/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-molochnaya-syvorotka-f236/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-molochnaya-syvorotka-f236/",
+    "variant_path": "site/analizy/ige-molochnaya-syvorotka-f236/index.html"
+  },
+  "analizy/ige-moloko-f2/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-moloko-f2/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-moloko-f2/",
+    "variant_path": "site/analizy/ige-moloko-f2/index.html"
+  },
+  "analizy/ige-motyl-i73/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-motyl-i73/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-motyl-i73/",
+    "variant_path": "site/analizy/ige-motyl-i73/index.html"
+  },
+  "analizy/ige-myatlik-lugovoy-g8/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-myatlik-lugovoy-g8/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-myatlik-lugovoy-g8/",
+    "variant_path": "site/analizy/ige-myatlik-lugovoy-g8/index.html"
+  },
+  "analizy/ige-mysh-e88/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-mysh-e88/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-mysh-e88/",
+    "variant_path": "site/analizy/ige-mysh-e88/index.html"
+  },
+  "analizy/ige-nivyanik-w7/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-nivyanik-w7/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-nivyanik-w7/",
+    "variant_path": "site/analizy/ige-nivyanik-w7/index.html"
+  },
+  "analizy/ige-obshchiy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-obshchiy/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-obshchiy/",
+    "variant_path": "site/analizy/ige-obshchiy/index.html"
+  },
+  "analizy/ige-oduvanchik-w8/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-oduvanchik-w8/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-oduvanchik-w8/",
+    "variant_path": "site/analizy/ige-oduvanchik-w8/index.html"
+  },
+  "analizy/ige-paltus-f303/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-paltus-f303/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-paltus-f303/",
+    "variant_path": "site/analizy/ige-paltus-f303/index.html"
+  },
+  "analizy/ige-pekarskie-drozhzhi-f45/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-pekarskie-drozhzhi-f45/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-pekarskie-drozhzhi-f45/",
+    "variant_path": "site/analizy/ige-pekarskie-drozhzhi-f45/index.html"
+  },
+  "analizy/ige-penicillium-m1/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-penicillium-m1/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-penicillium-m1/",
+    "variant_path": "site/analizy/ige-penicillium-m1/index.html"
+  },
+  "analizy/ige-penitsillin-v-c2/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-penitsillin-v-c2/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-penitsillin-v-c2/",
+    "variant_path": "site/analizy/ige-penitsillin-v-c2/index.html"
+  },
+  "analizy/ige-polyn-w6/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-polyn-w6/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-polyn-w6/",
+    "variant_path": "site/analizy/ige-polyn-w6/index.html"
+  },
+  "analizy/ige-popugai-e78/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-popugai-e78/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-popugai-e78/",
+    "variant_path": "site/analizy/ige-popugai-e78/index.html"
+  },
+  "analizy/ige-pshenitsa-f4/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-pshenitsa-f4/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-pshenitsa-f4/",
+    "variant_path": "site/analizy/ige-pshenitsa-f4/index.html"
+  },
+  "analizy/ige-pshenitsa-posevnaya-g15/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-pshenitsa-posevnaya-g15/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-pshenitsa-posevnaya-g15/",
+    "variant_path": "site/analizy/ige-pshenitsa-posevnaya-g15/index.html"
+  },
+  "analizy/ige-ris-f9/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-ris-f9/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-ris-f9/",
+    "variant_path": "site/analizy/ige-ris-f9/index.html"
+  },
+  "analizy/ige-romashka-w206/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-romashka-w206/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-romashka-w206/",
+    "variant_path": "site/analizy/ige-romashka-w206/index.html"
+  },
+  "analizy/ige-roza-w28/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-roza-w28/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-roza-w28/",
+    "variant_path": "site/analizy/ige-roza-w28/index.html"
+  },
+  "analizy/ige-rozh-posevnaya-g12/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-rozh-posevnaya-g12/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-rozh-posevnaya-g12/",
+    "variant_path": "site/analizy/ige-rozh-posevnaya-g12/index.html"
+  },
+  "analizy/ige-rozmarin-f335/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-rozmarin-f335/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-rozmarin-f335/",
+    "variant_path": "site/analizy/ige-rozmarin-f335/index.html"
+  },
+  "analizy/ige-sennaya-pyl-o7/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-sennaya-pyl-o7/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-sennaya-pyl-o7/",
+    "variant_path": "site/analizy/ige-sennaya-pyl-o7/index.html"
+  },
+  "analizy/ige-skumbriya-f206/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-skumbriya-f206/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-skumbriya-f206/",
+    "variant_path": "site/analizy/ige-skumbriya-f206/index.html"
+  },
+  "analizy/ige-sladkiy-perets-f218/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-sladkiy-perets-f218/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-sladkiy-perets-f218/",
+    "variant_path": "site/analizy/ige-sladkiy-perets-f218/index.html"
+  },
+  "analizy/ige-sobaka-e5/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-sobaka-e5/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-sobaka-e5/",
+    "variant_path": "site/analizy/ige-sobaka-e5/index.html"
+  },
+  "analizy/ige-solyanka-w11/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-solyanka-w11/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-solyanka-w11/",
+    "variant_path": "site/analizy/ige-solyanka-w11/index.html"
+  },
+  "analizy/ige-svinina-f26/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-svinina-f26/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-svinina-f26/",
+    "variant_path": "site/analizy/ige-svinina-f26/index.html"
+  },
+  "analizy/ige-syr/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-syr/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-syr/",
+    "variant_path": "site/analizy/ige-syr/index.html"
+  },
+  "analizy/ige-timofeevka-g6/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-timofeevka-g6/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-timofeevka-g6/",
+    "variant_path": "site/analizy/ige-timofeevka-g6/index.html"
+  },
+  "analizy/ige-toksin-tsst-stafilokokka-m226/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-toksin-tsst-stafilokokka-m226/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-toksin-tsst-stafilokokka-m226/",
+    "variant_path": "site/analizy/ige-toksin-tsst-stafilokokka-m226/index.html"
+  },
+  "analizy/ige-toksokara-p3/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-toksokara-p3/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-toksokara-p3/",
+    "variant_path": "site/analizy/ige-toksokara-p3/index.html"
+  },
+  "analizy/ige-treska-f3/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-treska-f3/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-treska-f3/",
+    "variant_path": "site/analizy/ige-treska-f3/index.html"
+  },
+  "analizy/ige-tunets-f40/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-tunets-f40/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-tunets-f40/",
+    "variant_path": "site/analizy/ige-tunets-f40/index.html"
+  },
+  "analizy/ige-ukrop-f277/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-ukrop-f277/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-ukrop-f277/",
+    "variant_path": "site/analizy/ige-ukrop-f277/index.html"
+  },
+  "analizy/ige-vinograd-f259/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-vinograd-f259/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-vinograd-f259/",
+    "variant_path": "site/analizy/ige-vinograd-f259/index.html"
+  },
+  "analizy/ige-yachmen-f6/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-yachmen-f6/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-yachmen-f6/",
+    "variant_path": "site/analizy/ige-yachmen-f6/index.html"
+  },
+  "analizy/ige-yad-osy-pchely/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-yad-osy-pchely/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-yad-osy-pchely/",
+    "variant_path": "site/analizy/ige-yad-osy-pchely/index.html"
+  },
+  "analizy/ige-yad-shershnya-i75/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-yad-shershnya-i75/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-yad-shershnya-i75/",
+    "variant_path": "site/analizy/ige-yad-shershnya-i75/index.html"
+  },
+  "analizy/ige-yaichnyy-belok-f1/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-yaichnyy-belok-f1/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-yaichnyy-belok-f1/",
+    "variant_path": "site/analizy/ige-yaichnyy-belok-f1/index.html"
+  },
+  "analizy/ige-zelenyy-perets-goroshkom-f263/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/ige-zelenyy-perets-goroshkom-f263/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/ige-zelenyy-perets-goroshkom-f263/",
+    "variant_path": "site/analizy/ige-zelenyy-perets-goroshkom-f263/index.html"
+  },
+  "analizy/immunocap-isac/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/immunocap-isac/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/immunocap-isac/",
+    "variant_path": "site/analizy/immunocap-isac/index.html"
+  },
+  "analizy/kazein-f78/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/kazein-f78/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/kazein-f78/",
+    "variant_path": "site/analizy/kazein-f78/index.html"
+  },
+  "analizy/kleshchi-i-pyl/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/kleshchi-i-pyl/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/kleshchi-i-pyl/",
+    "variant_path": "site/analizy/kleshchi-i-pyl/index.html"
+  },
+  "analizy/konalbumin-f323/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/konalbumin-f323/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/konalbumin-f323/",
+    "variant_path": "site/analizy/konalbumin-f323/index.html"
+  },
+  "analizy/lekarstva/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/lekarstva/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/lekarstva/",
+    "variant_path": "site/analizy/lekarstva/index.html"
+  },
+  "analizy/nasekomye/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/nasekomye/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/nasekomye/",
+    "variant_path": "site/analizy/nasekomye/index.html"
+  },
+  "analizy/omega-5-gliadin-f416/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/omega-5-gliadin-f416/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/omega-5-gliadin-f416/",
+    "variant_path": "site/analizy/omega-5-gliadin-f416/index.html"
+  },
+  "analizy/parazity/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/parazity/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/parazity/",
+    "variant_path": "site/analizy/parazity/index.html"
+  },
+  "analizy/phl-p-1-g205/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/phl-p-1-g205/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/phl-p-1-g205/",
+    "variant_path": "site/analizy/phl-p-1-g205/index.html"
+  },
+  "analizy/phl-p-12-g212/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/phl-p-12-g212/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/phl-p-12-g212/",
+    "variant_path": "site/analizy/phl-p-12-g212/index.html"
+  },
+  "analizy/phl-p-7-g210/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/phl-p-7-g210/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/phl-p-7-g210/",
+    "variant_path": "site/analizy/phl-p-7-g210/index.html"
+  },
+  "analizy/pishchevye-allergeny/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/pishchevye-allergeny/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/pishchevye-allergeny/",
+    "variant_path": "site/analizy/pishchevye-allergeny/index.html"
+  },
+  "analizy/pleseni-i-griby/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/pleseni-i-griby/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/pleseni-i-griby/",
+    "variant_path": "site/analizy/pleseni-i-griby/index.html"
+  },
+  "analizy/proallergy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/proallergy/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/proallergy/",
+    "variant_path": "site/analizy/proallergy/index.html"
+  },
+  "analizy/professionalnye-allergeny/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/professionalnye-allergeny/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/professionalnye-allergeny/",
+    "variant_path": "site/analizy/professionalnye-allergeny/index.html"
+  },
+  "analizy/pyltsa/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/pyltsa/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/pyltsa/",
+    "variant_path": "site/analizy/pyltsa/index.html"
+  },
+  "analizy/triptaza/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/triptaza/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/triptaza/",
+    "variant_path": "site/analizy/triptaza/index.html"
+  },
+  "analizy/zhivotnye-i-ptitsy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/analizy/zhivotnye-i-ptitsy/"
+    ],
+    "URL": "https://arvisclinic.ru/analizy/zhivotnye-i-ptitsy/",
+    "variant_path": "site/analizy/zhivotnye-i-ptitsy/index.html"
+  },
+  "articles/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/",
+    "variant_path": "site/articles/index.html"
+  },
+  "articles/akne/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/akne/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/akne/",
+    "variant_path": "site/articles/akne/index.html"
+  },
+  "articles/allergarda-ili-klassicheskaya-asit/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergarda-ili-klassicheskaya-asit/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergarda-ili-klassicheskaya-asit/",
+    "variant_path": "site/articles/allergarda-ili-klassicheskaya-asit/index.html"
+  },
+  "articles/allergicheskiy-konyunktivit/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergicheskiy-konyunktivit/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergicheskiy-konyunktivit/",
+    "variant_path": "site/articles/allergicheskiy-konyunktivit/index.html"
+  },
+  "articles/allergicheskiy-marsh/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergicheskiy-marsh/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergicheskiy-marsh/",
+    "variant_path": "site/articles/allergicheskiy-marsh/index.html"
+  },
+  "articles/allergicheskiy-rinit/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergicheskiy-rinit/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergicheskiy-rinit/",
+    "variant_path": "site/articles/allergicheskiy-rinit/index.html"
+  },
+  "articles/allergiya-na-ambroziyu-u-rebenka/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergiya-na-ambroziyu-u-rebenka/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergiya-na-ambroziyu-u-rebenka/",
+    "variant_path": "site/articles/allergiya-na-ambroziyu-u-rebenka/index.html"
+  },
+  "articles/allergiya-na-ambroziyu/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergiya-na-ambroziyu/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergiya-na-ambroziyu/",
+    "variant_path": "site/articles/allergiya-na-ambroziyu/index.html"
+  },
+  "articles/allergiya-na-berezu-i-produkty/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergiya-na-berezu-i-produkty/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergiya-na-berezu-i-produkty/",
+    "variant_path": "site/articles/allergiya-na-berezu-i-produkty/index.html"
+  },
+  "articles/allergiya-na-holod/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergiya-na-holod/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergiya-na-holod/",
+    "variant_path": "site/articles/allergiya-na-holod/index.html"
+  },
+  "articles/allergiya-na-koshku/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergiya-na-koshku/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergiya-na-koshku/",
+    "variant_path": "site/articles/allergiya-na-koshku/index.html"
+  },
+  "articles/allergiya-na-lekarstva/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergiya-na-lekarstva/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergiya-na-lekarstva/",
+    "variant_path": "site/articles/allergiya-na-lekarstva/index.html"
+  },
+  "articles/allergiya-na-plesen/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergiya-na-plesen/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergiya-na-plesen/",
+    "variant_path": "site/articles/allergiya-na-plesen/index.html"
+  },
+  "articles/allergiya-na-pyl/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergiya-na-pyl/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergiya-na-pyl/",
+    "variant_path": "site/articles/allergiya-na-pyl/index.html"
+  },
+  "articles/allergiya-na-sobaku/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/allergiya-na-sobaku/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/allergiya-na-sobaku/",
+    "variant_path": "site/articles/allergiya-na-sobaku/index.html"
+  },
+  "articles/analizy-na-allergiyu/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/analizy-na-allergiyu/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/analizy-na-allergiyu/",
+    "variant_path": "site/articles/analizy-na-allergiyu/index.html"
+  },
+  "articles/antigistaminnye-preparaty/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/antigistaminnye-preparaty/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/antigistaminnye-preparaty/",
+    "variant_path": "site/articles/antigistaminnye-preparaty/index.html"
+  },
+  "articles/asit-ili-alt/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/asit-ili-alt/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/asit-ili-alt/",
+    "variant_path": "site/articles/asit-ili-alt/index.html"
+  },
+  "articles/atopicheskiy-dermatit-u-rebenka/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/atopicheskiy-dermatit-u-rebenka/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/atopicheskiy-dermatit-u-rebenka/",
+    "variant_path": "site/articles/atopicheskiy-dermatit-u-rebenka/index.html"
+  },
+  "articles/atopicheskiy-dermatit-u-vzroslyh/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/atopicheskiy-dermatit-u-vzroslyh/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/atopicheskiy-dermatit-u-vzroslyh/",
+    "variant_path": "site/articles/atopicheskiy-dermatit-u-vzroslyh/index.html"
+  },
+  "articles/biorevitalizaciya-chto-eto/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/biorevitalizaciya-chto-eto/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/biorevitalizaciya-chto-eto/",
+    "variant_path": "site/articles/biorevitalizaciya-chto-eto/index.html"
+  },
+  "articles/boleznennye-mesyachnye/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/boleznennye-mesyachnye/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/boleznennye-mesyachnye/",
+    "variant_path": "site/articles/boleznennye-mesyachnye/index.html"
+  },
+  "articles/botulinoterapiya-skolko-edinic/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/botulinoterapiya-skolko-edinic/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/botulinoterapiya-skolko-edinic/",
+    "variant_path": "site/articles/botulinoterapiya-skolko-edinic/index.html"
+  },
+  "articles/chem-lechit-allergiyu-na-polyn/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/chem-lechit-allergiyu-na-polyn/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/chem-lechit-allergiyu-na-polyn/",
+    "variant_path": "site/articles/chem-lechit-allergiyu-na-polyn/index.html"
+  },
+  "articles/chesotka-ili-allergiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/chesotka-ili-allergiya/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/chesotka-ili-allergiya/",
+    "variant_path": "site/articles/chesotka-ili-allergiya/index.html"
+  },
+  "articles/demodekoz/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/demodekoz/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/demodekoz/",
+    "variant_path": "site/articles/demodekoz/index.html"
+  },
+  "articles/ekzema/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/ekzema/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/ekzema/",
+    "variant_path": "site/articles/ekzema/index.html"
+  },
+  "articles/eozinofily-povysheny-u-rebenka/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/eozinofily-povysheny-u-rebenka/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/eozinofily-povysheny-u-rebenka/",
+    "variant_path": "site/articles/eozinofily-povysheny-u-rebenka/index.html"
+  },
+  "articles/gipergidroz-potlivost/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/gipergidroz-potlivost/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/gipergidroz-potlivost/",
+    "variant_path": "site/articles/gipergidroz-potlivost/index.html"
+  },
+  "articles/gribok-nogtey/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/gribok-nogtey/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/gribok-nogtey/",
+    "variant_path": "site/articles/gribok-nogtey/index.html"
+  },
+  "articles/helikobakter/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/helikobakter/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/helikobakter/",
+    "variant_path": "site/articles/helikobakter/index.html"
+  },
+  "articles/immunoglobulin-e-povyshen/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/immunoglobulin-e-povyshen/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/immunoglobulin-e-povyshen/",
+    "variant_path": "site/articles/immunoglobulin-e-povyshen/index.html"
+  },
+  "articles/izzhoga-gerb/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/izzhoga-gerb/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/izzhoga-gerb/",
+    "variant_path": "site/articles/izzhoga-gerb/index.html"
+  },
+  "articles/kak-podgotovitsya-k-kursu-allergardy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/kak-podgotovitsya-k-kursu-allergardy/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/kak-podgotovitsya-k-kursu-allergardy/",
+    "variant_path": "site/articles/kak-podgotovitsya-k-kursu-allergardy/index.html"
+  },
+  "articles/kak-snizit-fel-d1/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/kak-snizit-fel-d1/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/kak-snizit-fel-d1/",
+    "variant_path": "site/articles/kak-snizit-fel-d1/index.html"
+  },
+  "articles/kak-vyglyadit-ambroziya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/kak-vyglyadit-ambroziya/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/kak-vyglyadit-ambroziya/",
+    "variant_path": "site/articles/kak-vyglyadit-ambroziya/index.html"
+  },
+  "articles/kashel-posle-prostudy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/kashel-posle-prostudy/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/kashel-posle-prostudy/",
+    "variant_path": "site/articles/kashel-posle-prostudy/index.html"
+  },
+  "articles/kista-yaichnika/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/kista-yaichnika/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/kista-yaichnika/",
+    "variant_path": "site/articles/kista-yaichnika/index.html"
+  },
+  "articles/kogda-nachinat-asit/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/kogda-nachinat-asit/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/kogda-nachinat-asit/",
+    "variant_path": "site/articles/kogda-nachinat-asit/index.html"
+  },
+  "articles/kontagiozny-mollyusk/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/kontagiozny-mollyusk/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/kontagiozny-mollyusk/",
+    "variant_path": "site/articles/kontagiozny-mollyusk/index.html"
+  },
+  "articles/kontrol-astmy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/kontrol-astmy/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/kontrol-astmy/",
+    "variant_path": "site/articles/kontrol-astmy/index.html"
+  },
+  "articles/krapivnitsa-u-rebenka/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/krapivnitsa-u-rebenka/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/krapivnitsa-u-rebenka/",
+    "variant_path": "site/articles/krapivnitsa-u-rebenka/index.html"
+  },
+  "articles/krapivnitsa/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/krapivnitsa/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/krapivnitsa/",
+    "variant_path": "site/articles/krapivnitsa/index.html"
+  },
+  "articles/kuperoz-sosudistye-zvezdochki/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/kuperoz-sosudistye-zvezdochki/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/kuperoz-sosudistye-zvezdochki/",
+    "variant_path": "site/articles/kuperoz-sosudistye-zvezdochki/index.html"
+  },
+  "articles/lpg-massazh-chto-daet/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/lpg-massazh-chto-daet/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/lpg-massazh-chto-daet/",
+    "variant_path": "site/articles/lpg-massazh-chto-daet/index.html"
+  },
+  "articles/menopauza-prilivy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/menopauza-prilivy/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/menopauza-prilivy/",
+    "variant_path": "site/articles/menopauza-prilivy/index.html"
+  },
+  "articles/mioma-matki/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/mioma-matki/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/mioma-matki/",
+    "variant_path": "site/articles/mioma-matki/index.html"
+  },
+  "articles/molochnitsa/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/molochnitsa/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/molochnitsa/",
+    "variant_path": "site/articles/molochnitsa/index.html"
+  },
+  "articles/neperenosimost-laktozy-ili-allergiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/neperenosimost-laktozy-ili-allergiya/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/neperenosimost-laktozy-ili-allergiya/",
+    "variant_path": "site/articles/neperenosimost-laktozy-ili-allergiya/index.html"
+  },
+  "articles/neregulyarnye-mesyachnye/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/neregulyarnye-mesyachnye/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/neregulyarnye-mesyachnye/",
+    "variant_path": "site/articles/neregulyarnye-mesyachnye/index.html"
+  },
+  "articles/nosogubnye-skladki/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/nosogubnye-skladki/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/nosogubnye-skladki/",
+    "variant_path": "site/articles/nosogubnye-skladki/index.html"
+  },
+  "articles/omalizumab/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/omalizumab/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/omalizumab/",
+    "variant_path": "site/articles/omalizumab/index.html"
+  },
+  "articles/otek-kvinke/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/otek-kvinke/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/otek-kvinke/",
+    "variant_path": "site/articles/otek-kvinke/index.html"
+  },
+  "articles/pigmentnye-pyatna-na-lice/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/pigmentnye-pyatna-na-lice/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/pigmentnye-pyatna-na-lice/",
+    "variant_path": "site/articles/pigmentnye-pyatna-na-lice/index.html"
+  },
+  "articles/piling-osenyu/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/piling-osenyu/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/piling-osenyu/",
+    "variant_path": "site/articles/piling-osenyu/index.html"
+  },
+  "articles/pischevaya-allergiya-u-grudnichka/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/pischevaya-allergiya-u-grudnichka/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/pischevaya-allergiya-u-grudnichka/",
+    "variant_path": "site/articles/pischevaya-allergiya-u-grudnichka/index.html"
+  },
+  "articles/pitanie-pri-allergii-na-polyn/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/pitanie-pri-allergii-na-polyn/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/pitanie-pri-allergii-na-polyn/",
+    "variant_path": "site/articles/pitanie-pri-allergii-na-polyn/index.html"
+  },
+  "articles/podgotovka-k-beremennosti/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/podgotovka-k-beremennosti/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/podgotovka-k-beremennosti/",
+    "variant_path": "site/articles/podgotovka-k-beremennosti/index.html"
+  },
+  "articles/podgotovka-k-kozhnym-probam/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/podgotovka-k-kozhnym-probam/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/podgotovka-k-kozhnym-probam/",
+    "variant_path": "site/articles/podgotovka-k-kozhnym-probam/index.html"
+  },
+  "articles/podtyazhka-lica-bez-operacii/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/podtyazhka-lica-bez-operacii/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/podtyazhka-lica-bez-operacii/",
+    "variant_path": "site/articles/podtyazhka-lica-bez-operacii/index.html"
+  },
+  "articles/pollinoz-voronezh/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/pollinoz-voronezh/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/pollinoz-voronezh/",
+    "variant_path": "site/articles/pollinoz-voronezh/index.html"
+  },
+  "articles/profilakticheskiy-osmotr-ginekologa/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/profilakticheskiy-osmotr-ginekologa/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/profilakticheskiy-osmotr-ginekologa/",
+    "variant_path": "site/articles/profilakticheskiy-osmotr-ginekologa/index.html"
+  },
+  "articles/proverit-rodinku/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/proverit-rodinku/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/proverit-rodinku/",
+    "variant_path": "site/articles/proverit-rodinku/index.html"
+  },
+  "articles/psoriaz/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/psoriaz/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/psoriaz/",
+    "variant_path": "site/articles/psoriaz/index.html"
+  },
+  "articles/rf-lifting-lica/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/rf-lifting-lica/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/rf-lifting-lica/",
+    "variant_path": "site/articles/rf-lifting-lica/index.html"
+  },
+  "articles/rozacea/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/rozacea/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/rozacea/",
+    "variant_path": "site/articles/rozacea/index.html"
+  },
+  "articles/seboreynyy-dermatit/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/seboreynyy-dermatit/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/seboreynyy-dermatit/",
+    "variant_path": "site/articles/seboreynyy-dermatit/index.html"
+  },
+  "articles/sezon-ambrozii-kalendar/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/sezon-ambrozii-kalendar/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/sezon-ambrozii-kalendar/",
+    "variant_path": "site/articles/sezon-ambrozii-kalendar/index.html"
+  },
+  "articles/sindrom-razdrazhennogo-kishechnika/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/sindrom-razdrazhennogo-kishechnika/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/sindrom-razdrazhennogo-kishechnika/",
+    "variant_path": "site/articles/sindrom-razdrazhennogo-kishechnika/index.html"
+  },
+  "articles/smas-ili-rf/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/smas-ili-rf/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/smas-ili-rf/",
+    "variant_path": "site/articles/smas-ili-rf/index.html"
+  },
+  "articles/smas-lifting/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/smas-lifting/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/smas-lifting/",
+    "variant_path": "site/articles/smas-lifting/index.html"
+  },
+  "articles/ukus-osy-i-pchely/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/ukus-osy-i-pchely/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/ukus-osy-i-pchely/",
+    "variant_path": "site/articles/ukus-osy-i-pchely/index.html"
+  },
+  "articles/uvelichenie-gub-fillerom/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/uvelichenie-gub-fillerom/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/uvelichenie-gub-fillerom/",
+    "variant_path": "site/articles/uvelichenie-gub-fillerom/index.html"
+  },
+  "articles/uzi-bryushnoy-polosti/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/uzi-bryushnoy-polosti/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/uzi-bryushnoy-polosti/",
+    "variant_path": "site/articles/uzi-bryushnoy-polosti/index.html"
+  },
+  "articles/uzi-malogo-taza-den-cikla/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/uzi-malogo-taza-den-cikla/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/uzi-malogo-taza-den-cikla/",
+    "variant_path": "site/articles/uzi-malogo-taza-den-cikla/index.html"
+  },
+  "articles/uzi-molochnyh-zhelez/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/uzi-molochnyh-zhelez/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/uzi-molochnyh-zhelez/",
+    "variant_path": "site/articles/uzi-molochnyh-zhelez/index.html"
+  },
+  "articles/uzi-shchitovidnoy-zhelezy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/uzi-shchitovidnoy-zhelezy/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/uzi-shchitovidnoy-zhelezy/",
+    "variant_path": "site/articles/uzi-shchitovidnoy-zhelezy/index.html"
+  },
+  "articles/vakcina-ot-allergii-na-berezu-allergarda/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/vakcina-ot-allergii-na-berezu-allergarda/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/vakcina-ot-allergii-na-berezu-allergarda/",
+    "variant_path": "site/articles/vakcina-ot-allergii-na-berezu-allergarda/index.html"
+  },
+  "articles/vozrastnye-izmeneniya-lica/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/vozrastnye-izmeneniya-lica/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/vozrastnye-izmeneniya-lica/",
+    "variant_path": "site/articles/vozrastnye-izmeneniya-lica/index.html"
+  },
+  "articles/vpch-polozhitelnyy-test/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/vpch-polozhitelnyy-test/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/vpch-polozhitelnyy-test/",
+    "variant_path": "site/articles/vpch-polozhitelnyy-test/index.html"
+  },
+  "articles/vtoroy-podborodok/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/vtoroy-podborodok/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/vtoroy-podborodok/",
+    "variant_path": "site/articles/vtoroy-podborodok/index.html"
+  },
+  "articles/vypadenie-volos/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/vypadenie-volos/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/vypadenie-volos/",
+    "variant_path": "site/articles/vypadenie-volos/index.html"
+  },
+  "articles/vzdutie-zhivota/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/vzdutie-zhivota/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/vzdutie-zhivota/",
+    "variant_path": "site/articles/vzdutie-zhivota/index.html"
+  },
+  "articles/zolotarnik-ili-ambroziya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/articles/zolotarnik-ili-ambroziya/"
+    ],
+    "URL": "https://arvisclinic.ru/articles/zolotarnik-ili-ambroziya/",
+    "variant_path": "site/articles/zolotarnik-ili-ambroziya/index.html"
+  },
+  "asit/tabletki/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/asit/tabletki/"
+    ],
+    "URL": "https://arvisclinic.ru/asit/tabletki/",
+    "variant_path": "site/asit/tabletki/index.html"
+  },
+  "asit/ukoly/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/asit/ukoly/"
+    ],
+    "URL": "https://arvisclinic.ru/asit/ukoly/",
+    "variant_path": "site/asit/ukoly/index.html"
+  },
+  "autolimfocitoterapiya-voronezh/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/autolimfocitoterapiya-voronezh/"
+    ],
+    "URL": "https://arvisclinic.ru/autolimfocitoterapiya-voronezh/",
+    "variant_path": "site/autolimfocitoterapiya-voronezh/index.html"
+  },
+  "contacts/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/contacts/"
+    ],
+    "URL": "https://arvisclinic.ru/contacts/",
+    "variant_path": "site/contacts/index.html"
+  },
+  "contacts/voroshilova-8b/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/contacts/voroshilova-8b/"
+    ],
+    "URL": "https://arvisclinic.ru/contacts/voroshilova-8b/",
+    "variant_path": "site/contacts/voroshilova-8b/index.html"
+  },
+  "detyam/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/detyam/"
+    ],
+    "URL": "https://arvisclinic.ru/detyam/",
+    "variant_path": "site/detyam/index.html"
+  },
+  "doctors/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/doctors/"
+    ],
+    "URL": "https://arvisclinic.ru/doctors/",
+    "variant_path": "site/doctors/index.html"
+  },
+  "doctors/bykova-mariya-alekseevna/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/doctors/bykova-mariya-alekseevna/"
+    ],
+    "URL": "https://arvisclinic.ru/doctors/bykova-mariya-alekseevna/",
+    "variant_path": "site/doctors/bykova-mariya-alekseevna/index.html"
+  },
+  "doctors/korysheva-yuliya-igorevna/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/doctors/korysheva-yuliya-igorevna/"
+    ],
+    "URL": "https://arvisclinic.ru/doctors/korysheva-yuliya-igorevna/",
+    "variant_path": "site/doctors/korysheva-yuliya-igorevna/index.html"
+  },
+  "doctors/kretova-galina-ivanovna/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/doctors/kretova-galina-ivanovna/"
+    ],
+    "URL": "https://arvisclinic.ru/doctors/kretova-galina-ivanovna/",
+    "variant_path": "site/doctors/kretova-galina-ivanovna/index.html"
+  },
+  "doctors/kurdesova-elena-sergeevna/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/doctors/kurdesova-elena-sergeevna/"
+    ],
+    "URL": "https://arvisclinic.ru/doctors/kurdesova-elena-sergeevna/",
+    "variant_path": "site/doctors/kurdesova-elena-sergeevna/index.html"
+  },
+  "doctors/makhovaya-lyudmila-vladimirovna/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/doctors/makhovaya-lyudmila-vladimirovna/"
+    ],
+    "URL": "https://arvisclinic.ru/doctors/makhovaya-lyudmila-vladimirovna/",
+    "variant_path": "site/doctors/makhovaya-lyudmila-vladimirovna/index.html"
+  },
+  "doctors/pisarev-nikolay-nikolaevich/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/doctors/pisarev-nikolay-nikolaevich/"
+    ],
+    "URL": "https://arvisclinic.ru/doctors/pisarev-nikolay-nikolaevich/",
+    "variant_path": "site/doctors/pisarev-nikolay-nikolaevich/index.html"
+  },
+  "doctors/sakharova-tatyana-anatolevna/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/doctors/sakharova-tatyana-anatolevna/"
+    ],
+    "URL": "https://arvisclinic.ru/doctors/sakharova-tatyana-anatolevna/",
+    "variant_path": "site/doctors/sakharova-tatyana-anatolevna/index.html"
+  },
+  "doctors/studenikina-elena-viktorovna/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/doctors/studenikina-elena-viktorovna/"
+    ],
+    "URL": "https://arvisclinic.ru/doctors/studenikina-elena-viktorovna/",
+    "variant_path": "site/doctors/studenikina-elena-viktorovna/index.html"
+  },
+  "doctors/suslov-evgeniy-vyacheslavovich/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/doctors/suslov-evgeniy-vyacheslavovich/"
+    ],
+    "URL": "https://arvisclinic.ru/doctors/suslov-evgeniy-vyacheslavovich/",
+    "variant_path": "site/doctors/suslov-evgeniy-vyacheslavovich/index.html"
+  },
+  "gastroenterolog-voronezh/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/gastroenterolog-voronezh/"
+    ],
+    "URL": "https://arvisclinic.ru/gastroenterolog-voronezh/",
+    "variant_path": "site/gastroenterolog-voronezh/index.html"
+  },
+  "ginekologiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/ginekologiya/"
+    ],
+    "URL": "https://arvisclinic.ru/ginekologiya/",
+    "variant_path": "site/ginekologiya/index.html"
+  },
+  "ginekologiya/alieva-elona-gavkaz-kyzy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/ginekologiya/alieva-elona-gavkaz-kyzy/"
+    ],
+    "URL": "https://arvisclinic.ru/ginekologiya/alieva-elona-gavkaz-kyzy/",
+    "variant_path": "site/ginekologiya/alieva-elona-gavkaz-kyzy/index.html"
+  },
+  "ginekologiya/kholuenko-olga-anatolevna/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/ginekologiya/kholuenko-olga-anatolevna/"
+    ],
+    "URL": "https://arvisclinic.ru/ginekologiya/kholuenko-olga-anatolevna/",
+    "variant_path": "site/ginekologiya/kholuenko-olga-anatolevna/index.html"
+  },
+  "kosmetologiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/",
+    "variant_path": "site/kosmetologiya/index.html"
+  },
+  "kosmetologiya/akcii/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/akcii/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/akcii/",
+    "variant_path": "site/kosmetologiya/akcii/index.html"
+  },
+  "kosmetologiya/aptos-excellence-visage/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/aptos-excellence-visage/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/aptos-excellence-visage/",
+    "variant_path": "site/kosmetologiya/aptos-excellence-visage/index.html"
+  },
+  "kosmetologiya/aptos-nano-spring/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/aptos-nano-spring/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/aptos-nano-spring/",
+    "variant_path": "site/kosmetologiya/aptos-nano-spring/index.html"
+  },
+  "kosmetologiya/aptos-nano-vitis/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/aptos-nano-vitis/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/aptos-nano-vitis/",
+    "variant_path": "site/kosmetologiya/aptos-nano-vitis/index.html"
+  },
+  "kosmetologiya/biorevitalizaciya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/biorevitalizaciya/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/biorevitalizaciya/",
+    "variant_path": "site/kosmetologiya/biorevitalizaciya/index.html"
+  },
+  "kosmetologiya/botulinoterapiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/botulinoterapiya/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/botulinoterapiya/",
+    "variant_path": "site/kosmetologiya/botulinoterapiya/index.html"
+  },
+  "kosmetologiya/ceny/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/ceny/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/ceny/",
+    "variant_path": "site/kosmetologiya/ceny/index.html"
+  },
+  "kosmetologiya/chistki-i-pilingi/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/chistki-i-pilingi/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/chistki-i-pilingi/",
+    "variant_path": "site/kosmetologiya/chistki-i-pilingi/index.html"
+  },
+  "kosmetologiya/clearlift/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/clearlift/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/clearlift/",
+    "variant_path": "site/kosmetologiya/clearlift/index.html"
+  },
+  "kosmetologiya/cool-flame/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/cool-flame/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/cool-flame/",
+    "variant_path": "site/kosmetologiya/cool-flame/index.html"
+  },
+  "kosmetologiya/fotoomolozhenie/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/fotoomolozhenie/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/fotoomolozhenie/",
+    "variant_path": "site/kosmetologiya/fotoomolozhenie/index.html"
+  },
+  "kosmetologiya/glow-flow/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/glow-flow/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/glow-flow/",
+    "variant_path": "site/kosmetologiya/glow-flow/index.html"
+  },
+  "kosmetologiya/juvederm-ultra-3/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/juvederm-ultra-3/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/juvederm-ultra-3/",
+    "variant_path": "site/kosmetologiya/juvederm-ultra-3/index.html"
+  },
+  "kosmetologiya/juvederm-ultra-smile/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/juvederm-ultra-smile/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/juvederm-ultra-smile/",
+    "variant_path": "site/kosmetologiya/juvederm-ultra-smile/index.html"
+  },
+  "kosmetologiya/karbonovyy-piling/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/karbonovyy-piling/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/karbonovyy-piling/",
+    "variant_path": "site/kosmetologiya/karbonovyy-piling/index.html"
+  },
+  "kosmetologiya/kollagenostimulyatory/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/kollagenostimulyatory/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/kollagenostimulyatory/",
+    "variant_path": "site/kosmetologiya/kollagenostimulyatory/index.html"
+  },
+  "kosmetologiya/konturnaya-plastika/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/konturnaya-plastika/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/konturnaya-plastika/",
+    "variant_path": "site/kosmetologiya/konturnaya-plastika/index.html"
+  },
+  "kosmetologiya/lazer-harmony-xl-pro/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/lazer-harmony-xl-pro/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/lazer-harmony-xl-pro/",
+    "variant_path": "site/kosmetologiya/lazer-harmony-xl-pro/index.html"
+  },
+  "kosmetologiya/lechenie-akne/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/lechenie-akne/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/lechenie-akne/",
+    "variant_path": "site/kosmetologiya/lechenie-akne/index.html"
+  },
+  "kosmetologiya/lpg/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/lpg/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/lpg/",
+    "variant_path": "site/kosmetologiya/lpg/index.html"
+  },
+  "kosmetologiya/meso-wharton-p199/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/meso-wharton-p199/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/meso-wharton-p199/",
+    "variant_path": "site/kosmetologiya/meso-wharton-p199/index.html"
+  },
+  "kosmetologiya/meso-xanthin-f199/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/meso-xanthin-f199/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/meso-xanthin-f199/",
+    "variant_path": "site/kosmetologiya/meso-xanthin-f199/index.html"
+  },
+  "kosmetologiya/mesoeye-c71/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/mesoeye-c71/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/mesoeye-c71/",
+    "variant_path": "site/kosmetologiya/mesoeye-c71/index.html"
+  },
+  "kosmetologiya/mesosculpt-c71/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/mesosculpt-c71/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/mesosculpt-c71/",
+    "variant_path": "site/kosmetologiya/mesosculpt-c71/index.html"
+  },
+  "kosmetologiya/mezoterapiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/mezoterapiya/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/mezoterapiya/",
+    "variant_path": "site/kosmetologiya/mezoterapiya/index.html"
+  },
+  "kosmetologiya/nctf-135-ha/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/nctf-135-ha/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/nctf-135-ha/",
+    "variant_path": "site/kosmetologiya/nctf-135-ha/index.html"
+  },
+  "kosmetologiya/nitevoy-lifting/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/nitevoy-lifting/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/nitevoy-lifting/",
+    "variant_path": "site/kosmetologiya/nitevoy-lifting/index.html"
+  },
+  "kosmetologiya/no-filters/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/no-filters/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/no-filters/",
+    "variant_path": "site/kosmetologiya/no-filters/index.html"
+  },
+  "kosmetologiya/pigmentnye-pyatna/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/pigmentnye-pyatna/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/pigmentnye-pyatna/",
+    "variant_path": "site/kosmetologiya/pigmentnye-pyatna/index.html"
+  },
+  "kosmetologiya/plazmoterapiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/plazmoterapiya/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/plazmoterapiya/",
+    "variant_path": "site/kosmetologiya/plazmoterapiya/index.html"
+  },
+  "kosmetologiya/profhilo/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/profhilo/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/profhilo/",
+    "variant_path": "site/kosmetologiya/profhilo/index.html"
+  },
+  "kosmetologiya/radiesse/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/radiesse/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/radiesse/",
+    "variant_path": "site/kosmetologiya/radiesse/index.html"
+  },
+  "kosmetologiya/rastyazhki/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/rastyazhki/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/rastyazhki/",
+    "variant_path": "site/kosmetologiya/rastyazhki/index.html"
+  },
+  "kosmetologiya/rf-lifting-volnewmer/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/rf-lifting-volnewmer/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/rf-lifting-volnewmer/",
+    "variant_path": "site/kosmetologiya/rf-lifting-volnewmer/index.html"
+  },
+  "kosmetologiya/rubcy-i-postakne/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/rubcy-i-postakne/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/rubcy-i-postakne/",
+    "variant_path": "site/kosmetologiya/rubcy-i-postakne/index.html"
+  },
+  "kosmetologiya/shlifovka-pixel/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/shlifovka-pixel/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/shlifovka-pixel/",
+    "variant_path": "site/kosmetologiya/shlifovka-pixel/index.html"
+  },
+  "kosmetologiya/smas-lifting-ultraformer/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/smas-lifting-ultraformer/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/smas-lifting-ultraformer/",
+    "variant_path": "site/kosmetologiya/smas-lifting-ultraformer/index.html"
+  },
+  "kosmetologiya/stylage/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/stylage/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/stylage/",
+    "variant_path": "site/kosmetologiya/stylage/index.html"
+  },
+  "kosmetologiya/udalenie-sosudov/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/udalenie-sosudov/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/udalenie-sosudov/",
+    "variant_path": "site/kosmetologiya/udalenie-sosudov/index.html"
+  },
+  "kosmetologiya/udalenie-tatuirovok/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/udalenie-tatuirovok/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/udalenie-tatuirovok/",
+    "variant_path": "site/kosmetologiya/udalenie-tatuirovok/index.html"
+  },
+  "kosmetologiya/w-lift/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/kosmetologiya/w-lift/"
+    ],
+    "URL": "https://arvisclinic.ru/kosmetologiya/w-lift/",
+    "variant_path": "site/kosmetologiya/w-lift/index.html"
+  },
+  "patient/first-visit/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/patient/first-visit/"
+    ],
+    "URL": "https://arvisclinic.ru/patient/first-visit/",
+    "variant_path": "site/patient/first-visit/index.html"
+  },
+  "patient/for-tax/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/patient/for-tax/"
+    ],
+    "URL": "https://arvisclinic.ru/patient/for-tax/",
+    "variant_path": "site/patient/for-tax/index.html"
+  },
+  "patient/payment/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/patient/payment/"
+    ],
+    "URL": "https://arvisclinic.ru/patient/payment/",
+    "variant_path": "site/patient/payment/index.html"
+  },
+  "patient/preparation/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/patient/preparation/"
+    ],
+    "URL": "https://arvisclinic.ru/patient/preparation/",
+    "variant_path": "site/patient/preparation/index.html"
+  },
+  "patient/questions/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/patient/questions/"
+    ],
+    "URL": "https://arvisclinic.ru/patient/questions/",
+    "variant_path": "site/patient/questions/index.html"
+  },
+  "prices/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/prices/"
+    ],
+    "URL": "https://arvisclinic.ru/prices/",
+    "variant_path": "site/prices/index.html"
+  },
+  "programs/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/programs/"
+    ],
+    "URL": "https://arvisclinic.ru/programs/",
+    "variant_path": "site/programs/index.html"
+  },
+  "reviews/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/reviews/"
+    ],
+    "URL": "https://arvisclinic.ru/reviews/",
+    "variant_path": "site/reviews/index.html"
+  },
+  "services/napravleniya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/",
+    "variant_path": "site/services/napravleniya/index.html"
+  },
+  "services/napravleniya/allergologiya/alex2-molekulyarnaya-diagnostika/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/allergologiya/alex2-molekulyarnaya-diagnostika/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/allergologiya/alex2-molekulyarnaya-diagnostika/",
+    "variant_path": "site/services/napravleniya/allergologiya/alex2-molekulyarnaya-diagnostika/index.html"
+  },
+  "services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya/",
+    "variant_path": "site/services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya/index.html"
+  },
+  "services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov/",
+    "variant_path": "site/services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov/index.html"
+  },
+  "services/napravleniya/allergologiya/infuzionnaya-terapiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/allergologiya/infuzionnaya-terapiya/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/allergologiya/infuzionnaya-terapiya/",
+    "variant_path": "site/services/napravleniya/allergologiya/infuzionnaya-terapiya/index.html"
+  },
+  "services/napravleniya/allergologiya/insektnaya-allergiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/allergologiya/insektnaya-allergiya/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/allergologiya/insektnaya-allergiya/",
+    "variant_path": "site/services/napravleniya/allergologiya/insektnaya-allergiya/index.html"
+  },
+  "services/napravleniya/allergologiya/kozhnye-proby-allergoproby/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/allergologiya/kozhnye-proby-allergoproby/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/allergologiya/kozhnye-proby-allergoproby/",
+    "variant_path": "site/services/napravleniya/allergologiya/kozhnye-proby-allergoproby/index.html"
+  },
+  "services/napravleniya/allergologiya/lekarstvennaya-allergiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/allergologiya/lekarstvennaya-allergiya/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/allergologiya/lekarstvennaya-allergiya/",
+    "variant_path": "site/services/napravleniya/allergologiya/lekarstvennaya-allergiya/index.html"
+  },
+  "services/napravleniya/allergologiya/panch-biopsiya-kozhi/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/allergologiya/panch-biopsiya-kozhi/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/allergologiya/panch-biopsiya-kozhi/",
+    "variant_path": "site/services/napravleniya/allergologiya/panch-biopsiya-kozhi/index.html"
+  },
+  "services/napravleniya/allergologiya/spetsificheskie-ige-immunocap/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/allergologiya/spetsificheskie-ige-immunocap/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/allergologiya/spetsificheskie-ige-immunocap/",
+    "variant_path": "site/services/napravleniya/allergologiya/spetsificheskie-ige-immunocap/index.html"
+  },
+  "services/napravleniya/allergologiya/spirografiya-s-bronkhodilatatsionnoy-proboy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/allergologiya/spirografiya-s-bronkhodilatatsionnoy-proboy/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/allergologiya/spirografiya-s-bronkhodilatatsionnoy-proboy/",
+    "variant_path": "site/services/napravleniya/allergologiya/spirografiya-s-bronkhodilatatsionnoy-proboy/index.html"
+  },
+  "services/napravleniya/dermatovenerologiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/dermatovenerologiya/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/dermatovenerologiya/",
+    "variant_path": "site/services/napravleniya/dermatovenerologiya/index.html"
+  },
+  "services/napravleniya/dermatovenerologiya/dermatoskopiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/dermatovenerologiya/dermatoskopiya/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/dermatovenerologiya/dermatoskopiya/",
+    "variant_path": "site/services/napravleniya/dermatovenerologiya/dermatoskopiya/index.html"
+  },
+  "services/napravleniya/pulmonologiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/pulmonologiya/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/pulmonologiya/",
+    "variant_path": "site/services/napravleniya/pulmonologiya/index.html"
+  },
+  "services/napravleniya/trikhologiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/trikhologiya/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/trikhologiya/",
+    "variant_path": "site/services/napravleniya/trikhologiya/index.html"
+  },
+  "specials/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/specials/"
+    ],
+    "URL": "https://arvisclinic.ru/specials/",
+    "variant_path": "site/specials/index.html"
+  },
+  "uzi/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/uzi/"
+    ],
+    "URL": "https://arvisclinic.ru/uzi/",
+    "variant_path": "site/uzi/index.html"
+  },
+  "uzi/bryushnoy-polosti/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/uzi/bryushnoy-polosti/"
+    ],
+    "URL": "https://arvisclinic.ru/uzi/bryushnoy-polosti/",
+    "variant_path": "site/uzi/bryushnoy-polosti/index.html"
+  },
+  "uzi/molochnyh-zhelez/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/uzi/molochnyh-zhelez/"
+    ],
+    "URL": "https://arvisclinic.ru/uzi/molochnyh-zhelez/",
+    "variant_path": "site/uzi/molochnyh-zhelez/index.html"
+  },
+  "uzi/pochek-i-mochevogo-puzyrya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/uzi/pochek-i-mochevogo-puzyrya/"
+    ],
+    "URL": "https://arvisclinic.ru/uzi/pochek-i-mochevogo-puzyrya/",
+    "variant_path": "site/uzi/pochek-i-mochevogo-puzyrya/index.html"
+  },
+  "uzi/popov-sergey-viktorovich/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/uzi/popov-sergey-viktorovich/"
+    ],
+    "URL": "https://arvisclinic.ru/uzi/popov-sergey-viktorovich/",
+    "variant_path": "site/uzi/popov-sergey-viktorovich/index.html"
+  },
+  "uzi/predstatelnoy-zhelezy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/uzi/predstatelnoy-zhelezy/"
+    ],
+    "URL": "https://arvisclinic.ru/uzi/predstatelnoy-zhelezy/",
+    "variant_path": "site/uzi/predstatelnoy-zhelezy/index.html"
+  },
+  "uzi/shchitovidnoy-zhelezy/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/uzi/shchitovidnoy-zhelezy/"
+    ],
+    "URL": "https://arvisclinic.ru/uzi/shchitovidnoy-zhelezy/",
+    "variant_path": "site/uzi/shchitovidnoy-zhelezy/index.html"
+  },
+  "assets/arvis-reading-boot-ee96e6be04a4.js": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-reading-boot-ee96e6be04a4.js"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-reading-boot-ee96e6be04a4.js",
+    "variant_path": "site/assets/arvis-reading-boot-ee96e6be04a4.js"
+  },
+  "bitrix/cache/css/s1/arvis-v2/template_df883529674dcd87b7c2258e6ae5beb4/template_df883529674dcd87b7c2258e6ae5beb4_v1.css": {
+    "rank": [
+      true,
+      "https://arvisclinic.ru/bitrix/cache/css/s1/arvis-v2/template_df883529674dcd87b7c2258e6ae5beb4/template_df883529674dcd87b7c2258e6ae5beb4_v1.css?1794057476109348="
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/cache/css/s1/arvis-v2/template_df883529674dcd87b7c2258e6ae5beb4/template_df883529674dcd87b7c2258e6ae5beb4_v1.css?1794057476109348=",
+    "variant_path": "site/bitrix/cache/css/s1/arvis-v2/template_df883529674dcd87b7c2258e6ae5beb4/template_df883529674dcd87b7c2258e6ae5beb4_v1.css"
+  },
+  "assets/home-photos-f417b1bf5314.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/home-photos-f417b1bf5314.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/home-photos-f417b1bf5314.css",
+    "variant_path": "site/assets/home-photos-f417b1bf5314.css"
+  },
+  "assets/mobile-repair-3ccb086a786c.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/mobile-repair-3ccb086a786c.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/mobile-repair-3ccb086a786c.css",
+    "variant_path": "site/assets/mobile-repair-3ccb086a786c.css"
+  },
+  "assets/arvis-equipment-d376bdf34719.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-equipment-d376bdf34719.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-equipment-d376bdf34719.css",
+    "variant_path": "site/assets/arvis-equipment-d376bdf34719.css"
+  },
+  "recovery-assets/brand/favicon-arvis-20261103-700bbe000231.ico": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/brand/favicon-arvis-20261103-700bbe000231.ico"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/brand/favicon-arvis-20261103-700bbe000231.ico",
+    "variant_path": "site/recovery-assets/brand/favicon-arvis-20261103-700bbe000231.ico"
+  },
+  "recovery-assets/brand/arvis-mark-559c4dd417c5.svg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/brand/arvis-mark-559c4dd417c5.svg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/brand/arvis-mark-559c4dd417c5.svg",
+    "variant_path": "site/recovery-assets/brand/arvis-mark-559c4dd417c5.svg"
+  },
+  "recovery-assets/brand/apple-touch-icon-arvis-20261103-700bbe000231.png": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/brand/apple-touch-icon-arvis-20261103-700bbe000231.png"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/brand/apple-touch-icon-arvis-20261103-700bbe000231.png",
+    "variant_path": "site/recovery-assets/brand/apple-touch-icon-arvis-20261103-700bbe000231.png"
+  },
+  "assets/app.js": {
+    "rank": [
+      true,
+      "https://arvisclinic.ru/assets/app.js?v=9c5f90962d67"
+    ],
+    "URL": "https://arvisclinic.ru/assets/app.js?v=9c5f90962d67",
+    "variant_path": "site/assets/app.js"
+  },
+  "assets/arvis-reading-ui-8fd815eed686.js": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-reading-ui-8fd815eed686.js"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-reading-ui-8fd815eed686.js",
+    "variant_path": "site/assets/arvis-reading-ui-8fd815eed686.js"
+  },
+  "assets/content-interactions.js": {
+    "rank": [
+      true,
+      "https://arvisclinic.ru/assets/content-interactions.js?arvis=20261107-r2"
+    ],
+    "URL": "https://arvisclinic.ru/assets/content-interactions.js?arvis=20261107-r2",
+    "variant_path": "site/assets/content-interactions.js"
+  },
+  "assets/experience-f38f8ee1f5fc.js": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/experience-f38f8ee1f5fc.js"
+    ],
+    "URL": "https://arvisclinic.ru/assets/experience-f38f8ee1f5fc.js",
+    "variant_path": "site/assets/experience-f38f8ee1f5fc.js"
+  },
+  "assets/arvis-equipment-2aba1e839b8d.js": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-equipment-2aba1e839b8d.js"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-equipment-2aba1e839b8d.js",
+    "variant_path": "site/assets/arvis-equipment-2aba1e839b8d.js"
+  },
+  "assets/arvis-story-d039ff997372.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-story-d039ff997372.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-story-d039ff997372.css",
+    "variant_path": "site/assets/arvis-story-d039ff997372.css"
+  },
+  "assets/arvis-editorial-70036d7e26cb.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-editorial-70036d7e26cb.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-editorial-70036d7e26cb.css",
+    "variant_path": "site/assets/arvis-editorial-70036d7e26cb.css"
+  },
+  "assets/arvis-final-polish-0f6cbe633484.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-final-polish-0f6cbe633484.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-final-polish-0f6cbe633484.css",
+    "variant_path": "site/assets/arvis-final-polish-0f6cbe633484.css"
+  },
+  "assets/fonts/manrope-cyrillic.woff2": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/fonts/manrope-cyrillic.woff2"
+    ],
+    "URL": "https://arvisclinic.ru/assets/fonts/manrope-cyrillic.woff2",
+    "variant_path": "site/assets/fonts/manrope-cyrillic.woff2"
+  },
+  "assets/arvis-story-f8e789773d6b.js": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-story-f8e789773d6b.js"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-story-f8e789773d6b.js",
+    "variant_path": "site/assets/arvis-story-f8e789773d6b.js"
+  },
+  "assets/arvis-uis-b6c64db83794.js": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-uis-b6c64db83794.js"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-uis-b6c64db83794.js",
+    "variant_path": "site/assets/arvis-uis-b6c64db83794.js"
+  },
+  "assets/arvis-consent-48409769db0c.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-consent-48409769db0c.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-consent-48409769db0c.css",
+    "variant_path": "site/assets/arvis-consent-48409769db0c.css"
+  },
+  "assets/arvis-consent-db13cf1eb490.js": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-consent-db13cf1eb490.js"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-consent-db13cf1eb490.js",
+    "variant_path": "site/assets/arvis-consent-db13cf1eb490.js"
+  },
+  "assets/arvis-analytics-goals-598709e6d7e0.js": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-analytics-goals-598709e6d7e0.js"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-analytics-goals-598709e6d7e0.js",
+    "variant_path": "site/assets/arvis-analytics-goals-598709e6d7e0.js"
+  },
+  "assets/arvis-equipment-discovery-5dc75d0aed53.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-equipment-discovery-5dc75d0aed53.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-equipment-discovery-5dc75d0aed53.css",
+    "variant_path": "site/assets/arvis-equipment-discovery-5dc75d0aed53.css"
+  },
+  "assets/arvis-header-call-079e078e5e3a.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-header-call-079e078e5e3a.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-header-call-079e078e5e3a.css",
+    "variant_path": "site/assets/arvis-header-call-079e078e5e3a.css"
+  },
+  "assets/arvis-home-copy-636fa23603fc.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-home-copy-636fa23603fc.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-home-copy-636fa23603fc.css",
+    "variant_path": "site/assets/arvis-home-copy-636fa23603fc.css"
+  },
+  "assets/arvis-mobile-nav-reading-7e60e2d3f178.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-mobile-nav-reading-7e60e2d3f178.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-mobile-nav-reading-7e60e2d3f178.css",
+    "variant_path": "site/assets/arvis-mobile-nav-reading-7e60e2d3f178.css"
+  },
+  "assets/arvis-reading-7129cf1aaf17.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-reading-7129cf1aaf17.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-reading-7129cf1aaf17.css",
+    "variant_path": "site/assets/arvis-reading-7129cf1aaf17.css"
+  },
+  "bitrix/templates/vc-site/images/arvis-logo-web.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-logo-web.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-logo-web.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-logo-web.webp"
+  },
+  "recovery-assets/media/arvis-voroshilova-hall-w1600-6543688aa567.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/media/arvis-voroshilova-hall-w1600-6543688aa567.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/media/arvis-voroshilova-hall-w1600-6543688aa567.webp",
+    "variant_path": "site/recovery-assets/media/arvis-voroshilova-hall-w1600-6543688aa567.webp"
+  },
+  "assets/editorial/birch-catkins.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/editorial/birch-catkins.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/assets/editorial/birch-catkins.jpg",
+    "variant_path": "site/assets/editorial/birch-catkins.jpg"
+  },
+  "recovery-assets/equipment/classys-color-6765162d2f28.svg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/equipment/classys-color-6765162d2f28.svg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/equipment/classys-color-6765162d2f28.svg",
+    "variant_path": "site/recovery-assets/equipment/classys-color-6765162d2f28.svg"
+  },
+  "assets/story-volnewmer.png": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/story-volnewmer.png"
+    ],
+    "URL": "https://arvisclinic.ru/assets/story-volnewmer.png",
+    "variant_path": "site/assets/story-volnewmer.png"
+  },
+  "upload/iblock/12e/x0nqu8005xkjcz7631j4u1kmbbgvvgg9.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/iblock/12e/x0nqu8005xkjcz7631j4u1kmbbgvvgg9.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/iblock/12e/x0nqu8005xkjcz7631j4u1kmbbgvvgg9.webp",
+    "variant_path": "site/upload/iblock/12e/x0nqu8005xkjcz7631j4u1kmbbgvvgg9.webp"
+  },
+  "upload/iblock/0d1/ocboiex1r04knysktol42vp349c5guup.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/iblock/0d1/ocboiex1r04knysktol42vp349c5guup.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/upload/iblock/0d1/ocboiex1r04knysktol42vp349c5guup.jpg",
+    "variant_path": "site/upload/iblock/0d1/ocboiex1r04knysktol42vp349c5guup.jpg"
+  },
+  "upload/iblock/b4f/fzzieshu52jhwtopurwh9trfc3z5fyrc.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/iblock/b4f/fzzieshu52jhwtopurwh9trfc3z5fyrc.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/iblock/b4f/fzzieshu52jhwtopurwh9trfc3z5fyrc.webp",
+    "variant_path": "site/upload/iblock/b4f/fzzieshu52jhwtopurwh9trfc3z5fyrc.webp"
+  },
+  "upload/iblock/d38/x1yshyjcwhi3zfwjl2plr6wgpbiad5lh.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/iblock/d38/x1yshyjcwhi3zfwjl2plr6wgpbiad5lh.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/iblock/d38/x1yshyjcwhi3zfwjl2plr6wgpbiad5lh.webp",
+    "variant_path": "site/upload/iblock/d38/x1yshyjcwhi3zfwjl2plr6wgpbiad5lh.webp"
+  },
+  "upload/iblock/389/nnuo3r0riujxur9akkov6fbnqzws25pc.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/iblock/389/nnuo3r0riujxur9akkov6fbnqzws25pc.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/iblock/389/nnuo3r0riujxur9akkov6fbnqzws25pc.webp",
+    "variant_path": "site/upload/iblock/389/nnuo3r0riujxur9akkov6fbnqzws25pc.webp"
+  },
+  "recovery-assets/media/arvis-facade-owner-76e93a0f0149.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/media/arvis-facade-owner-76e93a0f0149.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/media/arvis-facade-owner-76e93a0f0149.webp",
+    "variant_path": "site/recovery-assets/media/arvis-facade-owner-76e93a0f0149.webp"
+  },
+  "recovery-assets/clinic/voroshilova/arvis-voroshilova-04-zona-ozhidaniya-6f83d3cf8ff2.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/clinic/voroshilova/arvis-voroshilova-04-zona-ozhidaniya-6f83d3cf8ff2.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/clinic/voroshilova/arvis-voroshilova-04-zona-ozhidaniya-6f83d3cf8ff2.jpg",
+    "variant_path": "site/recovery-assets/clinic/voroshilova/arvis-voroshilova-04-zona-ozhidaniya-6f83d3cf8ff2.jpg"
+  },
+  "assets/arvis-booking.css": {
+    "rank": [
+      true,
+      "https://arvisclinic.ru/assets/arvis-booking.css?v=0f38b7e788f3"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-booking.css?v=0f38b7e788f3",
+    "variant_path": "site/assets/arvis-booking.css"
+  },
+  "assets/arvis-booking.js": {
+    "rank": [
+      true,
+      "https://arvisclinic.ru/assets/arvis-booking.js?v=c790a833dea5"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-booking.js?v=c790a833dea5",
+    "variant_path": "site/assets/arvis-booking.js"
+  },
+  "services/napravleniya/allergologiya/autolimfotsitoterapiya-alt/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/allergologiya/autolimfotsitoterapiya-alt/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/allergologiya/autolimfotsitoterapiya-alt/",
+    "variant_path": "site/services/napravleniya/allergologiya/autolimfotsitoterapiya-alt/index.html"
+  },
+  "services/napravleniya/gastroenterologiya/index.html": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/services/napravleniya/gastroenterologiya/"
+    ],
+    "URL": "https://arvisclinic.ru/services/napravleniya/gastroenterologiya/",
+    "variant_path": "site/services/napravleniya/gastroenterologiya/index.html"
+  },
+  "assets/content-repair-57d9f59cd4f2.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/content-repair-57d9f59cd4f2.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/content-repair-57d9f59cd4f2.css",
+    "variant_path": "site/assets/content-repair-57d9f59cd4f2.css"
+  },
+  "bitrix/templates/vc-site/images/arvis-cl-reception.webp": {
+    "rank": [
+      true,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-cl-reception.webp?v=2"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-cl-reception.webp?v=2",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-cl-reception.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1636.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1636.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1636.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1636.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1878.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1878.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1878.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1878.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2333.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2333.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2333.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2333.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2393.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2393.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2393.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2393.webp"
+  },
+  "original-source-media/8f77d5f490-arvis-voroshilova-01-holl.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/original-source-media/8f77d5f490-arvis-voroshilova-01-holl.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/original-source-media/8f77d5f490-arvis-voroshilova-01-holl.jpg",
+    "variant_path": "site/original-source-media/8f77d5f490-arvis-voroshilova-01-holl.jpg"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1636-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1636-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1636-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1636-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1878-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1878-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1878-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1878-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2333-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2333-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2333-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2333-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2393-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2393-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2393-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2393-thumb.webp"
+  },
+  "assets/arvis-documents-5c8b9abb68f6.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-documents-5c8b9abb68f6.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-documents-5c8b9abb68f6.css",
+    "variant_path": "site/assets/arvis-documents-5c8b9abb68f6.css"
+  },
+  "about/documents/arvis-license-extract-2026-11-10-preview-aa5c14c7fee8.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/about/documents/arvis-license-extract-2026-11-10-preview-aa5c14c7fee8.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/about/documents/arvis-license-extract-2026-11-10-preview-aa5c14c7fee8.jpg",
+    "variant_path": "site/about/documents/arvis-license-extract-2026-11-10-preview-aa5c14c7fee8.jpg"
+  },
+  "about/documents/longlife-license-extract-2026-11-10-preview-54a5c075eb2c.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/about/documents/longlife-license-extract-2026-11-10-preview-54a5c075eb2c.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/about/documents/longlife-license-extract-2026-11-10-preview-54a5c075eb2c.jpg",
+    "variant_path": "site/about/documents/longlife-license-extract-2026-11-10-preview-54a5c075eb2c.jpg"
+  },
+  "assets/editorial/birch-pollen-sem-cil40285.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/editorial/birch-pollen-sem-cil40285.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/assets/editorial/birch-pollen-sem-cil40285.jpg",
+    "variant_path": "site/assets/editorial/birch-pollen-sem-cil40285.jpg"
+  },
+  "assets/arvis-priority-directions-a43ea2be32a7.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-priority-directions-a43ea2be32a7.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-priority-directions-a43ea2be32a7.css",
+    "variant_path": "site/assets/arvis-priority-directions-a43ea2be32a7.css"
+  },
+  "assets/arvis-allergology-polish-cd3ef91714de.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-allergology-polish-cd3ef91714de.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-allergology-polish-cd3ef91714de.css",
+    "variant_path": "site/assets/arvis-allergology-polish-cd3ef91714de.css"
+  },
+  "upload/iblock/988/0ufkw8zzxilcrdfotg4jyqij56tz1q1x.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/iblock/988/0ufkw8zzxilcrdfotg4jyqij56tz1q1x.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/iblock/988/0ufkw8zzxilcrdfotg4jyqij56tz1q1x.webp",
+    "variant_path": "site/upload/iblock/988/0ufkw8zzxilcrdfotg4jyqij56tz1q1x.webp"
+  },
+  "upload/iblock/a94/pyw756kemxujt8tbd13xvnh2qw4xa235.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/iblock/a94/pyw756kemxujt8tbd13xvnh2qw4xa235.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/iblock/a94/pyw756kemxujt8tbd13xvnh2qw4xa235.webp",
+    "variant_path": "site/upload/iblock/a94/pyw756kemxujt8tbd13xvnh2qw4xa235.webp"
+  },
+  "upload/iblock/9ad/cvcwmj5f29nc6vla169xtwj3mo98rmcq.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/iblock/9ad/cvcwmj5f29nc6vla169xtwj3mo98rmcq.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/iblock/9ad/cvcwmj5f29nc6vla169xtwj3mo98rmcq.webp",
+    "variant_path": "site/upload/iblock/9ad/cvcwmj5f29nc6vla169xtwj3mo98rmcq.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-cl-proc2.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-cl-proc2.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-cl-proc2.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-cl-proc2.webp"
+  },
+  "upload/iblock/f1b/rbgll6crqxnsf9q3srj6d3t1ltj1vcik.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/iblock/f1b/rbgll6crqxnsf9q3srj6d3t1ltj1vcik.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/iblock/f1b/rbgll6crqxnsf9q3srj6d3t1ltj1vcik.webp",
+    "variant_path": "site/upload/iblock/f1b/rbgll6crqxnsf9q3srj6d3t1ltj1vcik.webp"
+  },
+  "recovery-assets/editorial/ambrosia-korina-c76648c131ba.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/editorial/ambrosia-korina-c76648c131ba.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/editorial/ambrosia-korina-c76648c131ba.jpg",
+    "variant_path": "site/recovery-assets/editorial/ambrosia-korina-c76648c131ba.jpg"
+  },
+  "recovery-assets/media/arvis-cosmetics-ultraformer-w320-343aae865f28.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/media/arvis-cosmetics-ultraformer-w320-343aae865f28.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/media/arvis-cosmetics-ultraformer-w320-343aae865f28.webp",
+    "variant_path": "site/recovery-assets/media/arvis-cosmetics-ultraformer-w320-343aae865f28.webp"
+  },
+  "recovery-assets/media/arvis-cosmetics-ultraformer-w160-de41b4095456.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/media/arvis-cosmetics-ultraformer-w160-de41b4095456.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/media/arvis-cosmetics-ultraformer-w160-de41b4095456.webp",
+    "variant_path": "site/recovery-assets/media/arvis-cosmetics-ultraformer-w160-de41b4095456.webp"
+  },
+  "recovery-assets/media/arvis-cosmetics-volnewmer-w320-3e3262a45dbf.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/media/arvis-cosmetics-volnewmer-w320-3e3262a45dbf.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/media/arvis-cosmetics-volnewmer-w320-3e3262a45dbf.webp",
+    "variant_path": "site/recovery-assets/media/arvis-cosmetics-volnewmer-w320-3e3262a45dbf.webp"
+  },
+  "recovery-assets/media/arvis-cosmetics-volnewmer-w160-c4cb75f30501.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/media/arvis-cosmetics-volnewmer-w160-c4cb75f30501.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/media/arvis-cosmetics-volnewmer-w160-c4cb75f30501.webp",
+    "variant_path": "site/recovery-assets/media/arvis-cosmetics-volnewmer-w160-c4cb75f30501.webp"
+  },
+  "recovery-assets/editorial/solidago-starr-0ac66151d1a0.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/editorial/solidago-starr-0ac66151d1a0.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/editorial/solidago-starr-0ac66151d1a0.jpg",
+    "variant_path": "site/recovery-assets/editorial/solidago-starr-0ac66151d1a0.jpg"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1446.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1446.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1446.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1446.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2002.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2002.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2002.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2002.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2198.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2198.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2198.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2198.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1837.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1837.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1837.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1837.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2411.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2411.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2411.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2411.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2436.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2436.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2436.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2436.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1869.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1869.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1869.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1869.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1936.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1936.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1936.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1936.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1654.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1654.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1654.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1654.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1816.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1816.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1816.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1816.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1607.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1607.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1607.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1607.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2336.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2336.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2336.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2336.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2260.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2260.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2260.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2260.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1742.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1742.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1742.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1742.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2061.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2061.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2061.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2061.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2317.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2317.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2317.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2317.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1435.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1435.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1435.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1435.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1850.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1850.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1850.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1850.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1687.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1687.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1687.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1687.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2370.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2370.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2370.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2370.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2200.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2200.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2200.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2200.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1748.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1748.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1748.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1748.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1951.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1951.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1951.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1951.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2366.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2366.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2366.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2366.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1412.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1412.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1412.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1412.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2345.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2345.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2345.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2345.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2214.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2214.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2214.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2214.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1738.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1738.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1738.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1738.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1599.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1599.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1599.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1599.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2404.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2404.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2404.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2404.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2288.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2288.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2288.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2288.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1763.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1763.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1763.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1763.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1437.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1437.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1437.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1437.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2424.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2424.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2424.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2424.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1953.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1953.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1953.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1953.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2305.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2305.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2305.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2305.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1409.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1409.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1409.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1409.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1795.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1795.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1795.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1795.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1716.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1716.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1716.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1716.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1728.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1728.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1728.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1728.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1446-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1446-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1446-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1446-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2002-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2002-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2002-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2002-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2198-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2198-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2198-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2198-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1837-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1837-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1837-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1837-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2411-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2411-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2411-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2411-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2436-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2436-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2436-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2436-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1869-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1869-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1869-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1869-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1936-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1936-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1936-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1936-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1654-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1654-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1654-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1654-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1816-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1816-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1816-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1816-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1607-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1607-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1607-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1607-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2336-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2336-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2336-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2336-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2260-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2260-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2260-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2260-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1742-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1742-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1742-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1742-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2061-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2061-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2061-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2061-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2317-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2317-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2317-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2317-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1435-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1435-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1435-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1435-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1850-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1850-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1850-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1850-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1687-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1687-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1687-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1687-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2370-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2370-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2370-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2370-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2200-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2200-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2200-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2200-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1748-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1748-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1748-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1748-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1951-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1951-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1951-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1951-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2366-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2366-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2366-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2366-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1412-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1412-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1412-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1412-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2345-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2345-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2345-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2345-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2214-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2214-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2214-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2214-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1738-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1738-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1738-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1738-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1599-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1599-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1599-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1599-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2404-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2404-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2404-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2404-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2288-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2288-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2288-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2288-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1763-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1763-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1763-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1763-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1437-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1437-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1437-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1437-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2424-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2424-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2424-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2424-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1953-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1953-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1953-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1953-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-2305-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2305-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-2305-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-2305-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1409-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1409-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1409-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1409-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1795-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1795-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1795-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1795-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1716-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1716-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1716-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1716-thumb.webp"
+  },
+  "upload/arvis-mp132-20261111/arvis-mp132-img-1728-thumb.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1728-thumb.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1728-thumb.webp",
+    "variant_path": "site/upload/arvis-mp132-20261111/arvis-mp132-img-1728-thumb.webp"
+  },
+  "original-source-media/5ad00480e1-arvis-voroshilova-02-ginekologiya-uzi.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/original-source-media/5ad00480e1-arvis-voroshilova-02-ginekologiya-uzi.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/original-source-media/5ad00480e1-arvis-voroshilova-02-ginekologiya-uzi.jpg",
+    "variant_path": "site/original-source-media/5ad00480e1-arvis-voroshilova-02-ginekologiya-uzi.jpg"
+  },
+  "original-source-media/98e2998f9a-arvis-voroshilova-05-koridor.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/original-source-media/98e2998f9a-arvis-voroshilova-05-koridor.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/original-source-media/98e2998f9a-arvis-voroshilova-05-koridor.jpg",
+    "variant_path": "site/original-source-media/98e2998f9a-arvis-voroshilova-05-koridor.jpg"
+  },
+  "bitrix/templates/vc-site/images/arvis-dev-ultraformer-mpt-r.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-dev-ultraformer-mpt-r.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-dev-ultraformer-mpt-r.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-dev-ultraformer-mpt-r.webp"
+  },
+  "original-source-media/f53d34a873-dev-volnewmer-v.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/original-source-media/f53d34a873-dev-volnewmer-v.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/original-source-media/f53d34a873-dev-volnewmer-v.jpg",
+    "variant_path": "site/original-source-media/f53d34a873-dev-volnewmer-v.jpg"
+  },
+  "original-source-media/6ef2dfdc4a-dev-harmony-xl-pro-v.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/original-source-media/6ef2dfdc4a-dev-harmony-xl-pro-v.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/original-source-media/6ef2dfdc4a-dev-harmony-xl-pro-v.jpg",
+    "variant_path": "site/original-source-media/6ef2dfdc4a-dev-harmony-xl-pro-v.jpg"
+  },
+  "original-source-media/288e05ab02-dev-lpg-m6-v.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/original-source-media/288e05ab02-dev-lpg-m6-v.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/original-source-media/288e05ab02-dev-lpg-m6-v.jpg",
+    "variant_path": "site/original-source-media/288e05ab02-dev-lpg-m6-v.jpg"
+  },
+  "bitrix/templates/vc-site/images/original-doctor-pisarev.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/original-doctor-pisarev.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/original-doctor-pisarev.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/original-doctor-pisarev.webp"
+  },
+  "upload/iblock/9f3/1td3h77froqfzlony674e8lgm1bdw2e6.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/iblock/9f3/1td3h77froqfzlony674e8lgm1bdw2e6.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/iblock/9f3/1td3h77froqfzlony674e8lgm1bdw2e6.webp",
+    "variant_path": "site/upload/iblock/9f3/1td3h77froqfzlony674e8lgm1bdw2e6.webp"
+  },
+  "upload/iblock/48d/yj1ov3yz0whnph0786mptop84xcg184y.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/upload/iblock/48d/yj1ov3yz0whnph0786mptop84xcg184y.webp"
+    ],
+    "URL": "https://arvisclinic.ru/upload/iblock/48d/yj1ov3yz0whnph0786mptop84xcg184y.webp",
+    "variant_path": "site/upload/iblock/48d/yj1ov3yz0whnph0786mptop84xcg184y.webp"
+  },
+  "assets/arvis-doctor-mobile-p1-a9500019ebe7.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-doctor-mobile-p1-a9500019ebe7.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-doctor-mobile-p1-a9500019ebe7.css",
+    "variant_path": "site/assets/arvis-doctor-mobile-p1-a9500019ebe7.css"
+  },
+  "assets/arvis-review-widgets-fd344d665309.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-review-widgets-fd344d665309.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-review-widgets-fd344d665309.css",
+    "variant_path": "site/assets/arvis-review-widgets-fd344d665309.css"
+  },
+  "assets/arvis-review-widgets-8029025f7ff6.js": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-review-widgets-8029025f7ff6.js"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-review-widgets-8029025f7ff6.js",
+    "variant_path": "site/assets/arvis-review-widgets-8029025f7ff6.js"
+  },
+  "assets/arvis-direction-promotion-7211d55322cd.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-direction-promotion-7211d55322cd.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-direction-promotion-7211d55322cd.css",
+    "variant_path": "site/assets/arvis-direction-promotion-7211d55322cd.css"
+  },
+  "recovery-assets/clinic/voroshilova/arvis-voroshilova-01-holl-8f77d5f49083.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/clinic/voroshilova/arvis-voroshilova-01-holl-8f77d5f49083.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/clinic/voroshilova/arvis-voroshilova-01-holl-8f77d5f49083.jpg",
+    "variant_path": "site/recovery-assets/clinic/voroshilova/arvis-voroshilova-01-holl-8f77d5f49083.jpg"
+  },
+  "recovery-assets/clinic/voroshilova/arvis-voroshilova-05-koridor-98e2998f9a2e.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/clinic/voroshilova/arvis-voroshilova-05-koridor-98e2998f9a2e.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/clinic/voroshilova/arvis-voroshilova-05-koridor-98e2998f9a2e.jpg",
+    "variant_path": "site/recovery-assets/clinic/voroshilova/arvis-voroshilova-05-koridor-98e2998f9a2e.jpg"
+  },
+  "recovery-assets/clinic/voroshilova/arvis-voroshilova-02-ginekologiya-uzi-5ad00480e10b.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/clinic/voroshilova/arvis-voroshilova-02-ginekologiya-uzi-5ad00480e10b.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/clinic/voroshilova/arvis-voroshilova-02-ginekologiya-uzi-5ad00480e10b.jpg",
+    "variant_path": "site/recovery-assets/clinic/voroshilova/arvis-voroshilova-02-ginekologiya-uzi-5ad00480e10b.jpg"
+  },
+  "recovery-assets/clinic/voroshilova/arvis-voroshilova-03-procedurnyj-78ee3e606ec5.jpg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/clinic/voroshilova/arvis-voroshilova-03-procedurnyj-78ee3e606ec5.jpg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/clinic/voroshilova/arvis-voroshilova-03-procedurnyj-78ee3e606ec5.jpg",
+    "variant_path": "site/recovery-assets/clinic/voroshilova/arvis-voroshilova-03-procedurnyj-78ee3e606ec5.jpg"
+  },
+  "recovery-assets/equipment/ultraformer-mpt-marking-952902300e73.jpeg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/equipment/ultraformer-mpt-marking-952902300e73.jpeg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/equipment/ultraformer-mpt-marking-952902300e73.jpeg",
+    "variant_path": "site/recovery-assets/equipment/ultraformer-mpt-marking-952902300e73.jpeg"
+  },
+  "recovery-assets/equipment/volnewmer-marking-1c493315be60.jpeg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/equipment/volnewmer-marking-1c493315be60.jpeg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/equipment/volnewmer-marking-1c493315be60.jpeg",
+    "variant_path": "site/recovery-assets/equipment/volnewmer-marking-1c493315be60.jpeg"
+  },
+  "recovery-assets/equipment/harmony-xl-pro-marking-fc435e50d7ef.jpeg": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/equipment/harmony-xl-pro-marking-fc435e50d7ef.jpeg"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/equipment/harmony-xl-pro-marking-fc435e50d7ef.jpeg",
+    "variant_path": "site/recovery-assets/equipment/harmony-xl-pro-marking-fc435e50d7ef.jpeg"
+  },
+  "assets/arvis-priority-gallery-a0267e85a09b.js": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-priority-gallery-a0267e85a09b.js"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-priority-gallery-a0267e85a09b.js",
+    "variant_path": "site/assets/arvis-priority-gallery-a0267e85a09b.js"
+  },
+  "assets/arvis-cosmetology-story-fa628ea46760.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-cosmetology-story-fa628ea46760.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-cosmetology-story-fa628ea46760.css",
+    "variant_path": "site/assets/arvis-cosmetology-story-fa628ea46760.css"
+  },
+  "recovery-assets/media/arvis-voroshilova-hall-w1120-69ca9663b0f4.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/media/arvis-voroshilova-hall-w1120-69ca9663b0f4.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/media/arvis-voroshilova-hall-w1120-69ca9663b0f4.webp",
+    "variant_path": "site/recovery-assets/media/arvis-voroshilova-hall-w1120-69ca9663b0f4.webp"
+  },
+  "recovery-assets/media/arvis-voroshilova-hall-w640-12df05537f0e.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/media/arvis-voroshilova-hall-w640-12df05537f0e.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/media/arvis-voroshilova-hall-w640-12df05537f0e.webp",
+    "variant_path": "site/recovery-assets/media/arvis-voroshilova-hall-w640-12df05537f0e.webp"
+  },
+  "recovery-assets/media/arvis-ultraformer-mpt-demo-d4e8ce262170.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/media/arvis-ultraformer-mpt-demo-d4e8ce262170.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/media/arvis-ultraformer-mpt-demo-d4e8ce262170.webp",
+    "variant_path": "site/recovery-assets/media/arvis-ultraformer-mpt-demo-d4e8ce262170.webp"
+  },
+  "recovery-assets/media/arvis-volnewmer-demo-93d97919a029.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/media/arvis-volnewmer-demo-93d97919a029.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/media/arvis-volnewmer-demo-93d97919a029.webp",
+    "variant_path": "site/recovery-assets/media/arvis-volnewmer-demo-93d97919a029.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-juvederm-smile.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-juvederm-smile.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-juvederm-smile.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-juvederm-smile.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-profhilo.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-profhilo.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-profhilo.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-profhilo.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-aptos-ev.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-aptos-ev.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-aptos-ev.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-aptos-ev.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-meso-wharton.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-meso-wharton.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-meso-wharton.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-meso-wharton.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-aptos-nano-vitis.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-aptos-nano-vitis.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-aptos-nano-vitis.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-aptos-nano-vitis.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-aptos-nano-spring.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-aptos-nano-spring.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-aptos-nano-spring.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-aptos-nano-spring.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-meso-xanthin.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-meso-xanthin.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-meso-xanthin.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-meso-xanthin.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-mesoeye.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-mesoeye.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-mesoeye.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-mesoeye.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-juvederm-ultra3.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-juvederm-ultra3.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-juvederm-ultra3.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-juvederm-ultra3.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-nctf.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-nctf.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-nctf.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-nctf.webp"
+  },
+  "assets/arvis-cosmetology-prices-fe155c2ad2ef.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-cosmetology-prices-fe155c2ad2ef.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-cosmetology-prices-fe155c2ad2ef.css",
+    "variant_path": "site/assets/arvis-cosmetology-prices-fe155c2ad2ef.css"
+  },
+  "bitrix/templates/vc-site/images/arvis-hp-clearlift.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-clearlift.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-clearlift.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-hp-clearlift.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-cf-mouth-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-mouth-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-mouth-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-mouth-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-cf-mouth-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-mouth-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-mouth-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-mouth-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-wl-jaw-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-jaw-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-jaw-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-jaw-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-wl-jaw-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-jaw-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-jaw-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-jaw-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-hp-clearskin.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-clearskin.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-clearskin.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-hp-clearskin.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-cf-chin-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-chin-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-chin-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-chin-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-cf-chin-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-chin-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-chin-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-chin-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-cf-forehead-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-forehead-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-forehead-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-forehead-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-cf-forehead-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-forehead-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-forehead-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-forehead-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face2-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face2-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face2-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face2-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face2-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face2-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face2-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face2-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face1-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face1-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face1-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face1-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face1-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face1-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face1-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-cf-face1-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-hp-dye-vl.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-dye-vl.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-dye-vl.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-hp-dye-vl.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-hp-dye-sr.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-dye-sr.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-dye-sr.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-hp-dye-sr.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-gf-redness-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-redness-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-redness-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-redness-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-gf-redness-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-redness-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-redness-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-redness-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-gf-pigment-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-pigment-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-pigment-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-pigment-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-gf-pigment-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-pigment-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-pigment-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-pigment-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-hp-nir.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-nir.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-nir.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-hp-nir.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-gf-profile-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-profile-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-profile-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-profile-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-gf-profile-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-profile-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-profile-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-profile-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-gf-face-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-face-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-face-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-face-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-gf-face-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-face-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-face-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-gf-face-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-stylage-m.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-stylage-m.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-stylage-m.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-stylage-m.webp"
+  },
+  "original-source-media/38764f3770-arvisprep_stylage-s.png": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/original-source-media/38764f3770-arvisprep_stylage-s.png"
+    ],
+    "URL": "https://arvisclinic.ru/original-source-media/38764f3770-arvisprep_stylage-s.png",
+    "variant_path": "site/original-source-media/38764f3770-arvisprep_stylage-s.png"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-stylage-lips.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-stylage-lips.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-stylage-lips.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-stylage-lips.webp"
+  },
+  "assets/arvis-cosmetology-procedures-e4198dc32e81.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-cosmetology-procedures-e4198dc32e81.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-cosmetology-procedures-e4198dc32e81.css",
+    "variant_path": "site/assets/arvis-cosmetology-procedures-e4198dc32e81.css"
+  },
+  "bitrix/templates/vc-site/images/arvis-hp-acne.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-acne.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-acne.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-hp-acne.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-hp-pixel.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-pixel.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-pixel.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-hp-pixel.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-hp-lp-ndyag.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-lp-ndyag.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-hp-lp-ndyag.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-hp-lp-ndyag.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-wl-neck-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-neck-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-neck-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-neck-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-wl-neck-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-neck-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-neck-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-wl-neck-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-nf-freckles-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-freckles-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-freckles-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-freckles-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-nf-freckles-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-freckles-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-freckles-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-freckles-after.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-nf-face1-before.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-face1-before.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-face1-before.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-face1-before.webp"
+  },
+  "bitrix/templates/vc-site/images/arvis-ba-harmony-nf-face1-after.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-face1-after.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-face1-after.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-face1-after.webp"
+  },
+  "original-source-media/fde749cf04-arvis-dev-lpg-m6.png": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/original-source-media/fde749cf04-arvis-dev-lpg-m6.png"
+    ],
+    "URL": "https://arvisclinic.ru/original-source-media/fde749cf04-arvis-dev-lpg-m6.png",
+    "variant_path": "site/original-source-media/fde749cf04-arvis-dev-lpg-m6.png"
+  },
+  "bitrix/templates/vc-site/images/arvis-prep-mesosculpt.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-mesosculpt.webp"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-mesosculpt.webp",
+    "variant_path": "site/bitrix/templates/vc-site/images/arvis-prep-mesosculpt.webp"
+  },
+  "original-source-media/07de00d3ef-arvis-dev-volnewmer.png": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/original-source-media/07de00d3ef-arvis-dev-volnewmer.png"
+    ],
+    "URL": "https://arvisclinic.ru/original-source-media/07de00d3ef-arvis-dev-volnewmer.png",
+    "variant_path": "site/original-source-media/07de00d3ef-arvis-dev-volnewmer.png"
+  },
+  "original-source-media/560edd2bf6-arvis-dev-ultraformer-mpt-v.png": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/original-source-media/560edd2bf6-arvis-dev-ultraformer-mpt-v.png"
+    ],
+    "URL": "https://arvisclinic.ru/original-source-media/560edd2bf6-arvis-dev-ultraformer-mpt-v.png",
+    "variant_path": "site/original-source-media/560edd2bf6-arvis-dev-ultraformer-mpt-v.png"
+  },
+  "recovery-assets/ultraformer-mpt-linear-poster-20261103.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/ultraformer-mpt-linear-poster-20261103.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/ultraformer-mpt-linear-poster-20261103.webp",
+    "variant_path": "site/recovery-assets/ultraformer-mpt-linear-poster-20261103.webp"
+  },
+  "recovery-assets/ultraformer-mpt-booster-poster-20261103.webp": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/recovery-assets/ultraformer-mpt-booster-poster-20261103.webp"
+    ],
+    "URL": "https://arvisclinic.ru/recovery-assets/ultraformer-mpt-booster-poster-20261103.webp",
+    "variant_path": "site/recovery-assets/ultraformer-mpt-booster-poster-20261103.webp"
+  },
+  "assets/arvis-programs-mobile-9de50330a7fb.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-programs-mobile-9de50330a7fb.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-programs-mobile-9de50330a7fb.css",
+    "variant_path": "site/assets/arvis-programs-mobile-9de50330a7fb.css"
+  },
+  "assets/arvis-dermatology-presentation-89f6914c4da4.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-dermatology-presentation-89f6914c4da4.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-dermatology-presentation-89f6914c4da4.css",
+    "variant_path": "site/assets/arvis-dermatology-presentation-89f6914c4da4.css"
+  },
+  "assets/arvis-uzi-preparation-ea2184aaf6f1.js": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-uzi-preparation-ea2184aaf6f1.js"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-uzi-preparation-ea2184aaf6f1.js",
+    "variant_path": "site/assets/arvis-uzi-preparation-ea2184aaf6f1.js"
+  },
+  "assets/arvis-uzi-catalog-cues-cd8fceb1e4a4.css": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/arvis-uzi-catalog-cues-cd8fceb1e4a4.css"
+    ],
+    "URL": "https://arvisclinic.ru/assets/arvis-uzi-catalog-cues-cd8fceb1e4a4.css",
+    "variant_path": "site/assets/arvis-uzi-catalog-cues-cd8fceb1e4a4.css"
+  },
+  "bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmS-HYoEoeyxMI.woff2": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmS-HYoEoeyxMI.woff2"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmS-HYoEoeyxMI.woff2",
+    "variant_path": "site/bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmS-HYoEoeyxMI.woff2"
+  },
+  "bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmb-HYoEoeyxMI.woff2": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmb-HYoEoeyxMI.woff2"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmb-HYoEoeyxMI.woff2",
+    "variant_path": "site/bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmb-HYoEoeyxMI.woff2"
+  },
+  "bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmf-HYoEoey.woff2": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmf-HYoEoey.woff2"
+    ],
+    "URL": "https://arvisclinic.ru/bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmf-HYoEoey.woff2",
+    "variant_path": "site/bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmf-HYoEoey.woff2"
+  },
+  "assets/fonts/manrope-latin.woff2": {
+    "rank": [
+      false,
+      "https://arvisclinic.ru/assets/fonts/manrope-latin.woff2"
+    ],
+    "URL": "https://arvisclinic.ru/assets/fonts/manrope-latin.woff2",
+    "variant_path": "site/assets/fonts/manrope-latin.woff2"
+  }
+}

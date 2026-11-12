@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/omalizumab/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/omalizumab/390.jpg",
+  "source_path": "site/articles/omalizumab/index.html",
+  "source_sha256": "d1d7482caa0947e67413392d3f7cbaf163859085f2b7dfd8b626226c5aa5181a",
+  "started_UTC": "2026-11-12T22:04:27.685Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9833,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Омализумаб при тяжёлой аллергии и астме: как работает биологическая терапия — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 14,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 602908,
+  "sha256": "a3faaf13c9eb15156d61538e3b5ab3a0b50e59cc0f1f8b7005cf5312939b28ff",
+  "finished_UTC": "2026-11-12T22:04:28.856Z"
+}

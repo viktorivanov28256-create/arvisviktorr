@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/can-f-2-e102/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/can-f-2-e102/390.jpg",
+  "source_path": "site/analizy/can-f-2-e102/index.html",
+  "source_sha256": "4ca6f1e90deee8efcf662d21352c0013d480f393902dc0b997100a17d239593d",
+  "started_UTC": "2026-11-12T22:02:26.677Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6306,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфический IgE к Can f 2: липокалин собаки (e102) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 395367,
+  "sha256": "18c22c2a74bd738b0881d39ebfcf1955cac4380dc39def0cf15d15c8bbb49c92",
+  "finished_UTC": "2026-11-12T22:02:27.557Z"
+}

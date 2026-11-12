@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/arvis-consent-db13cf1eb490.js",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:26 GMT",
+      "Content-Type": "application/javascript; charset=utf-8",
+      "Content-Length": "4486",
+      "Last-Modified": "Tue, 10 Nov 2026 22:21:48 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6af398fc-1186\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

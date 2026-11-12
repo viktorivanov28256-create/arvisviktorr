@@ -1,0 +1,47 @@
+{
+  "url": "https://arvisclinic.ru/doctors/makhovaya-lyudmila-vladimirovna/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/doctors/makhovaya-lyudmila-vladimirovna/390.jpg",
+  "source_path": "site/doctors/makhovaya-lyudmila-vladimirovna/index.html",
+  "source_sha256": "8a3df8452476c525cdea0959a4aae3294de38c3aab0d3344652d7278b4e11a54",
+  "started_UTC": "2026-11-12T22:05:02.523Z",
+  "fulfilled": 34,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    },
+    {
+      "url": "https://reviews.yandex.ru/ugcpub/reviews-widget?app_id=reviews-widget&otype=Hum&object=docOZZrLUrUFOFUC&variant=cards&theme=light&linkedObjectId=/sprav/161170607289",
+      "method": "GET",
+      "resource_type": "document",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 4825,
+    "fonts_status": "loaded",
+    "image_total": 3,
+    "image_loaded": 3,
+    "title": "Маховая Людмила Владимировна — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 7,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 188506,
+  "sha256": "5961543d77f9b1a3b50f0db4e7de20267eee6e23fec16e1add9d15a7088fc2f5",
+  "finished_UTC": "2026-11-12T22:05:03.357Z"
+}

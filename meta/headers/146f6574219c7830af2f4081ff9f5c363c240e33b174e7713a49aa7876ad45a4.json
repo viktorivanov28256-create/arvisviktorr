@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://arvisclinic.ru/about/documents/arvis-license-extract-2026-11-10-preview-aa5c14c7fee8.jpg",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:45 GMT",
+      "Content-Type": "image/jpeg",
+      "Content-Length": "85656",
+      "Last-Modified": "Mon, 09 Nov 2026 22:08:43 GMT",
+      "Connection": "close",
+      "ETag": "\"6af2446b-14e98\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

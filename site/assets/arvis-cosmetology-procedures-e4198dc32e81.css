@@ -1,0 +1,144 @@
+/* Native procedure refinement. Content and playback remain native. */
+main[data-arvis-procedure-refinement="r1"]{--cpl-ink:#1d1d1f;--cpl-muted:#55555a;--cpl-paper:#fff;--cpl-wash:#f5f5f7;--cpl-red:#8c292c;--cpl-frame:clamp(22px,5.5vw,80px);color:var(--cpl-ink);background:var(--cpl-paper);font-family:Onest,sans-serif;font-size:18px;line-height:1.7;overflow-wrap:break-word}
+main[data-arvis-procedure-refinement="r1"] :is(section,article,div,figure,aside,nav){min-inline-size:0}
+main[data-arvis-procedure-refinement="r1"] :is(h1,h2,h3,h4){color:var(--cpl-ink);font-family:Manrope,Onest,sans-serif;font-weight:500;letter-spacing:-.03em;text-wrap:balance;word-break:normal;overflow-wrap:break-word}
+main[data-arvis-procedure-refinement="r1"] :is(a,button,summary):focus-visible{outline:3px solid var(--cpl-red);outline-offset:5px}
+main[data-arvis-procedure-refinement="r1"] ::selection{background:#e8d7d7;color:var(--cpl-ink)}
+main[data-arvis-procedure-refinement="r1"] :is(section,h2,h3)[id]{scroll-margin-top:126px}
+main[data-arvis-procedure-refinement="r1"] button{min-height:44px;min-width:44px;font:inherit}
+main[data-arvis-procedure-refinement="r1"] .reader-wrap{box-sizing:border-box;width:100%;max-width:1440px;margin:0 auto;padding:0 var(--cpl-frame)}
+main[data-arvis-procedure-refinement="r1"] .reader-layout{display:block;width:100%;max-width:none;margin:0;padding:0}
+main[data-arvis-procedure-refinement="r1"] .document-content{width:100%;max-width:none;margin:0;padding:0;font-size:18px;line-height:1.7}
+main[data-arvis-procedure-refinement="r1"] header.apv-km-hero{position:relative;min-height:0;margin:0 0 56px;padding:0;border:0;border-radius:0;background:var(--cpl-paper);color:var(--cpl-ink);box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] header.apv-km-hero::before,main[data-arvis-procedure-refinement="r1"] header.apv-km-hero::after{content:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero>.reader-topic-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:start;gap:clamp(32px,5vw,72px);width:100%;max-width:none;margin:0;padding:0}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero__copy{position:static;display:flex;flex-direction:column;max-width:650px;margin:0;padding:20px 0 0;background:none;color:inherit}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero__copy>*{order:3}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero .reader-title{order:1;max-width:15ch;margin:0;font-size:clamp(44px,4.7vw,68px);font-weight:500;line-height:1.08;letter-spacing:-.035em;color:var(--cpl-ink)}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero .reader-kind{order:2;align-self:flex-start;margin:18px 0 0;padding:0;color:var(--cpl-muted);font-size:13px;line-height:1.5;font-weight:400;letter-spacing:0;text-transform:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-pillw{order:3;margin:24px 0 0}
+main[data-arvis-procedure-refinement="r1"] .apv-km-pill{display:inline-flex;align-items:center;flex-wrap:wrap;gap:5px 12px;max-width:100%;min-height:44px;padding:10px 14px;border:0;border-radius:12px;background:var(--cpl-wash);color:var(--cpl-ink);font-size:14px;line-height:1.55;text-decoration:none;box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] :is(.apv-km-pill__d,.apv-km-pcard__badge){display:block;flex-shrink:0;margin:0;padding:0;border:0;background:none;color:var(--cpl-red);font-size:13px;font-weight:500;line-height:1.5}
+main[data-arvis-procedure-refinement="r1"] .apv-km-pill__t{min-width:0;color:var(--cpl-ink)}
+main[data-arvis-procedure-refinement="r1"] .apv-km-big{order:4;max-width:22ch;margin:26px 0 0;color:var(--cpl-ink);font-family:Manrope,Onest,sans-serif;font-size:clamp(25px,2.4vw,34px);font-weight:500;line-height:1.25;letter-spacing:-.025em}
+main[data-arvis-procedure-refinement="r1"] .apv-km-big__g{display:block;color:var(--cpl-muted);background:none;-webkit-text-fill-color:currentColor;background-clip:border-box}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero .reader-lead{order:5;max-width:48ch;margin:24px 0 0;color:var(--cpl-muted);font-size:18px;line-height:1.65}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero #cosmetic-calendar-promo-note{order:6;max-width:58ch;margin:20px 0 0;padding:0;border:0;background:none;color:var(--cpl-muted);font-size:14px;line-height:1.65}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero .apv-lp__cta-row{order:7;display:flex;align-items:center;flex-wrap:wrap;gap:12px 24px;margin:28px 0 0;padding:0}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero__meta{order:8;display:flex;flex-wrap:wrap;gap:10px 24px;margin:24px 0 0;padding:0;border:0;color:var(--cpl-muted);font-size:13px;line-height:1.55}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero__meta>span{display:block;max-width:26ch;padding:0;border:0;background:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero .reader-topic-media{position:static;display:grid;grid-template-columns:minmax(0,1fr);gap:26px;align-content:start;width:100%;max-width:none;margin:0;padding:0}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero :is(.apv-km-hero__vis,.apv-km-photo--hero){position:relative;display:flex;align-items:center;justify-content:center;width:100%;height:clamp(460px,40vw,590px);min-height:0;max-width:none;margin:0;padding:0;border:0;border-radius:0;background:var(--cpl-paper);overflow:visible;box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero :is(.apv-km-hero__vis,.apv-km-photo--hero)>img{position:static;display:block;width:100%;height:100%;max-width:100%;max-height:none;aspect-ratio:auto;object-fit:contain;object-position:center;margin:0;padding:0;border:0;border-radius:0;filter:none;mix-blend-mode:normal;transform:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-pcard{position:static;display:block;width:100%;max-width:none;margin:0;padding:24px 28px;border:0;border-radius:16px;background:var(--cpl-wash);color:var(--cpl-ink);box-shadow:none;overflow:visible}
+main[data-arvis-procedure-refinement="r1"] .apv-km-pcard__p{display:flex;align-items:baseline;flex-wrap:wrap;gap:7px 16px;margin:12px 0 5px;font-size:32px;line-height:1.2;font-weight:500;letter-spacing:-.025em;font-variant-numeric:tabular-nums}
+main[data-arvis-procedure-refinement="r1"] .apv-km-pcard__u{display:block;color:var(--cpl-muted);font-size:13px;line-height:1.65}
+main[data-arvis-procedure-refinement="r1"] .apv-km-pcard ul{clear:both;max-width:none;margin:16px 0 0;padding:0 0 0 18px;color:var(--cpl-muted);font-size:14px;line-height:1.65}
+main[data-arvis-procedure-refinement="r1"] aside.reader-outline{position:static;display:block;width:100%;max-width:none;max-height:none;margin:0 0 28px;padding:0;border:0;background:none;overflow:visible}
+main[data-arvis-procedure-refinement="r1"] nav#reader-outline{position:static;max-height:none;margin:0;padding:0;border:0;background:none}
+main[data-arvis-procedure-refinement="r1"] nav#reader-outline>ol{display:flex;flex-wrap:nowrap;gap:0 28px;width:100%;max-width:100%;margin:0;padding:0 0 12px;list-style:none;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;scrollbar-color:#b8b8bd transparent}
+main[data-arvis-procedure-refinement="r1"] nav#reader-outline li{flex:0 0 auto;max-width:none;margin:0;padding:0;list-style:none}
+main[data-arvis-procedure-refinement="r1"] nav#reader-outline a{display:flex;align-items:center;min-height:44px;padding:3px 0;color:var(--cpl-muted);font-size:14px;line-height:1.5;white-space:nowrap;text-decoration:none}
+main[data-arvis-procedure-refinement="r1"] :is(.reader-section,.cpl-consultation){margin:0 0 80px;padding:0;border:0;background:none;box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] h2{max-width:26ch;margin:0 0 26px;font-size:clamp(30px,3.2vw,46px);line-height:1.16}
+main[data-arvis-procedure-refinement="r1"] .document-content :is(p,ul,ol){max-width:70ch}
+main[data-arvis-procedure-refinement="r1"] :is(.apv-km-card,.apv-km-media__main){min-width:0;margin:0;padding:0;border:0;border-radius:0;background:none;box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-ptab{max-width:none;margin:28px 0 20px;padding:clamp(22px,3vw,40px);border:0;border-radius:16px;background:var(--cpl-wash);box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-ptab__promo{margin:0 0 22px;padding:0;border:0;background:none;color:var(--cpl-muted);font-size:15px;line-height:1.65}
+main[data-arvis-procedure-refinement="r1"] .apv-km-rows{display:block;width:100%;max-width:none;margin:0;padding:0;border:0;border-radius:0;background:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-row{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:start;gap:6px 28px;min-width:0;margin:0;padding:16px 0;border:0;border-radius:0;background:none;box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-row__n{grid-column:1;min-width:0;color:var(--cpl-ink);font-size:17px;line-height:1.55}
+main[data-arvis-procedure-refinement="r1"] .apv-km-row__p{grid-column:2;display:flex;flex-direction:column;align-items:flex-end;gap:4px;color:var(--cpl-ink);font-size:20px;font-weight:500;line-height:1.5;white-space:nowrap;font-variant-numeric:tabular-nums}
+main[data-arvis-procedure-refinement="r1"] .apv-km-row__p s{color:var(--cpl-muted);font-size:14px;font-weight:400;line-height:1.4}
+main[data-arvis-procedure-refinement="r1"] .apv-km-row__d{grid-column:1/-1;color:var(--cpl-muted);font-size:14px;line-height:1.65}
+main[data-arvis-procedure-refinement="r1"] .apv-km-bk{display:inline-flex;align-items:center;min-height:44px;padding:0;border:0;background:none;color:inherit;font:inherit;text-decoration:underline}
+main[data-arvis-procedure-refinement="r1"] section.cpl-consultation{margin-top:48px;padding:clamp(26px,4vw,56px);border-radius:16px;background:var(--cpl-wash)}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation>.kmh-address-note{max-width:70ch;margin:0 0 32px;color:var(--cpl-muted);font-size:16px;line-height:1.65}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-doctor{display:grid;grid-template-columns:minmax(180px,.7fr) minmax(0,1fr);align-items:start;gap:16px clamp(28px,4vw,64px);margin:0;padding:0;border:0;border-radius:0;background:none;box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .cm-doctor-head{display:contents}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .cm-doctor-head>div{grid-column:2;grid-row:1;margin:0;padding:0}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation img[data-arvis-doctor-photo="korysheva"]{grid-column:1;grid-row:1/5;align-self:start;display:block;width:100%;height:auto;max-width:340px;max-height:480px;margin:0;padding:0;object-fit:contain;object-position:center;border:0;border-radius:12px;filter:none}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-doctor__role{margin:0 0 9px;color:var(--cpl-muted);font-size:14px;line-height:1.5}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation h3{max-width:22ch;margin:0;font-size:clamp(26px,2.5vw,36px);line-height:1.22}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-doctor__price{grid-column:2;grid-row:2;display:flex;align-items:baseline;flex-wrap:wrap;gap:6px 16px;margin:0;font-variant-numeric:tabular-nums}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-doctor__price strong{font-size:30px;line-height:1.3;font-weight:500}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-doctor__price>span{color:var(--cpl-muted);font-size:15px;line-height:1.5}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-doctor__note{grid-column:2;grid-row:3;max-width:46ch;margin:0;color:var(--cpl-muted);font-size:15px;line-height:1.65}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-actions{grid-column:2;grid-row:4;display:flex;align-items:center;flex-wrap:wrap;gap:10px 24px;margin:8px 0 0;padding:0}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:10px 0;color:var(--cpl-ink);font-size:16px;line-height:1.45;text-decoration:underline}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-actions a:first-child{padding:13px 22px;border:0;border-radius:12px;background:var(--cpl-red);color:#fff;text-decoration:none}
+main[data-arvis-procedure-refinement="r1"] .cpl-equipment-link{max-width:none;margin:30px 0 0;padding:0;color:var(--cpl-muted);font-size:14px;line-height:1.6}
+main[data-arvis-procedure-refinement="r1"] .cpl-equipment-link a{display:inline-flex;align-items:center;min-height:44px;color:inherit}
+main[data-arvis-procedure-refinement="r1"] .cm-new-content[aria-labelledby="cm-device-film-title"]{margin:48px 0 64px;padding:clamp(26px,4vw,56px);border:0;border-radius:16px;background:#000;color:#f5f5f7}
+main[data-arvis-procedure-refinement="r1"] .cm-new-content[aria-labelledby="cm-device-film-title"] :is(h2,h3){color:#f5f5f7}
+main[data-arvis-procedure-refinement="r1"] .cm-film{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);align-items:center;gap:clamp(28px,5vw,64px);margin:0;padding:0;border:0;border-radius:0;background:#000;box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] .cm-film__media{position:relative;display:block;width:100%;height:clamp(420px,42vw,600px);margin:0;padding:0;border:0;border-radius:0;background:#000;overflow:visible}
+main[data-arvis-procedure-refinement="r1"] .cm-film__media video{display:block;width:100%;height:100%;max-width:100%;max-height:none;object-fit:contain;object-position:center;background:#000;border-radius:0}
+main[data-arvis-procedure-refinement="r1"] .cm-film p{max-width:45ch;color:#c8c8d0;font-size:17px;line-height:1.65}
+main[data-arvis-procedure-refinement="r1"] .cm-film a{display:inline-flex;align-items:center;min-height:48px;color:#f5f5f7;font-size:16px;line-height:1.5;text-decoration:underline}
+main[data-arvis-procedure-refinement="r1"] .apv-faq__item{margin:0 0 14px;padding:0;border:0;border-radius:0;background:none;box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] .apv-faq__q{min-height:52px;margin:0;padding:16px 0;color:var(--cpl-ink);font-size:21px;line-height:1.4;font-weight:500}
+main[data-arvis-procedure-refinement="r1"] .apv-faq__a{max-width:70ch;margin:0;padding:0 0 18px;color:var(--cpl-muted);font-size:17px;line-height:1.7}
+main[data-arvis-procedure-refinement="r1"] #zapis{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr);align-items:center;gap:32px 56px;margin:48px 0 64px;padding:clamp(28px,4vw,56px);border:0;border-radius:16px;background:var(--cpl-wash);color:var(--cpl-ink);box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-cta__lead{color:var(--cpl-muted);font-size:15px;line-height:1.7}
+main[data-arvis-procedure-refinement="r1"] .apv-km-cta__doc{display:flex;align-items:center;gap:16px;margin:26px 0 0;color:var(--cpl-muted);font-size:14px;line-height:1.6}
+main[data-arvis-procedure-refinement="r1"] .apv-km-cta__doc img{display:block;width:64px;height:64px;flex-shrink:0;margin:0;object-fit:contain;border-radius:12px;filter:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-form{display:flex;flex-direction:column;align-items:flex-start;gap:14px;min-width:0;margin:0;padding:0;border:0;border-radius:0;background:none;box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-cta__go{max-width:none;margin:0;padding:0}
+main[data-arvis-procedure-refinement="r1"] :is(.apv-km-hero .apv-btn--dark,#zapis .apv-km-go2){display:inline-flex;align-items:center;justify-content:center;min-height:52px;max-width:100%;padding:14px 24px;border:0;border-radius:12px;background:var(--cpl-red);color:#fff;font-family:Onest,sans-serif;font-size:16px;font-weight:500;line-height:1.45;text-align:center;text-decoration:none;white-space:normal;box-shadow:none;transition:background-color .2s ease,transform .2s ease}
+main[data-arvis-procedure-refinement="r1"] :is(.apv-km-hero .apv-btn--ghost,#zapis .reader-call-link){display:inline-flex;align-items:center;justify-content:flex-start;min-height:44px;padding:8px 0;border:0;border-radius:0;background:none;color:var(--cpl-ink);font-size:15px;line-height:1.5;text-decoration:underline;box-shadow:none}
+main[data-arvis-procedure-refinement="r1"] .apv-km-legal{max-width:90ch;margin:32px 0 56px;padding:0;border:0;background:none;color:var(--cpl-muted);font-size:14px;line-height:1.75}
+@media(hover:hover) and (pointer:fine){
+main[data-arvis-procedure-refinement="r1"] :is(.apv-km-hero .apv-btn--dark,#zapis .apv-km-go2,.cpl-consultation .kmh-actions a:first-child):hover{background-color:#742126;transform:translateY(-2px)}
+}
+@media(min-width:901px) and (prefers-reduced-motion:no-preference){
+main[data-arvis-procedure-refinement="r1"] .reader-topic-media>figure>img{animation:cpl-device-arrival .7s cubic-bezier(.16,1,.3,1) both}
+}
+@keyframes cpl-device-arrival{from{opacity:.84;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:760px){
+main[data-arvis-procedure-refinement="r1"]{--cpl-frame:22px;font-size:17px}
+main[data-arvis-procedure-refinement="r1"] .reader-wrap{box-sizing:border-box;width:100%;max-width:100%;padding:0 var(--cpl-frame)}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero>.reader-topic-grid{display:flex;flex-direction:column;gap:0;align-items:stretch}
+main[data-arvis-procedure-refinement="r1"] :is(.apv-km-hero__copy,.apv-km-hero .reader-topic-media){display:contents}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero .reader-title{order:1;max-width:17ch;margin:0;font-size:clamp(34px,9.7vw,43px);line-height:1.09;letter-spacing:-.035em}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero :is(.apv-km-hero__vis,.apv-km-photo--hero){order:2;width:100%;height:clamp(340px,98vw,440px);margin:20px 0 22px;padding:0}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero .reader-kind{order:3;align-self:auto;margin:0 0 14px;font-size:12px}
+main[data-arvis-procedure-refinement="r1"] .apv-km-pillw{order:4;margin:0 0 20px}
+main[data-arvis-procedure-refinement="r1"] .apv-km-pill{width:100%;font-size:13px;line-height:1.55;padding:12px 14px;gap:4px 10px}
+main[data-arvis-procedure-refinement="r1"] .apv-km-big{order:5;max-width:25ch;margin:0 0 18px;font-size:26px;line-height:1.25}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero .reader-lead{order:6;max-width:none;margin:0 0 18px;font-size:17px;line-height:1.65}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero #cosmetic-calendar-promo-note{order:7;max-width:none;margin:0 0 20px;font-size:14px;line-height:1.65}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero .apv-lp__cta-row{order:8;margin:2px 0 0;gap:10px 22px}
+main[data-arvis-procedure-refinement="r1"] .apv-km-hero__meta{order:9;gap:8px 18px;margin:20px 0 0;font-size:12px}
+main[data-arvis-procedure-refinement="r1"] .apv-km-pcard{order:10;margin:24px 0 0;padding:24px 22px}
+main[data-arvis-procedure-refinement="r1"] :is(.reader-section,.cpl-consultation){margin-bottom:56px}
+main[data-arvis-procedure-refinement="r1"] h2{max-width:25ch;margin-bottom:22px;font-size:31px;line-height:1.18}
+main[data-arvis-procedure-refinement="r1"] :is(.apv-km-media,.apv-km-fit,.apv-km-steps,.apv-km-progs){grid-template-columns:minmax(0,1fr);gap:28px}
+main[data-arvis-procedure-refinement="r1"] .apv-km-ptab{padding:24px 20px;margin-top:24px}
+main[data-arvis-procedure-refinement="r1"] .apv-km-row{gap:5px 16px;padding:15px 0}
+main[data-arvis-procedure-refinement="r1"] .apv-km-row__n{font-size:16px;line-height:1.55}
+main[data-arvis-procedure-refinement="r1"] .apv-km-row__p{font-size:18px;line-height:1.5}
+main[data-arvis-procedure-refinement="r1"] section.cpl-consultation{margin-top:32px;padding:26px 20px}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-doctor{grid-template-columns:112px minmax(0,1fr);gap:12px 18px}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation img[data-arvis-doctor-photo="korysheva"]{grid-row:1/4;width:112px;max-width:100%;max-height:none;border-radius:10px}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation h3{font-size:23px;line-height:1.25;letter-spacing:-.025em}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-doctor__note{font-size:13px;line-height:1.6}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-actions{grid-column:1/-1;gap:8px 22px;margin-top:8px}
+main[data-arvis-procedure-refinement="r1"] .cm-new-content[aria-labelledby="cm-device-film-title"]{padding:28px 20px;margin:34px 0 48px}
+main[data-arvis-procedure-refinement="r1"] .cm-film{grid-template-columns:minmax(0,1fr);gap:34px}
+main[data-arvis-procedure-refinement="r1"] .cm-film__media{height:clamp(340px,105vw,520px);margin-bottom:14px}
+main[data-arvis-procedure-refinement="r1"] #zapis{grid-template-columns:minmax(0,1fr);gap:26px;padding:28px 22px;margin:34px 0 48px}
+main[data-arvis-procedure-refinement="r1"] #zapis .apv-km-go2{width:100%;font-size:15px;padding:14px 18px}
+}
+@media(max-width:360px){
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation .kmh-doctor{grid-template-columns:88px minmax(0,1fr);gap:12px 14px}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation img[data-arvis-doctor-photo="korysheva"]{width:88px}
+main[data-arvis-procedure-refinement="r1"] .cpl-consultation h3{font-size:21px}
+}
+@media(prefers-reduced-motion:reduce){
+main[data-arvis-procedure-refinement="r1"] *,main[data-arvis-procedure-refinement="r1"] *::before,main[data-arvis-procedure-refinement="r1"] *::after{animation:none;transition:none;scroll-behavior:auto}
+}
+@media(forced-colors:active){
+main[data-arvis-procedure-refinement="r1"] :is(a,button,summary):focus-visible{outline-color:Highlight}
+main[data-arvis-procedure-refinement="r1"] :is(.apv-km-hero .apv-btn--dark,#zapis .apv-km-go2,.cpl-consultation .kmh-actions a:first-child){border:1px solid ButtonText;background:ButtonFace;color:ButtonText;forced-color-adjust:auto}
+}

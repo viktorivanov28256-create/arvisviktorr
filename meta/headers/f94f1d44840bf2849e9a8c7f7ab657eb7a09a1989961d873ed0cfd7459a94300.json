@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/arvis-reading-7129cf1aaf17.css",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:29 GMT",
+      "Content-Type": "text/css",
+      "Content-Length": "14082",
+      "Last-Modified": "Thu, 12 Nov 2026 21:11:06 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6af62b6a-3702\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

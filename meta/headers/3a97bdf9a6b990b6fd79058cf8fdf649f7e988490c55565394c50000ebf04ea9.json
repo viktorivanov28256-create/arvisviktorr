@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://arvisclinic.ru/original-source-media/f53d34a873-dev-volnewmer-v.jpg",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:49:36 GMT",
+      "Content-Type": "image/jpeg",
+      "Content-Length": "132867",
+      "Last-Modified": "Sat, 07 Nov 2026 13:00:23 GMT",
+      "Connection": "close",
+      "ETag": "\"6aef20e7-20703\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

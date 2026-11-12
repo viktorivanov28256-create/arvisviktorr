@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-yad-osy-pchely/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-yad-osy-pchely/1440.jpg",
+  "source_path": "site/analizy/ige-yad-osy-pchely/index.html",
+  "source_sha256": "a881841f0cc39ff7c62e136f5fd5b9e1869cd453f53fdf3988f568c21afd8bb9",
+  "started_UTC": "2026-11-12T22:03:23.979Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7147,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Анализ на аллергию на яд осы и пчелы — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 681142,
+  "sha256": "94bbfc0e08f4b67a047f480e70389f8ed28f4de0742cbfc7fcdc569173725170",
+  "finished_UTC": "2026-11-12T22:03:24.900Z"
+}

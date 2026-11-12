@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/krapivnitsa-u-rebenka/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/krapivnitsa-u-rebenka/1440.jpg",
+  "source_path": "site/articles/krapivnitsa-u-rebenka/index.html",
+  "source_sha256": "4ab114c52c911aa2673c60dd7344196328a10a48f2dad89e60467cd0cbf42f94",
+  "started_UTC": "2026-11-12T22:04:20.865Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 9040,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Крапивница у ребёнка: почему чаще всего дело не в еде — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 12,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 1015071,
+  "sha256": "f9f52eb673f6ee095395dd7a93fea6329288a666d06b5aebaf8d607b801d360e",
+  "finished_UTC": "2026-11-12T22:04:21.910Z"
+}

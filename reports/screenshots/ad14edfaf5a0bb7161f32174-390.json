@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/specials/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/specials/390.jpg",
+  "source_path": "site/specials/index.html",
+  "source_sha256": "cd9b17e26dca55cf79bbe384d3312535645f6ec88580709cfa1ae2ff77438066",
+  "started_UTC": "2026-11-12T22:06:22.741Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 4478,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Акции косметологии — Арвис Клиника, Воронеж",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 243501,
+  "sha256": "73649071e7f0f14e3a4e84b7f9ae0d223ca9fdd3bf1f3ac9a95869526c81c090",
+  "finished_UTC": "2026-11-12T22:06:23.586Z"
+}

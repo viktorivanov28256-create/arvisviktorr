@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/shlifovka-pixel/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/kosmetologiya/shlifovka-pixel/390.jpg",
+  "source_path": "site/kosmetologiya/shlifovka-pixel/index.html",
+  "source_sha256": "336ceb2b7079edc9fce840cbadc9eb58cb8ab2abc3fb6113210feb3be9ee31e4",
+  "started_UTC": "2026-11-12T22:05:42.939Z",
+  "fulfilled": 35,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 12465,
+    "fonts_status": "loaded",
+    "image_total": 8,
+    "image_loaded": 8,
+    "title": "Лазерная шлифовка Pixel в Воронеже — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 18,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 610934,
+  "sha256": "37be0190e30256a40a1b84b84ec1ccc3e15405acfae9d517813569d8ce4332a6",
+  "finished_UTC": "2026-11-12T22:05:44.464Z"
+}

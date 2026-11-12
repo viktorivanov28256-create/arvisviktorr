@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/proverit-rodinku/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/proverit-rodinku/390.jpg",
+  "source_path": "site/articles/proverit-rodinku/index.html",
+  "source_sha256": "27fb4621670e10e43ec14ea8ac15bde17785e24405beb4f33b577163c09649a9",
+  "started_UTC": "2026-11-12T22:04:36.563Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 11862,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Родинка или нет: когда нужен дерматоскоп — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 17,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 666245,
+  "sha256": "72907ada5af714452debbcf00f5c90a364c8fa068a081543d6812a3e56d0c423",
+  "finished_UTC": "2026-11-12T22:04:37.972Z"
+}

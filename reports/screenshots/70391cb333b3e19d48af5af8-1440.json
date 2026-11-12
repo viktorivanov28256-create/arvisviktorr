@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-finiki-f289/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-finiki-f289/1440.jpg",
+  "source_path": "site/analizy/ige-finiki-f289/index.html",
+  "source_sha256": "a791cd1d99666972b10e7334ed6a15e1a730aaf5d5227d48ed9f8f56c8d232bd",
+  "started_UTC": "2026-11-12T22:02:45.514Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4818,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к финикам (f289) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 548671,
+  "sha256": "a868157c6d9d59130a1bd9a1001e80b18b8dcd6b60b784e182c1f12f41a7628a",
+  "finished_UTC": "2026-11-12T22:02:46.268Z"
+}

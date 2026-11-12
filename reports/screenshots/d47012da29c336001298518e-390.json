@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/detyam/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/detyam/390.jpg",
+  "source_path": "site/detyam/index.html",
+  "source_sha256": "3bbe03c4c67fdd7a5acbbb92f0bf4145c34196db49ea869d087056628832ce85",
+  "started_UTC": "2026-11-12T22:04:58.282Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9172,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Детский аллерголог в Воронеже — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 13,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 520009,
+  "sha256": "96310f2c2b09aa2bc1ba959a08886b715e9749a54566a60d466d4db4829c0579",
+  "finished_UTC": "2026-11-12T22:04:59.441Z"
+}

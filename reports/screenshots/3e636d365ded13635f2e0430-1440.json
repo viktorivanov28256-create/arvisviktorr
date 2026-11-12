@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/beta-laktoglobulin-f77/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/beta-laktoglobulin-f77/1440.jpg",
+  "source_path": "site/analizy/beta-laktoglobulin-f77/index.html",
+  "source_sha256": "320c73e852475aad894132fc6fe23484e1f3166f8086105c43797316fa0339e4",
+  "started_UTC": "2026-11-12T22:02:25.959Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4462,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Бета-лактоглобулин Bos d 5 (f77) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 456158,
+  "sha256": "0dda986eb7fdd4016f9c9932c6fe06f6762c18b3be7a28022231c54c9b52c401",
+  "finished_UTC": "2026-11-12T22:02:26.674Z"
+}

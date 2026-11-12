@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/asit/ukoly/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/asit/ukoly/1440.jpg",
+  "source_path": "site/asit/ukoly/index.html",
+  "source_sha256": "77250fc3b2349a2688e2a6b43a26243110c564dc35c89affe642993cb5b7d1ae",
+  "started_UTC": "2026-11-12T22:04:56.218Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 6663,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Инъекционная АСИТ: подготовка к визиту и наблюдение | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 828288,
+  "sha256": "3160af3c6c7783cbf5cd0d18f9e07af896a2ab26498d88f5a2564cdd9accd12a",
+  "finished_UTC": "2026-11-12T22:04:57.186Z"
+}

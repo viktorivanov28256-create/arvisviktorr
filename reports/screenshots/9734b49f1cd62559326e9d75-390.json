@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/allergiya-na-pyl/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/allergiya-na-pyl/390.jpg",
+  "source_path": "site/articles/allergiya-na-pyl/index.html",
+  "source_sha256": "0f3b9888c51e058b4a1d5001511eca93671766618a50d1c7d9571e60a494e995",
+  "started_UTC": "2026-11-12T22:03:49.351Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 18745,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Аллергия на пыль: почему нос заложен круглый год — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 27,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 1261805,
+  "sha256": "60247a4468a406572a899e299dd25290f41de9bfd5fb4294fd3402a8056628de",
+  "finished_UTC": "2026-11-12T22:03:51.339Z"
+}

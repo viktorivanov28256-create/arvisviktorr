@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://arvisclinic.ru/upload/iblock/389/nnuo3r0riujxur9akkov6fbnqzws25pc.webp",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:34 GMT",
+      "Content-Type": "image/webp",
+      "Content-Length": "20822",
+      "Last-Modified": "Sat, 07 Nov 2026 09:30:08 GMT",
+      "Connection": "close",
+      "ETag": "\"6aeeefa0-5156\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Cache-Control": "public, max-age=3600",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

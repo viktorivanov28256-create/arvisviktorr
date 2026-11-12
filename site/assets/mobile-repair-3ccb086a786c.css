@@ -1,0 +1,115 @@
+/* Mobile-only presentation repair. Existing desktop layout, facts and booking policy are retained. */
+.arvis-mobile-start{display:none}
+
+@media(max-width:767px){
+  .site-header .header-inner{gap:6px}
+  .site-header .brand{display:flex;align-items:center;min-height:44px}
+  .site-header .brand img{width:112px;height:auto}
+  .site-header .header-actions{gap:0}
+  .site-header .header-actions>.btn{min-height:44px;padding-inline:10px;font-size:14px;line-height:1.2;white-space:nowrap;flex-shrink:0}
+  .home-page .site-header .header-actions>.btn{display:none}
+
+  /* One primary patient action before the direction selector; global search stays in the header. */
+  .home-page .xp-home-intro{padding-block:20px 18px}
+  .home-page .xp-home-intro h1{font-size:34px;line-height:1.12;font-weight:600;letter-spacing:-.03em}
+  .home-page .xp-home-description{font-size:16px;line-height:1.5;color:#4d555d;margin-top:10px}
+  .home-page .arvis-mobile-start{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:16px;margin-top:18px}
+  .home-page .arvis-mobile-start>a{min-height:48px;display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:600}
+  .home-page .arvis-mobile-start .arvis-mobile-prices{padding-inline:12px;color:#343a40;text-decoration:underline;text-underline-offset:4px}
+  .home-page .xp-home-address{min-height:44px;margin-top:8px;font-size:14px;color:#4d555d}
+  .home-page .xp-focus-bar{padding-bottom:14px;gap:0}
+  .home-page .xp-find-button{display:none}
+  .home-page .xp-focus-tabs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;width:100%;padding:0;overflow:visible}
+  .home-page .xp-focus-tabs button{min-width:0;min-height:46px;padding:10px 8px;font-size:14px;line-height:1.3;white-space:normal}
+  .home-page .xp-focus-tabs button:not([aria-selected=true]){background:#f1f3f4;color:#343a40}
+  .home-page .xp-allergy{padding-top:12px}
+  .home-page .xp-allergy-grid{display:flex;flex-direction:column;gap:24px}
+  .home-page .xp-allergy-content{order:0}
+  .home-page .xp-allergy-content h2{font-size:30px;line-height:1.12;font-weight:600;letter-spacing:-.03em;margin-bottom:10px}
+  .home-page .xp-allergy-content>.xp-location{font-size:14px;line-height:1.5;color:#4d555d;margin:0 0 12px}
+  .home-page .xp-scene-intro{font-size:16px;line-height:1.5;color:#4d5a63}
+  .home-page .xp-allergy-paths{gap:10px;margin-top:20px}
+  .home-page .xp-allergy-paths a{min-height:64px;padding-block:9px;gap:5px}
+  .home-page .xp-allergy-paths strong{font-size:17px;line-height:1.35;font-weight:600}
+  .home-page .xp-allergy-paths span{font-size:14px;line-height:1.45;color:#4d5a63}
+  .home-page .xp-allergy-scene{order:1}
+  .home-page .xp-allergy-scene .xp-procedure-photo{height:auto;aspect-ratio:4/3;object-fit:cover}
+  .home-page .xp-allergy-scene figcaption{font-size:13px;line-height:1.5;gap:4px 12px}
+  .home-page .xp-context-experts{gap:16px;padding-block:24px}
+  .home-page .xp-expert strong{font-size:16px;line-height:1.35}
+  .home-page .xp-expert>span>span{font-size:14px;line-height:1.5;color:#4d5a63}
+
+  /* Native lists remain lists/tables; improve legibility without truncating medical names. */
+  .page-intro{padding-block:24px 20px}
+  .filter-search input,.filters .select-control,.price-toolbar select{font-size:16px}
+  .doctor-card{grid-template-columns:80px minmax(0,1fr);gap:16px;padding-block:20px}
+  .doctor-card .portrait{width:80px;height:100px}
+  .doctor-card h3{font-size:20px;line-height:1.25;font-weight:600}
+  .doctor-card .doctor-role,.doctor-card .doctor-address{font-size:14px;line-height:1.5;color:#4d555d}
+  .doctor-card .doctor-price{font-size:16px;line-height:1.5}
+  .doctor-card .card-bottom{gap:6px 16px}
+  .doctor-card .card-bottom>a{display:inline-flex;align-items:center;min-height:44px}
+  .price-table td{font-size:16px;line-height:1.5}
+  .price-table td:last-child{font-size:17px;line-height:1.4;font-variant-numeric:tabular-nums}
+  .price-table td:last-child>a{min-height:44px;display:inline-flex;align-items:center;justify-content:flex-end}
+
+  /* The actual portrait stays visible, with practical details and booking above the fold. */
+  .profile-hero{padding-block:16px 28px}
+  .profile-layout{position:relative;display:block}
+  .profile-layout .profile-portrait{position:absolute;right:0;top:0;width:80px;height:100px;object-fit:cover}
+  .profile-layout>div>h1{padding-right:100px;font-size:30px;line-height:1.12;font-weight:600;letter-spacing:-.03em;margin-bottom:10px}
+  .profile-role{padding-right:100px;font-size:18px;line-height:1.4;margin:0 0 8px}
+  .profile-age{font-size:15px;line-height:1.5;margin:0}
+  .profile-practical{margin:20px 0;padding:0;background:none;border-radius:0;gap:16px}
+  .profile-practical dt{font-size:14px;line-height:1.5;margin-bottom:5px;color:#4d555d}
+  .profile-practical dd{font-size:17px;line-height:1.5}
+  .profile-practical .nowrap{font-size:22px;font-weight:600}
+  .profile-hero .actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .profile-hero .actions>a{width:100%;min-height:48px;padding:12px 10px;font-size:15px;line-height:1.3;text-align:center}
+  .profile-action-note{font-size:14px;line-height:1.5;color:#4d555d}
+
+  /* In the existing cosmetology hero, facts and actions precede the unchanged real photo. */
+  .reader .cm-hero.reader-intro--topic{margin-bottom:30px}
+  .reader .cm-hero .reader-topic-grid{display:flex;flex-direction:column;gap:0}
+  .reader .cm-hero .reader-topic-copy{display:contents}
+  .reader .cm-hero .reader-kind{display:none}
+  .reader .cm-hero .reader-title{order:10;font-size:34px;line-height:1.12;font-weight:600;letter-spacing:-.03em;margin-bottom:16px}
+  .reader .cm-hero .reader-lead{order:20;font-size:17px;line-height:1.5;margin-bottom:16px}
+  .reader .cm-hero .cm-facts{order:25;gap:16px;margin:8px 0 16px}
+  .reader .cm-hero .cm-facts dt{font-size:14px;line-height:1.4;margin-bottom:6px;color:#4d555d}
+  .reader .cm-hero .cm-facts dd{font-size:18px;line-height:1.4}
+  .reader .cm-hero .reader-actions{order:26;gap:10px 16px;margin:4px 0 24px;width:100%}
+  .reader .cm-hero .reader-actions>a{min-height:48px;font-size:15px}
+  .reader .cm-hero .reader-topic-media{order:30;margin-bottom:0}
+
+  .breadcrumbs a,.reader-breadcrumbs a{min-height:44px;display:inline-flex;align-items:center}
+  .reader-outline a{min-height:44px;display:inline-flex;align-items:center}
+  .nav-dialog a[href^="tel:"]{min-height:44px;display:inline-flex;align-items:center}
+  .site-footer a{min-height:44px}
+  .site-footer .footer-disclaimer{font-size:14px;line-height:1.5}
+}
+@media(max-width:380px){
+  .site-header .brand img{width:100px}
+}
+
+/* Keep the named parent close control clear of the provider cookie banner on phones. */
+@media(max-width:650px){
+  .medflex-round-widget .medflex-round-widget__iframe-wrapper_show{padding-top:calc(48px + env(safe-area-inset-top,0px));background:#fff}
+  .medflex-round-widget .medflex-round-widget__iframe-wrapper_show::before{content:"";position:fixed;left:16px;top:calc(10px + env(safe-area-inset-top,0px));width:112px;height:28px;background:url('/bitrix/templates/vc-site/images/arvis-logo-web.webp') left center/contain no-repeat}
+  .medflex-round-widget .medflex-round-widget__iframe-wrapper_show>[data-arvis-widget-close]{top:calc(4px + env(safe-area-inset-top,0px))!important;right:8px!important;min-height:44px;box-shadow:none}
+}
+@media(prefers-reduced-motion:reduce){
+  .medflex-round-widget__progress,.medflex-round-widget__progress-circle{animation:none!important}
+}
+
+@media(max-width:767px){
+  .home-page .xp-cosmetic-doctor .xp-expert>span>span{color:#aebac3}
+  .profile-layout>div:only-child>h1,.profile-layout>div:only-child>.profile-role{padding-right:0}
+}
+
+/* R5: two verified first-party search placeholders on the existing soft background. */
+#price-query::placeholder,#dialog-search::placeholder{color:var(--muted);opacity:1}
+
+@media (max-width:760px){
+  .reader .apv-km-hero.reader-intro--topic > .reader-topic-grid > .reader-topic-copy > .apv-lp__cta-row{order:25}
+}

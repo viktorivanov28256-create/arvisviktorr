@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/glow-flow/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/kosmetologiya/glow-flow/390.jpg",
+  "source_path": "site/kosmetologiya/glow-flow/index.html",
+  "source_sha256": "ad6f6924ce4517e05bbc2d5131e87cafa2d8eaef0159b246463606fd40521fa8",
+  "started_UTC": "2026-11-12T22:05:19.469Z",
+  "fulfilled": 45,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 14130,
+    "fonts_status": "loaded",
+    "image_total": 18,
+    "image_loaded": 18,
+    "title": "Glow Flow: лицо — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 20,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 686335,
+  "sha256": "0fc0b4641300e2ecba85b64fa02371565699588a0c5f47230707dfc134c801d5",
+  "finished_UTC": "2026-11-12T22:05:21.056Z"
+}

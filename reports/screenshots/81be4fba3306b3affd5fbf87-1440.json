@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/gribok-nogtey/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/gribok-nogtey/1440.jpg",
+  "source_path": "site/articles/gribok-nogtey/index.html",
+  "source_sha256": "1943b213b6983ce31c6eb22f06a2992aa0a46b43c530eb299f6660de63efe061",
+  "started_UTC": "2026-11-12T22:04:08.772Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 9168,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Грибок ногтей: как понять, что это он, и почему лечение длится месяцами — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 12,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 960696,
+  "sha256": "4eece58f0c1faeda72d52d7ec1f213b31a5758c94659f3733a95529221e00e82",
+  "finished_UTC": "2026-11-12T22:04:10.137Z"
+}

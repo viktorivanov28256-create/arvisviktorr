@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/mioma-matki/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/mioma-matki/390.jpg",
+  "source_path": "site/articles/mioma-matki/index.html",
+  "source_sha256": "bcbc93316cd87c3b6a433f049420269e0113dc6ac3c40342aa722fbecf7c8c6e",
+  "started_UTC": "2026-11-12T22:04:24.162Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9598,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Миома матки: когда достаточно наблюдать, а когда нужно лечение — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 13,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 489780,
+  "sha256": "66a05739b1d7da49bab03860fbf676adc3c5dfda8603108bf963805404e9bb23",
+  "finished_UTC": "2026-11-12T22:04:25.332Z"
+}

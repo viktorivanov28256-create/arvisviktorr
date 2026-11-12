@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-korova-e4/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-korova-e4/1440.jpg",
+  "source_path": "site/analizy/ige-korova-e4/index.html",
+  "source_sha256": "f04319380eea190f29aa596a83778799870268379d09b137ce0746e1e13f9c59",
+  "started_UTC": "2026-11-12T22:02:54.886Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4756,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к перхоти коровы (e4) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 555314,
+  "sha256": "ef02208b6f5fa732500a1044458241775e5315900356b5d8fd2b73d37e25568e",
+  "finished_UTC": "2026-11-12T22:02:55.657Z"
+}

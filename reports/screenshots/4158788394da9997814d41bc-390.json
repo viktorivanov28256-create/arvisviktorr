@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-chernika-golubika-brusnika/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-chernika-golubika-brusnika/390.jpg",
+  "source_path": "site/analizy/ige-chernika-golubika-brusnika/index.html",
+  "source_sha256": "f7252679a7f413c98b85de32b7b97ac35e596bde9f12130a51b3a30b399e7e19",
+  "started_UTC": "2026-11-12T22:02:41.916Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6298,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE: черника, голубика и брусника | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 394109,
+  "sha256": "594d153a33ecf959d1dd844fdd48393165e83ec679ec33257bc2255226287c96",
+  "finished_UTC": "2026-11-12T22:02:42.803Z"
+}

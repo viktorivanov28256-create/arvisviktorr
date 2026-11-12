@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/editorial/birch-catkins.jpg",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:30 GMT",
+      "Content-Type": "image/jpeg",
+      "Content-Length": "203871",
+      "Last-Modified": "Sun, 08 Nov 2026 19:53:18 GMT",
+      "Connection": "close",
+      "ETag": "\"6af0d32e-31c5f\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Cache-Control": "public, max-age=3600",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

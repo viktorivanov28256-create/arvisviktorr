@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://arvisclinic.ru/404/",
+    "kind": "page",
+    "status": 404,
+    "initial_status": 404,
+    "final_url": "https://arvisclinic.ru/404/",
+    "mime": "text/html",
+    "size": 14841,
+    "title": "Страница не найдена — Арвис Клиника",
+    "headers_path": "meta/headers/10239087fbf4c11e629baf531a2909187a0d615b9e3668ca3b1b5bb335e8cf0a.json",
+    "retrieved_UTC": "2026-11-12T21:45:29.810133+00:00",
+    "error": null,
+    "path": "site/404/index.html",
+    "sha256": "b0dfe0b9db55153053303c868473437f2c6ed5f5526629721c330b0eaa5178a1"
+  }
+]

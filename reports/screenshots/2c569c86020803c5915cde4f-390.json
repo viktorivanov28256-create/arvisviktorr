@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-toksokara-p3/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-toksokara-p3/390.jpg",
+  "source_path": "site/analizy/ige-toksokara-p3/index.html",
+  "source_sha256": "a984b2219ba93ac34c07c34042fe45089ea09e0e7a0b08c93fa27a3eb683de28",
+  "started_UTC": "2026-11-12T22:03:20.580Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6469,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к токсокаре (p3) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 407886,
+  "sha256": "28c6da50266f55b2ca825a8b6692f32640d546815dbd72e29822e57a394100da",
+  "finished_UTC": "2026-11-12T22:03:21.525Z"
+}

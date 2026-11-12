@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/phl-p-1-g205/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/phl-p-1-g205/1440.jpg",
+  "source_path": "site/analizy/phl-p-1-g205/index.html",
+  "source_sha256": "9c7308b606698997d60e8897457b877a0852c5833c264c7351a4bbb54bebe959",
+  "started_UTC": "2026-11-12T22:03:31.344Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4621,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфический IgE к Phl p 1: компонент тимофеевки (g205) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 521747,
+  "sha256": "04896a0d8834c5180228205db5280a560b4bd311e96ab129c90f3357af009cd3",
+  "finished_UTC": "2026-11-12T22:03:32.148Z"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/about/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/about/1440.jpg",
+  "source_path": "site/about/index.html",
+  "source_sha256": "732fafbedb9ce07d5ed788e0f46224ca485c6821ad6ce18ce6c99627e826f667",
+  "started_UTC": "2026-11-12T22:02:09.715Z",
+  "fulfilled": 36,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 3913,
+    "fonts_status": "loaded",
+    "image_total": 8,
+    "image_loaded": 8,
+    "title": "О клинике — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 391855,
+  "sha256": "21e81aaf61d73fe9f2285fd3e21c8ae0a9acaf3f9982e9e138f61757e2bc9aa9",
+  "finished_UTC": "2026-11-12T22:02:10.614Z"
+}

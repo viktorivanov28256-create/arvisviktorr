@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-krapiva-w20/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-krapiva-w20/1440.jpg",
+  "source_path": "site/analizy/ige-krapiva-w20/index.html",
+  "source_sha256": "9456ecbf213faa067dd77b7e6dd76b482d4f5420f1d145d2384393ef3562686b",
+  "started_UTC": "2026-11-12T22:02:56.676Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4392,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфический IgE к пыльце крапивы (w20) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 510701,
+  "sha256": "ebf1dcee85fed190448203ba0bbc82e8600232e85d76dc93c9cb4cbc0c89b2f6",
+  "finished_UTC": "2026-11-12T22:02:57.316Z"
+}

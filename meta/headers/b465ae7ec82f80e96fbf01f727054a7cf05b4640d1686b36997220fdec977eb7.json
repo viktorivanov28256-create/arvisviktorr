@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/arvis-cosmetology-prices-fe155c2ad2ef.css",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:49:59 GMT",
+      "Content-Type": "text/css",
+      "Content-Length": "16269",
+      "Last-Modified": "Wed, 11 Nov 2026 21:53:37 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6af4e3e1-3f8d\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

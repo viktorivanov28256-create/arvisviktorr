@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/patient/for-tax/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/patient/for-tax/1440.jpg",
+  "source_path": "site/patient/for-tax/index.html",
+  "source_sha256": "f01b671e35883c99b7d9cb11a6826dd9e2ccb110df42626cf5b8d38efda323f3",
+  "started_UTC": "2026-11-12T22:05:50.562Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4464,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Справка об оплате медицинских услуг для ФНС — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 450274,
+  "sha256": "d2993f2534bb74b91079f9bef2cab56c6e1dffa3ff32882008826da0f5126b4e",
+  "finished_UTC": "2026-11-12T22:05:51.237Z"
+}

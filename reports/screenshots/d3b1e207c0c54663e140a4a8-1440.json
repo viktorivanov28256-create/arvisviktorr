@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/ceny/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/kosmetologiya/ceny/1440.jpg",
+  "source_path": "site/kosmetologiya/ceny/index.html",
+  "source_sha256": "8200908761cccba94d01b99d7920b583a183d8b9ceb3c3c7fc4dbf5b441814ad",
+  "started_UTC": "2026-11-12T22:05:14.791Z",
+  "fulfilled": 34,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 15891,
+    "fonts_status": "loaded",
+    "image_total": 3,
+    "image_loaded": 3,
+    "title": "Цены на косметологию — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 21,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 994450,
+  "sha256": "1ea82f02a121a9ec17b80e18e3b45683f782d22c42d1f909a2d303c31f7c5ae1",
+  "finished_UTC": "2026-11-12T22:05:16.436Z"
+}

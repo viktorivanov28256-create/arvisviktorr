@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/uzi-malogo-taza-den-cikla/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/uzi-malogo-taza-den-cikla/1440.jpg",
+  "source_path": "site/articles/uzi-malogo-taza-den-cikla/index.html",
+  "source_sha256": "39bc52c2c7e4283b9ab81fe6501ec93167337dc8c7b9719c5a28dfdf38461b5b",
+  "started_UTC": "2026-11-12T22:04:48.557Z",
+  "fulfilled": 31,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7710,
+    "fonts_status": "loaded",
+    "image_total": 3,
+    "image_loaded": 3,
+    "title": "УЗИ малого таза: на какой день цикла и как подготовиться — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 10,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 777587,
+  "sha256": "00dc24cbbcfe641ee558c7f2fde24d53e462170bae31061ab37b4c170af60642",
+  "finished_UTC": "2026-11-12T22:04:49.534Z"
+}

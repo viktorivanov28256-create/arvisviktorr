@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-obshchiy/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-obshchiy/1440.jpg",
+  "source_path": "site/analizy/ige-obshchiy/index.html",
+  "source_sha256": "42762294227af56ef493202e2bc3050c0149022aee0543e5124f85038b97ebd1",
+  "started_UTC": "2026-11-12T22:03:06.602Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 6250,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Общий IgE — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 553946,
+  "sha256": "6387219184cc412720e3bdc9d21b7a4bd58c9e0573e31c4c758a53b68d61a314",
+  "finished_UTC": "2026-11-12T22:03:07.473Z"
+}

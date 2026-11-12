@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://arvisclinic.ru/upload/arvis-mp132-20261111/arvis-mp132-img-1446-thumb.webp",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:49:14 GMT",
+      "Content-Type": "image/webp",
+      "Content-Length": "12202",
+      "Last-Modified": "Wed, 11 Nov 2026 19:23:06 GMT",
+      "Connection": "close",
+      "ETag": "\"6af4c09a-2faa\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

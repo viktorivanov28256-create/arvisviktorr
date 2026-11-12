@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-ris-f9/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-ris-f9/1440.jpg",
+  "source_path": "site/analizy/ige-ris-f9/index.html",
+  "source_sha256": "62460bfbd57c32d5cf4db4800ebfff5f4e1d91dd0290fd2c5c3328680c488c8e",
+  "started_UTC": "2026-11-12T22:03:12.285Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 5399,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к рису (f9) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 7,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 631826,
+  "sha256": "997b3007966d1c51cacecd9646096fca336ae872e4fa915d6d01b75524af2c6a",
+  "finished_UTC": "2026-11-12T22:03:13.059Z"
+}

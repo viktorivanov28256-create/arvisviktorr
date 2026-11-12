@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/chem-lechit-allergiyu-na-polyn/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/chem-lechit-allergiyu-na-polyn/390.jpg",
+  "source_path": "site/articles/chem-lechit-allergiyu-na-polyn/index.html",
+  "source_sha256": "4faec4dd408c42c7e869cfd6ea672d722837c589e75066ce4a5930ae809b200a",
+  "started_UTC": "2026-11-12T22:03:58.699Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 12983,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Чем лечить аллергию на полынь и амброзию: от таблеток до лечения причины — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 18,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 782646,
+  "sha256": "5fd74ba7485e16191557f108a63930e1024f097dbff85b80425218516ba4e4b3",
+  "finished_UTC": "2026-11-12T22:04:00.124Z"
+}

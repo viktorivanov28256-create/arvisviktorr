@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/vtoroy-podborodok/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/vtoroy-podborodok/390.jpg",
+  "source_path": "site/articles/vtoroy-podborodok/index.html",
+  "source_sha256": "f4ca04581f1e0a7aac16684c02ef12bc362ccf572eea7d8cea95e7730a739b94",
+  "started_UTC": "2026-11-12T22:04:52.286Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9090,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Второй подбородок: что поможет без операции — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 13,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 476556,
+  "sha256": "df3fb69791efa68ce39ce4f8b521225775d2a709119514d573226ec74461b108",
+  "finished_UTC": "2026-11-12T22:04:53.469Z"
+}

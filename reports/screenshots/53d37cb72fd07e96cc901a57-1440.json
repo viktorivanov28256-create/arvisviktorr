@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/eozinofilnyy-kationnyy-belok/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/eozinofilnyy-kationnyy-belok/1440.jpg",
+  "source_path": "site/analizy/eozinofilnyy-kationnyy-belok/index.html",
+  "source_sha256": "dda59c61c1b87f621702cece8c9de0a8c824e03564ca363720faa85e2f5f0e4b",
+  "started_UTC": "2026-11-12T22:02:28.399Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 6382,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Эозинофильный катионный белок (ImmunoCAP) — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 604997,
+  "sha256": "8721f37a469a3edceb3eda2d3df5eb9e9aa00e51a1bf5654fd50a9bee51bcbcd",
+  "finished_UTC": "2026-11-12T22:02:29.352Z"
+}

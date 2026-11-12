@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/rozacea/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/rozacea/1440.jpg",
+  "source_path": "site/articles/rozacea/index.html",
+  "source_sha256": "87f81f993bc2b80f660886c2a29b3811984a62cdd8862b37c46b8589a42eb3e4",
+  "started_UTC": "2026-11-12T22:04:39.896Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 12619,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Розацеа: почему лицо краснеет и покрывается «прыщами» после тридцати и что помогает на самом деле — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 17,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 1502065,
+  "sha256": "22fdefc22f298d19e6c0fe1d55b962280dbf03ce3fd3e9c961deed62b90f7bd2",
+  "finished_UTC": "2026-11-12T22:04:41.709Z"
+}

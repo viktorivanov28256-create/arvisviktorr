@@ -1,0 +1,2207 @@
+{
+  "manifest_sha256": "e7d8f785c40c1d276c7b82bcf4b7620c7d6e969b815bea2a2957698641d0fe10",
+  "pages": [
+    {
+      "url": "https://arvisclinic.ru/",
+      "source_path": "site/index.html",
+      "source_sha256": "52e741cba6ab5762fcb8453049329331e6344ad058ec9fe4440fb9d23cebb6a2",
+      "directory": "shots/index"
+    },
+    {
+      "url": "https://arvisclinic.ru/404/",
+      "source_path": "site/404/index.html",
+      "source_sha256": "b0dfe0b9db55153053303c868473437f2c6ed5f5526629721c330b0eaa5178a1",
+      "directory": "shots/404"
+    },
+    {
+      "url": "https://arvisclinic.ru/about/",
+      "source_path": "site/about/index.html",
+      "source_sha256": "732fafbedb9ce07d5ed788e0f46224ca485c6821ad6ce18ce6c99627e826f667",
+      "directory": "shots/about"
+    },
+    {
+      "url": "https://arvisclinic.ru/about/authorities/",
+      "source_path": "site/about/authorities/index.html",
+      "source_sha256": "1edd78f4bcb0b1f9ffc559611b4bab06235c6000ad7026e3939a07ce22ca2ba3",
+      "directory": "shots/about/authorities"
+    },
+    {
+      "url": "https://arvisclinic.ru/about/documents/",
+      "source_path": "site/about/documents/index.html",
+      "source_sha256": "117d0165668e903bf9b973ca892ce7d2ab0e02e6427d70abe7fb89aee2315bfc",
+      "directory": "shots/about/documents"
+    },
+    {
+      "url": "https://arvisclinic.ru/about/news/",
+      "source_path": "site/about/news/index.html",
+      "source_sha256": "1b3ca58183204c41743b650573e25cc6b7805fc50362ab52027dadc314e1908f",
+      "directory": "shots/about/news"
+    },
+    {
+      "url": "https://arvisclinic.ru/about/privacy-policy/",
+      "source_path": "site/about/privacy-policy/index.html",
+      "source_sha256": "0f6f5fe5587363dc91a535560ec6050c6a339045dd2a62a610228c90e77b0818",
+      "directory": "shots/about/privacy-policy"
+    },
+    {
+      "url": "https://arvisclinic.ru/about/requisites/",
+      "source_path": "site/about/requisites/index.html",
+      "source_sha256": "5b24030d84bf6dff5218101f92caee6af40c13196ffdd1c34b0059d200151151",
+      "directory": "shots/about/requisites"
+    },
+    {
+      "url": "https://arvisclinic.ru/allergarda/",
+      "source_path": "site/allergarda/index.html",
+      "source_sha256": "58a3a56691f07fc47833685c64f9e79c968a33ffd73dc9653b6bbb2b4a2e5df1",
+      "directory": "shots/allergarda"
+    },
+    {
+      "url": "https://arvisclinic.ru/allergarda/issledovaniya/",
+      "source_path": "site/allergarda/issledovaniya/index.html",
+      "source_sha256": "4357c026695c6de0aa8d75f8e830ee22f766dc86f692ffca0c25b80d32a07118",
+      "directory": "shots/allergarda/issledovaniya"
+    },
+    {
+      "url": "https://arvisclinic.ru/allergarda/kurs/",
+      "source_path": "site/allergarda/kurs/index.html",
+      "source_sha256": "a9ab8c3902ec78475cb29e474599b79d63f51cb343db12829d09afde1aacc64f",
+      "directory": "shots/allergarda/kurs"
+    },
+    {
+      "url": "https://arvisclinic.ru/allergarda/voprosy/",
+      "source_path": "site/allergarda/voprosy/index.html",
+      "source_sha256": "477bc838dfa84aed637ede01d48d468814f3fd81dd06b678ca19bd6a99008b8e",
+      "directory": "shots/allergarda/voprosy"
+    },
+    {
+      "url": "https://arvisclinic.ru/allergolog/",
+      "source_path": "site/allergolog/index.html",
+      "source_sha256": "65d5b30f3a0526497fcbb8cda4d952488c14d55819c387a936a4d69e67dea455",
+      "directory": "shots/allergolog"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/",
+      "source_path": "site/analizy/index.html",
+      "source_sha256": "1b79edcf2fb6c3b8fe8b7666156010cf1327ce606cc9276ad6352e5f49e16a16",
+      "directory": "shots/analizy"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/alex3/",
+      "source_path": "site/analizy/alex3/index.html",
+      "source_sha256": "71cda314eea1fd9d4ff1442456cf6b4a9fc6851d5cfffa31a1c1aa8b76ea931b",
+      "directory": "shots/analizy/alex3"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/alfa-laktalbumin-f76/",
+      "source_path": "site/analizy/alfa-laktalbumin-f76/index.html",
+      "source_sha256": "15292f15c7b69ed7d13e95f076523e8a71f9943c066c90e7dfa39546c6128ae8",
+      "directory": "shots/analizy/alfa-laktalbumin-f76"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/allergokomponenty/",
+      "source_path": "site/analizy/allergokomponenty/index.html",
+      "source_sha256": "90c54ea64750f14001722c28bbeb80ceaa3b10545dd3c6cf4a59180c13b447f0",
+      "directory": "shots/analizy/allergokomponenty"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/allergopaneli/",
+      "source_path": "site/analizy/allergopaneli/index.html",
+      "source_sha256": "08344e2e53ba92f8736c01c241a0bac50806dd823bae5e7ea63317f0a43aeda8",
+      "directory": "shots/analizy/allergopaneli"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/alt-a-1-m229/",
+      "source_path": "site/analizy/alt-a-1-m229/index.html",
+      "source_sha256": "2ebf4c93aef4df71c498f3bc19d2be1199ac706dc731ecd75a86c27a3aa74ba0",
+      "directory": "shots/analizy/alt-a-1-m229"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ara-h-1-f422/",
+      "source_path": "site/analizy/ara-h-1-f422/index.html",
+      "source_sha256": "1c692417e1aab6854c48fc40ddaa0a59f4e6329d5b59c05ef1c46f2013aba77e",
+      "directory": "shots/analizy/ara-h-1-f422"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ara-h-2-f423/",
+      "source_path": "site/analizy/ara-h-2-f423/index.html",
+      "source_sha256": "ed2df4e78fbfd0f0d6a1e8b027c8f24bb2a75dc4987820f74c027e710bce1132",
+      "directory": "shots/analizy/ara-h-2-f423"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ara-h-3-f424/",
+      "source_path": "site/analizy/ara-h-3-f424/index.html",
+      "source_sha256": "273713a1e0883f71527d44c675788f90a21f04354f56c9fa116dfdc3de2fad35",
+      "directory": "shots/analizy/ara-h-3-f424"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ara-h-8-f352/",
+      "source_path": "site/analizy/ara-h-8-f352/index.html",
+      "source_sha256": "487fdde9f61e50f7e5b42cde8431eb1d4b67d2930872f1757b7999d099bcda42",
+      "directory": "shots/analizy/ara-h-8-f352"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ara-h-9-f427/",
+      "source_path": "site/analizy/ara-h-9-f427/index.html",
+      "source_sha256": "f4f8c22f536587452b8ae5369893e8e845c017c98f2f90a6c24e868660a9d98a",
+      "directory": "shots/analizy/ara-h-9-f427"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/art-v-1-w231/",
+      "source_path": "site/analizy/art-v-1-w231/index.html",
+      "source_sha256": "3f2c131336e87ea485ecf07bfea3cd5934fe8c75a496bc541dacbddf17551e6d",
+      "directory": "shots/analizy/art-v-1-w231"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/bet-v-1-t215/",
+      "source_path": "site/analizy/bet-v-1-t215/index.html",
+      "source_sha256": "deec1077652ed2b9a2e1af8ae25f79f17d4a259baf4a2338d2a86b4368dcd2eb",
+      "directory": "shots/analizy/bet-v-1-t215"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/beta-laktoglobulin-f77/",
+      "source_path": "site/analizy/beta-laktoglobulin-f77/index.html",
+      "source_sha256": "320c73e852475aad894132fc6fe23484e1f3166f8086105c43797316fa0339e4",
+      "directory": "shots/analizy/beta-laktoglobulin-f77"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/bos-d-6-e204/",
+      "source_path": "site/analizy/bos-d-6-e204/index.html",
+      "source_sha256": "8543338cb55d7c033b3bec78c1413cbf1ddd979ababd0cc37914b25bfe3232e0",
+      "directory": "shots/analizy/bos-d-6-e204"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/can-f-2-e102/",
+      "source_path": "site/analizy/can-f-2-e102/index.html",
+      "source_sha256": "4ca6f1e90deee8efcf662d21352c0013d480f393902dc0b997100a17d239593d",
+      "directory": "shots/analizy/can-f-2-e102"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/der-p-1-d202/",
+      "source_path": "site/analizy/der-p-1-d202/index.html",
+      "source_sha256": "fdfb6b56e8dd07e9a5517f91c72a4b8c04e2dcb43cf6fee00166b5104134b5c2",
+      "directory": "shots/analizy/der-p-1-d202"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/der-p-10-d205/",
+      "source_path": "site/analizy/der-p-10-d205/index.html",
+      "source_sha256": "7697363b33eaa7366b4fa8df9ad936da57f0fb84bee73d3cd9b0765c42743cce",
+      "directory": "shots/analizy/der-p-10-d205"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/eozinofilnyy-kationnyy-belok/",
+      "source_path": "site/analizy/eozinofilnyy-kationnyy-belok/index.html",
+      "source_sha256": "dda59c61c1b87f621702cece8c9de0a8c824e03564ca363720faa85e2f5f0e4b",
+      "directory": "shots/analizy/eozinofilnyy-kationnyy-belok"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/fadiatop-detskiy/",
+      "source_path": "site/analizy/fadiatop-detskiy/index.html",
+      "source_sha256": "b61cf77d62f7ec0e221cf5d7c27ea3dfe81525edea4d27b0e095616c2d319e21",
+      "directory": "shots/analizy/fadiatop-detskiy"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/fadiatop/",
+      "source_path": "site/analizy/fadiatop/index.html",
+      "source_sha256": "378925cd4efe13a4010f1f0bdfbffcb070b841162bec20b449b0e0c247229e1b",
+      "directory": "shots/analizy/fadiatop"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/fel-d-1-e94/",
+      "source_path": "site/analizy/fel-d-1-e94/index.html",
+      "source_sha256": "8154bd1249c2adf26c90a91119c61e6a821863c2077e5707eabcb02851830e0f",
+      "directory": "shots/analizy/fel-d-1-e94"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/fel-d-2-e220/",
+      "source_path": "site/analizy/fel-d-2-e220/index.html",
+      "source_sha256": "4d96ae53dc26106cf5b21bb04d440185ecc03ae46fcc286c830e4ffa1f422a6a",
+      "directory": "shots/analizy/fel-d-2-e220"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/gipereozinofilnyy-sindrom/",
+      "source_path": "site/analizy/gipereozinofilnyy-sindrom/index.html",
+      "source_sha256": "35eec400dd98e73728dd29188c165e7b4c882edea9d63ecd5f8e059fa74e9d67",
+      "directory": "shots/analizy/gipereozinofilnyy-sindrom"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/gly-m-4-f353/",
+      "source_path": "site/analizy/gly-m-4-f353/index.html",
+      "source_sha256": "7cac8de591e8f8265ef16e84e4e50f11d1e58d25689ed74b9b791c3da59fef6b",
+      "directory": "shots/analizy/gly-m-4-f353"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-abrikos-f237/",
+      "source_path": "site/analizy/ige-abrikos-f237/index.html",
+      "source_sha256": "d15d835e588c09e61de44152060df67d2d0acaca7f18574c951d92763f1eb7f7",
+      "directory": "shots/analizy/ige-abrikos-f237"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-aloe-w65/",
+      "source_path": "site/analizy/ige-aloe-w65/index.html",
+      "source_sha256": "bcae0cb02239685c3d86de0eadc8dee91ec1f884d336fffe031ea8a6f58f5460",
+      "directory": "shots/analizy/ige-aloe-w65"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-alternaria-m6/",
+      "source_path": "site/analizy/ige-alternaria-m6/index.html",
+      "source_sha256": "b1161aa96f685e5ab7bb9d5c1dcca8b511c9c65924ea7a085628953e68848ccc",
+      "directory": "shots/analizy/ige-alternaria-m6"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-ambroziya-w1/",
+      "source_path": "site/analizy/ige-ambroziya-w1/index.html",
+      "source_sha256": "facfd4f830f8172b8dfba2ec9bdb0cd41bd348fcb545aaaa0b46e67af77cd330",
+      "directory": "shots/analizy/ige-ambroziya-w1"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-ananas-f210/",
+      "source_path": "site/analizy/ige-ananas-f210/index.html",
+      "source_sha256": "a3bb59fcd2c830034eb61cd3db2190078f071987a038167fe2b3eba1cbab7719",
+      "directory": "shots/analizy/ige-ananas-f210"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-anis-f271/",
+      "source_path": "site/analizy/ige-anis-f271/index.html",
+      "source_sha256": "139a5668054a09d0b8add203235fd4609cb94b29e4c58160f9b046adf9fa6c7c",
+      "directory": "shots/analizy/ige-anis-f271"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-arakhis-f13/",
+      "source_path": "site/analizy/ige-arakhis-f13/index.html",
+      "source_sha256": "4355bb09b013c9a5e50f23040285ce408965bfd9dcf3aa0412bfbc55608447a5",
+      "directory": "shots/analizy/ige-arakhis-f13"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-aspergillus-fumigatus-m3/",
+      "source_path": "site/analizy/ige-aspergillus-fumigatus-m3/index.html",
+      "source_sha256": "a09b3c14670ddfca15d86bd1ba54ae322d5e3f4d32657d76ebca68441f8aeaaf",
+      "directory": "shots/analizy/ige-aspergillus-fumigatus-m3"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-baklazhan-f262/",
+      "source_path": "site/analizy/ige-baklazhan-f262/index.html",
+      "source_sha256": "aa58084cb717b8fbe663df9ecaf6b82c83878c18925e58b8a5e52e3aa6461d7f",
+      "directory": "shots/analizy/ige-baklazhan-f262"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-baranina-f88/",
+      "source_path": "site/analizy/ige-baranina-f88/index.html",
+      "source_sha256": "f82f8040e26bf940d1d4f5c6cbdf4f7a7ddb5864b50ea600a4ef38d6e7c6ace6",
+      "directory": "shots/analizy/ige-baranina-f88"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-belokochannaya-kapusta-f216/",
+      "source_path": "site/analizy/ige-belokochannaya-kapusta-f216/index.html",
+      "source_sha256": "0645a1bcf4fbb76c03e1c53ec7948fa0b7eb3c33377168be1bad089638040140",
+      "directory": "shots/analizy/ige-belokochannaya-kapusta-f216"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-bereza-t3/",
+      "source_path": "site/analizy/ige-bereza-t3/index.html",
+      "source_sha256": "8bbf0de88744d44013646b34298986bd561b375018332eff339c12b751f8c530",
+      "directory": "shots/analizy/ige-bereza-t3"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-chelovecheskiy-insulin-c73/",
+      "source_path": "site/analizy/ige-chelovecheskiy-insulin-c73/index.html",
+      "source_sha256": "0e89b903d3b0e2fb857d1ede05b11bf4165548f97e0372a6a9bc968c24710bea",
+      "directory": "shots/analizy/ige-chelovecheskiy-insulin-c73"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-cheremukha-t38/",
+      "source_path": "site/analizy/ige-cheremukha-t38/index.html",
+      "source_sha256": "de4377623a1cd3f9f7e86510c673f16af16b7d84fe3660773ab2455319735336",
+      "directory": "shots/analizy/ige-cheremukha-t38"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-chereshnya-i-vishnya-f242/",
+      "source_path": "site/analizy/ige-chereshnya-i-vishnya-f242/index.html",
+      "source_sha256": "975e3cf7507c11053765aef2f31995a51b712e8d9547ff9b415d3065f79d04a9",
+      "directory": "shots/analizy/ige-chereshnya-i-vishnya-f242"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-chernika-golubika-brusnika/",
+      "source_path": "site/analizy/ige-chernika-golubika-brusnika/index.html",
+      "source_sha256": "f7252679a7f413c98b85de32b7b97ac35e596bde9f12130a51b3a30b399e7e19",
+      "directory": "shots/analizy/ige-chernika-golubika-brusnika"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-cladosporium-m2/",
+      "source_path": "site/analizy/ige-cladosporium-m2/index.html",
+      "source_sha256": "4ad2cc5833c90e9b94dd865b606fb7977cd46db4391c73c83c3a7116f814acc4",
+      "directory": "shots/analizy/ige-cladosporium-m2"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-domashnyaya-pyl-h1/",
+      "source_path": "site/analizy/ige-domashnyaya-pyl-h1/index.html",
+      "source_sha256": "6d40923bcf932e122eb4e52758a79e22e18eb96ad269d40d4dfeb6e8e3875f4d",
+      "directory": "shots/analizy/ige-domashnyaya-pyl-h1"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-dynya-f87/",
+      "source_path": "site/analizy/ige-dynya-f87/index.html",
+      "source_sha256": "0c528a877b881ff8f458ba7416bf2908be6be861f9ed1b0b491f5d266effbde2",
+      "directory": "shots/analizy/ige-dynya-f87"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-enterotoksin-a-stafilokokka-m80/",
+      "source_path": "site/analizy/ige-enterotoksin-a-stafilokokka-m80/index.html",
+      "source_sha256": "63fe291fb905ab0102aeff50c6a491590bcde93dcb9d075ed63011de04ba78bf",
+      "directory": "shots/analizy/ige-enterotoksin-a-stafilokokka-m80"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-ezha-sbornaya-g3/",
+      "source_path": "site/analizy/ige-ezha-sbornaya-g3/index.html",
+      "source_sha256": "e2d47b89b2b47dce1b54129037164d6672c006eee04d51f470e997d05009a096",
+      "directory": "shots/analizy/ige-ezha-sbornaya-g3"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-finiki-f289/",
+      "source_path": "site/analizy/ige-finiki-f289/index.html",
+      "source_sha256": "a791cd1d99666972b10e7334ed6a15e1a730aaf5d5227d48ed9f8f56c8d232bd",
+      "directory": "shots/analizy/ige-finiki-f289"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-fistashki-f203/",
+      "source_path": "site/analizy/ige-fistashki-f203/index.html",
+      "source_sha256": "f233c41cf4c6353aba6a12ae2cb540f265cc095ee80d79f35d1600ff90de2d95",
+      "directory": "shots/analizy/ige-fistashki-f203"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-funduk-f17/",
+      "source_path": "site/analizy/ige-funduk-f17/index.html",
+      "source_sha256": "8f3985b578cb6ad63cfccc43720e6c80c1e8e10d7ed72c6bf515d8f5fdd70eb0",
+      "directory": "shots/analizy/ige-funduk-f17"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-geran-w35/",
+      "source_path": "site/analizy/ige-geran-w35/index.html",
+      "source_sha256": "680a73c700baf6f36cad76ec32aca402000c4172759054820d33bced250b1769",
+      "directory": "shots/analizy/ige-geran-w35"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-govyadina-f27/",
+      "source_path": "site/analizy/ige-govyadina-f27/index.html",
+      "source_sha256": "6b4c04d8387ae5eaa5b9e009891132542dbba6a8af848f66aaaf873f524ff7f5",
+      "directory": "shots/analizy/ige-govyadina-f27"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-greypfrut-f209/",
+      "source_path": "site/analizy/ige-greypfrut-f209/index.html",
+      "source_sha256": "df0414d7b5d9831224c9e3893f8888380f37bf7ca89ae2eb7c0d0f549be41ff8",
+      "directory": "shots/analizy/ige-greypfrut-f209"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-grusha-f94/",
+      "source_path": "site/analizy/ige-grusha-f94/index.html",
+      "source_sha256": "8845efeebffc242bed203c121cb39364dd6eede287b85234e43d8f9963b47bdb",
+      "directory": "shots/analizy/ige-grusha-f94"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-gusinoe-pero-e70/",
+      "source_path": "site/analizy/ige-gusinoe-pero-e70/index.html",
+      "source_sha256": "430e2d9e5932508588aab65f9020c8e1e373f1ddf0f742651af692a469ffe408",
+      "directory": "shots/analizy/ige-gusinoe-pero-e70"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-imbir-f270/",
+      "source_path": "site/analizy/ige-imbir-f270/index.html",
+      "source_sha256": "acf6bf41656c6c579c8ee695cfa8ebc7176c2c27a62b669d69b5288142ebfe5e",
+      "directory": "shots/analizy/ige-imbir-f270"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-khlorgeksidin-c8/",
+      "source_path": "site/analizy/ige-khlorgeksidin-c8/index.html",
+      "source_sha256": "cb62099e1ecf98c57731978f947819ffd901bb8b897940965bfb2849c9f05c7a",
+      "directory": "shots/analizy/ige-khlorgeksidin-c8"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-khomyak-e84/",
+      "source_path": "site/analizy/ige-khomyak-e84/index.html",
+      "source_sha256": "17ba7cf6742bc1218adf725e7a93e94f44f4bbef8264b807782cf9ed65f7ae4a",
+      "directory": "shots/analizy/ige-khomyak-e84"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-kleshch-domashney-pyli/",
+      "source_path": "site/analizy/ige-kleshch-domashney-pyli/index.html",
+      "source_sha256": "1ef5d8cd235fd15ad3399b96f01500306fa8f43b7f41daf61773c63aaa4fb830",
+      "directory": "shots/analizy/ige-kleshch-domashney-pyli"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-kleshch-euroglyphus-maynei-d74/",
+      "source_path": "site/analizy/ige-kleshch-euroglyphus-maynei-d74/index.html",
+      "source_sha256": "5c6ee4d8947bc442b9de1e2ff8d517cfcd15fd1175800b1dad988904abfbb266",
+      "directory": "shots/analizy/ige-kleshch-euroglyphus-maynei-d74"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-klever-lugovoy-w34/",
+      "source_path": "site/analizy/ige-klever-lugovoy-w34/index.html",
+      "source_sha256": "b9d7e8bd1aceca964ab5ead2f02055ef64b38c699bf5d0351066fb0ea6fc353c",
+      "directory": "shots/analizy/ige-klever-lugovoy-w34"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-konskiy-kashtan-t203/",
+      "source_path": "site/analizy/ige-konskiy-kashtan-t203/index.html",
+      "source_sha256": "9bcb6a3d138aa9e61baad0535a00edad28604a05e4f11389cc6d76718077d7b0",
+      "directory": "shots/analizy/ige-konskiy-kashtan-t203"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-korova-e4/",
+      "source_path": "site/analizy/ige-korova-e4/index.html",
+      "source_sha256": "f04319380eea190f29aa596a83778799870268379d09b137ce0746e1e13f9c59",
+      "directory": "shots/analizy/ige-korova-e4"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-koshka-e1/",
+      "source_path": "site/analizy/ige-koshka-e1/index.html",
+      "source_sha256": "6db16e14b22fe6016c8cd67439657d6e62e462a5babde429edbdc35a3723258f",
+      "directory": "shots/analizy/ige-koshka-e1"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-koster-bezostyy-g11/",
+      "source_path": "site/analizy/ige-koster-bezostyy-g11/index.html",
+      "source_sha256": "9a0058cabfe11d281b4e18b57961f46eb0cf5f67177b38a3d36a401e77ace6cb",
+      "directory": "shots/analizy/ige-koster-bezostyy-g11"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-krapiva-w20/",
+      "source_path": "site/analizy/ige-krapiva-w20/index.html",
+      "source_sha256": "9456ecbf213faa067dd77b7e6dd76b482d4f5420f1d145d2384393ef3562686b",
+      "directory": "shots/analizy/ige-krapiva-w20"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-krevetka-f24/",
+      "source_path": "site/analizy/ige-krevetka-f24/index.html",
+      "source_sha256": "337db62fc9f1f45ef243a6316398af3f2e90cf8d9fe8fffc407d71065d18601d",
+      "directory": "shots/analizy/ige-krevetka-f24"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-krysa-e87/",
+      "source_path": "site/analizy/ige-krysa-e87/index.html",
+      "source_sha256": "170e813801c75d28008ee7ff983007e85944442e54910b78adf15019f98ece51",
+      "directory": "shots/analizy/ige-krysa-e87"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-kryzhovnik-f327/",
+      "source_path": "site/analizy/ige-kryzhovnik-f327/index.html",
+      "source_sha256": "005c51e6776342079184f5489dbaa528853816f9f0e120480f2e5a0004aaa1d7",
+      "directory": "shots/analizy/ige-kryzhovnik-f327"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-kukuruza-f8/",
+      "source_path": "site/analizy/ige-kukuruza-f8/index.html",
+      "source_sha256": "fd31c5a346c96f6a7cf540a94aa3f845ef94ab6078679e2ceffe36f881ecc465",
+      "directory": "shots/analizy/ige-kukuruza-f8"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-kukuruza-g202/",
+      "source_path": "site/analizy/ige-kukuruza-g202/index.html",
+      "source_sha256": "451b7130d9217a97f4fe7c73c21a9dda6477137f3083ef18b6dd3c75589ee766",
+      "directory": "shots/analizy/ige-kukuruza-g202"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-lebeda-w15/",
+      "source_path": "site/analizy/ige-lebeda-w15/index.html",
+      "source_sha256": "94b0ac51a46988db9c24610f6514be40796feccb5a0feeec6c0c976cd49bef5a",
+      "directory": "shots/analizy/ige-lebeda-w15"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-leshchina-t4/",
+      "source_path": "site/analizy/ige-leshchina-t4/index.html",
+      "source_sha256": "683db257fda0d261cecb6c1d759a998cf20e0b0fc337d92116803da8c180d7d6",
+      "directory": "shots/analizy/ige-leshchina-t4"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-mak-f224/",
+      "source_path": "site/analizy/ige-mak-f224/index.html",
+      "source_sha256": "c827de687b68a11f53f006051f9284c9dfeb24079878c4947290a29cb7c01d57",
+      "directory": "shots/analizy/ige-mak-f224"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-masliny-i-olivki-f342/",
+      "source_path": "site/analizy/ige-masliny-i-olivki-f342/index.html",
+      "source_sha256": "9d84da9d4d484e7ccf3797036c5029a8dfd06ff7986bd6cb8c7172e55ea0be3e",
+      "directory": "shots/analizy/ige-masliny-i-olivki-f342"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-mat-i-machekha-w38/",
+      "source_path": "site/analizy/ige-mat-i-machekha-w38/index.html",
+      "source_sha256": "d88c79a56d81cff2493784c069ff195c7c631182eb5ac821bde0689a40ba1b49",
+      "directory": "shots/analizy/ige-mat-i-machekha-w38"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-molochnaya-syvorotka-f236/",
+      "source_path": "site/analizy/ige-molochnaya-syvorotka-f236/index.html",
+      "source_sha256": "91fc959bb2cf9071d04f900c4904b8e24d79027810cfd9013376c1c69c8fcb47",
+      "directory": "shots/analizy/ige-molochnaya-syvorotka-f236"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-moloko-f2/",
+      "source_path": "site/analizy/ige-moloko-f2/index.html",
+      "source_sha256": "8de987987f0e320427fb2ad4600c04e9ffb51779916e0300c154313a253bd0db",
+      "directory": "shots/analizy/ige-moloko-f2"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-motyl-i73/",
+      "source_path": "site/analizy/ige-motyl-i73/index.html",
+      "source_sha256": "0cf51ee2a03d11df13f98e1caca5f2a30b441da5716cfbf102ead2dc474c10eb",
+      "directory": "shots/analizy/ige-motyl-i73"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-myatlik-lugovoy-g8/",
+      "source_path": "site/analizy/ige-myatlik-lugovoy-g8/index.html",
+      "source_sha256": "ec9f704efa9e2cb44a4d68dce0c61e40781369143255cd71fe58fe6d8817eae6",
+      "directory": "shots/analizy/ige-myatlik-lugovoy-g8"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-mysh-e88/",
+      "source_path": "site/analizy/ige-mysh-e88/index.html",
+      "source_sha256": "3df251c3f81dbea5e6118f30da202fc83022f2fdd0c8c96bca68a79fbffa1ca4",
+      "directory": "shots/analizy/ige-mysh-e88"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-nivyanik-w7/",
+      "source_path": "site/analizy/ige-nivyanik-w7/index.html",
+      "source_sha256": "cc57fb9bdd7c5c619f04c04533ec3e79ce4d3b7c9417365d0c6cbddea283de3b",
+      "directory": "shots/analizy/ige-nivyanik-w7"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-obshchiy/",
+      "source_path": "site/analizy/ige-obshchiy/index.html",
+      "source_sha256": "42762294227af56ef493202e2bc3050c0149022aee0543e5124f85038b97ebd1",
+      "directory": "shots/analizy/ige-obshchiy"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-oduvanchik-w8/",
+      "source_path": "site/analizy/ige-oduvanchik-w8/index.html",
+      "source_sha256": "e2acfab71d46f43368fa18741b34be9f0148d0ad2b8289f173f1af17fe76849b",
+      "directory": "shots/analizy/ige-oduvanchik-w8"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-paltus-f303/",
+      "source_path": "site/analizy/ige-paltus-f303/index.html",
+      "source_sha256": "dbc2538c23c9bd61d11fc08464fa12886df1ef94642d66370d9b3062e3401c90",
+      "directory": "shots/analizy/ige-paltus-f303"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-pekarskie-drozhzhi-f45/",
+      "source_path": "site/analizy/ige-pekarskie-drozhzhi-f45/index.html",
+      "source_sha256": "9fcd18795304e1a83c543baa8deabc1b22d084e1ecc1ab3c9ccbda878d6e028a",
+      "directory": "shots/analizy/ige-pekarskie-drozhzhi-f45"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-penicillium-m1/",
+      "source_path": "site/analizy/ige-penicillium-m1/index.html",
+      "source_sha256": "786b037413313a80803d028222f05ed8acc8a9f3cb030db07226098ba51a1007",
+      "directory": "shots/analizy/ige-penicillium-m1"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-penitsillin-v-c2/",
+      "source_path": "site/analizy/ige-penitsillin-v-c2/index.html",
+      "source_sha256": "5230f11fc0427735359c0dc907e6b12eeb012d287cecab97b28f0e12422a4039",
+      "directory": "shots/analizy/ige-penitsillin-v-c2"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-polyn-w6/",
+      "source_path": "site/analizy/ige-polyn-w6/index.html",
+      "source_sha256": "0fbd9119db49ba766b04e61aa3209a993888b975f87c2c4e175e3d5a8f8d88bb",
+      "directory": "shots/analizy/ige-polyn-w6"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-popugai-e78/",
+      "source_path": "site/analizy/ige-popugai-e78/index.html",
+      "source_sha256": "69ddf114719d900aba317ca58ec664521e1992b78636efe7a164a18a5f780e9c",
+      "directory": "shots/analizy/ige-popugai-e78"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-pshenitsa-f4/",
+      "source_path": "site/analizy/ige-pshenitsa-f4/index.html",
+      "source_sha256": "633a2392d4491f1613c4ac055da66de9b6d9aeeeef89c7339929508b96655160",
+      "directory": "shots/analizy/ige-pshenitsa-f4"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-pshenitsa-posevnaya-g15/",
+      "source_path": "site/analizy/ige-pshenitsa-posevnaya-g15/index.html",
+      "source_sha256": "0833a327579f0dcda50f139dd7ac818cb0ad560a307632edf89eb3a27ca5f6b1",
+      "directory": "shots/analizy/ige-pshenitsa-posevnaya-g15"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-ris-f9/",
+      "source_path": "site/analizy/ige-ris-f9/index.html",
+      "source_sha256": "62460bfbd57c32d5cf4db4800ebfff5f4e1d91dd0290fd2c5c3328680c488c8e",
+      "directory": "shots/analizy/ige-ris-f9"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-romashka-w206/",
+      "source_path": "site/analizy/ige-romashka-w206/index.html",
+      "source_sha256": "b3d258ae7dafb376a9ea0967984a0d0b38d6220be593d012eefaf3ff4846ff5f",
+      "directory": "shots/analizy/ige-romashka-w206"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-roza-w28/",
+      "source_path": "site/analizy/ige-roza-w28/index.html",
+      "source_sha256": "d0aa3f9a6026c24a584b8975c4c8f5ceb0be8cf190f002d854b28eca55c03955",
+      "directory": "shots/analizy/ige-roza-w28"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-rozh-posevnaya-g12/",
+      "source_path": "site/analizy/ige-rozh-posevnaya-g12/index.html",
+      "source_sha256": "989f35e713f0ac223eed11e211138b53df4e3402697c32f9793cb2af0123bce5",
+      "directory": "shots/analizy/ige-rozh-posevnaya-g12"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-rozmarin-f335/",
+      "source_path": "site/analizy/ige-rozmarin-f335/index.html",
+      "source_sha256": "787d624468fc0c615e5a2716d93c12d4d98e749ef759286d355ae6b2209688bb",
+      "directory": "shots/analizy/ige-rozmarin-f335"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-sennaya-pyl-o7/",
+      "source_path": "site/analizy/ige-sennaya-pyl-o7/index.html",
+      "source_sha256": "e7cc6aeaa9be73f15537384108ad3fa67fe4b973bdc7bd1b9e14cfd6d8146d67",
+      "directory": "shots/analizy/ige-sennaya-pyl-o7"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-skumbriya-f206/",
+      "source_path": "site/analizy/ige-skumbriya-f206/index.html",
+      "source_sha256": "6139e32230913bfe5f2c670489263be285e923cded5233fe489bc7050bd51a09",
+      "directory": "shots/analizy/ige-skumbriya-f206"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-sladkiy-perets-f218/",
+      "source_path": "site/analizy/ige-sladkiy-perets-f218/index.html",
+      "source_sha256": "1743aadf695c85d8e72bb2d6f3db7054edeec02f8b4832089d1c0ec420201cc5",
+      "directory": "shots/analizy/ige-sladkiy-perets-f218"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-sobaka-e5/",
+      "source_path": "site/analizy/ige-sobaka-e5/index.html",
+      "source_sha256": "2e585243b752394690fc141342dd34f1626d93b6237ce753dbed75ab376f9cec",
+      "directory": "shots/analizy/ige-sobaka-e5"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-solyanka-w11/",
+      "source_path": "site/analizy/ige-solyanka-w11/index.html",
+      "source_sha256": "59213737c280752a25e61dd9902e59a27a39e50c13d6f5028f53a6fafed2d79b",
+      "directory": "shots/analizy/ige-solyanka-w11"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-svinina-f26/",
+      "source_path": "site/analizy/ige-svinina-f26/index.html",
+      "source_sha256": "9ed9e1010eb15d434b84d5f67291ee7bf5f8cb2b3620816e4cbbf45a232a96e6",
+      "directory": "shots/analizy/ige-svinina-f26"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-syr/",
+      "source_path": "site/analizy/ige-syr/index.html",
+      "source_sha256": "381decbb473b573404b168973e2bcbaa346e8d37e82ba9be7722e46694c27cb5",
+      "directory": "shots/analizy/ige-syr"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-timofeevka-g6/",
+      "source_path": "site/analizy/ige-timofeevka-g6/index.html",
+      "source_sha256": "19ad21787b5fd6cbeddc2ad7e6a1462bbcd30e1555a8e7f1cff868c81c567170",
+      "directory": "shots/analizy/ige-timofeevka-g6"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-toksin-tsst-stafilokokka-m226/",
+      "source_path": "site/analizy/ige-toksin-tsst-stafilokokka-m226/index.html",
+      "source_sha256": "4104c2dba7abb3bed7222bbb180873d35e99197a1abb4f9e83e3cbeb13495364",
+      "directory": "shots/analizy/ige-toksin-tsst-stafilokokka-m226"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-toksokara-p3/",
+      "source_path": "site/analizy/ige-toksokara-p3/index.html",
+      "source_sha256": "a984b2219ba93ac34c07c34042fe45089ea09e0e7a0b08c93fa27a3eb683de28",
+      "directory": "shots/analizy/ige-toksokara-p3"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-treska-f3/",
+      "source_path": "site/analizy/ige-treska-f3/index.html",
+      "source_sha256": "b2874e090eb4abba1cb3eaada3a874ccd0662b642bdcf37381729446f1fbfbcc",
+      "directory": "shots/analizy/ige-treska-f3"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-tunets-f40/",
+      "source_path": "site/analizy/ige-tunets-f40/index.html",
+      "source_sha256": "0bb33edce20d6f20a28694b9f17371940021d5fac553a35d05dbed56f5cdc59c",
+      "directory": "shots/analizy/ige-tunets-f40"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-ukrop-f277/",
+      "source_path": "site/analizy/ige-ukrop-f277/index.html",
+      "source_sha256": "a36a9669b9846f8a1aa9383a04c0524036668ef4e73b749c7d87dba57fee77ca",
+      "directory": "shots/analizy/ige-ukrop-f277"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-vinograd-f259/",
+      "source_path": "site/analizy/ige-vinograd-f259/index.html",
+      "source_sha256": "38a43c0d8b600004fcdb556e3a1601528a918d65427261e166da339de58677d0",
+      "directory": "shots/analizy/ige-vinograd-f259"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-yachmen-f6/",
+      "source_path": "site/analizy/ige-yachmen-f6/index.html",
+      "source_sha256": "09b70e4f92b46e124039141a6c86082a6e89754ad5fb0baa56bdc26723b6df12",
+      "directory": "shots/analizy/ige-yachmen-f6"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-yad-osy-pchely/",
+      "source_path": "site/analizy/ige-yad-osy-pchely/index.html",
+      "source_sha256": "a881841f0cc39ff7c62e136f5fd5b9e1869cd453f53fdf3988f568c21afd8bb9",
+      "directory": "shots/analizy/ige-yad-osy-pchely"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-yad-shershnya-i75/",
+      "source_path": "site/analizy/ige-yad-shershnya-i75/index.html",
+      "source_sha256": "ed06b2c8ecc6e2b5e52fd6fb1fd7abbe421c16483fcf8fae0272a5065ed849b8",
+      "directory": "shots/analizy/ige-yad-shershnya-i75"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-yaichnyy-belok-f1/",
+      "source_path": "site/analizy/ige-yaichnyy-belok-f1/index.html",
+      "source_sha256": "e11a332cd85554d61298e5bf647aa3e62295464b9324c8c964d91ae5b5cb2788",
+      "directory": "shots/analizy/ige-yaichnyy-belok-f1"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/ige-zelenyy-perets-goroshkom-f263/",
+      "source_path": "site/analizy/ige-zelenyy-perets-goroshkom-f263/index.html",
+      "source_sha256": "fb8c03ba23ca808ad768ba0671dd3da10e4609a71147967bb13a30b6469a4fb3",
+      "directory": "shots/analizy/ige-zelenyy-perets-goroshkom-f263"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/immunocap-isac/",
+      "source_path": "site/analizy/immunocap-isac/index.html",
+      "source_sha256": "dc654a4cd3056e6187b0a73b1f5d70ba164a468ba7ceaa9f2a26a36c2933f2c8",
+      "directory": "shots/analizy/immunocap-isac"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/kazein-f78/",
+      "source_path": "site/analizy/kazein-f78/index.html",
+      "source_sha256": "3abaceae4a98192fd9688976982cbaa0a64f3e5de0b628d705fba811203a08bf",
+      "directory": "shots/analizy/kazein-f78"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/kleshchi-i-pyl/",
+      "source_path": "site/analizy/kleshchi-i-pyl/index.html",
+      "source_sha256": "de5fc13e2d4615496fa1cdde77694fbb6e088061e0d6ce199df783ac5972d9ee",
+      "directory": "shots/analizy/kleshchi-i-pyl"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/konalbumin-f323/",
+      "source_path": "site/analizy/konalbumin-f323/index.html",
+      "source_sha256": "45f2db58b3a989a743f1572a4e3a737136bbf7d8f55fcb05e31a3f3c0dfff221",
+      "directory": "shots/analizy/konalbumin-f323"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/lekarstva/",
+      "source_path": "site/analizy/lekarstva/index.html",
+      "source_sha256": "78030c4e97e4d29015c05a3ef0594252d0ecbf94aa4020dba042288f2972b211",
+      "directory": "shots/analizy/lekarstva"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/nasekomye/",
+      "source_path": "site/analizy/nasekomye/index.html",
+      "source_sha256": "e1e30b357f558eb9ce2797b9a24fc9d20f2445a04509a066688ce2a03f5731f6",
+      "directory": "shots/analizy/nasekomye"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/omega-5-gliadin-f416/",
+      "source_path": "site/analizy/omega-5-gliadin-f416/index.html",
+      "source_sha256": "e882b214d518ee4a1c2ffa055e2c06f1a47acb3f7b258effc025e72c6bb219cb",
+      "directory": "shots/analizy/omega-5-gliadin-f416"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/parazity/",
+      "source_path": "site/analizy/parazity/index.html",
+      "source_sha256": "c53d31fc4b071164ee9d39ac14849b6518caca29f900f3ee193a6cfb022eac96",
+      "directory": "shots/analizy/parazity"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/phl-p-1-g205/",
+      "source_path": "site/analizy/phl-p-1-g205/index.html",
+      "source_sha256": "9c7308b606698997d60e8897457b877a0852c5833c264c7351a4bbb54bebe959",
+      "directory": "shots/analizy/phl-p-1-g205"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/phl-p-12-g212/",
+      "source_path": "site/analizy/phl-p-12-g212/index.html",
+      "source_sha256": "acbbbf210809bf14082b61035519db5490534abb84fe75db586039a8af888541",
+      "directory": "shots/analizy/phl-p-12-g212"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/phl-p-7-g210/",
+      "source_path": "site/analizy/phl-p-7-g210/index.html",
+      "source_sha256": "5758e408465a181db78b03a6bca44a720b1e219996403cc40a5716e7fe6295df",
+      "directory": "shots/analizy/phl-p-7-g210"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/pishchevye-allergeny/",
+      "source_path": "site/analizy/pishchevye-allergeny/index.html",
+      "source_sha256": "d2d6a677fb5712d2a044d21083bb693ce241f934e3e3885fea13d7fc1f074354",
+      "directory": "shots/analizy/pishchevye-allergeny"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/pleseni-i-griby/",
+      "source_path": "site/analizy/pleseni-i-griby/index.html",
+      "source_sha256": "da4509d52935c140b450ff93270e9d0334c185f7e0ca6bbbbf366cb620d8cf42",
+      "directory": "shots/analizy/pleseni-i-griby"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/proallergy/",
+      "source_path": "site/analizy/proallergy/index.html",
+      "source_sha256": "522699df598e809ac9af992e14c632ef4377eb5579654edfc088d8660df8d27a",
+      "directory": "shots/analizy/proallergy"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/professionalnye-allergeny/",
+      "source_path": "site/analizy/professionalnye-allergeny/index.html",
+      "source_sha256": "a77e24021a196c47537aa4dfe96777d27c79588dd222e8bee27c2cf3601bf9ec",
+      "directory": "shots/analizy/professionalnye-allergeny"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/pyltsa/",
+      "source_path": "site/analizy/pyltsa/index.html",
+      "source_sha256": "80c590570c2c6ff3430d221e0e4fac3b6b168ad08d58ac0405742bb44aaeabaa",
+      "directory": "shots/analizy/pyltsa"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/triptaza/",
+      "source_path": "site/analizy/triptaza/index.html",
+      "source_sha256": "3b1fd4b452ffce6f1ec2c5fbb89594b16ddbcf8421928d964d55201889a98e15",
+      "directory": "shots/analizy/triptaza"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/zhivotnye-i-ptitsy/",
+      "source_path": "site/analizy/zhivotnye-i-ptitsy/index.html",
+      "source_sha256": "09d49a028e184900b755c6610adbe7e6928656893f79ee18be64765747260896",
+      "directory": "shots/analizy/zhivotnye-i-ptitsy"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/",
+      "source_path": "site/articles/index.html",
+      "source_sha256": "cd86c1c62bfd5b72a1cfaefbbe9be94455b0b96ff28e1ab3bc44ee59f4757469",
+      "directory": "shots/articles"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/akne/",
+      "source_path": "site/articles/akne/index.html",
+      "source_sha256": "8cbbf2e1ae4bca0f2f0c4d0daf243fda20cdf7520a24fb0e0f5f2935c87c274a",
+      "directory": "shots/articles/akne"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergarda-ili-klassicheskaya-asit/",
+      "source_path": "site/articles/allergarda-ili-klassicheskaya-asit/index.html",
+      "source_sha256": "8544e41a4425a9092f20c6a152a6fc2241385de5b09b839ec9239a123d3d054d",
+      "directory": "shots/articles/allergarda-ili-klassicheskaya-asit"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergicheskiy-konyunktivit/",
+      "source_path": "site/articles/allergicheskiy-konyunktivit/index.html",
+      "source_sha256": "a8a0c019950ac2f2fdbcbd8bbd6d1840b33317dadbb21913d7b7d96a0c883044",
+      "directory": "shots/articles/allergicheskiy-konyunktivit"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergicheskiy-marsh/",
+      "source_path": "site/articles/allergicheskiy-marsh/index.html",
+      "source_sha256": "55e6a9521d5c1d9a940deaa4d05ec5ce85f80ec0bc2b89b2518e864632535dab",
+      "directory": "shots/articles/allergicheskiy-marsh"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergicheskiy-rinit/",
+      "source_path": "site/articles/allergicheskiy-rinit/index.html",
+      "source_sha256": "c3fa903f6695c8a91e6dee7b0c8e1261474f3868b374073560f5b3c4a674e737",
+      "directory": "shots/articles/allergicheskiy-rinit"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergiya-na-ambroziyu-u-rebenka/",
+      "source_path": "site/articles/allergiya-na-ambroziyu-u-rebenka/index.html",
+      "source_sha256": "f6252f6e0e3f8e60b9d4063787a685474ea5b4aae1f7e63426356a878e2801d9",
+      "directory": "shots/articles/allergiya-na-ambroziyu-u-rebenka"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergiya-na-ambroziyu/",
+      "source_path": "site/articles/allergiya-na-ambroziyu/index.html",
+      "source_sha256": "80ec0efd844ab33acb19fb73c1622073d49743a8e4d4c7a68d585891f28da5fe",
+      "directory": "shots/articles/allergiya-na-ambroziyu"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergiya-na-berezu-i-produkty/",
+      "source_path": "site/articles/allergiya-na-berezu-i-produkty/index.html",
+      "source_sha256": "a8de0b640a22caf831140473ee3adf3d95e4b364bd3565ed79a73220f4271d85",
+      "directory": "shots/articles/allergiya-na-berezu-i-produkty"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergiya-na-holod/",
+      "source_path": "site/articles/allergiya-na-holod/index.html",
+      "source_sha256": "8fa6ccf54ff1cf3f50ce41e1ecddd9acb237a4e4fa0587b9923207e9e8065750",
+      "directory": "shots/articles/allergiya-na-holod"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergiya-na-koshku/",
+      "source_path": "site/articles/allergiya-na-koshku/index.html",
+      "source_sha256": "f7eeab790340b06964b0794d6772553f5e7501a7d5233bdfffa11febb2ab15d7",
+      "directory": "shots/articles/allergiya-na-koshku"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergiya-na-lekarstva/",
+      "source_path": "site/articles/allergiya-na-lekarstva/index.html",
+      "source_sha256": "68e9d4e6aa492b34e02fcb142e383ae51fbfa9aa99877b240df816b3350e560f",
+      "directory": "shots/articles/allergiya-na-lekarstva"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergiya-na-plesen/",
+      "source_path": "site/articles/allergiya-na-plesen/index.html",
+      "source_sha256": "1b7448d872a6175d2e81d5a7e6c084ce3d72cf22efc5380fbe06d33fcc062335",
+      "directory": "shots/articles/allergiya-na-plesen"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergiya-na-pyl/",
+      "source_path": "site/articles/allergiya-na-pyl/index.html",
+      "source_sha256": "0f3b9888c51e058b4a1d5001511eca93671766618a50d1c7d9571e60a494e995",
+      "directory": "shots/articles/allergiya-na-pyl"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/allergiya-na-sobaku/",
+      "source_path": "site/articles/allergiya-na-sobaku/index.html",
+      "source_sha256": "27eeb8c63311f63997380d896477447a97e6f439a538da51f936a84a8a8b5220",
+      "directory": "shots/articles/allergiya-na-sobaku"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/analizy-na-allergiyu/",
+      "source_path": "site/articles/analizy-na-allergiyu/index.html",
+      "source_sha256": "547efd09dbbad744f3787c8dd1f4176888ac72543b8281024e6c364697b48060",
+      "directory": "shots/articles/analizy-na-allergiyu"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/antigistaminnye-preparaty/",
+      "source_path": "site/articles/antigistaminnye-preparaty/index.html",
+      "source_sha256": "f37899f4526063e85c98b0422009300c9ba462d03686c578a150b3e047875add",
+      "directory": "shots/articles/antigistaminnye-preparaty"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/asit-ili-alt/",
+      "source_path": "site/articles/asit-ili-alt/index.html",
+      "source_sha256": "7ef37067110077f081fc69d284297ac04faf536404d9bbe3113e431838e2c5a3",
+      "directory": "shots/articles/asit-ili-alt"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/atopicheskiy-dermatit-u-rebenka/",
+      "source_path": "site/articles/atopicheskiy-dermatit-u-rebenka/index.html",
+      "source_sha256": "f00cc2feb660aa9cdaa8605fe9f9753f82fb6af36a809eec09f36ba902fe27bc",
+      "directory": "shots/articles/atopicheskiy-dermatit-u-rebenka"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/atopicheskiy-dermatit-u-vzroslyh/",
+      "source_path": "site/articles/atopicheskiy-dermatit-u-vzroslyh/index.html",
+      "source_sha256": "8d833d330ffb1b93f3e2ad6102189e06aa9c978f1f3d9ebdb40ebe0c49e9fcc7",
+      "directory": "shots/articles/atopicheskiy-dermatit-u-vzroslyh"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/biorevitalizaciya-chto-eto/",
+      "source_path": "site/articles/biorevitalizaciya-chto-eto/index.html",
+      "source_sha256": "163984c762191fa12390f62d57bc37c55b6a2c96e2b595c41df054d8fe8113c2",
+      "directory": "shots/articles/biorevitalizaciya-chto-eto"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/boleznennye-mesyachnye/",
+      "source_path": "site/articles/boleznennye-mesyachnye/index.html",
+      "source_sha256": "71351cd13d71f005cd289425e75a590c1065a75cd452b455e144eb6414e8a2fb",
+      "directory": "shots/articles/boleznennye-mesyachnye"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/botulinoterapiya-skolko-edinic/",
+      "source_path": "site/articles/botulinoterapiya-skolko-edinic/index.html",
+      "source_sha256": "751be1b55ac2d78ca3f96d531543809cb4b74b4071091a4523d4b1e763a16ea2",
+      "directory": "shots/articles/botulinoterapiya-skolko-edinic"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/chem-lechit-allergiyu-na-polyn/",
+      "source_path": "site/articles/chem-lechit-allergiyu-na-polyn/index.html",
+      "source_sha256": "4faec4dd408c42c7e869cfd6ea672d722837c589e75066ce4a5930ae809b200a",
+      "directory": "shots/articles/chem-lechit-allergiyu-na-polyn"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/chesotka-ili-allergiya/",
+      "source_path": "site/articles/chesotka-ili-allergiya/index.html",
+      "source_sha256": "e8ef29c4e5ed6f53d616292831b2014b9dfc287e9a9f703f50a0d141006b9fd1",
+      "directory": "shots/articles/chesotka-ili-allergiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/demodekoz/",
+      "source_path": "site/articles/demodekoz/index.html",
+      "source_sha256": "495e2ed7cfd6c9fee08893127328359313e1b3e83ef9a15866c9ba9e14745bb6",
+      "directory": "shots/articles/demodekoz"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/ekzema/",
+      "source_path": "site/articles/ekzema/index.html",
+      "source_sha256": "1bda7301a518b6664e62a6c750fe6069d16acdadc31075d640be2366221df91b",
+      "directory": "shots/articles/ekzema"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/eozinofily-povysheny-u-rebenka/",
+      "source_path": "site/articles/eozinofily-povysheny-u-rebenka/index.html",
+      "source_sha256": "a7f11265ad9e2d51d0355c0afb4ccb316c376bae8f189c300eb3187c3b2e442a",
+      "directory": "shots/articles/eozinofily-povysheny-u-rebenka"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/gipergidroz-potlivost/",
+      "source_path": "site/articles/gipergidroz-potlivost/index.html",
+      "source_sha256": "b4552cd8b84c2df273d7ebe5ff4794eae78813af3dd7a0fd8ce37d05763ce200",
+      "directory": "shots/articles/gipergidroz-potlivost"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/gribok-nogtey/",
+      "source_path": "site/articles/gribok-nogtey/index.html",
+      "source_sha256": "1943b213b6983ce31c6eb22f06a2992aa0a46b43c530eb299f6660de63efe061",
+      "directory": "shots/articles/gribok-nogtey"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/helikobakter/",
+      "source_path": "site/articles/helikobakter/index.html",
+      "source_sha256": "ff860034de1adae55af196f67e477efc9dd8567cfff6422790ba3a3a3506ae1a",
+      "directory": "shots/articles/helikobakter"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/immunoglobulin-e-povyshen/",
+      "source_path": "site/articles/immunoglobulin-e-povyshen/index.html",
+      "source_sha256": "07120a552c7ea3c555139f3b7ca112c9949dc1e2721d88201ddcbb1ec5306625",
+      "directory": "shots/articles/immunoglobulin-e-povyshen"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/izzhoga-gerb/",
+      "source_path": "site/articles/izzhoga-gerb/index.html",
+      "source_sha256": "14cd93175262ea970d4ace1e840d1734d9c3df70f609a5a37d9a303cea8bb4b8",
+      "directory": "shots/articles/izzhoga-gerb"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/kak-podgotovitsya-k-kursu-allergardy/",
+      "source_path": "site/articles/kak-podgotovitsya-k-kursu-allergardy/index.html",
+      "source_sha256": "5254e5635acd84ae1a5a1d4f80840a89123b2b108820d97a56cbc224af275dd1",
+      "directory": "shots/articles/kak-podgotovitsya-k-kursu-allergardy"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/kak-snizit-fel-d1/",
+      "source_path": "site/articles/kak-snizit-fel-d1/index.html",
+      "source_sha256": "65be15043f2d202220dbed6486c95d5f4dd04d2fc2fb3db3cec23ce38384f1ca",
+      "directory": "shots/articles/kak-snizit-fel-d1"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/kak-vyglyadit-ambroziya/",
+      "source_path": "site/articles/kak-vyglyadit-ambroziya/index.html",
+      "source_sha256": "61ea80ad35454c2a8910b2605cf296dd663cdd1bb904b6782111510f8249bcba",
+      "directory": "shots/articles/kak-vyglyadit-ambroziya"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/kashel-posle-prostudy/",
+      "source_path": "site/articles/kashel-posle-prostudy/index.html",
+      "source_sha256": "3ab976ab29fe94b6d8fe5de63267ea2ed4da8433a1cf25da55a82a890100d87c",
+      "directory": "shots/articles/kashel-posle-prostudy"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/kista-yaichnika/",
+      "source_path": "site/articles/kista-yaichnika/index.html",
+      "source_sha256": "cad3238884e4f6047b2384c455b6a71ccb94122e67ccf639ef2cd1ffa7187863",
+      "directory": "shots/articles/kista-yaichnika"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/kogda-nachinat-asit/",
+      "source_path": "site/articles/kogda-nachinat-asit/index.html",
+      "source_sha256": "305fc27fbdbb02dc17aec6eac849c7c9692087db36c792b9938d9bbae49c8cb8",
+      "directory": "shots/articles/kogda-nachinat-asit"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/kontagiozny-mollyusk/",
+      "source_path": "site/articles/kontagiozny-mollyusk/index.html",
+      "source_sha256": "b2667fa91c45a092bd640ea8f5a970e46803e124b96f3ecc53cb0786aa8b39e0",
+      "directory": "shots/articles/kontagiozny-mollyusk"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/kontrol-astmy/",
+      "source_path": "site/articles/kontrol-astmy/index.html",
+      "source_sha256": "1517c5565974dc1311d82a24b8f868c847cfc0c5a16ab5de1faf4b30739c5837",
+      "directory": "shots/articles/kontrol-astmy"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/krapivnitsa-u-rebenka/",
+      "source_path": "site/articles/krapivnitsa-u-rebenka/index.html",
+      "source_sha256": "4ab114c52c911aa2673c60dd7344196328a10a48f2dad89e60467cd0cbf42f94",
+      "directory": "shots/articles/krapivnitsa-u-rebenka"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/krapivnitsa/",
+      "source_path": "site/articles/krapivnitsa/index.html",
+      "source_sha256": "0b1964dbbabe6434ee912582a60ba141dc4191230680b1fb5db08589bf43764e",
+      "directory": "shots/articles/krapivnitsa"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/kuperoz-sosudistye-zvezdochki/",
+      "source_path": "site/articles/kuperoz-sosudistye-zvezdochki/index.html",
+      "source_sha256": "1d87a3729e746d260db2d59544db2b146784eb118e1329dcb7d719e1e1f12d24",
+      "directory": "shots/articles/kuperoz-sosudistye-zvezdochki"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/lpg-massazh-chto-daet/",
+      "source_path": "site/articles/lpg-massazh-chto-daet/index.html",
+      "source_sha256": "6d8feb8f945e6fb5b225e2432ca7e8c96ccbc47f51dc2b3d518aa64f91dbcfd5",
+      "directory": "shots/articles/lpg-massazh-chto-daet"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/menopauza-prilivy/",
+      "source_path": "site/articles/menopauza-prilivy/index.html",
+      "source_sha256": "da9944931a9c73f9a8db301a79f12eff610dd76c024a890a5a5e5467a731d365",
+      "directory": "shots/articles/menopauza-prilivy"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/mioma-matki/",
+      "source_path": "site/articles/mioma-matki/index.html",
+      "source_sha256": "bcbc93316cd87c3b6a433f049420269e0113dc6ac3c40342aa722fbecf7c8c6e",
+      "directory": "shots/articles/mioma-matki"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/molochnitsa/",
+      "source_path": "site/articles/molochnitsa/index.html",
+      "source_sha256": "fdd5b2a028f1e8999ee2964cc9d7b70cda13790bc3a5ff43a90ea54290be8ea0",
+      "directory": "shots/articles/molochnitsa"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/neperenosimost-laktozy-ili-allergiya/",
+      "source_path": "site/articles/neperenosimost-laktozy-ili-allergiya/index.html",
+      "source_sha256": "78d7f9af0f6e80a93818f3183ebe42c81459f11bba9f0f10d53dd8303d679fd9",
+      "directory": "shots/articles/neperenosimost-laktozy-ili-allergiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/neregulyarnye-mesyachnye/",
+      "source_path": "site/articles/neregulyarnye-mesyachnye/index.html",
+      "source_sha256": "3caf907d90340858bd9506e581f255d6e70be406858a7b82258129c969d7db38",
+      "directory": "shots/articles/neregulyarnye-mesyachnye"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/nosogubnye-skladki/",
+      "source_path": "site/articles/nosogubnye-skladki/index.html",
+      "source_sha256": "e9385101d172756327e8c658396872105a145c112ad18600eef2b13388be8eef",
+      "directory": "shots/articles/nosogubnye-skladki"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/omalizumab/",
+      "source_path": "site/articles/omalizumab/index.html",
+      "source_sha256": "d1d7482caa0947e67413392d3f7cbaf163859085f2b7dfd8b626226c5aa5181a",
+      "directory": "shots/articles/omalizumab"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/otek-kvinke/",
+      "source_path": "site/articles/otek-kvinke/index.html",
+      "source_sha256": "b33e33028b08810a94f0e2a04e6276ebc077432156b694e9fed87f8126a1cc4d",
+      "directory": "shots/articles/otek-kvinke"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/pigmentnye-pyatna-na-lice/",
+      "source_path": "site/articles/pigmentnye-pyatna-na-lice/index.html",
+      "source_sha256": "be17b02cbab3325b868004fb97f30d1188b9c4d14cf8a0a9e13622701b4ab56a",
+      "directory": "shots/articles/pigmentnye-pyatna-na-lice"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/piling-osenyu/",
+      "source_path": "site/articles/piling-osenyu/index.html",
+      "source_sha256": "0a30497499f5c79200256157b1a9310167368442d73aa76999bae46e229ef01b",
+      "directory": "shots/articles/piling-osenyu"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/pischevaya-allergiya-u-grudnichka/",
+      "source_path": "site/articles/pischevaya-allergiya-u-grudnichka/index.html",
+      "source_sha256": "adf9166af1b7e30257229cf8664c06969e4efa2f6a7293d6fa16d1aba72c48b2",
+      "directory": "shots/articles/pischevaya-allergiya-u-grudnichka"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/pitanie-pri-allergii-na-polyn/",
+      "source_path": "site/articles/pitanie-pri-allergii-na-polyn/index.html",
+      "source_sha256": "e938845712e983efb5d6eec2c1fd508d2bce3ddec7eea990546fd0d1bf6b62b3",
+      "directory": "shots/articles/pitanie-pri-allergii-na-polyn"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/podgotovka-k-beremennosti/",
+      "source_path": "site/articles/podgotovka-k-beremennosti/index.html",
+      "source_sha256": "819102cdcd017858270a7a1f2b60bfeda9c2888bdfe18e27f558de854d276932",
+      "directory": "shots/articles/podgotovka-k-beremennosti"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/podgotovka-k-kozhnym-probam/",
+      "source_path": "site/articles/podgotovka-k-kozhnym-probam/index.html",
+      "source_sha256": "23248c41402b7e3b07621b9cffcefea2cb121e06ccd5f28cebfa77fb13257e8e",
+      "directory": "shots/articles/podgotovka-k-kozhnym-probam"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/podtyazhka-lica-bez-operacii/",
+      "source_path": "site/articles/podtyazhka-lica-bez-operacii/index.html",
+      "source_sha256": "2307a81310da1e50a005c83a5855d4a9975d7d2da15cc5f282c58275c83455df",
+      "directory": "shots/articles/podtyazhka-lica-bez-operacii"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/pollinoz-voronezh/",
+      "source_path": "site/articles/pollinoz-voronezh/index.html",
+      "source_sha256": "977f4d0c6dfbf7d2a8a8db3fce7319bd7f7081e48f71f622bdc9ff2cbe6f695b",
+      "directory": "shots/articles/pollinoz-voronezh"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/profilakticheskiy-osmotr-ginekologa/",
+      "source_path": "site/articles/profilakticheskiy-osmotr-ginekologa/index.html",
+      "source_sha256": "fcc7580b8096e2c0a2ea641f9b54d9705258f850af4fa968082466b0270eaff2",
+      "directory": "shots/articles/profilakticheskiy-osmotr-ginekologa"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/proverit-rodinku/",
+      "source_path": "site/articles/proverit-rodinku/index.html",
+      "source_sha256": "27fb4621670e10e43ec14ea8ac15bde17785e24405beb4f33b577163c09649a9",
+      "directory": "shots/articles/proverit-rodinku"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/psoriaz/",
+      "source_path": "site/articles/psoriaz/index.html",
+      "source_sha256": "1820caeaff6994d351db16d9fd5e3ce0a32bcbaa621bfe7ad0ee3d011495a283",
+      "directory": "shots/articles/psoriaz"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/rf-lifting-lica/",
+      "source_path": "site/articles/rf-lifting-lica/index.html",
+      "source_sha256": "7d20e333d7fe7b225ecf0f1b84dd6f24f6c85554a0ccfd9b2d87a6bd6f7ffb04",
+      "directory": "shots/articles/rf-lifting-lica"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/rozacea/",
+      "source_path": "site/articles/rozacea/index.html",
+      "source_sha256": "87f81f993bc2b80f660886c2a29b3811984a62cdd8862b37c46b8589a42eb3e4",
+      "directory": "shots/articles/rozacea"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/seboreynyy-dermatit/",
+      "source_path": "site/articles/seboreynyy-dermatit/index.html",
+      "source_sha256": "d3937f4b22722e92dde54fbb34d7dbafb6ba13afe747d465bc0f8c105f4ae0c8",
+      "directory": "shots/articles/seboreynyy-dermatit"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/sezon-ambrozii-kalendar/",
+      "source_path": "site/articles/sezon-ambrozii-kalendar/index.html",
+      "source_sha256": "1fc639208afcf174abe73b112ed1ada50ae52a15758b08f67c091bac4b43436e",
+      "directory": "shots/articles/sezon-ambrozii-kalendar"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/sindrom-razdrazhennogo-kishechnika/",
+      "source_path": "site/articles/sindrom-razdrazhennogo-kishechnika/index.html",
+      "source_sha256": "114dc0de96f121aee17f28a1bc7606e281664f4e8f54217aac4d6b6006973655",
+      "directory": "shots/articles/sindrom-razdrazhennogo-kishechnika"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/smas-ili-rf/",
+      "source_path": "site/articles/smas-ili-rf/index.html",
+      "source_sha256": "2789e026db997a737a7d818a6a0387650adb09c8aee76e2f07879261036753ec",
+      "directory": "shots/articles/smas-ili-rf"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/smas-lifting/",
+      "source_path": "site/articles/smas-lifting/index.html",
+      "source_sha256": "8096fc33d861899a791d58d5d12f437f62f16c6254dffb398d4a2bda7f2e72ad",
+      "directory": "shots/articles/smas-lifting"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/ukus-osy-i-pchely/",
+      "source_path": "site/articles/ukus-osy-i-pchely/index.html",
+      "source_sha256": "1e4688652dfb3f9a6e4a038e2ea99d7a71c22b084586af8b50f16399dc749cb6",
+      "directory": "shots/articles/ukus-osy-i-pchely"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/uvelichenie-gub-fillerom/",
+      "source_path": "site/articles/uvelichenie-gub-fillerom/index.html",
+      "source_sha256": "0eef29a12859925eb306f84902cb57c8b974819468158beb457e102890ac24bd",
+      "directory": "shots/articles/uvelichenie-gub-fillerom"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/uzi-bryushnoy-polosti/",
+      "source_path": "site/articles/uzi-bryushnoy-polosti/index.html",
+      "source_sha256": "188729117c712c3ac623f8cf356e85dca1e4266f2ee95a1fc7b0e0ea08bfff12",
+      "directory": "shots/articles/uzi-bryushnoy-polosti"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/uzi-malogo-taza-den-cikla/",
+      "source_path": "site/articles/uzi-malogo-taza-den-cikla/index.html",
+      "source_sha256": "39bc52c2c7e4283b9ab81fe6501ec93167337dc8c7b9719c5a28dfdf38461b5b",
+      "directory": "shots/articles/uzi-malogo-taza-den-cikla"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/uzi-molochnyh-zhelez/",
+      "source_path": "site/articles/uzi-molochnyh-zhelez/index.html",
+      "source_sha256": "e4a5c609e919f03c2ddf11e56502504fe4ea2a209534978a3a1292d6a6e8903f",
+      "directory": "shots/articles/uzi-molochnyh-zhelez"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/uzi-shchitovidnoy-zhelezy/",
+      "source_path": "site/articles/uzi-shchitovidnoy-zhelezy/index.html",
+      "source_sha256": "8444aa826e6bff6ee7f5be64f9c87451eab026aa279c8d32f73f9e7b6cb9faa6",
+      "directory": "shots/articles/uzi-shchitovidnoy-zhelezy"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/vakcina-ot-allergii-na-berezu-allergarda/",
+      "source_path": "site/articles/vakcina-ot-allergii-na-berezu-allergarda/index.html",
+      "source_sha256": "869d68be5f48da9bac457a3968bd72a4722c19d8fbcc9071d4225d1a0ceaff40",
+      "directory": "shots/articles/vakcina-ot-allergii-na-berezu-allergarda"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/vozrastnye-izmeneniya-lica/",
+      "source_path": "site/articles/vozrastnye-izmeneniya-lica/index.html",
+      "source_sha256": "0ae3a104f526d347c9fe06ca765fe6463bed945b74d8ea6b880b585a8d60b13a",
+      "directory": "shots/articles/vozrastnye-izmeneniya-lica"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/vpch-polozhitelnyy-test/",
+      "source_path": "site/articles/vpch-polozhitelnyy-test/index.html",
+      "source_sha256": "1daba795edaabe6544d7590195f441ab5c1c400b0c8d4574c63d2477a4f96d35",
+      "directory": "shots/articles/vpch-polozhitelnyy-test"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/vtoroy-podborodok/",
+      "source_path": "site/articles/vtoroy-podborodok/index.html",
+      "source_sha256": "f4ca04581f1e0a7aac16684c02ef12bc362ccf572eea7d8cea95e7730a739b94",
+      "directory": "shots/articles/vtoroy-podborodok"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/vypadenie-volos/",
+      "source_path": "site/articles/vypadenie-volos/index.html",
+      "source_sha256": "ca1101ad02c43d2bab3317a1c4d94e9ca89a218ea19f0e447d9d58ce5b4a8fe2",
+      "directory": "shots/articles/vypadenie-volos"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/vzdutie-zhivota/",
+      "source_path": "site/articles/vzdutie-zhivota/index.html",
+      "source_sha256": "cc14f3833f4a585ccfa6f526049bc1be01b07b6f039f0b539aed30b9b8346693",
+      "directory": "shots/articles/vzdutie-zhivota"
+    },
+    {
+      "url": "https://arvisclinic.ru/articles/zolotarnik-ili-ambroziya/",
+      "source_path": "site/articles/zolotarnik-ili-ambroziya/index.html",
+      "source_sha256": "49ae2c0a464d8daae7fd6f52324fdd221230518074eb6b50237fbc6ddb1f2f7c",
+      "directory": "shots/articles/zolotarnik-ili-ambroziya"
+    },
+    {
+      "url": "https://arvisclinic.ru/asit/tabletki/",
+      "source_path": "site/asit/tabletki/index.html",
+      "source_sha256": "ca3f7169a7c46f5f5c09619de14f13de899b31c82f6911569b0ecb6d4e5eb898",
+      "directory": "shots/asit/tabletki"
+    },
+    {
+      "url": "https://arvisclinic.ru/asit/ukoly/",
+      "source_path": "site/asit/ukoly/index.html",
+      "source_sha256": "77250fc3b2349a2688e2a6b43a26243110c564dc35c89affe642993cb5b7d1ae",
+      "directory": "shots/asit/ukoly"
+    },
+    {
+      "url": "https://arvisclinic.ru/autolimfocitoterapiya-voronezh/",
+      "source_path": "site/autolimfocitoterapiya-voronezh/index.html",
+      "source_sha256": "446221a8bdd062c57187afd339e04dcd4a738268d2dace283767dfe81fc543fc",
+      "directory": "shots/autolimfocitoterapiya-voronezh"
+    },
+    {
+      "url": "https://arvisclinic.ru/contacts/",
+      "source_path": "site/contacts/index.html",
+      "source_sha256": "ea6a51243cd58ed9b40dd542361ad617954c3ec826e7f76b669ae8e3faf058d5",
+      "directory": "shots/contacts"
+    },
+    {
+      "url": "https://arvisclinic.ru/contacts/voroshilova-8b/",
+      "source_path": "site/contacts/voroshilova-8b/index.html",
+      "source_sha256": "57b18375e46496edcbc1a2e8f8f12358502b9a7284e2a90853728fd938c3715c",
+      "directory": "shots/contacts/voroshilova-8b"
+    },
+    {
+      "url": "https://arvisclinic.ru/detyam/",
+      "source_path": "site/detyam/index.html",
+      "source_sha256": "3bbe03c4c67fdd7a5acbbb92f0bf4145c34196db49ea869d087056628832ce85",
+      "directory": "shots/detyam"
+    },
+    {
+      "url": "https://arvisclinic.ru/doctors/",
+      "source_path": "site/doctors/index.html",
+      "source_sha256": "c7082d2f40bda2347b658069af226bfb2292d82be793f27b842998d0d8396210",
+      "directory": "shots/doctors"
+    },
+    {
+      "url": "https://arvisclinic.ru/doctors/?branch=moskovsky",
+      "source_path": "site/doctors/index.html",
+      "source_sha256": "c7082d2f40bda2347b658069af226bfb2292d82be793f27b842998d0d8396210",
+      "directory": "shots/doctors/__q_40bba0623b54cef1c573"
+    },
+    {
+      "url": "https://arvisclinic.ru/doctors/bykova-mariya-alekseevna/",
+      "source_path": "site/doctors/bykova-mariya-alekseevna/index.html",
+      "source_sha256": "659fabbc9690f3f73d76d5194326538cd63889f7e8ff64ea093ad4c8a00b4499",
+      "directory": "shots/doctors/bykova-mariya-alekseevna"
+    },
+    {
+      "url": "https://arvisclinic.ru/doctors/korysheva-yuliya-igorevna/",
+      "source_path": "site/doctors/korysheva-yuliya-igorevna/index.html",
+      "source_sha256": "62ada386ec0edeeae0ea70e93c78b40d1a030b2a8742271baeb2be055fac2e7f",
+      "directory": "shots/doctors/korysheva-yuliya-igorevna"
+    },
+    {
+      "url": "https://arvisclinic.ru/doctors/kretova-galina-ivanovna/",
+      "source_path": "site/doctors/kretova-galina-ivanovna/index.html",
+      "source_sha256": "60bf079d900bedeca84355ff316fed4211e7247edb36e07be436ffc5ea10fb99",
+      "directory": "shots/doctors/kretova-galina-ivanovna"
+    },
+    {
+      "url": "https://arvisclinic.ru/doctors/kurdesova-elena-sergeevna/",
+      "source_path": "site/doctors/kurdesova-elena-sergeevna/index.html",
+      "source_sha256": "0eaf726c4495709ab915f2da7f853706eccf2189db025b7b46a1748a8c601d1f",
+      "directory": "shots/doctors/kurdesova-elena-sergeevna"
+    },
+    {
+      "url": "https://arvisclinic.ru/doctors/makhovaya-lyudmila-vladimirovna/",
+      "source_path": "site/doctors/makhovaya-lyudmila-vladimirovna/index.html",
+      "source_sha256": "8a3df8452476c525cdea0959a4aae3294de38c3aab0d3344652d7278b4e11a54",
+      "directory": "shots/doctors/makhovaya-lyudmila-vladimirovna"
+    },
+    {
+      "url": "https://arvisclinic.ru/doctors/pisarev-nikolay-nikolaevich/",
+      "source_path": "site/doctors/pisarev-nikolay-nikolaevich/index.html",
+      "source_sha256": "4b178816afe0535c4ca3af175a7e10d9d39934e54ff3ea45309e8840ebc1c1d1",
+      "directory": "shots/doctors/pisarev-nikolay-nikolaevich"
+    },
+    {
+      "url": "https://arvisclinic.ru/doctors/sakharova-tatyana-anatolevna/",
+      "source_path": "site/doctors/sakharova-tatyana-anatolevna/index.html",
+      "source_sha256": "6a19d310c872cd7be503d6e1447e4c5218837fb6ccafe44a8d021389b145b667",
+      "directory": "shots/doctors/sakharova-tatyana-anatolevna"
+    },
+    {
+      "url": "https://arvisclinic.ru/doctors/studenikina-elena-viktorovna/",
+      "source_path": "site/doctors/studenikina-elena-viktorovna/index.html",
+      "source_sha256": "90fc705b9767488ca584520ceabfee2ae06f614fab98e23ad7e22ed7e65389c2",
+      "directory": "shots/doctors/studenikina-elena-viktorovna"
+    },
+    {
+      "url": "https://arvisclinic.ru/doctors/suslov-evgeniy-vyacheslavovich/",
+      "source_path": "site/doctors/suslov-evgeniy-vyacheslavovich/index.html",
+      "source_sha256": "c09d11c78d91708fdefdc83c895261f73b519fb1ba5ef02ea2516bcfe6c1514b",
+      "directory": "shots/doctors/suslov-evgeniy-vyacheslavovich"
+    },
+    {
+      "url": "https://arvisclinic.ru/en/",
+      "source_path": "site/en/index.html",
+      "source_sha256": "a91cd5330cca9285e80492e1560578a546360c5ac57245b894bc63d9d39e67a2",
+      "directory": "shots/en"
+    },
+    {
+      "url": "https://arvisclinic.ru/gastroenterolog-voronezh/",
+      "source_path": "site/gastroenterolog-voronezh/index.html",
+      "source_sha256": "a5a441ffa85b178e6b0204282e6155317ae41a4349d0d774cf3e2dad6f2dc049",
+      "directory": "shots/gastroenterolog-voronezh"
+    },
+    {
+      "url": "https://arvisclinic.ru/ginekologiya/",
+      "source_path": "site/ginekologiya/index.html",
+      "source_sha256": "4303f39de8aa7ae7f85c8139fd6ef54804d5d0f95e406e47dedf8cab36ada589",
+      "directory": "shots/ginekologiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/ginekologiya/alieva-elona-gavkaz-kyzy/",
+      "source_path": "site/ginekologiya/alieva-elona-gavkaz-kyzy/index.html",
+      "source_sha256": "7dbe3f039a5faaa6ed47fdc7a9596a1095f2a774ce6a3dc9d7c2f7a6c7675cdd",
+      "directory": "shots/ginekologiya/alieva-elona-gavkaz-kyzy"
+    },
+    {
+      "url": "https://arvisclinic.ru/ginekologiya/kholuenko-olga-anatolevna/",
+      "source_path": "site/ginekologiya/kholuenko-olga-anatolevna/index.html",
+      "source_sha256": "f5a50bdb92086cb4edffa2b2366bbeb40c888b16cb1e4f390bc21eac976b6638",
+      "directory": "shots/ginekologiya/kholuenko-olga-anatolevna"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/",
+      "source_path": "site/kosmetologiya/index.html",
+      "source_sha256": "03ca20eb07e150aca174b69abe964fdab8184f0b496a74af9338ea8ba756acb3",
+      "directory": "shots/kosmetologiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/akcii/",
+      "source_path": "site/kosmetologiya/akcii/index.html",
+      "source_sha256": "404ccd554ff1beeb4c23aafd2722d49e79da5da4dba19ae5ed0277e6f56b657c",
+      "directory": "shots/kosmetologiya/akcii"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/aptos-excellence-visage/",
+      "source_path": "site/kosmetologiya/aptos-excellence-visage/index.html",
+      "source_sha256": "2eea320bbbab673da15758a5d4d6a1ee5333498f0d5a12d5486c80b882b62885",
+      "directory": "shots/kosmetologiya/aptos-excellence-visage"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/aptos-nano-spring/",
+      "source_path": "site/kosmetologiya/aptos-nano-spring/index.html",
+      "source_sha256": "0bd335cf2d99456e939d529f4c9a3596b3d6e7ebeb02cb02c815513729745562",
+      "directory": "shots/kosmetologiya/aptos-nano-spring"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/aptos-nano-vitis/",
+      "source_path": "site/kosmetologiya/aptos-nano-vitis/index.html",
+      "source_sha256": "2f3b8cc38faae25ab936856a07776ace402d62c6ce8be5e325ec7b90a02bfeb8",
+      "directory": "shots/kosmetologiya/aptos-nano-vitis"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/biorevitalizaciya/",
+      "source_path": "site/kosmetologiya/biorevitalizaciya/index.html",
+      "source_sha256": "ab75745a6eec94f9c7342ce839f5e5227d45b308f210ff890210c319765513fd",
+      "directory": "shots/kosmetologiya/biorevitalizaciya"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/botulinoterapiya/",
+      "source_path": "site/kosmetologiya/botulinoterapiya/index.html",
+      "source_sha256": "6eb4ca9bcc867862793561d6e24d3ef7374d7e32e5e00dcea61b105958556791",
+      "directory": "shots/kosmetologiya/botulinoterapiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/ceny/",
+      "source_path": "site/kosmetologiya/ceny/index.html",
+      "source_sha256": "8200908761cccba94d01b99d7920b583a183d8b9ceb3c3c7fc4dbf5b441814ad",
+      "directory": "shots/kosmetologiya/ceny"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/chistki-i-pilingi/",
+      "source_path": "site/kosmetologiya/chistki-i-pilingi/index.html",
+      "source_sha256": "cfa2224e172b527c4654ae7a260a3bfe053122e5642ecf2f984d2e48941a92b8",
+      "directory": "shots/kosmetologiya/chistki-i-pilingi"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/clearlift/",
+      "source_path": "site/kosmetologiya/clearlift/index.html",
+      "source_sha256": "5d34860f61816e986e205589aaacb78131594adb6301fcf487d9e79dadaee2b5",
+      "directory": "shots/kosmetologiya/clearlift"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/cool-flame/",
+      "source_path": "site/kosmetologiya/cool-flame/index.html",
+      "source_sha256": "3907cb6f42cf27c9f44ee89c0fecd426bfa879ed4d99f17f36b39c6be6276524",
+      "directory": "shots/kosmetologiya/cool-flame"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/fotoomolozhenie/",
+      "source_path": "site/kosmetologiya/fotoomolozhenie/index.html",
+      "source_sha256": "95f4fbc4b647f73bb4532286409964b1fff8d85782678f032bb273fd4fed64ee",
+      "directory": "shots/kosmetologiya/fotoomolozhenie"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/glow-flow/",
+      "source_path": "site/kosmetologiya/glow-flow/index.html",
+      "source_sha256": "ad6f6924ce4517e05bbc2d5131e87cafa2d8eaef0159b246463606fd40521fa8",
+      "directory": "shots/kosmetologiya/glow-flow"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/juvederm-ultra-3/",
+      "source_path": "site/kosmetologiya/juvederm-ultra-3/index.html",
+      "source_sha256": "78da3c7babf8f0405804e0071fcca0ced35f90ab7d52994a4e482303384b3791",
+      "directory": "shots/kosmetologiya/juvederm-ultra-3"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/juvederm-ultra-smile/",
+      "source_path": "site/kosmetologiya/juvederm-ultra-smile/index.html",
+      "source_sha256": "acc454d59c379052dae18ba39ba51f2adce764c03b3c164e3f3ce96d0a21b41f",
+      "directory": "shots/kosmetologiya/juvederm-ultra-smile"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/karbonovyy-piling/",
+      "source_path": "site/kosmetologiya/karbonovyy-piling/index.html",
+      "source_sha256": "8ec78a604b7a198d13f8e313e4fb3103f8e3a14c6e8762f23e5322b6a93f1891",
+      "directory": "shots/kosmetologiya/karbonovyy-piling"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/kollagenostimulyatory/",
+      "source_path": "site/kosmetologiya/kollagenostimulyatory/index.html",
+      "source_sha256": "c7f7129635c1253726eac7453652026a709749ca64ce7ef0b590dd6da2baab97",
+      "directory": "shots/kosmetologiya/kollagenostimulyatory"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/konturnaya-plastika/",
+      "source_path": "site/kosmetologiya/konturnaya-plastika/index.html",
+      "source_sha256": "3f869a73e07e454e2caf4c993c0b2fb3fd1c48afc7092d27e1eb36bda9ca6c2b",
+      "directory": "shots/kosmetologiya/konturnaya-plastika"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/lazer-harmony-xl-pro/",
+      "source_path": "site/kosmetologiya/lazer-harmony-xl-pro/index.html",
+      "source_sha256": "ec86d572b20cde2e66b15f66b6414378f6cb40a2268f22076f59513ca7d76fee",
+      "directory": "shots/kosmetologiya/lazer-harmony-xl-pro"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/lechenie-akne/",
+      "source_path": "site/kosmetologiya/lechenie-akne/index.html",
+      "source_sha256": "7fe2f8f11f54429732a403b030a096678a0a6cc8590e59df162ad9e27d5a005f",
+      "directory": "shots/kosmetologiya/lechenie-akne"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/lpg/",
+      "source_path": "site/kosmetologiya/lpg/index.html",
+      "source_sha256": "8b91010e339b72ef6869d2acfd908c2b6d78d162a9700a739bdaf1ead1b9431a",
+      "directory": "shots/kosmetologiya/lpg"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/meso-wharton-p199/",
+      "source_path": "site/kosmetologiya/meso-wharton-p199/index.html",
+      "source_sha256": "34fa5df1220a26b92b29bf98615655f24b222725c46de41cbb41a3dabb280a20",
+      "directory": "shots/kosmetologiya/meso-wharton-p199"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/meso-xanthin-f199/",
+      "source_path": "site/kosmetologiya/meso-xanthin-f199/index.html",
+      "source_sha256": "aed3fdcbbde362adf10005b77faa42ef0b08bb227c457230e4f31a1bd8212341",
+      "directory": "shots/kosmetologiya/meso-xanthin-f199"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/mesoeye-c71/",
+      "source_path": "site/kosmetologiya/mesoeye-c71/index.html",
+      "source_sha256": "e0bb728b16ff2c334ab4ab0c07e2a9816708226b328f7047db478e9f8f01ea34",
+      "directory": "shots/kosmetologiya/mesoeye-c71"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/mesosculpt-c71/",
+      "source_path": "site/kosmetologiya/mesosculpt-c71/index.html",
+      "source_sha256": "22e254ebf91213a16b550e80c13c212162c4c691dc6c449b8555328fbf96c7f1",
+      "directory": "shots/kosmetologiya/mesosculpt-c71"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/mezoterapiya/",
+      "source_path": "site/kosmetologiya/mezoterapiya/index.html",
+      "source_sha256": "02712bb6c2f529930a2c3fe6fcc2f19df98e308c93f0feb21c43df94bb403693",
+      "directory": "shots/kosmetologiya/mezoterapiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/nctf-135-ha/",
+      "source_path": "site/kosmetologiya/nctf-135-ha/index.html",
+      "source_sha256": "ab4ca8d9b7af6a2f7b29775d22f860261f8218f4ddf0da3032ac51ce77a6f65f",
+      "directory": "shots/kosmetologiya/nctf-135-ha"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/nitevoy-lifting/",
+      "source_path": "site/kosmetologiya/nitevoy-lifting/index.html",
+      "source_sha256": "bb852504833afee45d8aa412adbb096194f6ccbb1a631e0643be8c4e24950d66",
+      "directory": "shots/kosmetologiya/nitevoy-lifting"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/no-filters/",
+      "source_path": "site/kosmetologiya/no-filters/index.html",
+      "source_sha256": "cd5c911f6d548d2c84bc5e83e659f9d1a956bdbfcb10a34d8907ea495398b2d8",
+      "directory": "shots/kosmetologiya/no-filters"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/pigmentnye-pyatna/",
+      "source_path": "site/kosmetologiya/pigmentnye-pyatna/index.html",
+      "source_sha256": "bca8d97b3d73a94bffe046164db015b238c55387b08dfa18804f7e2f29912824",
+      "directory": "shots/kosmetologiya/pigmentnye-pyatna"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/plazmoterapiya/",
+      "source_path": "site/kosmetologiya/plazmoterapiya/index.html",
+      "source_sha256": "00440cabdc796fe1d158682bb98a4744503e4e3ec0937d5941dca340b4e9a78f",
+      "directory": "shots/kosmetologiya/plazmoterapiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/profhilo/",
+      "source_path": "site/kosmetologiya/profhilo/index.html",
+      "source_sha256": "0741e08a41c0779157ac6fe0dc4a93391b31a3a1e162e4f9efddf19b3baf5ebf",
+      "directory": "shots/kosmetologiya/profhilo"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/radiesse/",
+      "source_path": "site/kosmetologiya/radiesse/index.html",
+      "source_sha256": "cd3d1653a88fe2295930c1369c7d981736697e2f57dc4aa7ba132581d8c0b900",
+      "directory": "shots/kosmetologiya/radiesse"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/rastyazhki/",
+      "source_path": "site/kosmetologiya/rastyazhki/index.html",
+      "source_sha256": "bb386b3fffbef809d6468c5d78b3d8f023852350fd0fe302353a7a8018e905c1",
+      "directory": "shots/kosmetologiya/rastyazhki"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/rf-lifting-volnewmer/",
+      "source_path": "site/kosmetologiya/rf-lifting-volnewmer/index.html",
+      "source_sha256": "1c8dbf5c82ff03554ed3244acf8b722bd4c340a25b7f851356ad2182afe06da0",
+      "directory": "shots/kosmetologiya/rf-lifting-volnewmer"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/rubcy-i-postakne/",
+      "source_path": "site/kosmetologiya/rubcy-i-postakne/index.html",
+      "source_sha256": "c934fca8863d308f77a0cc999aec8f285bf58b443256dfca435438dea0b3014b",
+      "directory": "shots/kosmetologiya/rubcy-i-postakne"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/shlifovka-pixel/",
+      "source_path": "site/kosmetologiya/shlifovka-pixel/index.html",
+      "source_sha256": "336ceb2b7079edc9fce840cbadc9eb58cb8ab2abc3fb6113210feb3be9ee31e4",
+      "directory": "shots/kosmetologiya/shlifovka-pixel"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/smas-lifting-ultraformer/",
+      "source_path": "site/kosmetologiya/smas-lifting-ultraformer/index.html",
+      "source_sha256": "be2ae3f90e365be29b2ee955ea8b19d59e565f5ef29068ef59f7536f22a2699f",
+      "directory": "shots/kosmetologiya/smas-lifting-ultraformer"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/stylage/",
+      "source_path": "site/kosmetologiya/stylage/index.html",
+      "source_sha256": "f73622ae51c2805389e370ea45cda2c2d616fd8d18229d3d7013045014f16cf5",
+      "directory": "shots/kosmetologiya/stylage"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/udalenie-sosudov/",
+      "source_path": "site/kosmetologiya/udalenie-sosudov/index.html",
+      "source_sha256": "50943b9bd6b8303de454183b788626db8b44f95fbc9085a2b3cd2c77ec73e445",
+      "directory": "shots/kosmetologiya/udalenie-sosudov"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/udalenie-tatuirovok/",
+      "source_path": "site/kosmetologiya/udalenie-tatuirovok/index.html",
+      "source_sha256": "539a854a3fe0747cc857bfa7c491cf92f5ad01fee576d9a067a4c4bf7ea187ad",
+      "directory": "shots/kosmetologiya/udalenie-tatuirovok"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/w-lift/",
+      "source_path": "site/kosmetologiya/w-lift/index.html",
+      "source_sha256": "2be3648da8863d4759ae03c302a39a01888c08ae58c9d7022b0ab8d7ec925695",
+      "directory": "shots/kosmetologiya/w-lift"
+    },
+    {
+      "url": "https://arvisclinic.ru/patient/first-visit/",
+      "source_path": "site/patient/first-visit/index.html",
+      "source_sha256": "2003e0788af9a7467a501f0961c32de9c8b9dd1927429f298a97d5069fb61fb5",
+      "directory": "shots/patient/first-visit"
+    },
+    {
+      "url": "https://arvisclinic.ru/patient/for-tax/",
+      "source_path": "site/patient/for-tax/index.html",
+      "source_sha256": "f01b671e35883c99b7d9cb11a6826dd9e2ccb110df42626cf5b8d38efda323f3",
+      "directory": "shots/patient/for-tax"
+    },
+    {
+      "url": "https://arvisclinic.ru/patient/payment/",
+      "source_path": "site/patient/payment/index.html",
+      "source_sha256": "7469829a4b9e820e4e6f658e77b522a6ff41ccaa29b68212c5a7dd60b72538ab",
+      "directory": "shots/patient/payment"
+    },
+    {
+      "url": "https://arvisclinic.ru/patient/preparation/",
+      "source_path": "site/patient/preparation/index.html",
+      "source_sha256": "3f87e50668ad5984e9bcbdc5152e34d246c6deffde3ff22258d8ccf6bda5162b",
+      "directory": "shots/patient/preparation"
+    },
+    {
+      "url": "https://arvisclinic.ru/patient/questions/",
+      "source_path": "site/patient/questions/index.html",
+      "source_sha256": "a74dde3e5d9918411747feee0954c140bd2d7ad75f0ec84f346571637069b532",
+      "directory": "shots/patient/questions"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=alieva",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_fdd35385b58b1068b084"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=fotek-voroshilova",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_a4ba6417ba9eb4ebe7ec"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=ginekologiya-uzi",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_e98099d2adfe597cb8b6"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-01",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_16b1fea7f38f3205416e"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-02",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_885d25fb70d3992a7053"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-03",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_cd4ef89bafe5caae9734"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-04",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_d56789111d753ca85440"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-05",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_c9fe1de93b116fa239c1"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-06",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_e2d47c585957a34fdfec"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-07",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_e52139c972dd2a0ae728"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-08",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_2958fb529606a1df853b"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-09",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_54d52f59c644ff7eefb6"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-10",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_c68f54ddd6b7bbcf5466"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-11",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_bdea1a5635cd2c1e9576"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-12",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_edf7d33ffef73c167f12"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-13",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_246b91c099fb1677a47c"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-14",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_8fbd5bc916586d0496dd"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-15",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_afa9fd284ceca66b3b77"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-16",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_5fb37153577c7fd14497"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-17",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_3bd5184f36f139fa7524"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-18",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_6da1d3e1394e6032e8fb"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-19",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_4f94205f368f483d0ece"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=pc-section-20",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_0e867d6267ef2c0aa264"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?group=uzi-popov",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_562160af912c4882997f"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%90%D0%A1%D0%98%D0%A2+%D1%81%D1%83%D0%B1%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C+%D0%BA%D0%BB%D0%B5%D1%89%D0%B8+%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B9+%D0%BF%D1%8B%D0%BB%D0%B8+%E2%80%94+%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9+%D0%BA%D1%83%D1%80%D1%81+12+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2+%28%D1%81%D1%82%D0%B0%D1%80%D1%82+%2B+3+%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D1%85%29",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_032c2e1e3156f402feba"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%90%D0%A1%D0%98%D0%A2+%D1%81%D1%83%D0%B1%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C+%D0%BF%D1%8B%D0%BB%D1%8C%D1%86%D0%B0+%D0%B7%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2%D1%8B%D1%85+%D1%82%D1%80%D0%B0%D0%B2+%E2%80%94+%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%BD%D0%BE-%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D0%BA%D1%83%D1%80%D1%81+%28%D1%81%D1%82%D0%B0%D1%80%D1%82+%2B+1+%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%29",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_c033b743bd0424149463"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%90%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_97ec353bee7f218be060"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%91%D1%8B%D0%BA%D0%BE%D0%B2%D0%B0",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_81fcebf889a2e87b5129"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%9A%D0%BE%D1%80%D1%8B%D1%88%D0%B5%D0%B2%D0%B0",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_d41cc4a92f1a1a9f1a74"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%9A%D1%80%D0%B5%D1%82%D0%BE%D0%B2%D0%B0",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_c36307c69fd8accfdf90"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%9A%D1%83%D1%80%D0%B4%D0%B5%D1%81%D0%BE%D0%B2%D0%B0",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_54065a73ad736c1d093c"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%9A%D1%83%D1%80%D1%81+%D0%B0%D1%83%D1%82%D0%BE%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D1%86%D0%B8%D1%82%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D0%B8+%D0%BF%D0%BE%D0%B4%D0%BA%D0%BE%D0%B6%D0%BD%D0%BE%D0%B9%2C+8+%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%B4%D1%83%D1%80",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_09ffe6247e78b4385392"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%9A%D1%83%D1%80%D1%81+%D0%B0%D1%83%D1%82%D0%BE%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D1%86%D0%B8%D1%82%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D0%B8+%D0%BF%D0%BE%D0%B4%D0%BA%D0%BE%D0%B6%D0%BD%D0%BE%D0%B9+%D0%B8+%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%B0%D0%BB%D0%BB%D0%B5%D1%80%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9+%D0%B8%D0%BC%D0%BC%D1%83%D0%BD%D0%BD%D0%BE%D0%B9+%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D0%B8%2C+10+%D0%B8%D0%BD%D1%8A%D0%B5%D0%BA%D1%86%D0%B8%D0%B9",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_9193be21e6c399f1c4ca"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%9A%D1%83%D1%80%D1%81+%D0%B0%D1%83%D1%82%D0%BE%D0%BB%D0%B8%D0%BC%D1%84%D0%BE%D1%86%D0%B8%D1%82%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D0%B8+%D0%BF%D0%BE%D0%B4%D0%BA%D0%BE%D0%B6%D0%BD%D0%BE%D0%B9+%D0%B8+%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%B0%D0%BB%D0%BB%D0%B5%D1%80%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9+%D0%B8%D0%BC%D0%BC%D1%83%D0%BD%D0%BD%D0%BE%D0%B9+%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D0%B8%2C+5+%D0%B8%D0%BD%D1%8A%D0%B5%D0%BA%D1%86%D0%B8%D0%B9",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_5b33d6b24d71d0e1f874"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%9C%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D1%8F",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_0a71b31073b9c2dc9b15"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%9F%D0%B8%D1%81%D0%B0%D1%80%D0%B5%D0%B2",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_29b1f297e3b864cb0cff"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_ef73d8b2acd94a6a70ae"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%A1%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B0",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_55f007865671710e56f4"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D0%B8%D0%BA%D0%B8%D0%BD%D0%B0",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_d15044353295ac2894b1"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%A1%D1%83%D1%81%D0%BB%D0%BE%D0%B2",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_65a77f7f8cced58d1f88"
+    },
+    {
+      "url": "https://arvisclinic.ru/prices/?q=%D0%A5%D0%BE%D0%BB%D1%83%D0%B5%D0%BD%D0%BA%D0%BE",
+      "source_path": "site/prices/index.html",
+      "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+      "directory": "shots/prices/__q_1732ea05f8710d1e77b4"
+    },
+    {
+      "url": "https://arvisclinic.ru/programs/",
+      "source_path": "site/programs/index.html",
+      "source_sha256": "1b3df77aa5df67aab8c93ea636cb688fb12a6fe31016a5bba336954c26c117be",
+      "directory": "shots/programs"
+    },
+    {
+      "url": "https://arvisclinic.ru/reviews/",
+      "source_path": "site/reviews/index.html",
+      "source_sha256": "365ea1fdc4d034499909ee86def9fcad5bd0ff13f38a8e9e1f0603337ad970cd",
+      "directory": "shots/reviews"
+    },
+    {
+      "url": "https://arvisclinic.ru/search/",
+      "source_path": "site/search/index.html",
+      "source_sha256": "844b5d18cbe1332542ef5771296e43f63c34c24b42220dac8fb33f0af4fe7b19",
+      "directory": "shots/search"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/",
+      "source_path": "site/services/napravleniya/index.html",
+      "source_sha256": "f948ff627f99e741a9838305bf8908f2d99f0ba98d8e1887ca3d1efce01e8518",
+      "directory": "shots/services/napravleniya"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/alex2-molekulyarnaya-diagnostika/",
+      "source_path": "site/services/napravleniya/allergologiya/alex2-molekulyarnaya-diagnostika/index.html",
+      "source_sha256": "9fecfe998a6851184f0ced28328cbcf2d163beec310f01470335559c2e136b97",
+      "directory": "shots/services/napravleniya/allergologiya/alex2-molekulyarnaya-diagnostika"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya/",
+      "source_path": "site/services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya/index.html",
+      "source_sha256": "43147b6bf28388ce094107449be06cf997e3eff54addd7dc99f19d795d0d4d63",
+      "directory": "shots/services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov/",
+      "source_path": "site/services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov/index.html",
+      "source_sha256": "548539948650e0a054b9558b2aca0e5bbc359a87a922b0306bf5a41129ee79a8",
+      "directory": "shots/services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/infuzionnaya-terapiya/",
+      "source_path": "site/services/napravleniya/allergologiya/infuzionnaya-terapiya/index.html",
+      "source_sha256": "e9cbaf0268a8cf589dbae66cff876f67a922d3cee1ef818916308d9c0c7ff1a8",
+      "directory": "shots/services/napravleniya/allergologiya/infuzionnaya-terapiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/insektnaya-allergiya/",
+      "source_path": "site/services/napravleniya/allergologiya/insektnaya-allergiya/index.html",
+      "source_sha256": "1a54a45c85955a2e8ce3943407e60d445c68ed0135cdb254e53a2cd4d434a351",
+      "directory": "shots/services/napravleniya/allergologiya/insektnaya-allergiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/kozhnye-proby-allergoproby/",
+      "source_path": "site/services/napravleniya/allergologiya/kozhnye-proby-allergoproby/index.html",
+      "source_sha256": "70069425c90e4535618045b94c4b044e62d9f68e0ff7a99d6e489d65712eefc1",
+      "directory": "shots/services/napravleniya/allergologiya/kozhnye-proby-allergoproby"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/lekarstvennaya-allergiya/",
+      "source_path": "site/services/napravleniya/allergologiya/lekarstvennaya-allergiya/index.html",
+      "source_sha256": "75460505a338f62c793ef944207e404c6473b3fc6c07da85061b9777c693289d",
+      "directory": "shots/services/napravleniya/allergologiya/lekarstvennaya-allergiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/panch-biopsiya-kozhi/",
+      "source_path": "site/services/napravleniya/allergologiya/panch-biopsiya-kozhi/index.html",
+      "source_sha256": "9d10992abb404f353d2c36e29bfba07db9b5f9d8d87824282f1670ab332fe2fd",
+      "directory": "shots/services/napravleniya/allergologiya/panch-biopsiya-kozhi"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/spetsificheskie-ige-immunocap/",
+      "source_path": "site/services/napravleniya/allergologiya/spetsificheskie-ige-immunocap/index.html",
+      "source_sha256": "85120642e91feeec450ee0195b06ca85e5bb2d4abf06df3ee098d0443a8a7934",
+      "directory": "shots/services/napravleniya/allergologiya/spetsificheskie-ige-immunocap"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/spirografiya-s-bronkhodilatatsionnoy-proboy/",
+      "source_path": "site/services/napravleniya/allergologiya/spirografiya-s-bronkhodilatatsionnoy-proboy/index.html",
+      "source_sha256": "1c60b8875f97080180001fe78d29ddf6ed0af8c1ebe462559820da0db356bb6b",
+      "directory": "shots/services/napravleniya/allergologiya/spirografiya-s-bronkhodilatatsionnoy-proboy"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/dermatovenerologiya/",
+      "source_path": "site/services/napravleniya/dermatovenerologiya/index.html",
+      "source_sha256": "768e5f71ddc3eda786915b872d527440e9113b5d4e84aab90f9f6ce6a544ee1d",
+      "directory": "shots/services/napravleniya/dermatovenerologiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/dermatovenerologiya/dermatoskopiya/",
+      "source_path": "site/services/napravleniya/dermatovenerologiya/dermatoskopiya/index.html",
+      "source_sha256": "9b3641b4ba8c2508964470fceefb6480ef26f728f2452fcfe621abbd3960bc3a",
+      "directory": "shots/services/napravleniya/dermatovenerologiya/dermatoskopiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/pulmonologiya/",
+      "source_path": "site/services/napravleniya/pulmonologiya/index.html",
+      "source_sha256": "d9d2e7e575efcb857c12298179c359c4284e2acaca61bfb6a6b007a941dcc8ff",
+      "directory": "shots/services/napravleniya/pulmonologiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/trikhologiya/",
+      "source_path": "site/services/napravleniya/trikhologiya/index.html",
+      "source_sha256": "468e52a3a4d7a704b6eb13aad07ea8ed1d259ecd1841ad110639b94b040cf9aa",
+      "directory": "shots/services/napravleniya/trikhologiya"
+    },
+    {
+      "url": "https://arvisclinic.ru/specials/",
+      "source_path": "site/specials/index.html",
+      "source_sha256": "cd9b17e26dca55cf79bbe384d3312535645f6ec88580709cfa1ae2ff77438066",
+      "directory": "shots/specials"
+    },
+    {
+      "url": "https://arvisclinic.ru/uzi/",
+      "source_path": "site/uzi/index.html",
+      "source_sha256": "483aa7de01b18fb58d069cc2bf40873ce419d510d77c704e5f837004671dd1f0",
+      "directory": "shots/uzi"
+    },
+    {
+      "url": "https://arvisclinic.ru/uzi/bryushnoy-polosti/",
+      "source_path": "site/uzi/bryushnoy-polosti/index.html",
+      "source_sha256": "06a2b683d0dd6011fea6cd1baf9ab3c5ec2ab07228982b8cae0c80ee03a8f7ce",
+      "directory": "shots/uzi/bryushnoy-polosti"
+    },
+    {
+      "url": "https://arvisclinic.ru/uzi/molochnyh-zhelez/",
+      "source_path": "site/uzi/molochnyh-zhelez/index.html",
+      "source_sha256": "acc8e2e39ff351efc0b958a063e290cbf9e5df2765c1cbe45a603f06a03bd94a",
+      "directory": "shots/uzi/molochnyh-zhelez"
+    },
+    {
+      "url": "https://arvisclinic.ru/uzi/pochek-i-mochevogo-puzyrya/",
+      "source_path": "site/uzi/pochek-i-mochevogo-puzyrya/index.html",
+      "source_sha256": "d3d378562ca736625012ff88befa0f90fab24b7a7e0caee72deed0e037e27a65",
+      "directory": "shots/uzi/pochek-i-mochevogo-puzyrya"
+    },
+    {
+      "url": "https://arvisclinic.ru/uzi/popov-sergey-viktorovich/",
+      "source_path": "site/uzi/popov-sergey-viktorovich/index.html",
+      "source_sha256": "40b287594893b92b04391dd78398635f95781241ffaf1e388049b6723a8d8b92",
+      "directory": "shots/uzi/popov-sergey-viktorovich"
+    },
+    {
+      "url": "https://arvisclinic.ru/uzi/predstatelnoy-zhelezy/",
+      "source_path": "site/uzi/predstatelnoy-zhelezy/index.html",
+      "source_sha256": "e0ac44a749573e8b183a89058e66babd0d336a6cb19b1ae658af0f470cec1c44",
+      "directory": "shots/uzi/predstatelnoy-zhelezy"
+    },
+    {
+      "url": "https://arvisclinic.ru/uzi/shchitovidnoy-zhelezy/",
+      "source_path": "site/uzi/shchitovidnoy-zhelezy/index.html",
+      "source_sha256": "69a271ad714aa33f28ef69db8bac950423d04c252de93c5627226906a7b5ad21",
+      "directory": "shots/uzi/shchitovidnoy-zhelezy"
+    }
+  ]
+}

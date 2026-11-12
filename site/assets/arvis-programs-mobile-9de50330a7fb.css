@@ -1,0 +1,2 @@
+.arvis-story.inside-page main.reader :is(h2,h3){overflow-wrap:anywhere;hyphens:auto}
+@media(max-width:760px){.arvis-story.inside-page main.reader h2{font-size:clamp(24px,7.2vw,31px);line-height:1.18;text-wrap:balance}}

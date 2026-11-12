@@ -1,0 +1,21 @@
+.arvis-cookie-notice{position:fixed;inset:auto auto max(20px,env(safe-area-inset-bottom)) 24px;z-index:10000;box-sizing:border-box;width:min(520px,calc(100vw - 48px));padding:24px;background:#fff;color:#18201e;border-radius:20px;box-shadow:0 12px 64px #0003;font-family:Manrope,Onest,sans-serif}
+.arvis-cookie-notice[hidden]{display:none!important}
+.arvis-cookie-notice h2{margin:0 0 10px;font-size:20px;line-height:1.25;font-weight:650;letter-spacing:-.035em}
+.arvis-cookie-notice p{margin:0;font-size:14px;line-height:1.6;color:#46514e}
+.arvis-cookie-notice a{color:#18201e;text-underline-offset:3px}
+.arvis-cookie-actions{display:flex;flex-wrap:wrap;align-items:stretch;gap:8px 12px;margin-top:18px}
+.arvis-cookie-actions button{min-height:44px;padding:12px 16px;border:0;border-radius:12px;font:600 13px/1.4 Manrope,Onest,sans-serif;cursor:pointer}
+.arvis-cookie-actions [data-arvis-cookie-accept]{background:#263b32;color:#fff}
+.arvis-cookie-actions [data-arvis-cookie-necessary]{background:#eeefeb;color:#26332c}
+.arvis-cookie-actions button:focus-visible,.arvis-cookie-settings:focus-visible{outline:3px solid #738c7e;outline-offset:3px}
+.arvis-cookie-settings{padding:4px 0;border:0;background:transparent;color:inherit;font:inherit;text-align:left;text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+@media(max-width:600px){.arvis-cookie-notice{left:12px;bottom:max(12px,env(safe-area-inset-bottom));width:calc(100vw - 24px);padding:20px;border-radius:18px}.arvis-cookie-notice h2{font-size:18px}.arvis-cookie-actions{gap:8px}.arvis-cookie-actions button{flex:1 1 150px;padding:12px 10px}.arvis-cookie-notice p{font-size:14px;line-height:1.55}}
+
+/* Mobile notice: retain full text and equal consent choices in a smaller footprint. */
+@media(max-width:600px){
+.arvis-cookie-notice{padding:16px;border-radius:16px;max-height:calc(100vh - max(12px,env(safe-area-inset-bottom)) - max(96px,env(safe-area-inset-top)));max-height:calc(100dvh - max(12px,env(safe-area-inset-bottom)) - max(96px,env(safe-area-inset-top)));overflow-y:auto;overscroll-behavior:contain}
+.arvis-cookie-notice h2{margin-bottom:8px;font-size:17px;line-height:1.3;letter-spacing:-.02em}
+.arvis-cookie-notice p{font-size:14px;line-height:1.5}
+.arvis-cookie-actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:12px}
+.arvis-cookie-actions button{box-sizing:border-box;min-width:0;min-height:48px;padding:8px;font-size:14px;line-height:1.4;overflow-wrap:anywhere;touch-action:manipulation}
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-prep-nctf.webp",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:49:58 GMT",
+      "Content-Type": "image/webp",
+      "Content-Length": "17152",
+      "Last-Modified": "Sat, 07 Nov 2026 13:00:23 GMT",
+      "Connection": "close",
+      "ETag": "\"6aef20e7-4300\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

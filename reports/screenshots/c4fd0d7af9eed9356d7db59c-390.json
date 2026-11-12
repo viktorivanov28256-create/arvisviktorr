@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/karbonovyy-piling/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/kosmetologiya/karbonovyy-piling/390.jpg",
+  "source_path": "site/kosmetologiya/karbonovyy-piling/index.html",
+  "source_sha256": "8ec78a604b7a198d13f8e313e4fb3103f8e3a14c6e8762f23e5322b6a93f1891",
+  "started_UTC": "2026-11-12T22:05:21.967Z",
+  "fulfilled": 35,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 11943,
+    "fonts_status": "loaded",
+    "image_total": 8,
+    "image_loaded": 8,
+    "title": "Лазерный карбоновый пилинг: лицо — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 17,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 583058,
+  "sha256": "9d8219c848ec1f26326661b8a87e21b75492b67c746a100a197a610b29504d96",
+  "finished_UTC": "2026-11-12T22:05:23.374Z"
+}

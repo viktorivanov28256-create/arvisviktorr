@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/patient/questions/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/patient/questions/390.jpg",
+  "source_path": "site/patient/questions/index.html",
+  "source_sha256": "a74dde3e5d9918411747feee0954c140bd2d7ad75f0ec84f346571637069b532",
+  "started_UTC": "2026-11-12T22:05:51.709Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 2879,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Вопросы пациентов — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 4,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 118585,
+  "sha256": "d9e7e6dd2802e62af43bc4f894745f3310b90a7969187f966bc465ee8b6b3d2e",
+  "finished_UTC": "2026-11-12T22:05:52.280Z"
+}

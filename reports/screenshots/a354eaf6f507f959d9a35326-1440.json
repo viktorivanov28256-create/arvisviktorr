@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/kuperoz-sosudistye-zvezdochki/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/kuperoz-sosudistye-zvezdochki/1440.jpg",
+  "source_path": "site/articles/kuperoz-sosudistye-zvezdochki/index.html",
+  "source_sha256": "1d87a3729e746d260db2d59544db2b146784eb118e1329dcb7d719e1e1f12d24",
+  "started_UTC": "2026-11-12T22:04:22.656Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 6509,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Купероз и сосудистые звёздочки на лице: откуда берутся и как их убирают — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 650599,
+  "sha256": "287a3bc88816112165dfd4d8376fe523314c16dcc0cf2f8a8e5252cdaec2722e",
+  "finished_UTC": "2026-11-12T22:04:23.514Z"
+}

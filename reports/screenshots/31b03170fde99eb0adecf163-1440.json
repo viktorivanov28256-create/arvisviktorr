@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/infuzionnaya-terapiya/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/services/napravleniya/allergologiya/infuzionnaya-terapiya/1440.jpg",
+  "source_path": "site/services/napravleniya/allergologiya/infuzionnaya-terapiya/index.html",
+  "source_sha256": "e9cbaf0268a8cf589dbae66cff876f67a922d3cee1ef818916308d9c0c7ff1a8",
+  "started_UTC": "2026-11-12T22:06:16.703Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 5104,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Инфузионная терапия — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 465733,
+  "sha256": "b2a7b27a9906f3e06f32e3543077ae838ba3b8129b2781c31424ab07a8325ea6",
+  "finished_UTC": "2026-11-12T22:06:17.518Z"
+}

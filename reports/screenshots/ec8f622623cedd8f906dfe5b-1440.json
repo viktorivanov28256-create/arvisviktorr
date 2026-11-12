@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/juvederm-ultra-3/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/kosmetologiya/juvederm-ultra-3/1440.jpg",
+  "source_path": "site/kosmetologiya/juvederm-ultra-3/index.html",
+  "source_sha256": "78da3c7babf8f0405804e0071fcca0ced35f90ab7d52994a4e482303384b3791",
+  "started_UTC": "2026-11-12T22:05:21.059Z",
+  "fulfilled": 36,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 6665,
+    "fonts_status": "loaded",
+    "image_total": 6,
+    "image_loaded": 6,
+    "title": "Juvederm Ultra 3, 1 мл: складки, объём губ — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 541227,
+  "sha256": "c0ff2d7b9aa5306a90727d51d6487ed6ce4a96af7763a36c4151219f48eced5a",
+  "finished_UTC": "2026-11-12T22:05:21.962Z"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/chesotka-ili-allergiya/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/chesotka-ili-allergiya/1440.jpg",
+  "source_path": "site/articles/chesotka-ili-allergiya/index.html",
+  "source_sha256": "e8ef29c4e5ed6f53d616292831b2014b9dfc287e9a9f703f50a0d141006b9fd1",
+  "started_UTC": "2026-11-12T22:04:00.131Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 9251,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Чесотка: почему чешется по ночам и как отличить её от аллергии — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 12,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 962531,
+  "sha256": "931a94fcc09ee67b859f5f68cf3bc9819c882b88eec994d56aaf1430803d3cc2",
+  "finished_UTC": "2026-11-12T22:04:01.408Z"
+}

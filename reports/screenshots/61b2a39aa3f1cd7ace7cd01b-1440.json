@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-koshka-e1/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-koshka-e1/1440.jpg",
+  "source_path": "site/analizy/ige-koshka-e1/index.html",
+  "source_sha256": "6db16e14b22fe6016c8cd67439657d6e62e462a5babde429edbdc35a3723258f",
+  "started_UTC": "2026-11-12T22:02:55.199Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7795,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Кошка, перхоть (e1), IgE ImmunoCAP — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 10,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 741550,
+  "sha256": "54a3fc6c0f23f3bb910aee481adff8185fcbda0fa1d668e558c14c2c038a322f",
+  "finished_UTC": "2026-11-12T22:02:56.293Z"
+}

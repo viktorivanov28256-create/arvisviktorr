@@ -1,0 +1,17 @@
+{
+  "completed_UTC": "2026-11-12T21:50:42.004712+00:00",
+  "records": 610,
+  "requests_this_run": 612,
+  "downloaded_bytes_this_run": 39487007,
+  "page_records": 369,
+  "asset_records": 239,
+  "skipped_file_URLs": 32,
+  "failures": 1,
+  "quarantined": 0,
+  "queue_remaining": 0,
+  "coverage_limit_or_parse_events": 0,
+  "max_requests_per_second": 1.9607843137254901,
+  "source": "anonymous public HTTPS only; no server copy/private backup",
+  "complete_discovered_scope_within_policy": true,
+  "universal_full_site_coverage_claimed": false
+}

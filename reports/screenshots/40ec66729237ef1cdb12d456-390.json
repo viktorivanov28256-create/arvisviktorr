@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/en/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/en/390.jpg",
+  "source_path": "site/en/index.html",
+  "source_sha256": "a91cd5330cca9285e80492e1560578a546360c5ac57245b894bc63d9d39e67a2",
+  "started_UTC": "2026-11-12T22:05:04.919Z",
+  "fulfilled": 32,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9337,
+    "fonts_status": "loaded",
+    "image_total": 4,
+    "image_loaded": 4,
+    "title": "Allergist in Voronezh, Russia — English-speaking allergy clinic Arvis — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 13,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 622752,
+  "sha256": "e9911038698792590c31e6b9371df4dd3465a30392c06ec7a437d09c7133d8aa",
+  "finished_UTC": "2026-11-12T22:05:06.098Z"
+}

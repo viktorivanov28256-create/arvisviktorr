@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/vypadenie-volos/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/vypadenie-volos/1440.jpg",
+  "source_path": "site/articles/vypadenie-volos/index.html",
+  "source_sha256": "ca1101ad02c43d2bab3317a1c4d94e9ca89a218ea19f0e447d9d58ce5b4a8fe2",
+  "started_UTC": "2026-11-12T22:04:53.359Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 8967,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Выпадение волос: когда это норма, а когда пора к врачу — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 12,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 951728,
+  "sha256": "73dbbb8fbfc7df6d5f1008d9050830a41def52d3ebec53333b860599e352ec0d",
+  "finished_UTC": "2026-11-12T22:04:54.522Z"
+}

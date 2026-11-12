@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-chelovecheskiy-insulin-c73/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-chelovecheskiy-insulin-c73/1440.jpg",
+  "source_path": "site/analizy/ige-chelovecheskiy-insulin-c73/index.html",
+  "source_sha256": "0e89b903d3b0e2fb857d1ede05b11bf4165548f97e0372a6a9bc968c24710bea",
+  "started_UTC": "2026-11-12T22:02:40.789Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4714,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфический IgE к человеческому инсулину (c73) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 543648,
+  "sha256": "f866cea103849df4f170466b59d06dca9ae93dfcafd361f26c572cd5a49dd343",
+  "finished_UTC": "2026-11-12T22:02:41.669Z"
+}

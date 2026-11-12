@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-oduvanchik-w8/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-oduvanchik-w8/390.jpg",
+  "source_path": "site/analizy/ige-oduvanchik-w8/index.html",
+  "source_sha256": "e2acfab71d46f43368fa18741b34be9f0148d0ad2b8289f173f1af17fe76849b",
+  "started_UTC": "2026-11-12T22:03:06.779Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6327,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к пыльце одуванчика (w8) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 395045,
+  "sha256": "9447f89e7e27a57b877f3e3507431dfd53940206518c2a1ec27bdfd5d92b1d72",
+  "finished_UTC": "2026-11-12T22:03:07.653Z"
+}

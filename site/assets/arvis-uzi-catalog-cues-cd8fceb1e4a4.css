@@ -1,0 +1,10 @@
+/* UZI-03: only the heading in the existing multi-column study browser. */
+@media (min-width: 651px) {
+  main.xp-ultrasound [data-xp-prefix="xp-full-us"] .xp-us-browser > h2 {
+    font-size: clamp(28px, 3vw, 34px);
+    line-height: 1.15;
+  }
+}
+
+/* UZI-02: visible cues only for the existing catalogue note links. */
+main.xp-ultrasound [data-xp-prefix="xp-full-us"] :is(.xp-study-source-note,.xp-fallback-content) p a:is([href="/articles/uzi-shchitovidnoy-zhelezy/"],[href="/articles/uzi-molochnyh-zhelez/"],[href="/articles/uzi-bryushnoy-polosti/"]){color:#990400;text-decoration:underline;text-underline-offset:.18em}

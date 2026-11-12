@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/about/news/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/about/news/390.jpg",
+  "source_path": "site/about/news/index.html",
+  "source_sha256": "1b3ca58183204c41743b650573e25cc6b7805fc50362ab52027dadc314e1908f",
+  "started_UTC": "2026-11-12T22:02:11.243Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 2380,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Новости и материалы — Арвис Клиника, Воронеж",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 3,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 99463,
+  "sha256": "f288d2d3d93d3f733193725e61a378152e5ad2c9fe849a15fbe56403bc6878d6",
+  "finished_UTC": "2026-11-12T22:02:11.926Z"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov/1440.jpg",
+  "source_path": "site/services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov/index.html",
+  "source_sha256": "548539948650e0a054b9558b2aca0e5bbc359a87a922b0306bf5a41129ee79a8",
+  "started_UTC": "2026-11-12T22:06:16.432Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4468,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Тест активации базофилов — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 416538,
+  "sha256": "439970ee776d3c809aa76943930ed6ceb221afcd113969d93d6cea2b96946e42",
+  "finished_UTC": "2026-11-12T22:06:17.131Z"
+}

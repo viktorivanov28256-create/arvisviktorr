@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/vzdutie-zhivota/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/vzdutie-zhivota/390.jpg",
+  "source_path": "site/articles/vzdutie-zhivota/index.html",
+  "source_sha256": "cc14f3833f4a585ccfa6f526049bc1be01b07b6f039f0b539aed30b9b8346693",
+  "started_UTC": "2026-11-12T22:04:53.473Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 10042,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Вздутие живота: когда это норма и когда идти к врачу — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 14,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 538708,
+  "sha256": "89482645e2d646d59bb4cb9d000e997bfbfeccd7d175dec16e7c9d04928562cf",
+  "finished_UTC": "2026-11-12T22:04:54.672Z"
+}

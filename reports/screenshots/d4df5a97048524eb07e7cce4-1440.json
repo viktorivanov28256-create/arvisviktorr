@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/pleseni-i-griby/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/pleseni-i-griby/1440.jpg",
+  "source_path": "site/analizy/pleseni-i-griby/index.html",
+  "source_sha256": "da4509d52935c140b450ff93270e9d0334c185f7e0ca6bbbbf366cb620d8cf42",
+  "started_UTC": "2026-11-12T22:03:33.659Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4670,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Анализы на аллергию на плесень и грибы — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 453513,
+  "sha256": "add628f0289b84187b52de2550da34202e256425ebb5bb7a90884b3701ca9cec",
+  "finished_UTC": "2026-11-12T22:03:34.459Z"
+}

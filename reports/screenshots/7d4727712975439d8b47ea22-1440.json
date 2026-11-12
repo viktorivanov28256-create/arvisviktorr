@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/allergarda/issledovaniya/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/allergarda/issledovaniya/1440.jpg",
+  "source_path": "site/allergarda/issledovaniya/index.html",
+  "source_sha256": "4357c026695c6de0aa8d75f8e830ee22f766dc86f692ffca0c25b80d32a07118",
+  "started_UTC": "2026-11-12T22:02:15.033Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4178,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Разработка и исследования Аллергарды — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 462177,
+  "sha256": "3eca3f749847950065c6abc31cafed13e91a77a1d7aaae2bea6cf3401ac9aa7d",
+  "finished_UTC": "2026-11-12T22:02:15.761Z"
+}

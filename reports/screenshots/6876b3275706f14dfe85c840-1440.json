@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/kista-yaichnika/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/kista-yaichnika/1440.jpg",
+  "source_path": "site/articles/kista-yaichnika/index.html",
+  "source_sha256": "cad3238884e4f6047b2384c455b6a71ccb94122e67ccf639ef2cd1ffa7187863",
+  "started_UTC": "2026-11-12T22:04:17.922Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 6565,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Киста яичника: какая пройдёт сама, а какую нужно лечить — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 643441,
+  "sha256": "5c42f7052e3c73374e5642a2dbfbc4be2c12856e0b7d8fef9736d89bfa7f34e7",
+  "finished_UTC": "2026-11-12T22:04:18.906Z"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-arakhis-f13/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-arakhis-f13/1440.jpg",
+  "source_path": "site/analizy/ige-arakhis-f13/index.html",
+  "source_sha256": "4355bb09b013c9a5e50f23040285ce408965bfd9dcf3aa0412bfbc55608447a5",
+  "started_UTC": "2026-11-12T22:02:37.046Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7146,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Анализ на аллергию на арахис (f13) — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 643841,
+  "sha256": "f37e638554c0158007388f52cb6d58cbe819cbcd0eb4df1b5cee10e35c2a0f14",
+  "finished_UTC": "2026-11-12T22:02:37.994Z"
+}

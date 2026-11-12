@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-sladkiy-perets-f218/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-sladkiy-perets-f218/390.jpg",
+  "source_path": "site/analizy/ige-sladkiy-perets-f218/index.html",
+  "source_sha256": "1743aadf695c85d8e72bb2d6f3db7054edeec02f8b4832089d1c0ec420201cc5",
+  "started_UTC": "2026-11-12T22:03:15.728Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6365,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к сладкому перцу и паприке (f218) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 403400,
+  "sha256": "4a5f6f64844c3f530ac374b9aed204bdf132708436ee07305f0e1ec459eebc91",
+  "finished_UTC": "2026-11-12T22:03:16.701Z"
+}

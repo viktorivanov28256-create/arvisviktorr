@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/omega-5-gliadin-f416/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/omega-5-gliadin-f416/390.jpg",
+  "source_path": "site/analizy/omega-5-gliadin-f416/index.html",
+  "source_sha256": "e882b214d518ee4a1c2ffa055e2c06f1a47acb3f7b258effc025e72c6bb219cb",
+  "started_UTC": "2026-11-12T22:03:29.790Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9179,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Омега-5 глиадин пшеницы (rTri a19), IgE ImmunoCAP — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 13,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 493260,
+  "sha256": "c01ac3d3ba6d6b6e4ace7caf2b79c1183b1db6acf6eea6b589e5e14f8d51449b",
+  "finished_UTC": "2026-11-12T22:03:30.928Z"
+}

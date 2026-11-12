@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ara-h-9-f427/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ara-h-9-f427/1440.jpg",
+  "source_path": "site/analizy/ara-h-9-f427/index.html",
+  "source_sha256": "f4f8c22f536587452b8ae5369893e8e845c017c98f2f90a6c24e868660a9d98a",
+  "started_UTC": "2026-11-12T22:02:24.107Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 3811,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Ara h 9 — компонент арахиса f427 | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 359611,
+  "sha256": "3bba2bd78d773ef1ed1f488a04b3e1e41b4857c6be300b4a199cfe70524883de",
+  "finished_UTC": "2026-11-12T22:02:24.853Z"
+}

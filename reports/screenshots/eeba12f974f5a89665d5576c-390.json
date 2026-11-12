@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/alt-a-1-m229/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/alt-a-1-m229/390.jpg",
+  "source_path": "site/analizy/alt-a-1-m229/index.html",
+  "source_sha256": "2ebf4c93aef4df71c498f3bc19d2be1199ac706dc731ecd75a86c27a3aa74ba0",
+  "started_UTC": "2026-11-12T22:02:20.876Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6415,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Alt a 1 (m229): специфические IgE — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 352433,
+  "sha256": "5a0109dc8a93ec3dfe19e493d8c19041f7b3866ae9da91d6e37cc6e498a5d0c4",
+  "finished_UTC": "2026-11-12T22:02:21.811Z"
+}

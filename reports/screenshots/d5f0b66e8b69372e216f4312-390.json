@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/contacts/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/contacts/390.jpg",
+  "source_path": "site/contacts/index.html",
+  "source_sha256": "ea6a51243cd58ed9b40dd542361ad617954c3ec826e7f76b669ae8e3faf058d5",
+  "started_UTC": "2026-11-12T22:04:57.194Z",
+  "fulfilled": 44,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6983,
+    "fonts_status": "loaded",
+    "image_total": 48,
+    "image_loaded": 16,
+    "title": "Контакты и адреса — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 10,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 376476,
+  "sha256": "ffe19d73b74e0942ab1fb71adae5205119bb67117f8a8bc37c5464016a66af01",
+  "finished_UTC": "2026-11-12T22:04:58.097Z"
+}

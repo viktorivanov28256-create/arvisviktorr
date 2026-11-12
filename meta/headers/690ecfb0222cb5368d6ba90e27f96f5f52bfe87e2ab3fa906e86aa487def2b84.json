@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://arvisclinic.ru/recovery-assets/media/arvis-voroshilova-hall-w1120-69ca9663b0f4.webp",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:49:52 GMT",
+      "Content-Type": "image/webp",
+      "Content-Length": "113974",
+      "Last-Modified": "Sat, 07 Nov 2026 18:47:29 GMT",
+      "Connection": "close",
+      "ETag": "\"6aef7241-1bd36\"",
+      "Expires": "Sat, 12 Dec 2026 21:49:52 GMT",
+      "Cache-Control": "max-age=2592000",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

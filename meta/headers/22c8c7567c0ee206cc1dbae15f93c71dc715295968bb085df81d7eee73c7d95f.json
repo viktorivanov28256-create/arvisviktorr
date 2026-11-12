@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/arvis-direction-promotion-7211d55322cd.css",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:49:45 GMT",
+      "Content-Type": "text/css",
+      "Content-Length": "9073",
+      "Last-Modified": "Tue, 10 Nov 2026 08:33:48 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6af2d6ec-2371\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/krapivnitsa/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/krapivnitsa/1440.jpg",
+  "source_path": "site/articles/krapivnitsa/index.html",
+  "source_sha256": "0b1964dbbabe6434ee912582a60ba141dc4191230680b1fb5db08589bf43764e",
+  "started_UTC": "2026-11-12T22:04:21.914Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 9075,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Крапивница: как отличить от других сыпей и почему диета обычно не помогает — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 12,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 971192,
+  "sha256": "233e63a950cf607586c72eb16fb4e1fc8fd12933b6a8fcf501a17313b209bd4f",
+  "finished_UTC": "2026-11-12T22:04:23.051Z"
+}

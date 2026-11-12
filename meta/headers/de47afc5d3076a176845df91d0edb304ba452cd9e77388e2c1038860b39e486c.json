@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/fonts/manrope-latin.woff2",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:50:42 GMT",
+      "Content-Type": "font/woff2",
+      "Content-Length": "24532",
+      "Last-Modified": "Sun, 08 Nov 2026 19:53:18 GMT",
+      "Connection": "close",
+      "ETag": "\"6af0d32e-5fd4\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Cache-Control": "public, max-age=3600",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

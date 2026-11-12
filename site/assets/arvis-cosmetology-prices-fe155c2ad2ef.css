@@ -1,0 +1,128 @@
+/* Source only: Arvis cosmetics price catalogue.
+   Scope: existing unique price-page section; no global/header or reader-mode styling.
+   Load after the incumbent stylesheet chain; keep native829 and all binding hooks intact. */
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) {
+  --prices-paper:#fafaf8;
+  --prices-ink:#181a1b;
+  --prices-muted:#626668;
+  --prices-quiet:#7b7e80;
+  --prices-accent:#9e0b15;
+  --prices-close:#f0f0ec;
+  background:var(--prices-paper);
+  color:var(--prices-ink);
+  overflow-wrap:break-word;
+}
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-wrap {
+  width:min(1320px,calc(100% - 64px));
+  max-width:1320px;
+  margin-inline:auto;
+  padding-inline:0;
+}
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-breadcrumbs { margin-block:0 28px; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-intro { max-width:100%;margin:0 0 42px;padding-block:18px 0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-title {
+  max-width:18ch;margin:0;font:500 clamp(36px,5vw,64px)/1.06 Manrope,Onest,sans-serif;
+  letter-spacing:-.035em;text-wrap:balance;color:var(--prices-ink);
+}
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-lead {
+  max-width:67ch;margin:24px 0 0;font:400 18px/1.65 Onest,sans-serif;
+  letter-spacing:0;color:var(--prices-muted);
+}
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-layout { grid-template-columns:180px minmax(0,1fr);gap:64px; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-outline { margin:0;padding:0;background:none;border:0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-outline a { color:var(--prices-muted);text-decoration:none;min-height:44px;display:inline-flex;align-items:center; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) article.reader-content { min-width:0;max-width:none;width:100%;font:400 17px/1.65 Onest,sans-serif; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-content a { color:var(--prices-ink);text-decoration:none;text-underline-offset:.2em; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) :is(a,summary,button):focus-visible { outline:3px solid var(--prices-accent);outline-offset:4px; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) :is(h2,h3,details)[id] { scroll-margin-top:120px; }
+
+/* Quiet orientation; the existing route links remain real links. */
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-context-nav { display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px 24px;margin:0 0 24px;padding:0;background:none;border:0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-tabs { display:flex;flex-wrap:wrap;gap:8px 20px; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) :is(.apv-km-tabs a,.apv-km-loc) { display:inline-flex;align-items:center;min-height:44px;padding:0;font-size:14px;line-height:1.45;color:var(--prices-muted); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-tabs [aria-current="page"] { color:var(--prices-ink);font-weight:600; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-content > dl.profile-practical { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 40px;margin:12px 0 40px;padding:0;background:none;border:0;border-radius:0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-content > dl.profile-practical > div { display:grid;grid-template-columns:minmax(0,1fr) max-content;align-items:baseline;gap:20px;min-width:0;padding:8px 0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-content > dl.profile-practical dt { margin:0;font:400 14px/1.6 Onest,sans-serif;color:var(--prices-muted); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-content > dl.profile-practical dd { margin:0;font:500 18px/1.45 Manrope,Onest,sans-serif;white-space:nowrap;font-variant-numeric:tabular-nums;color:var(--prices-ink); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) #price-sections { margin:24px 0 28px;padding:0;background:none;border:0;border-radius:0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) #price-sections > summary { display:flex;align-items:center;min-height:52px;padding:12px 36px 12px 0;font:500 17px/1.5 Onest,sans-serif;color:var(--prices-ink);list-style:none; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) #price-sections > summary::-webkit-details-marker { display:none; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) #price-sections > summary::after { top:50%;transform:translateY(-50%);color:var(--prices-muted); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) #price-sections > ul { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 32px;margin:14px 0 24px;padding:0;list-style:none; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) #price-sections li { min-width:0;margin:0;padding:0;list-style:none; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) #price-sections a { display:flex;align-items:center;min-height:44px;padding:6px 0;font-size:15px;line-height:1.5; }
+
+/* Category titles carry hierarchy. The text catalog uses space, never card stripes. */
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-ptab { margin:72px 0 0;padding:0;background:none;border:0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-ptab > h3 { max-width:28ch;margin:0 0 10px;font:500 32px/1.15 Manrope,Onest,sans-serif;letter-spacing:-.03em;color:var(--prices-ink);text-wrap:balance; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-ptab > h3 > a { color:var(--prices-ink);text-decoration:none; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-ptab__u { display:block;margin:10px 0 0;font:400 14px/1.55 Onest,sans-serif;letter-spacing:0;color:var(--prices-muted); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) :is(.apv-km-bkh,.apv-km-ptab__note,.apv-km-ptab__promo) { max-width:70ch;margin:16px 0 24px;padding:0;background:none;border:0;font:400 14px/1.65 Onest,sans-serif;color:var(--prices-muted); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story { min-width:0;max-width:none;margin:0;padding:0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-prices { display:grid;gap:0;margin:16px 0 0;padding:0;background:none;border:0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-price-row { display:grid;grid-template-columns:minmax(0,1fr) max-content;align-items:start;gap:4px 32px;min-width:0;margin:0;padding:20px 0;background:none;border:0;border-radius:0;box-shadow:none; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-price-row:nth-child(even) { margin:0;padding-inline:0;background:none; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-price-name { min-width:0;max-width:50ch;font:400 17px/1.55 Onest,sans-serif;color:var(--prices-ink);overflow-wrap:break-word; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .dp-price-name > a { display:block;min-height:44px;color:var(--prices-ink);text-decoration:none; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-price-description { display:block;margin:5px 0 0;font:400 13px/1.55 Onest,sans-serif;color:var(--prices-muted); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-price-value { margin:0;font:500 22px/1.35 Manrope,Onest,sans-serif;letter-spacing:-.02em;white-space:nowrap;text-align:right;font-variant-numeric:tabular-nums;color:var(--prices-ink); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .dp-price-value > a { display:inline-flex;align-items:center;justify-content:flex-end;min-height:44px;padding:0;font:inherit;line-height:inherit;letter-spacing:inherit;color:var(--prices-ink);text-decoration:none; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .dp-price-value span.dp-price-value { font:inherit;letter-spacing:inherit; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-price-info { grid-column:1/-1;max-width:72ch;margin:0;padding:0;font:400 14px/1.6 Onest,sans-serif;color:var(--prices-muted); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .dp-price-info :is(s,em) { font:inherit;letter-spacing:0;color:var(--prices-muted); }
+
+/* FAQ and the existing consultation close: one clear primary action, unchanged links. */
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-content h2:not(.apv-sr) { margin:64px 0 24px;font:500 32px/1.18 Manrope,Onest,sans-serif;letter-spacing:-.03em;color:var(--prices-ink); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-faq .reader-faq-item { margin:0 0 8px;padding:0;background:none;border:0;border-radius:0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-faq .reader-faq-item > summary { display:flex;align-items:center;min-height:52px;padding:12px 36px 12px 0;font:500 17px/1.5 Onest,sans-serif;color:var(--prices-ink); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-faq .reader-faq-item > summary::after { top:50%;transform:translateY(-50%);color:var(--prices-muted); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-faq .reader-faq-item > summary h3 { display:inline;margin:0;font:inherit;letter-spacing:0;color:inherit; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-faq .reader-faq-answer { max-width:70ch;padding:8px 0 24px;font-size:16px;line-height:1.65; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-cta { display:grid;grid-template-columns:minmax(0,1fr) 220px;align-items:center;gap:32px;margin:56px 0 0;padding:32px;background:var(--prices-close);border:0;border-radius:20px; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-content .apv-km-cta h2 { margin:0 0 20px; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-cta__lead { font-size:16px;line-height:1.65;color:var(--prices-muted); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-cta__list { margin:20px 0;padding-left:1.1em;font-size:15px;line-height:1.65; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-cta__doc { display:flex;align-items:center;gap:16px;margin:24px 0 0;font-size:15px;line-height:1.5; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-cta__doc img { display:block;width:64px;height:80px;flex:0 0 64px;object-fit:contain;margin:0;border-radius:0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-cta__role { display:block;margin-top:4px;font-size:13px;color:var(--prices-muted); }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-form { display:flex;flex-direction:column;gap:12px;min-width:0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-cta__go { margin:0; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-form a.apv-btn--dark { display:inline-flex;justify-content:center;align-items:center;min-height:52px;padding:14px 22px;background:var(--prices-accent);color:#fff;border:0;border-radius:12px;font:500 16px/1.45 Onest,sans-serif;text-align:center; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-form a.apv-btn--ghost { display:inline-flex;justify-content:center;align-items:center;min-height:44px;padding:8px 0;background:none;border:0;color:var(--prices-ink);font-size:15px;text-decoration:underline; }
+html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) :is(.apv-km-legal,.reader-callout) { margin:28px 0 0;padding:0;background:none;border:0;border-radius:0;font-size:14px;line-height:1.65;color:var(--prices-muted); }
+
+@media (hover:hover) and (pointer:fine) {
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-content a:hover { color:var(--prices-accent);text-decoration:underline;text-decoration-thickness:1px; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-form a.apv-btn--dark:hover { color:#fff;background:#810c14;text-decoration:none; }
+}
+@media (max-width:1080px) {
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-layout { display:block; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-outline { position:static;margin-bottom:28px; }
+}
+@media (max-width:760px) {
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-wrap { width:calc(100% - 40px); }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-intro { margin-bottom:32px;padding-top:8px; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-title { font-size:clamp(34px,9.1vw,44px);line-height:1.08; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-lead { margin-top:20px;font-size:17px;line-height:1.6; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-content > dl.profile-practical { grid-template-columns:1fr;gap:4px;margin-bottom:28px; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) #price-sections > ul { grid-template-columns:1fr;gap:0; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-ptab { margin-top:56px; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-ptab > h3 { font-size:28px;line-height:1.18;letter-spacing:-.025em; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-prices { margin-top:12px; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-price-row { gap:4px 20px;padding-block:18px; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-price-name { font-size:16px;line-height:1.5; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-price-value { font-size:20px;line-height:1.35; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-content h2:not(.apv-sr) { font-size:28px;line-height:1.2; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-cta { grid-template-columns:1fr;gap:28px;margin-top:40px;padding:24px 20px;border-radius:16px; }
+}
+@media (max-width:359px) {
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-wrap { width:calc(100% - 36px); }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .profile-story .dp-price-row { column-gap:14px; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-ptab > h3 { font-size:26px; }
+}
+@media (forced-colors:active) {
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) { --prices-paper:Canvas;--prices-ink:CanvasText;--prices-muted:CanvasText;--prices-quiet:CanvasText;--prices-accent:LinkText;--prices-close:Canvas; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .reader-content a { color:LinkText; }
+  html:not([data-arvis-reading="on"]) main.reader:has(#prais-po-razdelam) .apv-km-form a.apv-btn--dark { background:ButtonFace;color:ButtonText;border:1px solid ButtonText; }
+}

@@ -1,0 +1,7 @@
+.medflex-round-widget__button{display:none!important}
+.medflex-round-widget [data-arvis-widget-close]:focus-visible{outline:3px solid #1659bf;outline-offset:3px}
+.arvis-booking-failure{display:block;grid-column:1/-1;flex:0 0 100%;order:27;min-width:0;max-width:100%;margin-block:12px 4px;padding:12px 16px;background:#f1f3f4;color:#16181b;font-size:16px;line-height:1.5;text-align:left;overflow-wrap:anywhere}
+.arvis-booking-failure>span{display:block}
+.arvis-booking-failure>a{display:inline-flex;align-items:center;min-height:44px;color:#8c1d18;font-weight:600;text-decoration:underline;text-underline-offset:4px}
+.arvis-booking-failure>a:focus-visible{outline:3px solid #1659bf;outline-offset:3px}
+.context-booking[data-arvis-booking-error]{flex-wrap:wrap}

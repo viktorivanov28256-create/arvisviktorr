@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://arvisclinic.ru/prices/?q=%D0%91%D1%8B%D0%BA%D0%BE%D0%B2%D0%B0",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:49:40 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "Set-Cookie": "[redacted]",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Pragma": "no-cache",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin"
+    }
+  }
+]

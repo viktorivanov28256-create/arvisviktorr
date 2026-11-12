@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/lpg/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/kosmetologiya/lpg/1440.jpg",
+  "source_path": "site/kosmetologiya/lpg/index.html",
+  "source_sha256": "8b91010e339b72ef6869d2acfd908c2b6d78d162a9700a739bdaf1ead1b9431a",
+  "started_UTC": "2026-11-12T22:05:28.980Z",
+  "fulfilled": 43,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 11128,
+    "fonts_status": "loaded",
+    "image_total": 15,
+    "image_loaded": 15,
+    "title": "LPG-массаж в Воронеже — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 15,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 924367,
+  "sha256": "ad36c1cc44fd5aa8e6288635e3fe778066f881234b2cddfa04395434057aadf4",
+  "finished_UTC": "2026-11-12T22:05:30.544Z"
+}

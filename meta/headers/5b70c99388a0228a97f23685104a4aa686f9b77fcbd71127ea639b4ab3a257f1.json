@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://arvisclinic.ru/robots.txt",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:45:25 GMT",
+      "Content-Type": "text/plain; charset=utf-8",
+      "Content-Length": "191",
+      "Last-Modified": "Sat, 07 Nov 2026 14:15:54 GMT",
+      "Connection": "close",
+      "ETag": "\"6aef329a-bf\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

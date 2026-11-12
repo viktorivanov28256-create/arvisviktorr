@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/ginekologiya/kholuenko-olga-anatolevna/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/ginekologiya/kholuenko-olga-anatolevna/1440.jpg",
+  "source_path": "site/ginekologiya/kholuenko-olga-anatolevna/index.html",
+  "source_sha256": "f5a50bdb92086cb4edffa2b2366bbeb40c888b16cb1e4f390bc21eac976b6638",
+  "started_UTC": "2026-11-12T22:05:07.947Z",
+  "fulfilled": 32,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4042,
+    "fonts_status": "loaded",
+    "image_total": 3,
+    "image_loaded": 3,
+    "title": "Холуенко Ольга Анатольевна — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 305234,
+  "sha256": "389b7159c1d2a7cb2df7659dd9d6c8bd203bfc01bc72175ab721f30a8a2e3c27",
+  "finished_UTC": "2026-11-12T22:05:08.656Z"
+}

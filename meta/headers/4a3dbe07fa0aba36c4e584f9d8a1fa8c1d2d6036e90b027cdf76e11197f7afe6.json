@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/arvis-reading-boot-ee96e6be04a4.js",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:15 GMT",
+      "Content-Type": "application/javascript; charset=utf-8",
+      "Content-Length": "777",
+      "Last-Modified": "Wed, 11 Nov 2026 00:26:49 GMT",
+      "Connection": "close",
+      "ETag": "\"6af3b649-309\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

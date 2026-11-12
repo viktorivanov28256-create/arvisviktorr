@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/ukus-osy-i-pchely/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/ukus-osy-i-pchely/1440.jpg",
+  "source_path": "site/articles/ukus-osy-i-pchely/index.html",
+  "source_sha256": "1e4688652dfb3f9a6e4a038e2ea99d7a71c22b084586af8b50f16399dc749cb6",
+  "started_UTC": "2026-11-12T22:04:45.587Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 16593,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Укус осы и пчелы: когда отёк опасен и что делать в первые минуты — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 22,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 1934546,
+  "sha256": "40f897f747acc1ac52f3f26ba1839f3cadf6e03a69443bccd731cb39680b3521",
+  "finished_UTC": "2026-11-12T22:04:47.500Z"
+}

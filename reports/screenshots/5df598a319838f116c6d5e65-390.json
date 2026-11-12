@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya/390.jpg",
+  "source_path": "site/services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya/index.html",
+  "source_sha256": "43147b6bf28388ce094107449be06cf997e3eff54addd7dc99f19d795d0d4d63",
+  "started_UTC": "2026-11-12T22:06:15.271Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9467,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "АСИТ — аллерген-специфическая иммунотерапия — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 13,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 542904,
+  "sha256": "88743c13dcafbcf1beae9ca69a65f1371b2c5b0172f84b3290642a06828fa8a6",
+  "finished_UTC": "2026-11-12T22:06:16.429Z"
+}

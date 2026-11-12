@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/gly-m-4-f353/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/gly-m-4-f353/390.jpg",
+  "source_path": "site/analizy/gly-m-4-f353/index.html",
+  "source_sha256": "7cac8de591e8f8265ef16e84e4e50f11d1e58d25689ed74b9b791c3da59fef6b",
+  "started_UTC": "2026-11-12T22:02:32.463Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 5269,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Gly m 4 (f353): PR-10 компонент сои | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 7,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 304129,
+  "sha256": "7bffdd2645f9667aef8a7fc3d58c199f5fd02ba3521c56e39408602a9658071a",
+  "finished_UTC": "2026-11-12T22:02:33.255Z"
+}

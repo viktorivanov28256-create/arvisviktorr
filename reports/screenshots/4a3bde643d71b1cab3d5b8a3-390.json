@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-sennaya-pyl-o7/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-sennaya-pyl-o7/390.jpg",
+  "source_path": "site/analizy/ige-sennaya-pyl-o7/index.html",
+  "source_sha256": "e7cc6aeaa9be73f15537384108ad3fa67fe4b973bdc7bd1b9e14cfd6d8146d67",
+  "started_UTC": "2026-11-12T22:03:14.767Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6055,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфический IgE к сенной пыли (o7) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 374610,
+  "sha256": "d04dada643dab16fa3fe299b8a06e03633080a25774b14dcc740d3171acd1d7c",
+  "finished_UTC": "2026-11-12T22:03:15.626Z"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-zelenyy-perets-goroshkom-f263/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-zelenyy-perets-goroshkom-f263/390.jpg",
+  "source_path": "site/analizy/ige-zelenyy-perets-goroshkom-f263/index.html",
+  "source_sha256": "fb8c03ba23ca808ad768ba0671dd3da10e4609a71147967bb13a30b6469a4fb3",
+  "started_UTC": "2026-11-12T22:03:25.741Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6329,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к зелёному перцу-горошком (f263) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 400000,
+  "sha256": "ad229dd660c3751aa48afa0228fd75ed479a85c2b78d31f46f10b24f52dffccb",
+  "finished_UTC": "2026-11-12T22:03:26.603Z"
+}

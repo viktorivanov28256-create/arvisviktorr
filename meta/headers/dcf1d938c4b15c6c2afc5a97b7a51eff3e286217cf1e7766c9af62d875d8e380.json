@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/mobile-repair-3ccb086a786c.css",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:17 GMT",
+      "Content-Type": "text/css",
+      "Content-Length": "8018",
+      "Last-Modified": "Sun, 08 Nov 2026 04:52:33 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6af00011-1f52\"",
+      "Expires": "Sat, 12 Dec 2026 21:48:17 GMT",
+      "Cache-Control": "max-age=2592000",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

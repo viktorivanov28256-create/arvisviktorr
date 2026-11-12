@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/aptos-excellence-visage/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/kosmetologiya/aptos-excellence-visage/390.jpg",
+  "source_path": "site/kosmetologiya/aptos-excellence-visage/index.html",
+  "source_sha256": "2eea320bbbab673da15758a5d4d6a1ee5333498f0d5a12d5486c80b882b62885",
+  "started_UTC": "2026-11-12T22:05:10.445Z",
+  "fulfilled": 36,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9267,
+    "fonts_status": "loaded",
+    "image_total": 6,
+    "image_loaded": 6,
+    "title": "APTOS Excellence Visage — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 13,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 438877,
+  "sha256": "27cf291be46b394b20c22fb80bc46a44e067cb78286c929607ae2095a793080e",
+  "finished_UTC": "2026-11-12T22:05:11.633Z"
+}

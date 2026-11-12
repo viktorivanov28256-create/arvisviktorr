@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/uzi/popov-sergey-viktorovich/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/uzi/popov-sergey-viktorovich/1440.jpg",
+  "source_path": "site/uzi/popov-sergey-viktorovich/index.html",
+  "source_sha256": "40b287594893b92b04391dd78398635f95781241ffaf1e388049b6723a8d8b92",
+  "started_UTC": "2026-11-12T22:06:27.489Z",
+  "fulfilled": 32,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 6294,
+    "fonts_status": "loaded",
+    "image_total": 3,
+    "image_loaded": 3,
+    "title": "Попов Сергей Викторович — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 436534,
+  "sha256": "43409c5ae17d82795d9f1dd223e53bb1750e2e126f60f9301cb129f33360d0a2",
+  "finished_UTC": "2026-11-12T22:06:28.407Z"
+}

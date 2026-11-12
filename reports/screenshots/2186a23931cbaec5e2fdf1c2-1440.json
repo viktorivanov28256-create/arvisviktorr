@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-khomyak-e84/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-khomyak-e84/1440.jpg",
+  "source_path": "site/analizy/ige-khomyak-e84/index.html",
+  "source_sha256": "17ba7cf6742bc1218adf725e7a93e94f44f4bbef8264b807782cf9ed65f7ae4a",
+  "started_UTC": "2026-11-12T22:02:51.627Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4721,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к эпителию хомяка (e84) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 539837,
+  "sha256": "4d14600abf402b47b2d087564e7bdc57a05cc2cdec03fe861f4145cc2c833401",
+  "finished_UTC": "2026-11-12T22:02:52.339Z"
+}

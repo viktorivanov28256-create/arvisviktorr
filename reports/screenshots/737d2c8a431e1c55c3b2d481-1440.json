@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/lpg-massazh-chto-daet/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/lpg-massazh-chto-daet/1440.jpg",
+  "source_path": "site/articles/lpg-massazh-chto-daet/index.html",
+  "source_sha256": "6d8feb8f945e6fb5b225e2432ca7e8c96ccbc47f51dc2b3d518aa64f91dbcfd5",
+  "started_UTC": "2026-11-12T22:04:23.321Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 6109,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "LPG-массаж: что он даёт, сколько процедур нужно и кому нельзя — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 584376,
+  "sha256": "b9390db4221447e440b0e4c0d024b7658e0be55565285e23e4b9aab391c57d15",
+  "finished_UTC": "2026-11-12T22:04:24.156Z"
+}

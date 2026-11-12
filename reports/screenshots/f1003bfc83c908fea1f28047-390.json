@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/smas-lifting/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/smas-lifting/390.jpg",
+  "source_path": "site/articles/smas-lifting/index.html",
+  "source_sha256": "8096fc33d861899a791d58d5d12f437f62f16c6254dffb398d4a2bda7f2e72ad",
+  "started_UTC": "2026-11-12T22:04:43.961Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 14286,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "SMAS-лифтинг: кому подходит и кому нельзя — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 20,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 845106,
+  "sha256": "99a8a76481c6872b35d66862f23730a3166a2cd01f04681be2527552a9d90f49",
+  "finished_UTC": "2026-11-12T22:04:45.642Z"
+}

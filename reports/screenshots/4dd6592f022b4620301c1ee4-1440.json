@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/index/1440.jpg",
+  "source_path": "site/index.html",
+  "source_sha256": "52e741cba6ab5762fcb8453049329331e6344ad058ec9fe4440fb9d23cebb6a2",
+  "started_UTC": "2026-11-12T21:59:34.245Z",
+  "fulfilled": 44,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 8472,
+    "fonts_status": "loaded",
+    "image_total": 13,
+    "image_loaded": 13,
+    "title": "Арвис Клиника — медицинская клиника в Воронеже",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 11,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 774281,
+  "sha256": "ea63ea507e15886841628d6bc72931089af5c69f11b48a6b9ff12c341427ba35",
+  "finished_UTC": "2026-11-12T21:59:35.244Z"
+}

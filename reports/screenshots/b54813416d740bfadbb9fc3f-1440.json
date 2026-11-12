@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/kashel-posle-prostudy/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/kashel-posle-prostudy/1440.jpg",
+  "source_path": "site/articles/kashel-posle-prostudy/index.html",
+  "source_sha256": "3ab976ab29fe94b6d8fe5de63267ea2ed4da8433a1cf25da55a82a890100d87c",
+  "started_UTC": "2026-11-12T22:04:16.855Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7524,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Кашель после простуды не проходит: когда пора проверить бронхи — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 10,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 768843,
+  "sha256": "5ae4eb0a9f84403399ce78f892573dd0108d492351713059d66bf0aeb32ff45e",
+  "finished_UTC": "2026-11-12T22:04:17.918Z"
+}

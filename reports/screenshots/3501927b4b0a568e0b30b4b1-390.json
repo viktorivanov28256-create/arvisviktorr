@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-domashnyaya-pyl-h1/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-domashnyaya-pyl-h1/390.jpg",
+  "source_path": "site/analizy/ige-domashnyaya-pyl-h1/index.html",
+  "source_sha256": "6d40923bcf932e122eb4e52758a79e22e18eb96ad269d40d4dfeb6e8e3875f4d",
+  "started_UTC": "2026-11-12T22:02:43.122Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6129,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к домашней пыли | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 388864,
+  "sha256": "c6961651d71576e5e428475855e331d4da337e257ba7f9c1dbd7fef20ba6696d",
+  "finished_UTC": "2026-11-12T22:02:43.903Z"
+}

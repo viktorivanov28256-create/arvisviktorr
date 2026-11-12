@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/uzi/molochnyh-zhelez/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/uzi/molochnyh-zhelez/1440.jpg",
+  "source_path": "site/uzi/molochnyh-zhelez/index.html",
+  "source_sha256": "acc8e2e39ff351efc0b958a063e290cbf9e5df2765c1cbe45a603f06a03bd94a",
+  "started_UTC": "2026-11-12T22:06:25.782Z",
+  "fulfilled": 32,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7478,
+    "fonts_status": "loaded",
+    "image_total": 6,
+    "image_loaded": 6,
+    "title": "УЗИ молочных желёз и регионарных лимфатических узлов — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 10,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 713865,
+  "sha256": "33c222bf2c6c5ff7269b933895da5b69f47f8ae9cf6d86bbba175fdf6d96628d",
+  "finished_UTC": "2026-11-12T22:06:26.799Z"
+}

@@ -1,0 +1,25 @@
+{
+  "status": "GO_OFFLINE_PRIVACY_SOURCE_REVIEW_ONLY",
+  "observed_UTC": "2026-11-12T22:00:58.200191+00:00",
+  "source": {
+    "path": "tools/capture_screenshots.cjs",
+    "sha256": "1e0c0bbf76460dea52db99821211db6ce9e57e993c6edaccc3628c305770a018"
+  },
+  "checked": [
+    "Fresh isolated Playwright context per image, no storageState or personal Chrome profile.",
+    "All contexts offline; service workers blocked and WebSocket routes closed.",
+    "Only exact HTTPS origin requests fulfilled from SHA/size-verified capture bodies; nonGET/external/missing/PDF/video/audio requests aborted.",
+    "No live fetch fallback; Chromium background/DNS guards present.",
+    "Saved HTML/CSS/JS bytes and links unchanged; no consent clicks or form interactions.",
+    "Bare query lookup serialized consistently using URLSearchParams; resumed image results restore actual report_path.",
+    "JPEG quality80 and fullPage at widths390/1440, recorded errors/missing resources and source-body SHA."
+  ],
+  "scopeLimits": [
+    "Code review did not launch a browser or measure OS packet traffic.",
+    "Parent owns visual smoke acceptance and final all-image completion verification.",
+    "The final screenshot-all receipt, not this source review, owns generated image counts and failures."
+  ],
+  "networkRequestsByReviewer": 0,
+  "browserProcessesLaunchedByReviewer": 0,
+  "sourceModifiedByReviewer": false
+}

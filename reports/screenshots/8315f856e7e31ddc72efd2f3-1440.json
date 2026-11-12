@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/no-filters/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/kosmetologiya/no-filters/1440.jpg",
+  "source_path": "site/kosmetologiya/no-filters/index.html",
+  "source_sha256": "cd5c911f6d548d2c84bc5e83e659f9d1a956bdbfcb10a34d8907ea495398b2d8",
+  "started_UTC": "2026-11-12T22:05:36.086Z",
+  "fulfilled": 42,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 11759,
+    "fonts_status": "loaded",
+    "image_total": 15,
+    "image_loaded": 15,
+    "title": "No Filters: лицо — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 16,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 1010469,
+  "sha256": "933cb90176d18efeb5470f75d5b66f89bc88959be1f1f9a74cfc789f71abac62",
+  "finished_UTC": "2026-11-12T22:05:37.548Z"
+}

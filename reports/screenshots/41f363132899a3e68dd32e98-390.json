@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/uvelichenie-gub-fillerom/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/uvelichenie-gub-fillerom/390.jpg",
+  "source_path": "site/articles/uvelichenie-gub-fillerom/index.html",
+  "source_sha256": "0eef29a12859925eb306f84902cb57c8b974819468158beb457e102890ac24bd",
+  "started_UTC": "2026-11-12T22:04:45.684Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9252,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Увеличение губ филлером: сколько держится и что нельзя после — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 13,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 512576,
+  "sha256": "5ccf7fdc355795e3d8f76d29023d3132aeae04124c67ad6d49d3105c65c93b0a",
+  "finished_UTC": "2026-11-12T22:04:46.780Z"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/services/napravleniya/dermatovenerologiya/dermatoskopiya/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/services/napravleniya/dermatovenerologiya/dermatoskopiya/390.jpg",
+  "source_path": "site/services/napravleniya/dermatovenerologiya/dermatoskopiya/index.html",
+  "source_sha256": "9b3641b4ba8c2508964470fceefb6480ef26f728f2452fcfe621abbd3960bc3a",
+  "started_UTC": "2026-11-12T22:06:21.159Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6273,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Дерматоскопия — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 322425,
+  "sha256": "2e94be5c6a9911efd3db314c3056367c014b06520c2e1b10dae3df35e0a63248",
+  "finished_UTC": "2026-11-12T22:06:22.083Z"
+}

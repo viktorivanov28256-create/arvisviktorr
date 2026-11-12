@@ -1,0 +1,105 @@
+/* Home evolution. Existing photographs, content and CMS actions remain authoritative. */
+main.sv-home { --home-ease: cubic-bezier(.22,.61,.36,1); }
+main.sv-home :is(.sv-hero-copy,.sv-scene-copy,.sv-editorial-grid>div,.sv-section-heading) { min-width:0; }
+main.sv-home .sv-home-hero { height:auto; min-height:clamp(700px,92svh,920px); max-height:none; }
+main.sv-home .sv-hero-copy { padding-block:160px 170px; }
+main.sv-home .sv-home-hero h1 { font-size:clamp(52px,5.3vw,80px); line-height:1.08; max-width:26ch; margin-bottom:28px; letter-spacing:-.03em; overflow-wrap:normal; word-break:normal; text-wrap:balance; }
+main.sv-home .sv-hero-image { object-position:56% 50%; }
+main.sv-home .sv-home-hero::after { animation:none; }
+main.sv-home .sv-home-hero .sv-button--quiet,
+main.sv-home .sv-final .sv-button--quiet { background:transparent; box-shadow:none; padding-inline:8px; justify-content:flex-start; gap:14px; }
+main.sv-home .sv-home-hero .sv-button--quiet:hover,
+main.sv-home .sv-final .sv-button--quiet:hover { box-shadow:none; text-decoration:underline; text-underline-offset:.25em; }
+main.sv-home .sv-hero-bottom { bottom:30px; }
+main.sv-home #directions { scroll-margin-top:110px; }
+main.sv-home :is(#allergy-title,#beauty-title,#uzi-title,#gynecology-title) { scroll-margin-top:126px; }
+
+/* A visible index makes all four scenes available without a long search. */
+main.sv-home .sv-intro { grid-template-columns:minmax(0,.95fr) minmax(0,1.2fr); padding-block:64px 72px; align-items:center; gap:clamp(32px,6vw,96px); }
+main.sv-home .sv-intro h2 { font-size:clamp(36px,3.4vw,52px); line-height:1.12; margin:0; max-width:18ch; letter-spacing:-.03em; }
+main.sv-home .sv-intro p { font-size:17px; line-height:1.6; max-width:34ch; margin:20px 0 0; color:#586050; }
+main.sv-home .sv-home-directions-nav { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:8px 32px; min-width:0; }
+main.sv-home .sv-home-directions-nav a { display:flex; align-items:center; justify-content:space-between; gap:12px; min-width:0; min-height:64px; padding:8px 0; font:500 clamp(19px,1.7vw,26px)/1.3 Manrope,Onest,sans-serif; letter-spacing:-.025em; color:#28362c; text-decoration:none; }
+main.sv-home .sv-home-directions-nav .icon { flex:none; width:22px; height:22px; color:#62705e; transition:transform .24s var(--home-ease); }
+main.sv-home .sv-home-directions-nav a:hover,
+main.sv-home .sv-home-directions-nav a:active { color:#970a13; text-decoration:underline; text-underline-offset:.22em; }
+main.sv-home .sv-home-directions-nav a:hover .icon { transform:translateX(4px); color:#970a13; }
+main.sv-home .sv-home-directions-nav a:focus-visible { outline:3px solid #970a13; outline-offset:6px; border-radius:2px; }
+
+main.sv-home .sv-scene-copy h2 { font-size:clamp(38px,4vw,60px); line-height:1.14; max-width:19ch; overflow-wrap:normal; word-break:normal; text-wrap:balance; hyphens:auto; }
+main.sv-home #uzi-title { font-size:clamp(36px,3.65vw,58px); max-width:21ch; }
+main.sv-home .sv-editorial h2 { font-size:clamp(40px,4.4vw,64px); line-height:1.16; max-width:20ch; overflow-wrap:normal; word-break:normal; text-wrap:balance; }
+main.sv-home :is(.sv-section-heading h2,.sv-places>h2,.sv-gyn h2) { max-width:24ch; text-wrap:balance; overflow-wrap:normal; word-break:normal; }
+main.sv-home .sv-final h2 { font-size:clamp(44px,5.4vw,76px); line-height:1.12; max-width:20ch; text-wrap:balance; }
+
+/* Doctor details need the same reading size as the rest of the patient journey. */
+body.arvis-story main.sv-home .sv-doctor-grid .doctor-card p { font-size:15px; line-height:1.6; margin-block:8px; }
+body.arvis-story main.sv-home .sv-doctor-grid .doctor-card .doctor-price { color:#323b2f; font-variant-numeric:tabular-nums; }
+body.arvis-story main.sv-home .sv-doctor-grid .doctor-card .card-bottom { gap:12px 20px; padding-top:20px; font-size:15px; }
+body.arvis-story main.sv-home .sv-doctor-grid .doctor-card .card-bottom a { min-height:44px; }
+body.arvis-story main.sv-home .sv-doctor-grid .doctor-card .card-bottom [data-arvis-booking-url] { color:#970a13; font-weight:600; }
+
+/* Both branches share one photo rhythm; captions remain ordinary HTML. */
+main.sv-home .sv-place { min-width:0; }
+main.sv-home .sv-place img { display:block; width:100%; height:auto; aspect-ratio:4/3; object-fit:cover; }
+main.sv-home .sv-place h3 { min-height:2.3em; line-height:1.15; margin:26px 0 0; }
+main.sv-home .sv-place h3 a { min-height:44px; }
+main.sv-home .sv-place p { font-size:15px; line-height:1.6; margin:16px 0 0; }
+main.sv-home .sv-place h3 .icon { transition:transform .24s var(--home-ease); }
+main.sv-home .sv-place h3 a:hover .icon { transform:translateX(4px); }
+
+@media (min-width:761px) and (max-width:1100px) {
+  main.sv-home .sv-doctor-grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:40px 28px; }
+  main.sv-home .sv-home-hero h1 { font-size:52px; max-width:26ch; }
+  main.sv-home .sv-scene-copy h2 { font-size:40px; }
+  main.sv-home #uzi-title { font-size:36px; }
+  main.sv-home .sv-intro { gap:32px; }
+  main.sv-home .sv-home-directions-nav { gap:8px 24px; }
+}
+@media (max-width:760px) {
+  main.sv-home .sv-home-hero { min-height:680px; min-height:clamp(680px,88svh,780px); height:auto; }
+  main.sv-home .sv-hero-copy { padding-block:140px 120px; }
+  main.sv-home .sv-hero-image { object-position:73% 50%; }
+  main.sv-home .sv-hero-shade { background:linear-gradient(90deg,#17251de6 0%,#1b2b2399 65%,#1b2b2366 100%),linear-gradient(0deg,#14251cba,transparent 45%); }
+  main.sv-home .sv-home-hero h1 { font-size:clamp(30px,9.65vw,38px); line-height:1.13; max-width:100%; margin-bottom:22px; letter-spacing:-.03em; }
+  main.sv-home .sv-home-hero p { font-size:17px; line-height:1.6; max-width:34ch; }
+  main.sv-home .sv-home-hero .sv-actions { display:flex; flex-direction:column; align-items:stretch; gap:8px; margin-top:28px; }
+  main.sv-home .sv-home-hero .sv-actions .sv-button { width:100%; min-height:54px; }
+  main.sv-home .sv-home-hero .sv-actions .sv-button--quiet { width:auto; align-self:flex-start; min-height:48px; padding:10px 0; }
+  main.sv-home .sv-hero-bottom { bottom:24px; font-size:13px; gap:24px; }
+  main.sv-home .sv-hero-bottom>a { display:none; }
+  main.sv-home #directions { scroll-margin-top:96px; }
+  main.sv-home :is(#allergy-title,#beauty-title,#uzi-title,#gynecology-title) { scroll-margin-top:112px; }
+  main.sv-home .sv-intro { grid-template-columns:1fr; padding-block:48px 52px; gap:26px; }
+  main.sv-home .sv-intro h2 { font-size:34px; max-width:19ch; }
+  main.sv-home .sv-intro p { font-size:16px; margin-top:16px; max-width:35ch; }
+  main.sv-home .sv-home-directions-nav { gap:0 20px; }
+  main.sv-home .sv-home-directions-nav a { min-height:52px; font-size:18px; gap:6px; }
+  main.sv-home .sv-home-directions-nav .icon { width:18px; height:18px; }
+  main.sv-home .sv-scene-copy h2 { font-size:clamp(30px,8.7vw,36px); line-height:1.16; max-width:21ch; margin-bottom:24px; }
+  main.sv-home #uzi-title { font-size:clamp(29px,8.2vw,34px); max-width:100%; }
+  main.sv-home .sv-editorial h2 { font-size:clamp(32px,8.7vw,38px); line-height:1.2; max-width:21ch; }
+  main.sv-home :is(.sv-section-heading h2,.sv-places>h2,.sv-gyn h2) { font-size:36px; line-height:1.2; max-width:21ch; }
+  main.sv-home .sv-final h2 { font-size:36px; line-height:1.16; max-width:20ch; }
+  body.arvis-story main.sv-home .sv-doctor-grid { gap:36px; }
+  body.arvis-story main.sv-home .sv-doctor-grid .doctor-card { grid-template-columns:100px minmax(0,1fr); gap:18px; }
+  body.arvis-story main.sv-home .sv-doctor-grid .doctor-card img { width:100px; height:128px; aspect-ratio:auto; }
+  body.arvis-story main.sv-home .sv-doctor-grid .doctor-card h3 { font-size:22px; line-height:1.25; }
+  body.arvis-story main.sv-home .sv-doctor-grid .doctor-card .card-bottom { display:flex; flex-wrap:wrap; gap:0 16px; padding-top:12px; }
+  main.sv-home .sv-place h3 { min-height:0; font-size:32px; line-height:1.2; margin-top:22px; }
+  main.sv-home .sv-place h3 .icon { margin-top:9px; }
+  main.sv-home .sv-place p { margin-top:12px; }
+  main.sv-home .sv-final .sv-actions { display:flex; flex-direction:column; align-items:stretch; }
+  main.sv-home .sv-final .sv-button--quiet { align-self:flex-start; padding-inline:0; }
+}
+@media (max-width:359px) {
+  main.sv-home .sv-home-hero h1 { font-size:30px; }
+  main.sv-home #uzi-title { font-size:29px; }
+  main.sv-home .sv-home-directions-nav { grid-template-columns:1fr; gap:0; }
+  body.arvis-story main.sv-home .sv-doctor-grid .doctor-card { grid-template-columns:80px minmax(0,1fr); gap:14px; }
+  body.arvis-story main.sv-home .sv-doctor-grid .doctor-card img { width:80px; height:104px; }
+}
+@media (prefers-reduced-motion:reduce) {
+  main.sv-home .sv-home-directions-nav .icon,
+  main.sv-home .sv-place h3 .icon { transition:none; transform:none!important; }
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-lebeda-w15/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-lebeda-w15/1440.jpg",
+  "source_path": "site/analizy/ige-lebeda-w15/index.html",
+  "source_sha256": "94b0ac51a46988db9c24610f6514be40796feccb5a0feeec6c0c976cd49bef5a",
+  "started_UTC": "2026-11-12T22:03:00.000Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4563,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфический IgE к пыльце лебеды (w15) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 517788,
+  "sha256": "540a578b9df8efdda9071a02c68a58e6013fd4924b855d8cef497060ae41360a",
+  "finished_UTC": "2026-11-12T22:03:00.760Z"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/lekarstvennaya-allergiya/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/services/napravleniya/allergologiya/lekarstvennaya-allergiya/1440.jpg",
+  "source_path": "site/services/napravleniya/allergologiya/lekarstvennaya-allergiya/index.html",
+  "source_sha256": "75460505a338f62c793ef944207e404c6473b3fc6c07da85061b9777c693289d",
+  "started_UTC": "2026-11-12T22:06:18.713Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4840,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Лекарственная аллергия — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 491036,
+  "sha256": "ee23df7a8698e47bbffc74de953b1c7900685599ca6ff79c88d4a8008b7ae40c",
+  "finished_UTC": "2026-11-12T22:06:19.542Z"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/allergokomponenty/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/allergokomponenty/1440.jpg",
+  "source_path": "site/analizy/allergokomponenty/index.html",
+  "source_sha256": "90c54ea64750f14001722c28bbeb80ceaa3b10545dd3c6cf4a59180c13b447f0",
+  "started_UTC": "2026-11-12T22:02:20.121Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 5690,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Анализы на аллергокомпоненты — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 7,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 535402,
+  "sha256": "02d3a2f059d0b860fd31047869359ff7bfb82f42dd01f38409a39b92749e9580",
+  "finished_UTC": "2026-11-12T22:02:20.874Z"
+}

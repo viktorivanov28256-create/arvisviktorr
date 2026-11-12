@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/kozhnye-proby-allergoproby/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/services/napravleniya/allergologiya/kozhnye-proby-allergoproby/1440.jpg",
+  "source_path": "site/services/napravleniya/allergologiya/kozhnye-proby-allergoproby/index.html",
+  "source_sha256": "70069425c90e4535618045b94c4b044e62d9f68e0ff7a99d6e489d65712eefc1",
+  "started_UTC": "2026-11-12T22:06:18.025Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 5274,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Кожные пробы (аллергопробы) — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 7,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 564249,
+  "sha256": "873ce69c67a22d6962b7ac70d5eb316eaa9d36f756fd2f7c4e30cfc1253719a9",
+  "finished_UTC": "2026-11-12T22:06:18.895Z"
+}

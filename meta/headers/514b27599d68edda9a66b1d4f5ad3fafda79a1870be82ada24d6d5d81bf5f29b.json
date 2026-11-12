@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://arvisclinic.ru/bitrix/templates/vc-site/images/arvis-ba-harmony-nf-face1-before.webp",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:50:18 GMT",
+      "Content-Type": "image/webp",
+      "Content-Length": "23782",
+      "Last-Modified": "Sat, 07 Nov 2026 13:00:23 GMT",
+      "Connection": "close",
+      "ETag": "\"6aef20e7-5ce6\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

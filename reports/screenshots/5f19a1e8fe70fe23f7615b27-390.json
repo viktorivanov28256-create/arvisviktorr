@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/ginekologiya/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/ginekologiya/390.jpg",
+  "source_path": "site/ginekologiya/index.html",
+  "source_sha256": "4303f39de8aa7ae7f85c8139fd6ef54804d5d0f95e406e47dedf8cab36ada589",
+  "started_UTC": "2026-11-12T22:05:06.109Z",
+  "fulfilled": 34,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 14914,
+    "fonts_status": "loaded",
+    "image_total": 6,
+    "image_loaded": 6,
+    "title": "Гинекология в Воронеже — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 21,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 812481,
+  "sha256": "b8921cddb598e75cecf6dce0f21fe26646e08ba28f09053660c4ec5a4ce83ec2",
+  "finished_UTC": "2026-11-12T22:05:07.884Z"
+}

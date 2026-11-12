@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://arvisclinic.ru/recovery-assets/brand/arvis-mark-559c4dd417c5.svg",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:18 GMT",
+      "Content-Type": "image/svg+xml",
+      "Content-Length": "3439",
+      "Last-Modified": "Sun, 08 Nov 2026 20:50:05 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6af0e07d-d6f\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

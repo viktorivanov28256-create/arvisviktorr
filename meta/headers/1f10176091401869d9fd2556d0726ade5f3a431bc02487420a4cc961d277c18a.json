@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/arvis-uzi-preparation-ea2184aaf6f1.js",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:50:38 GMT",
+      "Content-Type": "application/javascript; charset=utf-8",
+      "Content-Length": "19265",
+      "Last-Modified": "Tue, 10 Nov 2026 13:33:11 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6af31d17-4b41\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

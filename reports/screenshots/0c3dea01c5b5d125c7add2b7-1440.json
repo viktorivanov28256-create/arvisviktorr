@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/vakcina-ot-allergii-na-berezu-allergarda/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/vakcina-ot-allergii-na-berezu-allergarda/1440.jpg",
+  "source_path": "site/articles/vakcina-ot-allergii-na-berezu-allergarda/index.html",
+  "source_sha256": "869d68be5f48da9bac457a3968bd72a4722c19d8fbcc9071d4225d1a0ceaff40",
+  "started_UTC": "2026-11-12T22:04:50.749Z",
+  "fulfilled": 31,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 5457,
+    "fonts_status": "loaded",
+    "image_total": 3,
+    "image_loaded": 3,
+    "title": "Аллергарда от аллергии на берёзу: что известно к ноябрю 2026 года — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 7,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 607626,
+  "sha256": "11df03e15319fae021a82a10b1ef53cb160c54d036714035f57cb5d9149a5fe8",
+  "finished_UTC": "2026-11-12T22:04:51.509Z"
+}

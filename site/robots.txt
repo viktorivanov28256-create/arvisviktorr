@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /bitrix/
+Allow: /bitrix/cache/css/
+Allow: /bitrix/cache/js/
+Allow: /bitrix/templates/vc-site/
+Disallow: /503.html
+Sitemap: https://arvisclinic.ru/sitemap.xml

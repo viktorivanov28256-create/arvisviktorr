@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/doctors/kretova-galina-ivanovna/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/doctors/kretova-galina-ivanovna/1440.jpg",
+  "source_path": "site/doctors/kretova-galina-ivanovna/index.html",
+  "source_sha256": "60bf079d900bedeca84355ff316fed4211e7247edb36e07be436ffc5ea10fb99",
+  "started_UTC": "2026-11-12T22:05:01.855Z",
+  "fulfilled": 32,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 3000,
+    "fonts_status": "loaded",
+    "image_total": 3,
+    "image_loaded": 3,
+    "title": "Кретова Галина Ивановна — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 4,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 232635,
+  "sha256": "d941bb5e329f3f3f3f3d11915d0786967af63e49842fd0edebdcdb2b9d8840bf",
+  "finished_UTC": "2026-11-12T22:05:02.520Z"
+}

@@ -1,0 +1,30 @@
+/* Mobile doctor profiles and directory only. Native facts, filters and booking are unchanged. */
+body.arvis-story main>.doctor-directory-content .doctor-card.no-portrait{grid-template-columns:minmax(0,1fr);height:auto;min-height:0;align-self:start}
+body.arvis-story main>.doctor-directory-content .doctor-card.no-portrait>div{grid-column:1;min-width:0}
+body.arvis-story main>.doctor-directory-content .doctor-card[hidden]{display:none}
+@media(max-width:767px){
+body.arvis-story main>section.profile-hero[data-profile-hero] .profile-layout{display:flex;flex-direction:column-reverse;align-items:stretch;gap:24px;position:static;min-height:0}
+body.arvis-story main>section.profile-hero[data-profile-hero] .profile-layout>div{width:100%;min-width:0;min-height:0;max-width:none;margin:0;padding:0}
+body.arvis-story main>section.profile-hero[data-profile-hero] .profile-layout>img.profile-portrait{position:static;inset:auto;float:none;align-self:flex-start;width:152px;height:190px;max-width:100%;max-height:none;aspect-ratio:4/5;object-fit:cover;object-position:50% 18%;margin:0;border-radius:12px;transform:none}
+body.arvis-story main>section.profile-hero[data-profile-hero] .profile-layout>div>h1{width:100%;max-width:none;margin:0 0 14px;padding:0;font-size:clamp(28px,7vw,34px);line-height:1.15;letter-spacing:-.025em;overflow-wrap:normal;word-break:normal;text-wrap:balance}
+body.arvis-story main>section.profile-hero[data-profile-hero] .profile-role{width:100%;max-width:none;margin:0 0 12px;padding:0;font-size:18px;line-height:1.5}
+body.arvis-story main>section.profile-hero[data-profile-hero] .profile-age{max-width:none;margin:0 0 22px;padding:0;font-size:16px;line-height:1.6}
+body.arvis-story main>section.profile-hero[data-profile-hero] .profile-practical{width:100%;max-width:none;margin:22px 0;padding:22px}
+body.arvis-story main>section.profile-hero[data-profile-hero] .actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:20px}
+body.arvis-story main>section.profile-hero[data-profile-hero] .actions>a{min-height:48px;max-width:100%;white-space:normal}
+body.arvis-story main>section.profile-hero[data-profile-hero] .profile-action-note{max-width:none;font-size:14px;line-height:1.6}
+}
+@media(max-width:900px){
+body.arvis-story main>.doctor-directory-content .doctor-grid{row-gap:24px;align-items:start}
+body.arvis-story main>.doctor-directory-content .doctor-grid>article.doctor-card{display:grid;grid-template-columns:80px minmax(0,1fr);align-items:start;align-self:start;gap:0 16px;height:auto;min-height:0;margin:0;padding:18px 0;border:0;background:none;box-shadow:none}
+body.arvis-story main>.doctor-directory-content .doctor-grid>article.doctor-card>a{grid-column:1;grid-row:1;display:block;align-self:start;width:80px;min-width:0;height:100px;margin:0;padding:0;aspect-ratio:4/5}
+body.arvis-story main>.doctor-directory-content .doctor-grid>article.doctor-card>a>img{position:static;display:block;width:80px;height:100px;max-width:100%;object-fit:cover;object-position:50% 18%;margin:0;border-radius:8px;transform:none}
+body.arvis-story main>.doctor-directory-content .doctor-grid>article.doctor-card>div{display:block;grid-column:2;grid-row:1;align-self:start;min-width:0;height:auto;min-height:0;margin:0;padding:0}
+body.arvis-story main>.doctor-directory-content .doctor-grid>article.doctor-card h3{max-width:none;margin:0 0 10px;font-size:21px;line-height:1.3;letter-spacing:-.02em;overflow-wrap:normal;word-break:normal}
+body.arvis-story main>.doctor-directory-content .doctor-grid>article.doctor-card :is(.doctor-role,.doctor-address,.doctor-price){margin:0 0 10px;padding:0;font-size:16px;line-height:1.5}
+body.arvis-story main>.doctor-directory-content .doctor-grid>article.doctor-card .card-bottom{display:flex;align-items:center;justify-content:flex-start;flex-wrap:wrap;gap:6px 18px;margin:12px 0 0;padding:0;min-height:44px}
+body.arvis-story main>.doctor-directory-content .doctor-grid>article.doctor-card .card-bottom>a{display:inline-flex;align-items:center;min-height:44px;margin:0;padding:4px 0;font-size:16px;line-height:1.4}
+body.arvis-story main>.doctor-directory-content .doctor-grid>article.doctor-card.no-portrait{grid-template-columns:minmax(0,1fr);height:auto;min-height:0;padding:18px 0}
+body.arvis-story main>.doctor-directory-content .doctor-grid>article.doctor-card.no-portrait>div{grid-column:1;grid-row:1;padding:0}
+body.arvis-story main>.doctor-directory-content .doctor-grid>article.doctor-card[hidden]{display:none}
+}

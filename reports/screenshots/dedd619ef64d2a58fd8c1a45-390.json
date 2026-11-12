@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/allergiya-na-holod/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/allergiya-na-holod/390.jpg",
+  "source_path": "site/articles/allergiya-na-holod/index.html",
+  "source_sha256": "8fa6ccf54ff1cf3f50ce41e1ecddd9acb237a4e4fa0587b9923207e9e8065750",
+  "started_UTC": "2026-11-12T22:03:45.950Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 18438,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Аллергия на холод: почему кожа реагирует на мороз и что с этим делать — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 27,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 1216893,
+  "sha256": "816a6f0a379e9c9c5b54dd55bd058f1671f5861c1eeaa387e835cabfd6b318aa",
+  "finished_UTC": "2026-11-12T22:03:48.063Z"
+}

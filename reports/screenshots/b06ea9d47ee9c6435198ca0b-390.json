@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-mak-f224/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-mak-f224/390.jpg",
+  "source_path": "site/analizy/ige-mak-f224/index.html",
+  "source_sha256": "c827de687b68a11f53f006051f9284c9dfeb24079878c4947290a29cb7c01d57",
+  "started_UTC": "2026-11-12T22:03:00.974Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6059,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к семенам мака (f224) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 375675,
+  "sha256": "127f470009624f6f70e976742ce62aa50cafcf31208e44a0c7b21d0e9be1929d",
+  "finished_UTC": "2026-11-12T22:03:01.832Z"
+}

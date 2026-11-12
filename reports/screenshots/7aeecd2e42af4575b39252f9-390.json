@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/patient/first-visit/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/patient/first-visit/390.jpg",
+  "source_path": "site/patient/first-visit/index.html",
+  "source_sha256": "2003e0788af9a7467a501f0961c32de9c8b9dd1927429f298a97d5069fb61fb5",
+  "started_UTC": "2026-11-12T22:05:49.687Z",
+  "fulfilled": 32,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 5832,
+    "fonts_status": "loaded",
+    "image_total": 4,
+    "image_loaded": 4,
+    "title": "Как проходит первый приём — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 320767,
+  "sha256": "3dee03eca7507351495ae7ed99495e3945db1c0dc36f69af33aeecd0470144dc",
+  "finished_UTC": "2026-11-12T22:05:50.558Z"
+}

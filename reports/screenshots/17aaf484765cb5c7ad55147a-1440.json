@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/allergicheskiy-marsh/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/allergicheskiy-marsh/1440.jpg",
+  "source_path": "site/articles/allergicheskiy-marsh/index.html",
+  "source_sha256": "55e6a9521d5c1d9a940deaa4d05ec5ce85f80ec0bc2b89b2518e864632535dab",
+  "started_UTC": "2026-11-12T22:03:41.118Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7779,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Аллергический марш: почему у ребёнка после дерматита появляется астма — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 10,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 797494,
+  "sha256": "b6c5d37d3e5093bbf3d621c0bcea640f6ce1db4b31204e50551d1794039d9e9b",
+  "finished_UTC": "2026-11-12T22:03:42.084Z"
+}

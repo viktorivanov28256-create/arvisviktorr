@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/prices/?q=%D0%90%D0%A1%D0%98%D0%A2+%D1%81%D1%83%D0%B1%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C+%D0%BA%D0%BB%D0%B5%D1%89%D0%B8+%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B9+%D0%BF%D1%8B%D0%BB%D0%B8+%E2%80%94+%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9+%D0%BA%D1%83%D1%80%D1%81+12+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2+%28%D1%81%D1%82%D0%B0%D1%80%D1%82+%2B+3+%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D1%85%29",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/prices/__q_032c2e1e3156f402feba/1440.jpg",
+  "source_path": "site/prices/index.html",
+  "source_sha256": "b0e681843921407b42de99cc58738b52ccda6fee2d2f69ce9bc5782fbee027df",
+  "started_UTC": "2026-11-12T22:06:05.972Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 3099,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Цены — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 4,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 209547,
+  "sha256": "f9bf1bb1d3daa62cef6476b8be9fd3ba8586a8cf8168692b9ceedfe2d3fd5527",
+  "finished_UTC": "2026-11-12T22:06:06.638Z"
+}

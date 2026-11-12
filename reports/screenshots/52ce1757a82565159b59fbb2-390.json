@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/patient/preparation/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/patient/preparation/390.jpg",
+  "source_path": "site/patient/preparation/index.html",
+  "source_sha256": "3f87e50668ad5984e9bcbdc5152e34d246c6deffde3ff22258d8ccf6bda5162b",
+  "started_UTC": "2026-11-12T22:05:51.241Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 4062,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Подготовка к приёму и исследованиям — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 179313,
+  "sha256": "a79d006a4084def85ed9af182fab04f180b73fa3f07fb7bde04ae707e6f8e5a9",
+  "finished_UTC": "2026-11-12T22:05:51.884Z"
+}

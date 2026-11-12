@@ -1,0 +1,129 @@
+/* Scoped to enhanced apparatus media. No page text, navigation or other video is restyled. */
+.arvis-equipment-stage {
+  position: relative;
+  width: 100%;
+  min-width: 0;
+  overflow: hidden;
+  background: #000;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+.arvis-equipment-stage > video[data-arvis-equipment-motion] {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  margin: 0;
+  object-fit: contain;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  background: #000;
+}
+.cm-film__media.arvis-equipment-stage {
+  --arvis-equipment-height: clamp(19rem, 42vw, 33rem);
+  background: transparent;
+}
+.cm-film__media.arvis-equipment-stage > video[data-arvis-equipment-motion] { height: var(--arvis-equipment-height); }
+/* The original black-backed product footage becomes part of one dark stage. */
+.reader-content #apparaty-v-detalyah {
+  box-sizing: border-box;
+  padding: clamp(24px, 3vw, 40px);
+  background: #0a0c0e;
+  color: #e6edf1;
+}
+.reader-content #apparaty-v-detalyah :is(h2, h3, p, li) { color: inherit; }
+.reader-content #apparaty-v-detalyah a { color: #fff; text-decoration: underline; text-underline-offset: 4px; }
+.reader-content #apparaty-v-detalyah figcaption { color: #b6c3ca; }
+.reader-content #apparaty-v-detalyah a:focus-visible { outline: 3px solid #fff; outline-offset: 4px; }
+.xp-cosmetology .arvis-equipment-stage { background: transparent; }
+.xp-cosmetology .arvis-equipment-stage > video[data-arvis-equipment-motion],
+.cm-film__media.arvis-equipment-stage > video[data-arvis-equipment-motion] { background: transparent; mix-blend-mode: screen; }
+.xp-cosmetology .arvis-equipment-stage > video[data-arvis-equipment-motion="native-fallback"],
+.cm-film__media.arvis-equipment-stage > video[data-arvis-equipment-motion="native-fallback"] { background: #000; mix-blend-mode: normal; }
+.arvis-equipment-toggle {
+  position: absolute;
+  right: 14px;
+  bottom: 14px;
+  z-index: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0 14px;
+  border: 0;
+  border-radius: 999px;
+  color: #fff;
+  background: #24282d;
+  box-shadow: none;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1;
+  white-space: nowrap;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+.arvis-equipment-toggle[hidden] { display: none !important; }
+.arvis-equipment-toggle > svg { display: block; width: 18px; height: 18px; fill: currentColor; }
+.arvis-equipment-toggle:focus-visible { outline: 3px solid #fff; outline-offset: 4px; }
+.xp-device-object[data-arvis-equipment-media] .arvis-equipment-toggle { bottom: 32px; }
+.cm-film__media.arvis-equipment-stage .arvis-equipment-toggle { top: calc(var(--arvis-equipment-height) - 58px); bottom: auto; }
+@media (hover: hover) and (pointer: fine) {
+  .arvis-equipment-toggle:hover { background: #353b42; }
+}
+@media (max-width: 600px) {
+  .arvis-equipment-toggle { right: 12px; bottom: 12px; }
+  .xp-device-object[data-arvis-equipment-media] .arvis-equipment-toggle { bottom: 34px; }
+  .cm-film__media.arvis-equipment-stage { --arvis-equipment-height: 22rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .arvis-equipment-stage, .arvis-equipment-stage > video[data-arvis-equipment-motion] { animation: none !important; transition: none !important; }
+}
+
+.arvis-equipment{box-sizing:border-box;width:100%;max-width:1240px;margin:64px auto 48px;padding:clamp(24px,4vw,48px);color:#182023;background:#f2f3ef}
+.arvis-equipment h2,.arvis-equipment h3,.arvis-equipment p,.arvis-equipment dl,.arvis-equipment dd{margin:0}
+.arvis-equipment-heading{display:flex;justify-content:space-between;align-items:flex-start;gap:36px}
+.arvis-equipment h2{font-size:clamp(30px,3.5vw,44px);font-weight:500;line-height:1.1;letter-spacing:-.035em}
+.arvis-equipment-heading h2+p{font-size:16px;line-height:1.6;color:#59635f;margin-top:14px}
+.arvis-equipment-partner{display:flex;align-items:center;gap:20px;text-decoration:none}
+.arvis-equipment-partner img{display:block;width:134px;height:auto;max-height:38px;object-fit:contain;flex-shrink:0}
+.arvis-equipment-partner span{font-size:15px;line-height:1.5}
+.arvis-equipment-partner small{display:block;font-size:13px;color:#59635f;margin-top:3px}
+.arvis-equipment-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));align-items:start;gap:40px;margin-top:48px}
+.arvis-equipment .arvis-equipment-maker{font-size:14px;color:#59635f;margin-bottom:10px}
+.arvis-equipment h3{font-size:clamp(23px,2.4vw,30px);line-height:1.2;font-weight:500;letter-spacing:-.025em}
+.arvis-equipment .arvis-equipment-specs{display:grid;gap:22px;margin-top:30px!important}
+.arvis-equipment-specs dt{font-size:14px;line-height:1.5;color:#59635f;margin-bottom:6px}
+.arvis-equipment-specs dd{font-size:17px;font-weight:500;line-height:1.5}
+.arvis-equipment-specs code{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:18px;font-variant-numeric:tabular-nums;white-space:nowrap;color:inherit;background:none;padding:0}
+.arvis-equipment-specs a{display:inline-flex;align-items:center;min-height:44px;color:inherit;text-decoration:none}
+.arvis-equipment-specs a>span,.arvis-equipment-documents a>span{margin-left:.3em}
+.arvis-equipment-specs a:hover{text-decoration:underline;text-underline-offset:4px}
+.arvis-equipment-documents{margin-top:26px}
+.arvis-equipment-documents summary{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:44px;cursor:pointer;list-style:none;font-size:15px;font-weight:500;line-height:1.5}
+.arvis-equipment-documents summary::-webkit-details-marker{display:none}
+.arvis-equipment-documents summary span{font-size:25px;font-weight:400;line-height:1}
+.arvis-equipment-documents[open] summary span{transform:rotate(45deg)}
+.arvis-equipment-documents>div{display:grid;gap:6px;padding-top:8px}
+.arvis-equipment-documents a{display:flex;align-items:center;min-height:44px;font-size:15px;line-height:1.5;color:inherit;text-decoration:underline;text-underline-offset:4px}
+.arvis-equipment-documents .arvis-equipment-edition{font-size:14px;line-height:1.6;color:#59635f;margin-top:6px}
+.arvis-equipment-contact{display:flex;align-items:center;justify-content:space-between;gap:30px;margin-top:42px;padding-top:12px}
+.arvis-equipment-contact p:first-child{font-size:17px;font-weight:500;line-height:1.5}
+.arvis-equipment-contact p+p{font-size:15px;line-height:1.6;color:#59635f;margin-top:5px}
+.arvis-equipment a.arvis-equipment-cta{display:inline-flex;align-items:center;justify-content:space-between;gap:24px;box-sizing:border-box;min-height:52px;padding:14px 20px;background:#9b0803;color:#fff;font-size:16px;font-weight:500;line-height:1.5;text-decoration:none;border:0;border-radius:0;flex-shrink:0}
+.arvis-equipment-cta>span{font-size:22px;line-height:1}
+.arvis-equipment a:focus-visible,.arvis-equipment summary:focus-visible,.arvis-equipment-partner--compact:focus-visible{outline:3px solid #1976ba;outline-offset:5px}
+.xp-cosmetology .arvis-equipment-partner--compact{width:fit-content;max-width:100%;margin-bottom:24px;min-height:44px;color:#e6edf1}
+.xp-cosmetology .arvis-equipment-partner--compact small{color:#b6c3ca}
+.arvis-equipment-partner--compact:hover>span{text-decoration:underline;text-underline-offset:4px}
+.arvis-equipment-partner--compact small>span{display:inline;font-size:inherit}
+@media(hover:hover) and (pointer:fine){.arvis-equipment-cta>span{transition:transform 160ms ease}.arvis-equipment-cta:hover>span{transform:translate(2px,-2px)}.arvis-equipment a.arvis-equipment-cta:hover{background:#780601}}
+@media(max-width:1000px){.arvis-equipment-heading{flex-direction:column;gap:28px}.arvis-equipment-grid{gap:28px}}
+@media(max-width:800px){.arvis-equipment-grid{grid-template-columns:1fr;gap:40px}.arvis-equipment-contact{flex-direction:column;align-items:flex-start;gap:22px}.arvis-equipment{margin-top:40px;margin-bottom:40px}}
+@media(max-width:480px){.arvis-equipment-partner{flex-direction:column;align-items:flex-start;gap:12px}.arvis-equipment-partner img{width:118px}.xp-cosmetology .arvis-equipment-partner--compact{flex-direction:row;align-items:center;gap:16px}.arvis-equipment-partner--compact img{width:104px}.arvis-equipment-partner--compact span{font-size:14px}.arvis-equipment-partner--compact small{font-size:12px}.arvis-equipment a.arvis-equipment-cta{width:100%}}
+@media(prefers-reduced-motion:reduce){.arvis-equipment-cta>span{transition:none!important;transform:none!important}}

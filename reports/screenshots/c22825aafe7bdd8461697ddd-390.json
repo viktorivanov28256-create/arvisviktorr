@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/clearlift/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/kosmetologiya/clearlift/390.jpg",
+  "source_path": "site/kosmetologiya/clearlift/index.html",
+  "source_sha256": "5d34860f61816e986e205589aaacb78131594adb6301fcf487d9e79dadaee2b5",
+  "started_UTC": "2026-11-12T22:05:16.526Z",
+  "fulfilled": 39,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 13075,
+    "fonts_status": "loaded",
+    "image_total": 12,
+    "image_loaded": 12,
+    "title": "ClearLift — лазерное омоложение без восстановления — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 19,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 634998,
+  "sha256": "cb4c8beb26189238d38e353dfd6ac09a505e44fc0891a9bb7ba8334246625afd",
+  "finished_UTC": "2026-11-12T22:05:18.013Z"
+}

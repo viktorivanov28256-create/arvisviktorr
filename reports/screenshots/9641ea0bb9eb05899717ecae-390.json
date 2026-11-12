@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/about/documents/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/about/documents/390.jpg",
+  "source_path": "site/about/documents/index.html",
+  "source_sha256": "117d0165668e903bf9b973ca892ce7d2ab0e02e6427d70abe7fb89aee2315bfc",
+  "started_UTC": "2026-11-12T22:02:10.620Z",
+  "fulfilled": 33,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 7823,
+    "fonts_status": "loaded",
+    "image_total": 4,
+    "image_loaded": 4,
+    "title": "Документы и лицензии — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 11,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 462638,
+  "sha256": "306ce81800db596ad804ebc14235a18cc4f36bd74ed5f69039a0895230e88fc1",
+  "finished_UTC": "2026-11-12T22:02:12.047Z"
+}

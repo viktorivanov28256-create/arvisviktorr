@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/allergicheskiy-konyunktivit/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/allergicheskiy-konyunktivit/390.jpg",
+  "source_path": "site/articles/allergicheskiy-konyunktivit/index.html",
+  "source_sha256": "a8a0c019950ac2f2fdbcbd8bbd6d1840b33317dadbb21913d7b7d96a0c883044",
+  "started_UTC": "2026-11-12T22:03:40.095Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9731,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Аллергический конъюнктивит: почему чешутся и краснеют глаза — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 14,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 478635,
+  "sha256": "5b8267b04329e5dba7795a23b841cb24767d88b13f139984dab45ad391678ed7",
+  "finished_UTC": "2026-11-12T22:03:41.389Z"
+}

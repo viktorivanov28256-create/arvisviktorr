@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/immunoglobulin-e-povyshen/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/immunoglobulin-e-povyshen/1440.jpg",
+  "source_path": "site/articles/immunoglobulin-e-povyshen/index.html",
+  "source_sha256": "07120a552c7ea3c555139f3b7ca112c9949dc1e2721d88201ddcbb1ec5306625",
+  "started_UTC": "2026-11-12T22:04:10.461Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 13824,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Иммуноглобулин E повышен: что показывает анализ и что с этим делать — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 18,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 1646836,
+  "sha256": "66175660ea4cfbfa66d56be8b2e002403a1e165ad58f157c346cd69590e72a92",
+  "finished_UTC": "2026-11-12T22:04:12.393Z"
+}

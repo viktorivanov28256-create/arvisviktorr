@@ -1,0 +1,57 @@
+/* Two native direction pages. Existing CMS identity, prices and booking remain authoritative. */
+main.dp-promotion[data-arvis-direction-promotion="r1"]{--promo-ink:#26352d;--promo-muted:#59645b;--promo-red:#9e0b15;color:var(--promo-ink)}
+main.dp-promotion[data-arvis-direction-promotion="r1"] *,main.dp-promotion[data-arvis-direction-promotion="r1"] *::before,main.dp-promotion[data-arvis-direction-promotion="r1"] *::after{box-sizing:border-box}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .reader-wrap{width:100%;max-width:1380px;margin-inline:auto;padding-inline:clamp(22px,5.5vw,76px)}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero{margin:0 0 64px;padding:28px 0 0;background:none;border:0;border-radius:0}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero .reader-topic-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:clamp(32px,6vw,84px);align-items:center;max-width:none;padding:0}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero .reader-topic-copy{display:block;min-width:0;max-width:none;padding:0}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero :is(.reader-kind,.apv-km-big){display:none}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero h1{max-width:15ch;margin:0 0 26px;font-family:Manrope,Onest,sans-serif;font-size:clamp(42px,5vw,68px);font-weight:500;line-height:1.08;letter-spacing:-.03em;text-wrap:balance;overflow-wrap:normal;word-break:normal}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero .reader-lead{max-width:56ch;margin:24px 0;font-size:18px;line-height:1.65;color:var(--promo-muted)}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero .reader-topic-media{position:static;width:100%;min-width:0;max-width:430px;justify-self:end;margin:0;padding:0}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero figure{position:static;width:100%;margin:0;padding:0;background:none;border:0;box-shadow:none}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero img.doctor-promotion-portrait{position:static;display:block;width:100%;height:auto;min-height:0;max-height:none;aspect-ratio:auto;object-fit:contain;margin:0;border:0;border-radius:16px;filter:none}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero figcaption{display:block;position:static;margin:18px 0 0;padding:0;font-size:15px;line-height:1.5;color:var(--promo-muted);background:none}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero figcaption :is(b,strong,.doctor-promotion-name){display:block;margin:0 0 8px;font-family:Manrope,Onest,sans-serif;font-size:23px;font-weight:500;line-height:1.3;letter-spacing:-.02em;color:var(--promo-ink)}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero figcaption a{color:inherit;text-decoration:none}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero :is(.apv-lp__cta-row,.reader-actions){display:flex;align-items:center;flex-wrap:wrap;gap:12px 24px;margin:26px 0}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero a.apv-btn--dark{display:inline-flex;align-items:center;justify-content:center;min-height:52px;padding:13px 24px;background:var(--promo-red);color:#fff;border:0;border-radius:12px;font-size:16px;text-decoration:none}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero :is(.apv-km-hero__meta,.arv-service__facts){display:flex;flex-wrap:wrap;gap:10px 20px;margin:24px 0;padding:0;list-style:none;color:var(--promo-muted);font-size:15px;line-height:1.6}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero .arv-service__facts li{margin:0;padding:0;list-style:none}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-fee{font-variant-numeric:tabular-nums}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card{min-width:0;margin-block:28px;padding:28px;background:#eeeee6;border:0;border-radius:16px;box-shadow:none}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card:has(>img){display:grid;grid-template-columns:200px minmax(0,1fr);gap:32px;align-items:start}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card>img.doctor-promotion-portrait{position:static;display:block;width:200px;height:auto;min-height:0;max-height:none;aspect-ratio:auto;object-fit:contain;margin:0;border-radius:12px}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card h3{max-width:28ch;margin:0 0 12px;font-family:Manrope,Onest,sans-serif;font-size:28px;font-weight:500;line-height:1.25;letter-spacing:-.025em;overflow-wrap:normal;word-break:normal}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card .doctor-promotion-fee{margin:18px 0;font-size:23px;line-height:1.4;color:var(--promo-ink)}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card p{font-size:17px;line-height:1.65}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-head{display:grid;grid-template-columns:160px minmax(0,1fr);gap:24px;align-items:center;margin-bottom:22px}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-head img.doctor-promotion-portrait{position:static;display:block;width:160px;height:auto;min-height:0;max-height:none;aspect-ratio:auto;object-fit:contain;margin:0;border-radius:12px}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-head:not(:has(img)){display:block}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card :is(.reader-actions,.arv-service__doctor-links){display:flex;flex-wrap:wrap;gap:10px 24px;margin-top:22px}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card a{min-height:44px;text-underline-offset:4px}
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card--dermatology{grid-column:1/-1}
+main.dp-promotion[data-arvis-direction-promotion="r1"] :is(a,button,summary):focus-visible{outline:3px solid var(--promo-red);outline-offset:4px}
+@media(max-width:760px){
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero{margin-bottom:42px;padding-top:12px}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero .reader-topic-grid{grid-template-columns:minmax(0,1fr);gap:24px}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero .reader-topic-copy{display:contents}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero h1{grid-row:1;margin:0;font-size:clamp(36px,9.8vw,44px);line-height:1.1}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero .reader-topic-media{grid-row:2;width:min(100%,260px);max-width:none;justify-self:start}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero figcaption{font-size:14px;line-height:1.5}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero figcaption :is(b,strong,.doctor-promotion-name){font-size:22px}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero :is(.apv-km-hero__meta,.arv-service__facts){grid-row:3;display:block;margin:0;font-size:15px}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero .apv-km-hero__meta>span{display:block;margin:4px 0}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero :is(.apv-lp__cta-row,.reader-actions){grid-row:4;margin:0;gap:10px 22px}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero .reader-lead{grid-row:5;margin:0;font-size:17px;line-height:1.65}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card,main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card:has(>img){display:block;padding:22px 20px}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card>img.doctor-promotion-portrait{width:180px;max-width:100%;margin:0 0 22px}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card h3{font-size:26px;line-height:1.25}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-head{display:block}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-head img.doctor-promotion-portrait{width:180px;max-width:100%;margin-bottom:20px}
+ main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-card .doctor-promotion-fee{font-size:22px}
+}
+@media(prefers-reduced-motion:reduce){main.dp-promotion[data-arvis-direction-promotion="r1"] *{animation:none;transition:none;scroll-behavior:auto}}
+
+/* Reset inherited mobile112px portrait/caption grid; preserve normal full-width portrait. */
+main.dp-promotion[data-arvis-direction-promotion="r1"] .doctor-promotion-hero figure.apv-km-hero__fig{display:block;grid-template-columns:none}

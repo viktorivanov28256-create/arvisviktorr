@@ -1,0 +1,47 @@
+{
+  "url": "https://arvisclinic.ru/doctors/pisarev-nikolay-nikolaevich/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/doctors/pisarev-nikolay-nikolaevich/390.jpg",
+  "source_path": "site/doctors/pisarev-nikolay-nikolaevich/index.html",
+  "source_sha256": "4b178816afe0535c4ca3af175a7e10d9d39934e54ff3ea45309e8840ebc1c1d1",
+  "started_UTC": "2026-11-12T22:05:02.853Z",
+  "fulfilled": 34,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    },
+    {
+      "url": "https://reviews.yandex.ru/ugcpub/reviews-widget?app_id=reviews-widget&otype=Hum&object=docBgZYJzK4elZwC&variant=cards&theme=light&linkedObjectId=/sprav/161170607289",
+      "method": "GET",
+      "resource_type": "document",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 5293,
+    "fonts_status": "loaded",
+    "image_total": 3,
+    "image_loaded": 3,
+    "title": "Писарев Николай Николаевич — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 7,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 212509,
+  "sha256": "b09e3e181a3d6acf8c20da2a85031791a1e43abd34eee3c8cd12d34714e8e00d",
+  "finished_UTC": "2026-11-12T22:05:03.681Z"
+}

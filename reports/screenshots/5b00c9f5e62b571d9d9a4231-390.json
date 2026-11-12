@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/stylage/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/kosmetologiya/stylage/390.jpg",
+  "source_path": "site/kosmetologiya/stylage/index.html",
+  "source_sha256": "f73622ae51c2805389e370ea45cda2c2d616fd8d18229d3d7013045014f16cf5",
+  "started_UTC": "2026-11-12T22:05:44.470Z",
+  "fulfilled": 38,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9876,
+    "fonts_status": "loaded",
+    "image_total": 10,
+    "image_loaded": 10,
+    "title": "Stylage S, M и Special Lips — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 14,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 431060,
+  "sha256": "f0cb7013c393446d44c6c6bfa30b5c777c7d593aa030f9afb9dfada9b5a7048f",
+  "finished_UTC": "2026-11-12T22:05:45.723Z"
+}

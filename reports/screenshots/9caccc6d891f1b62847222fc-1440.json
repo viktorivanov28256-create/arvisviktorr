@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/kontrol-astmy/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/kontrol-astmy/1440.jpg",
+  "source_path": "site/articles/kontrol-astmy/index.html",
+  "source_sha256": "1517c5565974dc1311d82a24b8f868c847cfc0c5a16ab5de1faf4b30739c5837",
+  "started_UTC": "2026-11-12T22:04:20.345Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 6998,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Астма под контролем: как это проверить и почему одного ингалятора мало — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 679785,
+  "sha256": "b42dc9af2cacf345cf2b60a8e28738f631ca287d7942eb3f622b4a52ef81e490",
+  "finished_UTC": "2026-11-12T22:04:21.232Z"
+}

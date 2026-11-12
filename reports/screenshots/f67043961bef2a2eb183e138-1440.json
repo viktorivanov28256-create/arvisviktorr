@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-baklazhan-f262/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-baklazhan-f262/1440.jpg",
+  "source_path": "site/analizy/ige-baklazhan-f262/index.html",
+  "source_sha256": "aa58084cb717b8fbe663df9ecaf6b82c83878c18925e58b8a5e52e3aa6461d7f",
+  "started_UTC": "2026-11-12T22:02:38.149Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 5430,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к баклажану (f262) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 7,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 623605,
+  "sha256": "6bdd2234dcd90ab0565a0c8f55464ee07865f8020654bef1c17bed484448f7df",
+  "finished_UTC": "2026-11-12T22:02:38.866Z"
+}

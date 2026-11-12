@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ara-h-1-f422/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ara-h-1-f422/1440.jpg",
+  "source_path": "site/analizy/ara-h-1-f422/index.html",
+  "source_sha256": "1c692417e1aab6854c48fc40ddaa0a59f4e6329d5b59c05ef1c46f2013aba77e",
+  "started_UTC": "2026-11-12T22:02:21.813Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4114,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Ara h 1 (f422): что означает компонент арахиса — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 422720,
+  "sha256": "1f006173e33f46f84ec310c01eb5077c1b87f2337eacdca90e07e5176f96e2be",
+  "finished_UTC": "2026-11-12T22:02:22.444Z"
+}

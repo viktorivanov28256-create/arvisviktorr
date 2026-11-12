@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/juvederm-ultra-smile/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/kosmetologiya/juvederm-ultra-smile/390.jpg",
+  "source_path": "site/kosmetologiya/juvederm-ultra-smile/index.html",
+  "source_sha256": "acc454d59c379052dae18ba39ba51f2adce764c03b3c164e3f3ce96d0a21b41f",
+  "started_UTC": "2026-11-12T22:05:21.448Z",
+  "fulfilled": 36,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 8873,
+    "fonts_status": "loaded",
+    "image_total": 6,
+    "image_loaded": 6,
+    "title": "Губы: Juvederm Ultra Smile, 0,55 мл — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 12,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 412447,
+  "sha256": "90252a801b39f0d055400512c7ceb3533ca08d7f3cd0900f02f381245ccf8535",
+  "finished_UTC": "2026-11-12T22:05:22.463Z"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/der-p-10-d205/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/der-p-10-d205/390.jpg",
+  "source_path": "site/analizy/der-p-10-d205/index.html",
+  "source_sha256": "7697363b33eaa7366b4fa8df9ad936da57f0fb84bee73d3cd9b0765c42743cce",
+  "started_UTC": "2026-11-12T22:02:27.564Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 5551,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Der p 10 (d205): тропомиозин и перекрёстная чувствительность | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 7,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 324000,
+  "sha256": "e18da00bd2b76ee28f98b9c29bd50856ccfe6b78d53281add6a38e1bf5613b07",
+  "finished_UTC": "2026-11-12T22:02:28.385Z"
+}

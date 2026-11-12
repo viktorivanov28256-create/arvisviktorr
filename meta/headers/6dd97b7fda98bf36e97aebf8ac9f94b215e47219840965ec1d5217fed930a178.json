@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://arvisclinic.ru/original-source-media/8f77d5f490-arvis-voroshilova-01-holl.jpg",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:42 GMT",
+      "Content-Type": "image/jpeg",
+      "Content-Length": "291649",
+      "Last-Modified": "Sat, 07 Nov 2026 13:00:23 GMT",
+      "Connection": "close",
+      "ETag": "\"6aef20e7-47341\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

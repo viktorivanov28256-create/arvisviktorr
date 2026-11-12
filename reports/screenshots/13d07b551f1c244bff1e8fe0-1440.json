@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/nitevoy-lifting/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/kosmetologiya/nitevoy-lifting/1440.jpg",
+  "source_path": "site/kosmetologiya/nitevoy-lifting/index.html",
+  "source_sha256": "bb852504833afee45d8aa412adbb096194f6ccbb1a631e0643be8c4e24950d66",
+  "started_UTC": "2026-11-12T22:05:34.676Z",
+  "fulfilled": 44,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 12082,
+    "fonts_status": "loaded",
+    "image_total": 20,
+    "image_loaded": 20,
+    "title": "Нитевой лифтинг в Воронеже — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 16,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 989550,
+  "sha256": "762351093965c9c9a4c9d8dd36a39347454e7c200b428db9cb8415b02cdcb6e2",
+  "finished_UTC": "2026-11-12T22:05:36.083Z"
+}

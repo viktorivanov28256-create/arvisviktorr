@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://arvisclinic.ru/bitrix/templates/vc-site/fonts/onest/v11/gNMKW3F-SZuj7xmS-HYoEoeyxMI.woff2",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:50:40 GMT",
+      "Content-Type": "font/woff2",
+      "Content-Length": "10504",
+      "Last-Modified": "Sat, 07 Nov 2026 13:00:23 GMT",
+      "Connection": "close",
+      "ETag": "\"6aef20e7-2908\"",
+      "Expires": "Sat, 12 Dec 2026 21:50:40 GMT",
+      "Cache-Control": "max-age=2592000",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

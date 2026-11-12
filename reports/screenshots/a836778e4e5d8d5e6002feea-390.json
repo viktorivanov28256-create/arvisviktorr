@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-paltus-f303/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-paltus-f303/390.jpg",
+  "source_path": "site/analizy/ige-paltus-f303/index.html",
+  "source_sha256": "dbc2538c23c9bd61d11fc08464fa12886df1ef94642d66370d9b3062e3401c90",
+  "started_UTC": "2026-11-12T22:03:07.478Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6040,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к палтусу (f303) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 383950,
+  "sha256": "c2d260ae68c686bff4af6881eada9474817ddc3eeb860bdd74f2ce62c80e4f42",
+  "finished_UTC": "2026-11-12T22:03:08.273Z"
+}

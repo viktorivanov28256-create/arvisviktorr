@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/services/napravleniya/dermatovenerologiya/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/services/napravleniya/dermatovenerologiya/1440.jpg",
+  "source_path": "site/services/napravleniya/dermatovenerologiya/index.html",
+  "source_sha256": "768e5f71ddc3eda786915b872d527440e9113b5d4e84aab90f9f6ce6a544ee1d",
+  "started_UTC": "2026-11-12T22:06:20.821Z",
+  "fulfilled": 34,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4990,
+    "fonts_status": "loaded",
+    "image_total": 5,
+    "image_loaded": 5,
+    "title": "Дерматолог в Воронеже — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 440632,
+  "sha256": "2881f9e8fc5123ebdfe0769b9797ddf88d9de5d22edd3753722a4438c042a563",
+  "finished_UTC": "2026-11-12T22:06:21.566Z"
+}

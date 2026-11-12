@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-svinina-f26/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-svinina-f26/1440.jpg",
+  "source_path": "site/analizy/ige-svinina-f26/index.html",
+  "source_sha256": "9ed9e1010eb15d434b84d5f67291ee7bf5f8cb2b3620816e4cbbf45a232a96e6",
+  "started_UTC": "2026-11-12T22:03:18.269Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4722,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к свинине (f26) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 517048,
+  "sha256": "4a6ad63be79b8d47685670ab9c15143bf07fe591915cc504b9152705e0ef18ce",
+  "finished_UTC": "2026-11-12T22:03:19.096Z"
+}

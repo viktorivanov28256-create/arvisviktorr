@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/izzhoga-gerb/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/izzhoga-gerb/1440.jpg",
+  "source_path": "site/articles/izzhoga-gerb/index.html",
+  "source_sha256": "14cd93175262ea970d4ace1e840d1734d9c3df70f609a5a37d9a303cea8bb4b8",
+  "started_UTC": "2026-11-12T22:04:12.411Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7398,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Изжога: когда это ГЭРБ и что с ней делать — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 10,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 751823,
+  "sha256": "0e995b792246bf9b496837ac26359974274be425811969c953bc6714cf9817c0",
+  "finished_UTC": "2026-11-12T22:04:14.772Z"
+}

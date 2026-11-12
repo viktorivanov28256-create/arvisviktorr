@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/cool-flame/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/kosmetologiya/cool-flame/390.jpg",
+  "source_path": "site/kosmetologiya/cool-flame/index.html",
+  "source_sha256": "3907cb6f42cf27c9f44ee89c0fecd426bfa879ed4d99f17f36b39c6be6276524",
+  "started_UTC": "2026-11-12T22:05:17.746Z",
+  "fulfilled": 46,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 14240,
+    "fonts_status": "loaded",
+    "image_total": 19,
+    "image_loaded": 19,
+    "title": "Cool Flame: лицо — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 20,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 713505,
+  "sha256": "5bcca2fb66706a92ccf27ff3b0eb47555194c5421243e88d89c161d26322657a",
+  "finished_UTC": "2026-11-12T22:05:19.302Z"
+}

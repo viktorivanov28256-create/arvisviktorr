@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/allergarda/voprosy/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/allergarda/voprosy/390.jpg",
+  "source_path": "site/allergarda/voprosy/index.html",
+  "source_sha256": "477bc838dfa84aed637ede01d48d468814f3fd81dd06b678ca19bd6a99008b8e",
+  "started_UTC": "2026-11-12T22:02:15.764Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 4107,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Вопросы пациентов об Аллергарде — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 193352,
+  "sha256": "a2371d97a5a034e312bba3594e2767b637861de543c55b958d3c0c0de5d144f7",
+  "finished_UTC": "2026-11-12T22:02:16.402Z"
+}

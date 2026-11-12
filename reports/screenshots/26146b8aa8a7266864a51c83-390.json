@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-treska-f3/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-treska-f3/390.jpg",
+  "source_path": "site/analizy/ige-treska-f3/index.html",
+  "source_sha256": "b2874e090eb4abba1cb3eaada3a874ccd0662b642bdcf37381729446f1fbfbcc",
+  "started_UTC": "2026-11-12T22:03:21.013Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 7213,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к треске (f3) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 10,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 453953,
+  "sha256": "be6e7f4c4c4c260b639a1ca15f657a89794d8fadef1495a384925ef785ce0a2b",
+  "finished_UTC": "2026-11-12T22:03:21.904Z"
+}

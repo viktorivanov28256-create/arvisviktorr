@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-penicillium-m1/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-penicillium-m1/390.jpg",
+  "source_path": "site/analizy/ige-penicillium-m1/index.html",
+  "source_sha256": "786b037413313a80803d028222f05ed8acc8a9f3cb030db07226098ba51a1007",
+  "started_UTC": "2026-11-12T22:03:08.281Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6450,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Penicillium (m1): специфические IgE — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 356378,
+  "sha256": "24774111b897b9bcf4cae1cb069a427633f7bb59c56db26befaf8e5461e707fc",
+  "finished_UTC": "2026-11-12T22:03:09.210Z"
+}

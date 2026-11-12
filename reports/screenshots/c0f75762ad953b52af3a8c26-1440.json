@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/kazein-f78/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/kazein-f78/1440.jpg",
+  "source_path": "site/analizy/kazein-f78/index.html",
+  "source_sha256": "3abaceae4a98192fd9688976982cbaa0a64f3e5de0b628d705fba811203a08bf",
+  "started_UTC": "2026-11-12T22:03:27.519Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4414,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Казеин Bos d 8 (f78): специфические IgE — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 463670,
+  "sha256": "fa7610eee461f6ece6e91b82a6d3c90f1009fc0b135cb0c7e904feda021713ae",
+  "finished_UTC": "2026-11-12T22:03:28.287Z"
+}

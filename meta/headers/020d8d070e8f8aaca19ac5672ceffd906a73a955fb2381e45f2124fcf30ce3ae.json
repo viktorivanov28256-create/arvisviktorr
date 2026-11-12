@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/arvis-priority-gallery-a0267e85a09b.js",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:49:50 GMT",
+      "Content-Type": "application/javascript; charset=utf-8",
+      "Content-Length": "4813",
+      "Last-Modified": "Sun, 08 Nov 2026 23:01:15 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6af0ff3b-12cd\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

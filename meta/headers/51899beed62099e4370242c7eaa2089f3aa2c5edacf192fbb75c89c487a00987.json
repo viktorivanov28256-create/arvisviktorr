@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/content-interactions.js?arvis=20261107-r2",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:21 GMT",
+      "Content-Type": "application/javascript; charset=utf-8",
+      "Content-Length": "16808",
+      "Last-Modified": "Sat, 07 Nov 2026 13:00:23 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6aef20e7-41a8\"",
+      "Expires": "Sat, 12 Dec 2026 21:48:21 GMT",
+      "Cache-Control": "max-age=2592000",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

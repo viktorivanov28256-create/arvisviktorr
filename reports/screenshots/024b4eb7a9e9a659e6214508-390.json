@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-kleshch-euroglyphus-maynei-d74/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-kleshch-euroglyphus-maynei-d74/390.jpg",
+  "source_path": "site/analizy/ige-kleshch-euroglyphus-maynei-d74/index.html",
+  "source_sha256": "5c6ee4d8947bc442b9de1e2ff8d517cfcd15fd1175800b1dad988904abfbb266",
+  "started_UTC": "2026-11-12T22:02:52.342Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6589,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к клещу Euroglyphus maynei (d74) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 408348,
+  "sha256": "f3d486f5286f81b12271ab11b72a95d9d9b2d94483051486116bcb452b535752",
+  "finished_UTC": "2026-11-12T22:02:53.359Z"
+}

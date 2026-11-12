@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/services/napravleniya/trikhologiya/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/services/napravleniya/trikhologiya/1440.jpg",
+  "source_path": "site/services/napravleniya/trikhologiya/index.html",
+  "source_sha256": "468e52a3a4d7a704b6eb13aad07ea8ed1d259ecd1841ad110639b94b040cf9aa",
+  "started_UTC": "2026-11-12T22:06:22.555Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 5081,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Волосы и кожа головы: консультация дерматолога — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 546499,
+  "sha256": "d6c9b452dcdeb02c9b00fa2fd58369a9a7aad050be3892d08661a7c8ce013a88",
+  "finished_UTC": "2026-11-12T22:06:23.328Z"
+}

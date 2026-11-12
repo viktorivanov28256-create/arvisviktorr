@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/kak-snizit-fel-d1/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/kak-snizit-fel-d1/1440.jpg",
+  "source_path": "site/articles/kak-snizit-fel-d1/index.html",
+  "source_sha256": "65be15043f2d202220dbed6486c95d5f4dd04d2fc2fb3db3cec23ce38384f1ca",
+  "started_UTC": "2026-11-12T22:04:14.786Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 10121,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Кошка в доме: что снижает аллерген Fel d 1, а что нет — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 13,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 1196487,
+  "sha256": "f2f45619f444e74ca94873b07a1aec449bdcbc105682ddb95fcd547dd1571bad",
+  "finished_UTC": "2026-11-12T22:04:16.326Z"
+}

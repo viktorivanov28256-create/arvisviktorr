@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/app.js?v=9c5f90962d67",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:20 GMT",
+      "Content-Type": "application/javascript; charset=utf-8",
+      "Content-Length": "20496",
+      "Last-Modified": "Sun, 08 Nov 2026 02:03:25 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6aefd86d-5010\"",
+      "Expires": "Sat, 12 Dec 2026 21:48:20 GMT",
+      "Cache-Control": "max-age=2592000",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

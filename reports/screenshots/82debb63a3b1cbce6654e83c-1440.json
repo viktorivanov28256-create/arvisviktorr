@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-pshenitsa-f4/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-pshenitsa-f4/1440.jpg",
+  "source_path": "site/analizy/ige-pshenitsa-f4/index.html",
+  "source_sha256": "633a2392d4491f1613c4ac055da66de9b6d9aeeeef89c7339929508b96655160",
+  "started_UTC": "2026-11-12T22:03:10.969Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7283,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Анализ на аллергию на пшеницу (f4) — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 688053,
+  "sha256": "91a971c4848e25ae7072f1c7f957ad851f302b7c9ad2041db052d83d7c918c92",
+  "finished_UTC": "2026-11-12T22:03:11.924Z"
+}

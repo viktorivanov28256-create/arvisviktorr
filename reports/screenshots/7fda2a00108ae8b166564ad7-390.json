@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/allergopaneli/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/allergopaneli/390.jpg",
+  "source_path": "site/analizy/allergopaneli/index.html",
+  "source_sha256": "08344e2e53ba92f8736c01c241a0bac50806dd823bae5e7ea63317f0a43aeda8",
+  "started_UTC": "2026-11-12T22:02:20.348Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 9358,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Аллергопанели ImmunoCAP — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 13,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 476178,
+  "sha256": "3f2e8386f8edc56f699dfff5c0e2de2bbf1eb66f377cf7939b8d072d37dcdf6a",
+  "finished_UTC": "2026-11-12T22:02:21.467Z"
+}

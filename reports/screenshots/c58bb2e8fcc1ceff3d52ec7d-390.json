@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-klever-lugovoy-w34/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-klever-lugovoy-w34/390.jpg",
+  "source_path": "site/analizy/ige-klever-lugovoy-w34/index.html",
+  "source_sha256": "b9d7e8bd1aceca964ab5ead2f02055ef64b38c699bf5d0351066fb0ea6fc353c",
+  "started_UTC": "2026-11-12T22:02:53.127Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 7142,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к клеверу луговому | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 10,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 451729,
+  "sha256": "6aa8021fae6dff471a34d033bc5db6ea51b2117363b8766e18deccf224e4dbd6",
+  "finished_UTC": "2026-11-12T22:02:54.307Z"
+}

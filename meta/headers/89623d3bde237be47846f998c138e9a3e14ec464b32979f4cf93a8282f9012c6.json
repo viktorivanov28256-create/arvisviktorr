@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/arvis-programs-mobile-9de50330a7fb.css",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:50:37 GMT",
+      "Content-Type": "text/css",
+      "Content-Length": "219",
+      "Last-Modified": "Sun, 08 Nov 2026 21:24:49 GMT",
+      "Connection": "close",
+      "ETag": "\"6af0e8a1-db\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

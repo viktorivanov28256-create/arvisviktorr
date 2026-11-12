@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://arvisclinic.ru/recovery-assets/media/arvis-facade-owner-76e93a0f0149.webp",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:35 GMT",
+      "Content-Type": "image/webp",
+      "Content-Length": "66686",
+      "Last-Modified": "Sat, 07 Nov 2026 13:00:23 GMT",
+      "Connection": "close",
+      "ETag": "\"6aef20e7-1047e\"",
+      "Expires": "Sat, 12 Dec 2026 21:48:35 GMT",
+      "Cache-Control": "max-age=2592000",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/sindrom-razdrazhennogo-kishechnika/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/sindrom-razdrazhennogo-kishechnika/1440.jpg",
+  "source_path": "site/articles/sindrom-razdrazhennogo-kishechnika/index.html",
+  "source_sha256": "114dc0de96f121aee17f28a1bc7606e281664f4e8f54217aac4d6b6006973655",
+  "started_UTC": "2026-11-12T22:04:42.961Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 6518,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Синдром раздражённого кишечника: как ставят диагноз и что помогает — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 8,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 639964,
+  "sha256": "8a29f8a41e36dd527cf2547d2c7f594f40b44e971d9336d9a0db4195e89e4196",
+  "finished_UTC": "2026-11-12T22:04:43.919Z"
+}

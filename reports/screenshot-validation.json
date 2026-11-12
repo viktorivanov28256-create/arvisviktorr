@@ -1,0 +1,3814 @@
+{
+  "status": "PASS_OFFLINE_SCREENSHOT_SET_VERIFIED",
+  "unique_final_page_URLs": 367,
+  "viewports": [
+    {
+      "width": 390,
+      "height": 844
+    },
+    {
+      "width": 1440,
+      "height": 900
+    }
+  ],
+  "screenshots_verified": 734,
+  "failures": 0,
+  "jpeg_bytes": 405058987,
+  "JPEG_signature_EOI_dimensions_and_SHA_all_pass": true,
+  "source_manifest_SHA256": "e7d8f785c40c1d276c7b82bcf4b7620c7d6e969b815bea2a2957698641d0fe10",
+  "source_body_SHA256_all_preserved": true,
+  "fonts_status_counts": {
+    "loaded": 734
+  },
+  "horizontal_overflow_cases": [
+    {
+      "url": "https://arvisclinic.ru/analizy/gipereozinofilnyy-sindrom/",
+      "viewport": 390,
+      "document_width": 416,
+      "output": "shots/analizy/gipereozinofilnyy-sindrom/390.jpg"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/immunocap-isac/",
+      "viewport": 390,
+      "document_width": 397,
+      "output": "shots/analizy/immunocap-isac/390.jpg"
+    },
+    {
+      "url": "https://arvisclinic.ru/analizy/proallergy/",
+      "viewport": 390,
+      "document_width": 397,
+      "output": "shots/analizy/proallergy/390.jpg"
+    },
+    {
+      "url": "https://arvisclinic.ru/kosmetologiya/kollagenostimulyatory/",
+      "viewport": 390,
+      "document_width": 396,
+      "output": "shots/kosmetologiya/kollagenostimulyatory/390.jpg"
+    },
+    {
+      "url": "https://arvisclinic.ru/services/napravleniya/allergologiya/spirografiya-s-bronkhodilatatsionnoy-proboy/",
+      "viewport": 390,
+      "document_width": 422,
+      "output": "shots/services/napravleniya/allergologiya/spirografiya-s-bronkhodilatatsionnoy-proboy/390.jpg"
+    }
+  ],
+  "missing_snapshot_resource_events": [
+    {
+      "page": "https://arvisclinic.ru/kosmetologiya/",
+      "width": 1440,
+      "url": "https://arvisclinic.ru/recovery-assets/media/arvis-volnewmer-demo-274b1ebfe2d9.mp4",
+      "method": "GET",
+      "resource_type": "media",
+      "reason": "not_in_HTTP_snapshot_aborted"
+    },
+    {
+      "page": "https://arvisclinic.ru/kosmetologiya/",
+      "width": 390,
+      "url": "https://arvisclinic.ru/recovery-assets/media/arvis-ultraformer-mpt-demo-245702daa96a.mp4",
+      "method": "GET",
+      "resource_type": "media",
+      "reason": "not_in_HTTP_snapshot_aborted"
+    },
+    {
+      "page": "https://arvisclinic.ru/kosmetologiya/rf-lifting-volnewmer/",
+      "width": 390,
+      "url": "https://arvisclinic.ru/recovery-assets/media/arvis-volnewmer-demo-274b1ebfe2d9.mp4",
+      "method": "GET",
+      "resource_type": "media",
+      "reason": "not_in_HTTP_snapshot_aborted"
+    },
+    {
+      "page": "https://arvisclinic.ru/kosmetologiya/rf-lifting-volnewmer/",
+      "width": 1440,
+      "url": "https://arvisclinic.ru/recovery-assets/media/arvis-volnewmer-demo-274b1ebfe2d9.mp4",
+      "method": "GET",
+      "resource_type": "media",
+      "reason": "not_in_HTTP_snapshot_aborted"
+    },
+    {
+      "page": "https://arvisclinic.ru/kosmetologiya/smas-lifting-ultraformer/",
+      "width": 390,
+      "url": "https://arvisclinic.ru/recovery-assets/ultraformer-mpt-linear-140e7b346716.mp4",
+      "method": "GET",
+      "resource_type": "media",
+      "reason": "not_in_HTTP_snapshot_aborted"
+    },
+    {
+      "page": "https://arvisclinic.ru/kosmetologiya/smas-lifting-ultraformer/",
+      "width": 390,
+      "url": "https://arvisclinic.ru/recovery-assets/ultraformer-mpt-booster-bed554074e15.mp4",
+      "method": "GET",
+      "resource_type": "media",
+      "reason": "not_in_HTTP_snapshot_aborted"
+    },
+    {
+      "page": "https://arvisclinic.ru/kosmetologiya/smas-lifting-ultraformer/",
+      "width": 390,
+      "url": "https://arvisclinic.ru/recovery-assets/media/arvis-ultraformer-mpt-demo-245702daa96a.mp4",
+      "method": "GET",
+      "resource_type": "media",
+      "reason": "not_in_HTTP_snapshot_aborted"
+    },
+    {
+      "page": "https://arvisclinic.ru/kosmetologiya/smas-lifting-ultraformer/",
+      "width": 1440,
+      "url": "https://arvisclinic.ru/recovery-assets/ultraformer-mpt-linear-140e7b346716.mp4",
+      "method": "GET",
+      "resource_type": "media",
+      "reason": "not_in_HTTP_snapshot_aborted"
+    },
+    {
+      "page": "https://arvisclinic.ru/kosmetologiya/smas-lifting-ultraformer/",
+      "width": 1440,
+      "url": "https://arvisclinic.ru/recovery-assets/ultraformer-mpt-booster-bed554074e15.mp4",
+      "method": "GET",
+      "resource_type": "media",
+      "reason": "not_in_HTTP_snapshot_aborted"
+    },
+    {
+      "page": "https://arvisclinic.ru/kosmetologiya/smas-lifting-ultraformer/",
+      "width": 1440,
+      "url": "https://arvisclinic.ru/recovery-assets/media/arvis-ultraformer-mpt-demo-245702daa96a.mp4",
+      "method": "GET",
+      "resource_type": "media",
+      "reason": "not_in_HTTP_snapshot_aborted"
+    }
+  ],
+  "network_policy": "All pages rendered from saved bytes in isolated offline contexts; external/missing/nonGET blocked, SW blocked, WS closed; no live fallback. Not a packet-capture audit.",
+  "cookie_notice_interacted": false,
+  "personal_profile_used": false,
+  "renderer_SHA256": "1e0c0bbf76460dea52db99821211db6ce9e57e993c6edaccc3628c305770a018",
+  "all_receipt_SHA256": "9c039e09c78abdc78519f93e44280ea39cc7dfb3d2be4a38d9b233334ebdee5d",
+  "dimensions": [
+    {
+      "output": "shots/index/390.jpg",
+      "width": 390,
+      "height": 9748
+    },
+    {
+      "output": "shots/index/1440.jpg",
+      "width": 1440,
+      "height": 8472
+    },
+    {
+      "output": "shots/404/390.jpg",
+      "width": 390,
+      "height": 1717
+    },
+    {
+      "output": "shots/404/1440.jpg",
+      "width": 1440,
+      "height": 1240
+    },
+    {
+      "output": "shots/about/390.jpg",
+      "width": 390,
+      "height": 5456
+    },
+    {
+      "output": "shots/about/1440.jpg",
+      "width": 1440,
+      "height": 3913
+    },
+    {
+      "output": "shots/about/authorities/390.jpg",
+      "width": 390,
+      "height": 5704
+    },
+    {
+      "output": "shots/about/authorities/1440.jpg",
+      "width": 1440,
+      "height": 4164
+    },
+    {
+      "output": "shots/about/news/390.jpg",
+      "width": 390,
+      "height": 2380
+    },
+    {
+      "output": "shots/about/documents/390.jpg",
+      "width": 390,
+      "height": 7823
+    },
+    {
+      "output": "shots/about/documents/1440.jpg",
+      "width": 1440,
+      "height": 5090
+    },
+    {
+      "output": "shots/about/news/1440.jpg",
+      "width": 1440,
+      "height": 1995
+    },
+    {
+      "output": "shots/about/privacy-policy/1440.jpg",
+      "width": 1440,
+      "height": 6703
+    },
+    {
+      "output": "shots/about/requisites/390.jpg",
+      "width": 390,
+      "height": 4761
+    },
+    {
+      "output": "shots/about/privacy-policy/390.jpg",
+      "width": 390,
+      "height": 10942
+    },
+    {
+      "output": "shots/about/requisites/1440.jpg",
+      "width": 1440,
+      "height": 3806
+    },
+    {
+      "output": "shots/allergarda/390.jpg",
+      "width": 390,
+      "height": 7558
+    },
+    {
+      "output": "shots/allergarda/1440.jpg",
+      "width": 1440,
+      "height": 6150
+    },
+    {
+      "output": "shots/allergarda/issledovaniya/390.jpg",
+      "width": 390,
+      "height": 6144
+    },
+    {
+      "output": "shots/allergarda/issledovaniya/1440.jpg",
+      "width": 1440,
+      "height": 4178
+    },
+    {
+      "output": "shots/allergarda/kurs/1440.jpg",
+      "width": 1440,
+      "height": 5567
+    },
+    {
+      "output": "shots/allergarda/kurs/390.jpg",
+      "width": 390,
+      "height": 7525
+    },
+    {
+      "output": "shots/allergarda/voprosy/390.jpg",
+      "width": 390,
+      "height": 4107
+    },
+    {
+      "output": "shots/allergarda/voprosy/1440.jpg",
+      "width": 1440,
+      "height": 2913
+    },
+    {
+      "output": "shots/allergolog/1440.jpg",
+      "width": 1440,
+      "height": 12254
+    },
+    {
+      "output": "shots/allergolog/390.jpg",
+      "width": 390,
+      "height": 16126
+    },
+    {
+      "output": "shots/analizy/390.jpg",
+      "width": 390,
+      "height": 14629
+    },
+    {
+      "output": "shots/analizy/1440.jpg",
+      "width": 1440,
+      "height": 11846
+    },
+    {
+      "output": "shots/analizy/alex3/1440.jpg",
+      "width": 1440,
+      "height": 8122
+    },
+    {
+      "output": "shots/analizy/alex3/390.jpg",
+      "width": 390,
+      "height": 11199
+    },
+    {
+      "output": "shots/analizy/alfa-laktalbumin-f76/390.jpg",
+      "width": 390,
+      "height": 5402
+    },
+    {
+      "output": "shots/analizy/alfa-laktalbumin-f76/1440.jpg",
+      "width": 1440,
+      "height": 4183
+    },
+    {
+      "output": "shots/analizy/allergokomponenty/390.jpg",
+      "width": 390,
+      "height": 7473
+    },
+    {
+      "output": "shots/analizy/allergokomponenty/1440.jpg",
+      "width": 1440,
+      "height": 5690
+    },
+    {
+      "output": "shots/analizy/allergopaneli/390.jpg",
+      "width": 390,
+      "height": 9358
+    },
+    {
+      "output": "shots/analizy/allergopaneli/1440.jpg",
+      "width": 1440,
+      "height": 7369
+    },
+    {
+      "output": "shots/analizy/alt-a-1-m229/390.jpg",
+      "width": 390,
+      "height": 6415
+    },
+    {
+      "output": "shots/analizy/alt-a-1-m229/1440.jpg",
+      "width": 1440,
+      "height": 4519
+    },
+    {
+      "output": "shots/analizy/ara-h-1-f422/390.jpg",
+      "width": 390,
+      "height": 5248
+    },
+    {
+      "output": "shots/analizy/ara-h-1-f422/1440.jpg",
+      "width": 1440,
+      "height": 4114
+    },
+    {
+      "output": "shots/analizy/ara-h-3-f424/390.jpg",
+      "width": 390,
+      "height": 4939
+    },
+    {
+      "output": "shots/analizy/ara-h-2-f423/390.jpg",
+      "width": 390,
+      "height": 9156
+    },
+    {
+      "output": "shots/analizy/ara-h-2-f423/1440.jpg",
+      "width": 1440,
+      "height": 7046
+    },
+    {
+      "output": "shots/analizy/ara-h-3-f424/1440.jpg",
+      "width": 1440,
+      "height": 3910
+    },
+    {
+      "output": "shots/analizy/ara-h-8-f352/1440.jpg",
+      "width": 1440,
+      "height": 4015
+    },
+    {
+      "output": "shots/analizy/ara-h-8-f352/390.jpg",
+      "width": 390,
+      "height": 4879
+    },
+    {
+      "output": "shots/analizy/ara-h-9-f427/390.jpg",
+      "width": 390,
+      "height": 4736
+    },
+    {
+      "output": "shots/analizy/ara-h-9-f427/1440.jpg",
+      "width": 1440,
+      "height": 3811
+    },
+    {
+      "output": "shots/analizy/art-v-1-w231/390.jpg",
+      "width": 390,
+      "height": 6413
+    },
+    {
+      "output": "shots/analizy/art-v-1-w231/1440.jpg",
+      "width": 1440,
+      "height": 4724
+    },
+    {
+      "output": "shots/analizy/bet-v-1-t215/390.jpg",
+      "width": 390,
+      "height": 9171
+    },
+    {
+      "output": "shots/analizy/bet-v-1-t215/1440.jpg",
+      "width": 1440,
+      "height": 7048
+    },
+    {
+      "output": "shots/analizy/beta-laktoglobulin-f77/390.jpg",
+      "width": 390,
+      "height": 5710
+    },
+    {
+      "output": "shots/analizy/beta-laktoglobulin-f77/1440.jpg",
+      "width": 1440,
+      "height": 4462
+    },
+    {
+      "output": "shots/analizy/bos-d-6-e204/390.jpg",
+      "width": 390,
+      "height": 5171
+    },
+    {
+      "output": "shots/analizy/bos-d-6-e204/1440.jpg",
+      "width": 1440,
+      "height": 4015
+    },
+    {
+      "output": "shots/analizy/can-f-2-e102/390.jpg",
+      "width": 390,
+      "height": 6306
+    },
+    {
+      "output": "shots/analizy/can-f-2-e102/1440.jpg",
+      "width": 1440,
+      "height": 4690
+    },
+    {
+      "output": "shots/analizy/der-p-1-d202/390.jpg",
+      "width": 390,
+      "height": 6359
+    },
+    {
+      "output": "shots/analizy/der-p-1-d202/1440.jpg",
+      "width": 1440,
+      "height": 4587
+    },
+    {
+      "output": "shots/analizy/der-p-10-d205/390.jpg",
+      "width": 390,
+      "height": 5551
+    },
+    {
+      "output": "shots/analizy/der-p-10-d205/1440.jpg",
+      "width": 1440,
+      "height": 4339
+    },
+    {
+      "output": "shots/analizy/eozinofilnyy-kationnyy-belok/1440.jpg",
+      "width": 1440,
+      "height": 6382
+    },
+    {
+      "output": "shots/analizy/eozinofilnyy-kationnyy-belok/390.jpg",
+      "width": 390,
+      "height": 8365
+    },
+    {
+      "output": "shots/analizy/fadiatop-detskiy/390.jpg",
+      "width": 390,
+      "height": 8605
+    },
+    {
+      "output": "shots/analizy/fadiatop-detskiy/1440.jpg",
+      "width": 1440,
+      "height": 6517
+    },
+    {
+      "output": "shots/analizy/fadiatop/1440.jpg",
+      "width": 1440,
+      "height": 6510
+    },
+    {
+      "output": "shots/analizy/fadiatop/390.jpg",
+      "width": 390,
+      "height": 8807
+    },
+    {
+      "output": "shots/analizy/fel-d-1-e94/390.jpg",
+      "width": 390,
+      "height": 9370
+    },
+    {
+      "output": "shots/analizy/fel-d-2-e220/390.jpg",
+      "width": 390,
+      "height": 5071
+    },
+    {
+      "output": "shots/analizy/fel-d-1-e94/1440.jpg",
+      "width": 1440,
+      "height": 7105
+    },
+    {
+      "output": "shots/analizy/fel-d-2-e220/1440.jpg",
+      "width": 1440,
+      "height": 4213
+    },
+    {
+      "output": "shots/analizy/gipereozinofilnyy-sindrom/1440.jpg",
+      "width": 1440,
+      "height": 8279
+    },
+    {
+      "output": "shots/analizy/gly-m-4-f353/390.jpg",
+      "width": 390,
+      "height": 5269
+    },
+    {
+      "output": "shots/analizy/gipereozinofilnyy-sindrom/390.jpg",
+      "width": 416,
+      "height": 11326
+    },
+    {
+      "output": "shots/analizy/gly-m-4-f353/1440.jpg",
+      "width": 1440,
+      "height": 4117
+    },
+    {
+      "output": "shots/analizy/ige-abrikos-f237/1440.jpg",
+      "width": 1440,
+      "height": 4647
+    },
+    {
+      "output": "shots/analizy/ige-abrikos-f237/390.jpg",
+      "width": 390,
+      "height": 6318
+    },
+    {
+      "output": "shots/analizy/ige-aloe-w65/390.jpg",
+      "width": 390,
+      "height": 6230
+    },
+    {
+      "output": "shots/analizy/ige-aloe-w65/1440.jpg",
+      "width": 1440,
+      "height": 4496
+    },
+    {
+      "output": "shots/analizy/ige-alternaria-m6/390.jpg",
+      "width": 390,
+      "height": 8721
+    },
+    {
+      "output": "shots/analizy/ige-alternaria-m6/1440.jpg",
+      "width": 1440,
+      "height": 6822
+    },
+    {
+      "output": "shots/analizy/ige-ambroziya-w1/390.jpg",
+      "width": 390,
+      "height": 8864
+    },
+    {
+      "output": "shots/analizy/ige-ambroziya-w1/1440.jpg",
+      "width": 1440,
+      "height": 6854
+    },
+    {
+      "output": "shots/analizy/ige-ananas-f210/390.jpg",
+      "width": 390,
+      "height": 6542
+    },
+    {
+      "output": "shots/analizy/ige-ananas-f210/1440.jpg",
+      "width": 1440,
+      "height": 4722
+    },
+    {
+      "output": "shots/analizy/ige-anis-f271/1440.jpg",
+      "width": 1440,
+      "height": 4579
+    },
+    {
+      "output": "shots/analizy/ige-anis-f271/390.jpg",
+      "width": 390,
+      "height": 6323
+    },
+    {
+      "output": "shots/analizy/ige-arakhis-f13/390.jpg",
+      "width": 390,
+      "height": 9096
+    },
+    {
+      "output": "shots/analizy/ige-arakhis-f13/1440.jpg",
+      "width": 1440,
+      "height": 7146
+    },
+    {
+      "output": "shots/analizy/ige-aspergillus-fumigatus-m3/390.jpg",
+      "width": 390,
+      "height": 6303
+    },
+    {
+      "output": "shots/analizy/ige-aspergillus-fumigatus-m3/1440.jpg",
+      "width": 1440,
+      "height": 4519
+    },
+    {
+      "output": "shots/analizy/ige-baklazhan-f262/1440.jpg",
+      "width": 1440,
+      "height": 5430
+    },
+    {
+      "output": "shots/analizy/ige-baklazhan-f262/390.jpg",
+      "width": 390,
+      "height": 7302
+    },
+    {
+      "output": "shots/analizy/ige-baranina-f88/390.jpg",
+      "width": 390,
+      "height": 6340
+    },
+    {
+      "output": "shots/analizy/ige-baranina-f88/1440.jpg",
+      "width": 1440,
+      "height": 4606
+    },
+    {
+      "output": "shots/analizy/ige-belokochannaya-kapusta-f216/390.jpg",
+      "width": 390,
+      "height": 6243
+    },
+    {
+      "output": "shots/analizy/ige-belokochannaya-kapusta-f216/1440.jpg",
+      "width": 1440,
+      "height": 4411
+    },
+    {
+      "output": "shots/analizy/ige-bereza-t3/1440.jpg",
+      "width": 1440,
+      "height": 7252
+    },
+    {
+      "output": "shots/analizy/ige-bereza-t3/390.jpg",
+      "width": 390,
+      "height": 9513
+    },
+    {
+      "output": "shots/analizy/ige-chelovecheskiy-insulin-c73/390.jpg",
+      "width": 390,
+      "height": 6438
+    },
+    {
+      "output": "shots/analizy/ige-cheremukha-t38/1440.jpg",
+      "width": 1440,
+      "height": 4460
+    },
+    {
+      "output": "shots/analizy/ige-chelovecheskiy-insulin-c73/1440.jpg",
+      "width": 1440,
+      "height": 4714
+    },
+    {
+      "output": "shots/analizy/ige-cheremukha-t38/390.jpg",
+      "width": 390,
+      "height": 6287
+    },
+    {
+      "output": "shots/analizy/ige-chereshnya-i-vishnya-f242/1440.jpg",
+      "width": 1440,
+      "height": 4462
+    },
+    {
+      "output": "shots/analizy/ige-chereshnya-i-vishnya-f242/390.jpg",
+      "width": 390,
+      "height": 6189
+    },
+    {
+      "output": "shots/analizy/ige-chernika-golubika-brusnika/390.jpg",
+      "width": 390,
+      "height": 6298
+    },
+    {
+      "output": "shots/analizy/ige-chernika-golubika-brusnika/1440.jpg",
+      "width": 1440,
+      "height": 4616
+    },
+    {
+      "output": "shots/analizy/ige-cladosporium-m2/390.jpg",
+      "width": 390,
+      "height": 6160
+    },
+    {
+      "output": "shots/analizy/ige-cladosporium-m2/1440.jpg",
+      "width": 1440,
+      "height": 4320
+    },
+    {
+      "output": "shots/analizy/ige-domashnyaya-pyl-h1/390.jpg",
+      "width": 390,
+      "height": 6129
+    },
+    {
+      "output": "shots/analizy/ige-domashnyaya-pyl-h1/1440.jpg",
+      "width": 1440,
+      "height": 4530
+    },
+    {
+      "output": "shots/analizy/ige-dynya-f87/390.jpg",
+      "width": 390,
+      "height": 7271
+    },
+    {
+      "output": "shots/analizy/ige-dynya-f87/1440.jpg",
+      "width": 1440,
+      "height": 5198
+    },
+    {
+      "output": "shots/analizy/ige-enterotoksin-a-stafilokokka-m80/390.jpg",
+      "width": 390,
+      "height": 6754
+    },
+    {
+      "output": "shots/analizy/ige-enterotoksin-a-stafilokokka-m80/1440.jpg",
+      "width": 1440,
+      "height": 4895
+    },
+    {
+      "output": "shots/analizy/ige-ezha-sbornaya-g3/390.jpg",
+      "width": 390,
+      "height": 6196
+    },
+    {
+      "output": "shots/analizy/ige-ezha-sbornaya-g3/1440.jpg",
+      "width": 1440,
+      "height": 4427
+    },
+    {
+      "output": "shots/analizy/ige-finiki-f289/390.jpg",
+      "width": 390,
+      "height": 6462
+    },
+    {
+      "output": "shots/analizy/ige-finiki-f289/1440.jpg",
+      "width": 1440,
+      "height": 4818
+    },
+    {
+      "output": "shots/analizy/ige-fistashki-f203/390.jpg",
+      "width": 390,
+      "height": 6235
+    },
+    {
+      "output": "shots/analizy/ige-fistashki-f203/1440.jpg",
+      "width": 1440,
+      "height": 4517
+    },
+    {
+      "output": "shots/analizy/ige-funduk-f17/390.jpg",
+      "width": 390,
+      "height": 8789
+    },
+    {
+      "output": "shots/analizy/ige-funduk-f17/1440.jpg",
+      "width": 1440,
+      "height": 6790
+    },
+    {
+      "output": "shots/analizy/ige-geran-w35/390.jpg",
+      "width": 390,
+      "height": 7290
+    },
+    {
+      "output": "shots/analizy/ige-geran-w35/1440.jpg",
+      "width": 1440,
+      "height": 5250
+    },
+    {
+      "output": "shots/analizy/ige-govyadina-f27/390.jpg",
+      "width": 390,
+      "height": 6348
+    },
+    {
+      "output": "shots/analizy/ige-govyadina-f27/1440.jpg",
+      "width": 1440,
+      "height": 4613
+    },
+    {
+      "output": "shots/analizy/ige-greypfrut-f209/390.jpg",
+      "width": 390,
+      "height": 7546
+    },
+    {
+      "output": "shots/analizy/ige-greypfrut-f209/1440.jpg",
+      "width": 1440,
+      "height": 5326
+    },
+    {
+      "output": "shots/analizy/ige-grusha-f94/390.jpg",
+      "width": 390,
+      "height": 6407
+    },
+    {
+      "output": "shots/analizy/ige-grusha-f94/1440.jpg",
+      "width": 1440,
+      "height": 4654
+    },
+    {
+      "output": "shots/analizy/ige-gusinoe-pero-e70/390.jpg",
+      "width": 390,
+      "height": 6599
+    },
+    {
+      "output": "shots/analizy/ige-gusinoe-pero-e70/1440.jpg",
+      "width": 1440,
+      "height": 4832
+    },
+    {
+      "output": "shots/analizy/ige-imbir-f270/1440.jpg",
+      "width": 1440,
+      "height": 4784
+    },
+    {
+      "output": "shots/analizy/ige-imbir-f270/390.jpg",
+      "width": 390,
+      "height": 6610
+    },
+    {
+      "output": "shots/analizy/ige-khlorgeksidin-c8/390.jpg",
+      "width": 390,
+      "height": 6636
+    },
+    {
+      "output": "shots/analizy/ige-khlorgeksidin-c8/1440.jpg",
+      "width": 1440,
+      "height": 4757
+    },
+    {
+      "output": "shots/analizy/ige-khomyak-e84/390.jpg",
+      "width": 390,
+      "height": 6403
+    },
+    {
+      "output": "shots/analizy/ige-khomyak-e84/1440.jpg",
+      "width": 1440,
+      "height": 4721
+    },
+    {
+      "output": "shots/analizy/ige-kleshch-domashney-pyli/1440.jpg",
+      "width": 1440,
+      "height": 7239
+    },
+    {
+      "output": "shots/analizy/ige-kleshch-domashney-pyli/390.jpg",
+      "width": 390,
+      "height": 9522
+    },
+    {
+      "output": "shots/analizy/ige-kleshch-euroglyphus-maynei-d74/390.jpg",
+      "width": 390,
+      "height": 6589
+    },
+    {
+      "output": "shots/analizy/ige-kleshch-euroglyphus-maynei-d74/1440.jpg",
+      "width": 1440,
+      "height": 4684
+    },
+    {
+      "output": "shots/analizy/ige-klever-lugovoy-w34/1440.jpg",
+      "width": 1440,
+      "height": 5394
+    },
+    {
+      "output": "shots/analizy/ige-klever-lugovoy-w34/390.jpg",
+      "width": 390,
+      "height": 7142
+    },
+    {
+      "output": "shots/analizy/ige-konskiy-kashtan-t203/390.jpg",
+      "width": 390,
+      "height": 6454
+    },
+    {
+      "output": "shots/analizy/ige-konskiy-kashtan-t203/1440.jpg",
+      "width": 1440,
+      "height": 4587
+    },
+    {
+      "output": "shots/analizy/ige-korova-e4/390.jpg",
+      "width": 390,
+      "height": 6712
+    },
+    {
+      "output": "shots/analizy/ige-korova-e4/1440.jpg",
+      "width": 1440,
+      "height": 4756
+    },
+    {
+      "output": "shots/analizy/ige-koshka-e1/1440.jpg",
+      "width": 1440,
+      "height": 7795
+    },
+    {
+      "output": "shots/analizy/ige-koshka-e1/390.jpg",
+      "width": 390,
+      "height": 10380
+    },
+    {
+      "output": "shots/analizy/ige-koster-bezostyy-g11/390.jpg",
+      "width": 390,
+      "height": 6505
+    },
+    {
+      "output": "shots/analizy/ige-koster-bezostyy-g11/1440.jpg",
+      "width": 1440,
+      "height": 4717
+    },
+    {
+      "output": "shots/analizy/ige-krapiva-w20/390.jpg",
+      "width": 390,
+      "height": 6314
+    },
+    {
+      "output": "shots/analizy/ige-krapiva-w20/1440.jpg",
+      "width": 1440,
+      "height": 4392
+    },
+    {
+      "output": "shots/analizy/ige-krevetka-f24/390.jpg",
+      "width": 390,
+      "height": 6229
+    },
+    {
+      "output": "shots/analizy/ige-krevetka-f24/1440.jpg",
+      "width": 1440,
+      "height": 4551
+    },
+    {
+      "output": "shots/analizy/ige-krysa-e87/390.jpg",
+      "width": 390,
+      "height": 7501
+    },
+    {
+      "output": "shots/analizy/ige-krysa-e87/1440.jpg",
+      "width": 1440,
+      "height": 5361
+    },
+    {
+      "output": "shots/analizy/ige-kryzhovnik-f327/1440.jpg",
+      "width": 1440,
+      "height": 5123
+    },
+    {
+      "output": "shots/analizy/ige-kryzhovnik-f327/390.jpg",
+      "width": 390,
+      "height": 6993
+    },
+    {
+      "output": "shots/analizy/ige-kukuruza-f8/390.jpg",
+      "width": 390,
+      "height": 7454
+    },
+    {
+      "output": "shots/analizy/ige-kukuruza-g202/390.jpg",
+      "width": 390,
+      "height": 6139
+    },
+    {
+      "output": "shots/analizy/ige-kukuruza-f8/1440.jpg",
+      "width": 1440,
+      "height": 5490
+    },
+    {
+      "output": "shots/analizy/ige-kukuruza-g202/1440.jpg",
+      "width": 1440,
+      "height": 4402
+    },
+    {
+      "output": "shots/analizy/ige-lebeda-w15/1440.jpg",
+      "width": 1440,
+      "height": 4563
+    },
+    {
+      "output": "shots/analizy/ige-lebeda-w15/390.jpg",
+      "width": 390,
+      "height": 6268
+    },
+    {
+      "output": "shots/analizy/ige-leshchina-t4/390.jpg",
+      "width": 390,
+      "height": 6147
+    },
+    {
+      "output": "shots/analizy/ige-leshchina-t4/1440.jpg",
+      "width": 1440,
+      "height": 4530
+    },
+    {
+      "output": "shots/analizy/ige-mak-f224/390.jpg",
+      "width": 390,
+      "height": 6059
+    },
+    {
+      "output": "shots/analizy/ige-mak-f224/1440.jpg",
+      "width": 1440,
+      "height": 4257
+    },
+    {
+      "output": "shots/analizy/ige-masliny-i-olivki-f342/390.jpg",
+      "width": 390,
+      "height": 7115
+    },
+    {
+      "output": "shots/analizy/ige-masliny-i-olivki-f342/1440.jpg",
+      "width": 1440,
+      "height": 5302
+    },
+    {
+      "output": "shots/analizy/ige-mat-i-machekha-w38/390.jpg",
+      "width": 390,
+      "height": 6220
+    },
+    {
+      "output": "shots/analizy/ige-mat-i-machekha-w38/1440.jpg",
+      "width": 1440,
+      "height": 4427
+    },
+    {
+      "output": "shots/analizy/ige-molochnaya-syvorotka-f236/1440.jpg",
+      "width": 1440,
+      "height": 4656
+    },
+    {
+      "output": "shots/analizy/ige-molochnaya-syvorotka-f236/390.jpg",
+      "width": 390,
+      "height": 6371
+    },
+    {
+      "output": "shots/analizy/ige-moloko-f2/390.jpg",
+      "width": 390,
+      "height": 9753
+    },
+    {
+      "output": "shots/analizy/ige-motyl-i73/390.jpg",
+      "width": 390,
+      "height": 6360
+    },
+    {
+      "output": "shots/analizy/ige-moloko-f2/1440.jpg",
+      "width": 1440,
+      "height": 7298
+    },
+    {
+      "output": "shots/analizy/ige-motyl-i73/1440.jpg",
+      "width": 1440,
+      "height": 4681
+    },
+    {
+      "output": "shots/analizy/ige-myatlik-lugovoy-g8/1440.jpg",
+      "width": 1440,
+      "height": 4682
+    },
+    {
+      "output": "shots/analizy/ige-myatlik-lugovoy-g8/390.jpg",
+      "width": 390,
+      "height": 6333
+    },
+    {
+      "output": "shots/analizy/ige-mysh-e88/390.jpg",
+      "width": 390,
+      "height": 6607
+    },
+    {
+      "output": "shots/analizy/ige-mysh-e88/1440.jpg",
+      "width": 1440,
+      "height": 4832
+    },
+    {
+      "output": "shots/analizy/ige-nivyanik-w7/390.jpg",
+      "width": 390,
+      "height": 6281
+    },
+    {
+      "output": "shots/analizy/ige-nivyanik-w7/1440.jpg",
+      "width": 1440,
+      "height": 4402
+    },
+    {
+      "output": "shots/analizy/ige-obshchiy/390.jpg",
+      "width": 390,
+      "height": 8192
+    },
+    {
+      "output": "shots/analizy/ige-obshchiy/1440.jpg",
+      "width": 1440,
+      "height": 6250
+    },
+    {
+      "output": "shots/analizy/ige-oduvanchik-w8/390.jpg",
+      "width": 390,
+      "height": 6327
+    },
+    {
+      "output": "shots/analizy/ige-oduvanchik-w8/1440.jpg",
+      "width": 1440,
+      "height": 4598
+    },
+    {
+      "output": "shots/analizy/ige-paltus-f303/1440.jpg",
+      "width": 1440,
+      "height": 4462
+    },
+    {
+      "output": "shots/analizy/ige-paltus-f303/390.jpg",
+      "width": 390,
+      "height": 6040
+    },
+    {
+      "output": "shots/analizy/ige-pekarskie-drozhzhi-f45/390.jpg",
+      "width": 390,
+      "height": 6898
+    },
+    {
+      "output": "shots/analizy/ige-pekarskie-drozhzhi-f45/1440.jpg",
+      "width": 1440,
+      "height": 5145
+    },
+    {
+      "output": "shots/analizy/ige-penicillium-m1/390.jpg",
+      "width": 390,
+      "height": 6450
+    },
+    {
+      "output": "shots/analizy/ige-penicillium-m1/1440.jpg",
+      "width": 1440,
+      "height": 4588
+    },
+    {
+      "output": "shots/analizy/ige-penitsillin-v-c2/390.jpg",
+      "width": 390,
+      "height": 6549
+    },
+    {
+      "output": "shots/analizy/ige-penitsillin-v-c2/1440.jpg",
+      "width": 1440,
+      "height": 4758
+    },
+    {
+      "output": "shots/analizy/ige-polyn-w6/390.jpg",
+      "width": 390,
+      "height": 9036
+    },
+    {
+      "output": "shots/analizy/ige-popugai-e78/390.jpg",
+      "width": 390,
+      "height": 6908
+    },
+    {
+      "output": "shots/analizy/ige-polyn-w6/1440.jpg",
+      "width": 1440,
+      "height": 7033
+    },
+    {
+      "output": "shots/analizy/ige-popugai-e78/1440.jpg",
+      "width": 1440,
+      "height": 4874
+    },
+    {
+      "output": "shots/analizy/ige-pshenitsa-f4/1440.jpg",
+      "width": 1440,
+      "height": 7283
+    },
+    {
+      "output": "shots/analizy/ige-pshenitsa-f4/390.jpg",
+      "width": 390,
+      "height": 9602
+    },
+    {
+      "output": "shots/analizy/ige-pshenitsa-posevnaya-g15/390.jpg",
+      "width": 390,
+      "height": 6501
+    },
+    {
+      "output": "shots/analizy/ige-pshenitsa-posevnaya-g15/1440.jpg",
+      "width": 1440,
+      "height": 4758
+    },
+    {
+      "output": "shots/analizy/ige-ris-f9/390.jpg",
+      "width": 390,
+      "height": 7571
+    },
+    {
+      "output": "shots/analizy/ige-ris-f9/1440.jpg",
+      "width": 1440,
+      "height": 5399
+    },
+    {
+      "output": "shots/analizy/ige-romashka-w206/390.jpg",
+      "width": 390,
+      "height": 6394
+    },
+    {
+      "output": "shots/analizy/ige-romashka-w206/1440.jpg",
+      "width": 1440,
+      "height": 4538
+    },
+    {
+      "output": "shots/analizy/ige-roza-w28/390.jpg",
+      "width": 390,
+      "height": 6107
+    },
+    {
+      "output": "shots/analizy/ige-roza-w28/1440.jpg",
+      "width": 1440,
+      "height": 4290
+    },
+    {
+      "output": "shots/analizy/ige-rozh-posevnaya-g12/1440.jpg",
+      "width": 1440,
+      "height": 4682
+    },
+    {
+      "output": "shots/analizy/ige-rozh-posevnaya-g12/390.jpg",
+      "width": 390,
+      "height": 6304
+    },
+    {
+      "output": "shots/analizy/ige-rozmarin-f335/390.jpg",
+      "width": 390,
+      "height": 7568
+    },
+    {
+      "output": "shots/analizy/ige-rozmarin-f335/1440.jpg",
+      "width": 1440,
+      "height": 5555
+    },
+    {
+      "output": "shots/analizy/ige-sennaya-pyl-o7/390.jpg",
+      "width": 390,
+      "height": 6055
+    },
+    {
+      "output": "shots/analizy/ige-sennaya-pyl-o7/1440.jpg",
+      "width": 1440,
+      "height": 4400
+    },
+    {
+      "output": "shots/analizy/ige-skumbriya-f206/1440.jpg",
+      "width": 1440,
+      "height": 5297
+    },
+    {
+      "output": "shots/analizy/ige-sladkiy-perets-f218/390.jpg",
+      "width": 390,
+      "height": 6365
+    },
+    {
+      "output": "shots/analizy/ige-skumbriya-f206/390.jpg",
+      "width": 390,
+      "height": 7038
+    },
+    {
+      "output": "shots/analizy/ige-sladkiy-perets-f218/1440.jpg",
+      "width": 1440,
+      "height": 4657
+    },
+    {
+      "output": "shots/analizy/ige-sobaka-e5/1440.jpg",
+      "width": 1440,
+      "height": 7004
+    },
+    {
+      "output": "shots/analizy/ige-sobaka-e5/390.jpg",
+      "width": 390,
+      "height": 9209
+    },
+    {
+      "output": "shots/analizy/ige-solyanka-w11/390.jpg",
+      "width": 390,
+      "height": 6393
+    },
+    {
+      "output": "shots/analizy/ige-solyanka-w11/1440.jpg",
+      "width": 1440,
+      "height": 4631
+    },
+    {
+      "output": "shots/analizy/ige-svinina-f26/390.jpg",
+      "width": 390,
+      "height": 6401
+    },
+    {
+      "output": "shots/analizy/ige-svinina-f26/1440.jpg",
+      "width": 1440,
+      "height": 4722
+    },
+    {
+      "output": "shots/analizy/ige-syr/390.jpg",
+      "width": 390,
+      "height": 6305
+    },
+    {
+      "output": "shots/analizy/ige-syr/1440.jpg",
+      "width": 1440,
+      "height": 4512
+    },
+    {
+      "output": "shots/analizy/ige-timofeevka-g6/390.jpg",
+      "width": 390,
+      "height": 9193
+    },
+    {
+      "output": "shots/analizy/ige-timofeevka-g6/1440.jpg",
+      "width": 1440,
+      "height": 7156
+    },
+    {
+      "output": "shots/analizy/ige-toksin-tsst-stafilokokka-m226/390.jpg",
+      "width": 390,
+      "height": 6775
+    },
+    {
+      "output": "shots/analizy/ige-toksin-tsst-stafilokokka-m226/1440.jpg",
+      "width": 1440,
+      "height": 4929
+    },
+    {
+      "output": "shots/analizy/ige-toksokara-p3/1440.jpg",
+      "width": 1440,
+      "height": 4767
+    },
+    {
+      "output": "shots/analizy/ige-toksokara-p3/390.jpg",
+      "width": 390,
+      "height": 6469
+    },
+    {
+      "output": "shots/analizy/ige-treska-f3/390.jpg",
+      "width": 390,
+      "height": 7213
+    },
+    {
+      "output": "shots/analizy/ige-treska-f3/1440.jpg",
+      "width": 1440,
+      "height": 5292
+    },
+    {
+      "output": "shots/analizy/ige-tunets-f40/390.jpg",
+      "width": 390,
+      "height": 7278
+    },
+    {
+      "output": "shots/analizy/ige-tunets-f40/1440.jpg",
+      "width": 1440,
+      "height": 5361
+    },
+    {
+      "output": "shots/analizy/ige-ukrop-f277/390.jpg",
+      "width": 390,
+      "height": 6159
+    },
+    {
+      "output": "shots/analizy/ige-ukrop-f277/1440.jpg",
+      "width": 1440,
+      "height": 4427
+    },
+    {
+      "output": "shots/analizy/ige-vinograd-f259/390.jpg",
+      "width": 390,
+      "height": 6520
+    },
+    {
+      "output": "shots/analizy/ige-vinograd-f259/1440.jpg",
+      "width": 1440,
+      "height": 4716
+    },
+    {
+      "output": "shots/analizy/ige-yachmen-f6/390.jpg",
+      "width": 390,
+      "height": 6370
+    },
+    {
+      "output": "shots/analizy/ige-yachmen-f6/1440.jpg",
+      "width": 1440,
+      "height": 4546
+    },
+    {
+      "output": "shots/analizy/ige-yad-osy-pchely/1440.jpg",
+      "width": 1440,
+      "height": 7147
+    },
+    {
+      "output": "shots/analizy/ige-yad-osy-pchely/390.jpg",
+      "width": 390,
+      "height": 9432
+    },
+    {
+      "output": "shots/analizy/ige-yad-shershnya-i75/390.jpg",
+      "width": 390,
+      "height": 6433
+    },
+    {
+      "output": "shots/analizy/ige-yad-shershnya-i75/1440.jpg",
+      "width": 1440,
+      "height": 4757
+    },
+    {
+      "output": "shots/analizy/ige-yaichnyy-belok-f1/1440.jpg",
+      "width": 1440,
+      "height": 6767
+    },
+    {
+      "output": "shots/analizy/ige-yaichnyy-belok-f1/390.jpg",
+      "width": 390,
+      "height": 8820
+    },
+    {
+      "output": "shots/analizy/ige-zelenyy-perets-goroshkom-f263/390.jpg",
+      "width": 390,
+      "height": 6329
+    },
+    {
+      "output": "shots/analizy/ige-zelenyy-perets-goroshkom-f263/1440.jpg",
+      "width": 1440,
+      "height": 4589
+    },
+    {
+      "output": "shots/analizy/immunocap-isac/390.jpg",
+      "width": 397,
+      "height": 9594
+    },
+    {
+      "output": "shots/analizy/immunocap-isac/1440.jpg",
+      "width": 1440,
+      "height": 7383
+    },
+    {
+      "output": "shots/analizy/kazein-f78/390.jpg",
+      "width": 390,
+      "height": 6359
+    },
+    {
+      "output": "shots/analizy/kazein-f78/1440.jpg",
+      "width": 1440,
+      "height": 4414
+    },
+    {
+      "output": "shots/analizy/kleshchi-i-pyl/1440.jpg",
+      "width": 1440,
+      "height": 4795
+    },
+    {
+      "output": "shots/analizy/kleshchi-i-pyl/390.jpg",
+      "width": 390,
+      "height": 6438
+    },
+    {
+      "output": "shots/analizy/konalbumin-f323/390.jpg",
+      "width": 390,
+      "height": 6206
+    },
+    {
+      "output": "shots/analizy/konalbumin-f323/1440.jpg",
+      "width": 1440,
+      "height": 4587
+    },
+    {
+      "output": "shots/analizy/lekarstva/390.jpg",
+      "width": 390,
+      "height": 5281
+    },
+    {
+      "output": "shots/analizy/lekarstva/1440.jpg",
+      "width": 1440,
+      "height": 3919
+    },
+    {
+      "output": "shots/analizy/nasekomye/1440.jpg",
+      "width": 1440,
+      "height": 4613
+    },
+    {
+      "output": "shots/analizy/nasekomye/390.jpg",
+      "width": 390,
+      "height": 6240
+    },
+    {
+      "output": "shots/analizy/omega-5-gliadin-f416/390.jpg",
+      "width": 390,
+      "height": 9179
+    },
+    {
+      "output": "shots/analizy/parazity/390.jpg",
+      "width": 390,
+      "height": 5219
+    },
+    {
+      "output": "shots/analizy/omega-5-gliadin-f416/1440.jpg",
+      "width": 1440,
+      "height": 7201
+    },
+    {
+      "output": "shots/analizy/parazity/1440.jpg",
+      "width": 1440,
+      "height": 3802
+    },
+    {
+      "output": "shots/analizy/phl-p-1-g205/390.jpg",
+      "width": 390,
+      "height": 6151
+    },
+    {
+      "output": "shots/analizy/phl-p-1-g205/1440.jpg",
+      "width": 1440,
+      "height": 4621
+    },
+    {
+      "output": "shots/analizy/phl-p-12-g212/390.jpg",
+      "width": 390,
+      "height": 6466
+    },
+    {
+      "output": "shots/analizy/phl-p-12-g212/1440.jpg",
+      "width": 1440,
+      "height": 4673
+    },
+    {
+      "output": "shots/analizy/phl-p-7-g210/390.jpg",
+      "width": 390,
+      "height": 6228
+    },
+    {
+      "output": "shots/analizy/phl-p-7-g210/1440.jpg",
+      "width": 1440,
+      "height": 4468
+    },
+    {
+      "output": "shots/analizy/pishchevye-allergeny/390.jpg",
+      "width": 390,
+      "height": 7645
+    },
+    {
+      "output": "shots/analizy/pishchevye-allergeny/1440.jpg",
+      "width": 1440,
+      "height": 5830
+    },
+    {
+      "output": "shots/analizy/pleseni-i-griby/390.jpg",
+      "width": 390,
+      "height": 6383
+    },
+    {
+      "output": "shots/analizy/pleseni-i-griby/1440.jpg",
+      "width": 1440,
+      "height": 4670
+    },
+    {
+      "output": "shots/analizy/proallergy/390.jpg",
+      "width": 397,
+      "height": 8803
+    },
+    {
+      "output": "shots/analizy/proallergy/1440.jpg",
+      "width": 1440,
+      "height": 6687
+    },
+    {
+      "output": "shots/analizy/professionalnye-allergeny/390.jpg",
+      "width": 390,
+      "height": 5234
+    },
+    {
+      "output": "shots/analizy/professionalnye-allergeny/1440.jpg",
+      "width": 1440,
+      "height": 3820
+    },
+    {
+      "output": "shots/analizy/pyltsa/1440.jpg",
+      "width": 1440,
+      "height": 5751
+    },
+    {
+      "output": "shots/analizy/pyltsa/390.jpg",
+      "width": 390,
+      "height": 7535
+    },
+    {
+      "output": "shots/analizy/triptaza/390.jpg",
+      "width": 390,
+      "height": 9056
+    },
+    {
+      "output": "shots/analizy/triptaza/1440.jpg",
+      "width": 1440,
+      "height": 6690
+    },
+    {
+      "output": "shots/analizy/zhivotnye-i-ptitsy/390.jpg",
+      "width": 390,
+      "height": 6871
+    },
+    {
+      "output": "shots/analizy/zhivotnye-i-ptitsy/1440.jpg",
+      "width": 1440,
+      "height": 5136
+    },
+    {
+      "output": "shots/articles/1440.jpg",
+      "width": 1440,
+      "height": 12484
+    },
+    {
+      "output": "shots/articles/akne/390.jpg",
+      "width": 390,
+      "height": 15680
+    },
+    {
+      "output": "shots/articles/akne/1440.jpg",
+      "width": 1440,
+      "height": 10991
+    },
+    {
+      "output": "shots/articles/allergarda-ili-klassicheskaya-asit/390.jpg",
+      "width": 390,
+      "height": 6756
+    },
+    {
+      "output": "shots/articles/390.jpg",
+      "width": 390,
+      "height": 29941
+    },
+    {
+      "output": "shots/articles/allergarda-ili-klassicheskaya-asit/1440.jpg",
+      "width": 1440,
+      "height": 4846
+    },
+    {
+      "output": "shots/articles/allergicheskiy-konyunktivit/1440.jpg",
+      "width": 1440,
+      "height": 6978
+    },
+    {
+      "output": "shots/articles/allergicheskiy-konyunktivit/390.jpg",
+      "width": 390,
+      "height": 9731
+    },
+    {
+      "output": "shots/articles/allergicheskiy-marsh/390.jpg",
+      "width": 390,
+      "height": 10817
+    },
+    {
+      "output": "shots/articles/allergicheskiy-marsh/1440.jpg",
+      "width": 1440,
+      "height": 7779
+    },
+    {
+      "output": "shots/articles/allergicheskiy-rinit/1440.jpg",
+      "width": 1440,
+      "height": 13559
+    },
+    {
+      "output": "shots/articles/allergicheskiy-rinit/390.jpg",
+      "width": 390,
+      "height": 19372
+    },
+    {
+      "output": "shots/articles/allergiya-na-ambroziyu-u-rebenka/390.jpg",
+      "width": 390,
+      "height": 13424
+    },
+    {
+      "output": "shots/articles/allergiya-na-ambroziyu-u-rebenka/1440.jpg",
+      "width": 1440,
+      "height": 10019
+    },
+    {
+      "output": "shots/articles/allergiya-na-ambroziyu/1440.jpg",
+      "width": 1440,
+      "height": 17926
+    },
+    {
+      "output": "shots/articles/allergiya-na-berezu-i-produkty/390.jpg",
+      "width": 390,
+      "height": 9809
+    },
+    {
+      "output": "shots/articles/allergiya-na-ambroziyu/390.jpg",
+      "width": 390,
+      "height": 26760
+    },
+    {
+      "output": "shots/articles/allergiya-na-berezu-i-produkty/1440.jpg",
+      "width": 1440,
+      "height": 6947
+    },
+    {
+      "output": "shots/articles/allergiya-na-koshku/390.jpg",
+      "width": 390,
+      "height": 12122
+    },
+    {
+      "output": "shots/articles/allergiya-na-holod/390.jpg",
+      "width": 390,
+      "height": 18438
+    },
+    {
+      "output": "shots/articles/allergiya-na-holod/1440.jpg",
+      "width": 1440,
+      "height": 12629
+    },
+    {
+      "output": "shots/articles/allergiya-na-lekarstva/1440.jpg",
+      "width": 1440,
+      "height": 5334
+    },
+    {
+      "output": "shots/articles/allergiya-na-lekarstva/390.jpg",
+      "width": 390,
+      "height": 7046
+    },
+    {
+      "output": "shots/articles/allergiya-na-koshku/1440.jpg",
+      "width": 1440,
+      "height": 9039
+    },
+    {
+      "output": "shots/articles/allergiya-na-plesen/1440.jpg",
+      "width": 1440,
+      "height": 7075
+    },
+    {
+      "output": "shots/articles/allergiya-na-plesen/390.jpg",
+      "width": 390,
+      "height": 9826
+    },
+    {
+      "output": "shots/articles/allergiya-na-pyl/390.jpg",
+      "width": 390,
+      "height": 18745
+    },
+    {
+      "output": "shots/articles/allergiya-na-pyl/1440.jpg",
+      "width": 1440,
+      "height": 13258
+    },
+    {
+      "output": "shots/articles/allergiya-na-sobaku/390.jpg",
+      "width": 390,
+      "height": 16901
+    },
+    {
+      "output": "shots/articles/allergiya-na-sobaku/1440.jpg",
+      "width": 1440,
+      "height": 11741
+    },
+    {
+      "output": "shots/articles/analizy-na-allergiyu/390.jpg",
+      "width": 390,
+      "height": 10734
+    },
+    {
+      "output": "shots/articles/analizy-na-allergiyu/1440.jpg",
+      "width": 1440,
+      "height": 8172
+    },
+    {
+      "output": "shots/articles/antigistaminnye-preparaty/1440.jpg",
+      "width": 1440,
+      "height": 8670
+    },
+    {
+      "output": "shots/articles/antigistaminnye-preparaty/390.jpg",
+      "width": 390,
+      "height": 11954
+    },
+    {
+      "output": "shots/articles/asit-ili-alt/390.jpg",
+      "width": 390,
+      "height": 13284
+    },
+    {
+      "output": "shots/articles/asit-ili-alt/1440.jpg",
+      "width": 1440,
+      "height": 9889
+    },
+    {
+      "output": "shots/articles/atopicheskiy-dermatit-u-rebenka/1440.jpg",
+      "width": 1440,
+      "height": 15729
+    },
+    {
+      "output": "shots/articles/atopicheskiy-dermatit-u-vzroslyh/390.jpg",
+      "width": 390,
+      "height": 9438
+    },
+    {
+      "output": "shots/articles/atopicheskiy-dermatit-u-rebenka/390.jpg",
+      "width": 390,
+      "height": 22691
+    },
+    {
+      "output": "shots/articles/atopicheskiy-dermatit-u-vzroslyh/1440.jpg",
+      "width": 1440,
+      "height": 6855
+    },
+    {
+      "output": "shots/articles/biorevitalizaciya-chto-eto/1440.jpg",
+      "width": 1440,
+      "height": 7247
+    },
+    {
+      "output": "shots/articles/biorevitalizaciya-chto-eto/390.jpg",
+      "width": 390,
+      "height": 9946
+    },
+    {
+      "output": "shots/articles/boleznennye-mesyachnye/390.jpg",
+      "width": 390,
+      "height": 9251
+    },
+    {
+      "output": "shots/articles/boleznennye-mesyachnye/1440.jpg",
+      "width": 1440,
+      "height": 6361
+    },
+    {
+      "output": "shots/articles/botulinoterapiya-skolko-edinic/390.jpg",
+      "width": 390,
+      "height": 10815
+    },
+    {
+      "output": "shots/articles/botulinoterapiya-skolko-edinic/1440.jpg",
+      "width": 1440,
+      "height": 7764
+    },
+    {
+      "output": "shots/articles/chem-lechit-allergiyu-na-polyn/390.jpg",
+      "width": 390,
+      "height": 12983
+    },
+    {
+      "output": "shots/articles/chem-lechit-allergiyu-na-polyn/1440.jpg",
+      "width": 1440,
+      "height": 9462
+    },
+    {
+      "output": "shots/articles/chesotka-ili-allergiya/390.jpg",
+      "width": 390,
+      "height": 12630
+    },
+    {
+      "output": "shots/articles/chesotka-ili-allergiya/1440.jpg",
+      "width": 1440,
+      "height": 9251
+    },
+    {
+      "output": "shots/articles/demodekoz/390.jpg",
+      "width": 390,
+      "height": 13812
+    },
+    {
+      "output": "shots/articles/demodekoz/1440.jpg",
+      "width": 1440,
+      "height": 9617
+    },
+    {
+      "output": "shots/articles/ekzema/390.jpg",
+      "width": 390,
+      "height": 18587
+    },
+    {
+      "output": "shots/articles/ekzema/1440.jpg",
+      "width": 1440,
+      "height": 12889
+    },
+    {
+      "output": "shots/articles/eozinofily-povysheny-u-rebenka/390.jpg",
+      "width": 390,
+      "height": 14134
+    },
+    {
+      "output": "shots/articles/eozinofily-povysheny-u-rebenka/1440.jpg",
+      "width": 1440,
+      "height": 10467
+    },
+    {
+      "output": "shots/articles/gipergidroz-potlivost/1440.jpg",
+      "width": 1440,
+      "height": 7412
+    },
+    {
+      "output": "shots/articles/gipergidroz-potlivost/390.jpg",
+      "width": 390,
+      "height": 9901
+    },
+    {
+      "output": "shots/articles/gribok-nogtey/390.jpg",
+      "width": 390,
+      "height": 12612
+    },
+    {
+      "output": "shots/articles/gribok-nogtey/1440.jpg",
+      "width": 1440,
+      "height": 9168
+    },
+    {
+      "output": "shots/articles/helikobakter/390.jpg",
+      "width": 390,
+      "height": 9761
+    },
+    {
+      "output": "shots/articles/helikobakter/1440.jpg",
+      "width": 1440,
+      "height": 6962
+    },
+    {
+      "output": "shots/articles/izzhoga-gerb/390.jpg",
+      "width": 390,
+      "height": 10615
+    },
+    {
+      "output": "shots/articles/immunoglobulin-e-povyshen/1440.jpg",
+      "width": 1440,
+      "height": 13824
+    },
+    {
+      "output": "shots/articles/immunoglobulin-e-povyshen/390.jpg",
+      "width": 390,
+      "height": 20118
+    },
+    {
+      "output": "shots/articles/kak-podgotovitsya-k-kursu-allergardy/390.jpg",
+      "width": 390,
+      "height": 6460
+    },
+    {
+      "output": "shots/articles/izzhoga-gerb/1440.jpg",
+      "width": 1440,
+      "height": 7398
+    },
+    {
+      "output": "shots/articles/kak-podgotovitsya-k-kursu-allergardy/1440.jpg",
+      "width": 1440,
+      "height": 4813
+    },
+    {
+      "output": "shots/articles/kak-snizit-fel-d1/1440.jpg",
+      "width": 1440,
+      "height": 10121
+    },
+    {
+      "output": "shots/articles/kak-snizit-fel-d1/390.jpg",
+      "width": 390,
+      "height": 14116
+    },
+    {
+      "output": "shots/articles/kak-vyglyadit-ambroziya/390.jpg",
+      "width": 390,
+      "height": 13498
+    },
+    {
+      "output": "shots/articles/kak-vyglyadit-ambroziya/1440.jpg",
+      "width": 1440,
+      "height": 10289
+    },
+    {
+      "output": "shots/articles/kashel-posle-prostudy/1440.jpg",
+      "width": 1440,
+      "height": 7524
+    },
+    {
+      "output": "shots/articles/kashel-posle-prostudy/390.jpg",
+      "width": 390,
+      "height": 10620
+    },
+    {
+      "output": "shots/articles/kista-yaichnika/390.jpg",
+      "width": 390,
+      "height": 8994
+    },
+    {
+      "output": "shots/articles/kista-yaichnika/1440.jpg",
+      "width": 1440,
+      "height": 6565
+    },
+    {
+      "output": "shots/articles/kogda-nachinat-asit/390.jpg",
+      "width": 390,
+      "height": 6395
+    },
+    {
+      "output": "shots/articles/kogda-nachinat-asit/1440.jpg",
+      "width": 1440,
+      "height": 4630
+    },
+    {
+      "output": "shots/articles/kontagiozny-mollyusk/1440.jpg",
+      "width": 1440,
+      "height": 10453
+    },
+    {
+      "output": "shots/articles/kontagiozny-mollyusk/390.jpg",
+      "width": 390,
+      "height": 14809
+    },
+    {
+      "output": "shots/articles/kontrol-astmy/390.jpg",
+      "width": 390,
+      "height": 9700
+    },
+    {
+      "output": "shots/articles/kontrol-astmy/1440.jpg",
+      "width": 1440,
+      "height": 6998
+    },
+    {
+      "output": "shots/articles/krapivnitsa-u-rebenka/1440.jpg",
+      "width": 1440,
+      "height": 9040
+    },
+    {
+      "output": "shots/articles/krapivnitsa-u-rebenka/390.jpg",
+      "width": 390,
+      "height": 13451
+    },
+    {
+      "output": "shots/articles/krapivnitsa/390.jpg",
+      "width": 390,
+      "height": 12341
+    },
+    {
+      "output": "shots/articles/krapivnitsa/1440.jpg",
+      "width": 1440,
+      "height": 9075
+    },
+    {
+      "output": "shots/articles/kuperoz-sosudistye-zvezdochki/390.jpg",
+      "width": 390,
+      "height": 9191
+    },
+    {
+      "output": "shots/articles/kuperoz-sosudistye-zvezdochki/1440.jpg",
+      "width": 1440,
+      "height": 6509
+    },
+    {
+      "output": "shots/articles/lpg-massazh-chto-daet/1440.jpg",
+      "width": 1440,
+      "height": 6109
+    },
+    {
+      "output": "shots/articles/lpg-massazh-chto-daet/390.jpg",
+      "width": 390,
+      "height": 8450
+    },
+    {
+      "output": "shots/articles/menopauza-prilivy/390.jpg",
+      "width": 390,
+      "height": 9038
+    },
+    {
+      "output": "shots/articles/menopauza-prilivy/1440.jpg",
+      "width": 1440,
+      "height": 6513
+    },
+    {
+      "output": "shots/articles/mioma-matki/390.jpg",
+      "width": 390,
+      "height": 9598
+    },
+    {
+      "output": "shots/articles/mioma-matki/1440.jpg",
+      "width": 1440,
+      "height": 6867
+    },
+    {
+      "output": "shots/articles/molochnitsa/390.jpg",
+      "width": 390,
+      "height": 8890
+    },
+    {
+      "output": "shots/articles/molochnitsa/1440.jpg",
+      "width": 1440,
+      "height": 6389
+    },
+    {
+      "output": "shots/articles/neperenosimost-laktozy-ili-allergiya/390.jpg",
+      "width": 390,
+      "height": 9919
+    },
+    {
+      "output": "shots/articles/neperenosimost-laktozy-ili-allergiya/1440.jpg",
+      "width": 1440,
+      "height": 6687
+    },
+    {
+      "output": "shots/articles/neregulyarnye-mesyachnye/390.jpg",
+      "width": 390,
+      "height": 9235
+    },
+    {
+      "output": "shots/articles/neregulyarnye-mesyachnye/1440.jpg",
+      "width": 1440,
+      "height": 6448
+    },
+    {
+      "output": "shots/articles/nosogubnye-skladki/1440.jpg",
+      "width": 1440,
+      "height": 7229
+    },
+    {
+      "output": "shots/articles/nosogubnye-skladki/390.jpg",
+      "width": 390,
+      "height": 10228
+    },
+    {
+      "output": "shots/articles/omalizumab/390.jpg",
+      "width": 390,
+      "height": 9833
+    },
+    {
+      "output": "shots/articles/omalizumab/1440.jpg",
+      "width": 1440,
+      "height": 7399
+    },
+    {
+      "output": "shots/articles/otek-kvinke/390.jpg",
+      "width": 390,
+      "height": 12938
+    },
+    {
+      "output": "shots/articles/otek-kvinke/1440.jpg",
+      "width": 1440,
+      "height": 9690
+    },
+    {
+      "output": "shots/articles/pigmentnye-pyatna-na-lice/390.jpg",
+      "width": 390,
+      "height": 10491
+    },
+    {
+      "output": "shots/articles/pigmentnye-pyatna-na-lice/1440.jpg",
+      "width": 1440,
+      "height": 7290
+    },
+    {
+      "output": "shots/articles/piling-osenyu/390.jpg",
+      "width": 390,
+      "height": 8989
+    },
+    {
+      "output": "shots/articles/piling-osenyu/1440.jpg",
+      "width": 1440,
+      "height": 6397
+    },
+    {
+      "output": "shots/articles/pischevaya-allergiya-u-grudnichka/390.jpg",
+      "width": 390,
+      "height": 12938
+    },
+    {
+      "output": "shots/articles/pischevaya-allergiya-u-grudnichka/1440.jpg",
+      "width": 1440,
+      "height": 9088
+    },
+    {
+      "output": "shots/articles/pitanie-pri-allergii-na-polyn/390.jpg",
+      "width": 390,
+      "height": 13207
+    },
+    {
+      "output": "shots/articles/pitanie-pri-allergii-na-polyn/1440.jpg",
+      "width": 1440,
+      "height": 9799
+    },
+    {
+      "output": "shots/articles/podgotovka-k-beremennosti/390.jpg",
+      "width": 390,
+      "height": 10368
+    },
+    {
+      "output": "shots/articles/podgotovka-k-beremennosti/1440.jpg",
+      "width": 1440,
+      "height": 7406
+    },
+    {
+      "output": "shots/articles/podgotovka-k-kozhnym-probam/1440.jpg",
+      "width": 1440,
+      "height": 9036
+    },
+    {
+      "output": "shots/articles/podgotovka-k-kozhnym-probam/390.jpg",
+      "width": 390,
+      "height": 11758
+    },
+    {
+      "output": "shots/articles/pollinoz-voronezh/390.jpg",
+      "width": 390,
+      "height": 6502
+    },
+    {
+      "output": "shots/articles/podtyazhka-lica-bez-operacii/390.jpg",
+      "width": 390,
+      "height": 17271
+    },
+    {
+      "output": "shots/articles/podtyazhka-lica-bez-operacii/1440.jpg",
+      "width": 1440,
+      "height": 12340
+    },
+    {
+      "output": "shots/articles/pollinoz-voronezh/1440.jpg",
+      "width": 1440,
+      "height": 4630
+    },
+    {
+      "output": "shots/articles/profilakticheskiy-osmotr-ginekologa/390.jpg",
+      "width": 390,
+      "height": 9143
+    },
+    {
+      "output": "shots/articles/profilakticheskiy-osmotr-ginekologa/1440.jpg",
+      "width": 1440,
+      "height": 6650
+    },
+    {
+      "output": "shots/articles/proverit-rodinku/390.jpg",
+      "width": 390,
+      "height": 11862
+    },
+    {
+      "output": "shots/articles/proverit-rodinku/1440.jpg",
+      "width": 1440,
+      "height": 8550
+    },
+    {
+      "output": "shots/articles/psoriaz/390.jpg",
+      "width": 390,
+      "height": 13648
+    },
+    {
+      "output": "shots/articles/psoriaz/1440.jpg",
+      "width": 1440,
+      "height": 9492
+    },
+    {
+      "output": "shots/articles/rf-lifting-lica/1440.jpg",
+      "width": 1440,
+      "height": 11352
+    },
+    {
+      "output": "shots/articles/rf-lifting-lica/390.jpg",
+      "width": 390,
+      "height": 15891
+    },
+    {
+      "output": "shots/articles/rozacea/390.jpg",
+      "width": 390,
+      "height": 18038
+    },
+    {
+      "output": "shots/articles/rozacea/1440.jpg",
+      "width": 1440,
+      "height": 12619
+    },
+    {
+      "output": "shots/articles/seboreynyy-dermatit/390.jpg",
+      "width": 390,
+      "height": 16326
+    },
+    {
+      "output": "shots/articles/seboreynyy-dermatit/1440.jpg",
+      "width": 1440,
+      "height": 11778
+    },
+    {
+      "output": "shots/articles/sezon-ambrozii-kalendar/390.jpg",
+      "width": 390,
+      "height": 10640
+    },
+    {
+      "output": "shots/articles/sezon-ambrozii-kalendar/1440.jpg",
+      "width": 1440,
+      "height": 8001
+    },
+    {
+      "output": "shots/articles/sindrom-razdrazhennogo-kishechnika/390.jpg",
+      "width": 390,
+      "height": 9237
+    },
+    {
+      "output": "shots/articles/sindrom-razdrazhennogo-kishechnika/1440.jpg",
+      "width": 1440,
+      "height": 6518
+    },
+    {
+      "output": "shots/articles/smas-ili-rf/390.jpg",
+      "width": 390,
+      "height": 10542
+    },
+    {
+      "output": "shots/articles/smas-ili-rf/1440.jpg",
+      "width": 1440,
+      "height": 8238
+    },
+    {
+      "output": "shots/articles/smas-lifting/1440.jpg",
+      "width": 1440,
+      "height": 10086
+    },
+    {
+      "output": "shots/articles/smas-lifting/390.jpg",
+      "width": 390,
+      "height": 14286
+    },
+    {
+      "output": "shots/articles/uvelichenie-gub-fillerom/390.jpg",
+      "width": 390,
+      "height": 9252
+    },
+    {
+      "output": "shots/articles/ukus-osy-i-pchely/1440.jpg",
+      "width": 1440,
+      "height": 16593
+    },
+    {
+      "output": "shots/articles/ukus-osy-i-pchely/390.jpg",
+      "width": 390,
+      "height": 23576
+    },
+    {
+      "output": "shots/articles/uvelichenie-gub-fillerom/1440.jpg",
+      "width": 1440,
+      "height": 6850
+    },
+    {
+      "output": "shots/articles/uzi-bryushnoy-polosti/1440.jpg",
+      "width": 1440,
+      "height": 6681
+    },
+    {
+      "output": "shots/articles/uzi-bryushnoy-polosti/390.jpg",
+      "width": 390,
+      "height": 9174
+    },
+    {
+      "output": "shots/articles/uzi-malogo-taza-den-cikla/390.jpg",
+      "width": 390,
+      "height": 10525
+    },
+    {
+      "output": "shots/articles/uzi-malogo-taza-den-cikla/1440.jpg",
+      "width": 1440,
+      "height": 7710
+    },
+    {
+      "output": "shots/articles/uzi-molochnyh-zhelez/1440.jpg",
+      "width": 1440,
+      "height": 7198
+    },
+    {
+      "output": "shots/articles/uzi-molochnyh-zhelez/390.jpg",
+      "width": 390,
+      "height": 9733
+    },
+    {
+      "output": "shots/articles/uzi-shchitovidnoy-zhelezy/390.jpg",
+      "width": 390,
+      "height": 8998
+    },
+    {
+      "output": "shots/articles/uzi-shchitovidnoy-zhelezy/1440.jpg",
+      "width": 1440,
+      "height": 6400
+    },
+    {
+      "output": "shots/articles/vakcina-ot-allergii-na-berezu-allergarda/390.jpg",
+      "width": 390,
+      "height": 7081
+    },
+    {
+      "output": "shots/articles/vakcina-ot-allergii-na-berezu-allergarda/1440.jpg",
+      "width": 1440,
+      "height": 5457
+    },
+    {
+      "output": "shots/articles/vozrastnye-izmeneniya-lica/1440.jpg",
+      "width": 1440,
+      "height": 8317
+    },
+    {
+      "output": "shots/articles/vozrastnye-izmeneniya-lica/390.jpg",
+      "width": 390,
+      "height": 11942
+    },
+    {
+      "output": "shots/articles/vpch-polozhitelnyy-test/390.jpg",
+      "width": 390,
+      "height": 8445
+    },
+    {
+      "output": "shots/articles/vpch-polozhitelnyy-test/1440.jpg",
+      "width": 1440,
+      "height": 6171
+    },
+    {
+      "output": "shots/articles/vtoroy-podborodok/1440.jpg",
+      "width": 1440,
+      "height": 6354
+    },
+    {
+      "output": "shots/articles/vtoroy-podborodok/390.jpg",
+      "width": 390,
+      "height": 9090
+    },
+    {
+      "output": "shots/articles/vypadenie-volos/390.jpg",
+      "width": 390,
+      "height": 12431
+    },
+    {
+      "output": "shots/articles/vypadenie-volos/1440.jpg",
+      "width": 1440,
+      "height": 8967
+    },
+    {
+      "output": "shots/articles/vzdutie-zhivota/390.jpg",
+      "width": 390,
+      "height": 10042
+    },
+    {
+      "output": "shots/articles/vzdutie-zhivota/1440.jpg",
+      "width": 1440,
+      "height": 6874
+    },
+    {
+      "output": "shots/articles/zolotarnik-ili-ambroziya/1440.jpg",
+      "width": 1440,
+      "height": 8291
+    },
+    {
+      "output": "shots/articles/zolotarnik-ili-ambroziya/390.jpg",
+      "width": 390,
+      "height": 11527
+    },
+    {
+      "output": "shots/asit/tabletki/390.jpg",
+      "width": 390,
+      "height": 8038
+    },
+    {
+      "output": "shots/asit/tabletki/1440.jpg",
+      "width": 1440,
+      "height": 6055
+    },
+    {
+      "output": "shots/asit/ukoly/390.jpg",
+      "width": 390,
+      "height": 9308
+    },
+    {
+      "output": "shots/asit/ukoly/1440.jpg",
+      "width": 1440,
+      "height": 6663
+    },
+    {
+      "output": "shots/autolimfocitoterapiya-voronezh/390.jpg",
+      "width": 390,
+      "height": 7623
+    },
+    {
+      "output": "shots/autolimfocitoterapiya-voronezh/1440.jpg",
+      "width": 1440,
+      "height": 5277
+    },
+    {
+      "output": "shots/contacts/390.jpg",
+      "width": 390,
+      "height": 6983
+    },
+    {
+      "output": "shots/contacts/1440.jpg",
+      "width": 1440,
+      "height": 4294
+    },
+    {
+      "output": "shots/contacts/voroshilova-8b/1440.jpg",
+      "width": 1440,
+      "height": 9455
+    },
+    {
+      "output": "shots/contacts/voroshilova-8b/390.jpg",
+      "width": 390,
+      "height": 14900
+    },
+    {
+      "output": "shots/detyam/390.jpg",
+      "width": 390,
+      "height": 9172
+    },
+    {
+      "output": "shots/detyam/1440.jpg",
+      "width": 1440,
+      "height": 6386
+    },
+    {
+      "output": "shots/doctors/1440.jpg",
+      "width": 1440,
+      "height": 3904
+    },
+    {
+      "output": "shots/doctors/390.jpg",
+      "width": 390,
+      "height": 6107
+    },
+    {
+      "output": "shots/doctors/__q_40bba0623b54cef1c573/1440.jpg",
+      "width": 1440,
+      "height": 3318
+    },
+    {
+      "output": "shots/doctors/__q_40bba0623b54cef1c573/390.jpg",
+      "width": 390,
+      "height": 4897
+    },
+    {
+      "output": "shots/doctors/bykova-mariya-alekseevna/390.jpg",
+      "width": 390,
+      "height": 3631
+    },
+    {
+      "output": "shots/doctors/bykova-mariya-alekseevna/1440.jpg",
+      "width": 1440,
+      "height": 3000
+    },
+    {
+      "output": "shots/doctors/korysheva-yuliya-igorevna/1440.jpg",
+      "width": 1440,
+      "height": 3848
+    },
+    {
+      "output": "shots/doctors/korysheva-yuliya-igorevna/390.jpg",
+      "width": 390,
+      "height": 4620
+    },
+    {
+      "output": "shots/doctors/kretova-galina-ivanovna/390.jpg",
+      "width": 390,
+      "height": 3599
+    },
+    {
+      "output": "shots/doctors/kretova-galina-ivanovna/1440.jpg",
+      "width": 1440,
+      "height": 3000
+    },
+    {
+      "output": "shots/doctors/kurdesova-elena-sergeevna/390.jpg",
+      "width": 390,
+      "height": 4731
+    },
+    {
+      "output": "shots/doctors/kurdesova-elena-sergeevna/1440.jpg",
+      "width": 1440,
+      "height": 3837
+    },
+    {
+      "output": "shots/doctors/makhovaya-lyudmila-vladimirovna/390.jpg",
+      "width": 390,
+      "height": 4825
+    },
+    {
+      "output": "shots/doctors/makhovaya-lyudmila-vladimirovna/1440.jpg",
+      "width": 1440,
+      "height": 3947
+    },
+    {
+      "output": "shots/doctors/pisarev-nikolay-nikolaevich/390.jpg",
+      "width": 390,
+      "height": 5293
+    },
+    {
+      "output": "shots/doctors/pisarev-nikolay-nikolaevich/1440.jpg",
+      "width": 1440,
+      "height": 4328
+    },
+    {
+      "output": "shots/doctors/sakharova-tatyana-anatolevna/390.jpg",
+      "width": 390,
+      "height": 4508
+    },
+    {
+      "output": "shots/doctors/sakharova-tatyana-anatolevna/1440.jpg",
+      "width": 1440,
+      "height": 3694
+    },
+    {
+      "output": "shots/doctors/studenikina-elena-viktorovna/1440.jpg",
+      "width": 1440,
+      "height": 3200
+    },
+    {
+      "output": "shots/doctors/studenikina-elena-viktorovna/390.jpg",
+      "width": 390,
+      "height": 3676
+    },
+    {
+      "output": "shots/doctors/suslov-evgeniy-vyacheslavovich/390.jpg",
+      "width": 390,
+      "height": 4142
+    },
+    {
+      "output": "shots/doctors/suslov-evgeniy-vyacheslavovich/1440.jpg",
+      "width": 1440,
+      "height": 3400
+    },
+    {
+      "output": "shots/en/390.jpg",
+      "width": 390,
+      "height": 9337
+    },
+    {
+      "output": "shots/en/1440.jpg",
+      "width": 1440,
+      "height": 7293
+    },
+    {
+      "output": "shots/gastroenterolog-voronezh/390.jpg",
+      "width": 390,
+      "height": 7668
+    },
+    {
+      "output": "shots/gastroenterolog-voronezh/1440.jpg",
+      "width": 1440,
+      "height": 5412
+    },
+    {
+      "output": "shots/ginekologiya/alieva-elona-gavkaz-kyzy/390.jpg",
+      "width": 390,
+      "height": 6039
+    },
+    {
+      "output": "shots/ginekologiya/1440.jpg",
+      "width": 1440,
+      "height": 10580
+    },
+    {
+      "output": "shots/ginekologiya/390.jpg",
+      "width": 390,
+      "height": 14914
+    },
+    {
+      "output": "shots/ginekologiya/kholuenko-olga-anatolevna/1440.jpg",
+      "width": 1440,
+      "height": 4042
+    },
+    {
+      "output": "shots/ginekologiya/kholuenko-olga-anatolevna/390.jpg",
+      "width": 390,
+      "height": 4890
+    },
+    {
+      "output": "shots/ginekologiya/alieva-elona-gavkaz-kyzy/1440.jpg",
+      "width": 1440,
+      "height": 5134
+    },
+    {
+      "output": "shots/kosmetologiya/akcii/390.jpg",
+      "width": 390,
+      "height": 8281
+    },
+    {
+      "output": "shots/kosmetologiya/1440.jpg",
+      "width": 1440,
+      "height": 12560
+    },
+    {
+      "output": "shots/kosmetologiya/390.jpg",
+      "width": 390,
+      "height": 17596
+    },
+    {
+      "output": "shots/kosmetologiya/akcii/1440.jpg",
+      "width": 1440,
+      "height": 6185
+    },
+    {
+      "output": "shots/kosmetologiya/aptos-excellence-visage/1440.jpg",
+      "width": 1440,
+      "height": 6943
+    },
+    {
+      "output": "shots/kosmetologiya/aptos-excellence-visage/390.jpg",
+      "width": 390,
+      "height": 9267
+    },
+    {
+      "output": "shots/kosmetologiya/aptos-nano-spring/390.jpg",
+      "width": 390,
+      "height": 9068
+    },
+    {
+      "output": "shots/kosmetologiya/aptos-nano-spring/1440.jpg",
+      "width": 1440,
+      "height": 6849
+    },
+    {
+      "output": "shots/kosmetologiya/aptos-nano-vitis/390.jpg",
+      "width": 390,
+      "height": 9172
+    },
+    {
+      "output": "shots/kosmetologiya/aptos-nano-vitis/1440.jpg",
+      "width": 1440,
+      "height": 6915
+    },
+    {
+      "output": "shots/kosmetologiya/biorevitalizaciya/1440.jpg",
+      "width": 1440,
+      "height": 12437
+    },
+    {
+      "output": "shots/kosmetologiya/biorevitalizaciya/390.jpg",
+      "width": 390,
+      "height": 16234
+    },
+    {
+      "output": "shots/kosmetologiya/botulinoterapiya/390.jpg",
+      "width": 390,
+      "height": 15346
+    },
+    {
+      "output": "shots/kosmetologiya/botulinoterapiya/1440.jpg",
+      "width": 1440,
+      "height": 10835
+    },
+    {
+      "output": "shots/kosmetologiya/ceny/1440.jpg",
+      "width": 1440,
+      "height": 15891
+    },
+    {
+      "output": "shots/kosmetologiya/ceny/390.jpg",
+      "width": 390,
+      "height": 17942
+    },
+    {
+      "output": "shots/kosmetologiya/chistki-i-pilingi/390.jpg",
+      "width": 390,
+      "height": 14839
+    },
+    {
+      "output": "shots/kosmetologiya/chistki-i-pilingi/1440.jpg",
+      "width": 1440,
+      "height": 10542
+    },
+    {
+      "output": "shots/kosmetologiya/clearlift/390.jpg",
+      "width": 390,
+      "height": 13075
+    },
+    {
+      "output": "shots/kosmetologiya/clearlift/1440.jpg",
+      "width": 1440,
+      "height": 10659
+    },
+    {
+      "output": "shots/kosmetologiya/cool-flame/390.jpg",
+      "width": 390,
+      "height": 14240
+    },
+    {
+      "output": "shots/kosmetologiya/cool-flame/1440.jpg",
+      "width": 1440,
+      "height": 12466
+    },
+    {
+      "output": "shots/kosmetologiya/fotoomolozhenie/390.jpg",
+      "width": 390,
+      "height": 13909
+    },
+    {
+      "output": "shots/kosmetologiya/fotoomolozhenie/1440.jpg",
+      "width": 1440,
+      "height": 11464
+    },
+    {
+      "output": "shots/kosmetologiya/glow-flow/390.jpg",
+      "width": 390,
+      "height": 14130
+    },
+    {
+      "output": "shots/kosmetologiya/glow-flow/1440.jpg",
+      "width": 1440,
+      "height": 12282
+    },
+    {
+      "output": "shots/kosmetologiya/juvederm-ultra-3/390.jpg",
+      "width": 390,
+      "height": 8551
+    },
+    {
+      "output": "shots/kosmetologiya/juvederm-ultra-3/1440.jpg",
+      "width": 1440,
+      "height": 6665
+    },
+    {
+      "output": "shots/kosmetologiya/juvederm-ultra-smile/390.jpg",
+      "width": 390,
+      "height": 8873
+    },
+    {
+      "output": "shots/kosmetologiya/juvederm-ultra-smile/1440.jpg",
+      "width": 1440,
+      "height": 6820
+    },
+    {
+      "output": "shots/kosmetologiya/karbonovyy-piling/390.jpg",
+      "width": 390,
+      "height": 11943
+    },
+    {
+      "output": "shots/kosmetologiya/karbonovyy-piling/1440.jpg",
+      "width": 1440,
+      "height": 9342
+    },
+    {
+      "output": "shots/kosmetologiya/kollagenostimulyatory/390.jpg",
+      "width": 396,
+      "height": 14165
+    },
+    {
+      "output": "shots/kosmetologiya/kollagenostimulyatory/1440.jpg",
+      "width": 1440,
+      "height": 9700
+    },
+    {
+      "output": "shots/kosmetologiya/konturnaya-plastika/390.jpg",
+      "width": 390,
+      "height": 16085
+    },
+    {
+      "output": "shots/kosmetologiya/konturnaya-plastika/1440.jpg",
+      "width": 1440,
+      "height": 12516
+    },
+    {
+      "output": "shots/kosmetologiya/lechenie-akne/390.jpg",
+      "width": 390,
+      "height": 12644
+    },
+    {
+      "output": "shots/kosmetologiya/lazer-harmony-xl-pro/390.jpg",
+      "width": 390,
+      "height": 30540
+    },
+    {
+      "output": "shots/kosmetologiya/lazer-harmony-xl-pro/1440.jpg",
+      "width": 1440,
+      "height": 27616
+    },
+    {
+      "output": "shots/kosmetologiya/lechenie-akne/1440.jpg",
+      "width": 1440,
+      "height": 9854
+    },
+    {
+      "output": "shots/kosmetologiya/lpg/390.jpg",
+      "width": 390,
+      "height": 15129
+    },
+    {
+      "output": "shots/kosmetologiya/meso-wharton-p199/390.jpg",
+      "width": 390,
+      "height": 8580
+    },
+    {
+      "output": "shots/kosmetologiya/lpg/1440.jpg",
+      "width": 1440,
+      "height": 11128
+    },
+    {
+      "output": "shots/kosmetologiya/meso-wharton-p199/1440.jpg",
+      "width": 1440,
+      "height": 6769
+    },
+    {
+      "output": "shots/kosmetologiya/meso-xanthin-f199/1440.jpg",
+      "width": 1440,
+      "height": 6680
+    },
+    {
+      "output": "shots/kosmetologiya/meso-xanthin-f199/390.jpg",
+      "width": 390,
+      "height": 8393
+    },
+    {
+      "output": "shots/kosmetologiya/mesoeye-c71/390.jpg",
+      "width": 390,
+      "height": 8317
+    },
+    {
+      "output": "shots/kosmetologiya/mesoeye-c71/1440.jpg",
+      "width": 1440,
+      "height": 6660
+    },
+    {
+      "output": "shots/kosmetologiya/mesosculpt-c71/390.jpg",
+      "width": 390,
+      "height": 8479
+    },
+    {
+      "output": "shots/kosmetologiya/mesosculpt-c71/1440.jpg",
+      "width": 1440,
+      "height": 6754
+    },
+    {
+      "output": "shots/kosmetologiya/mezoterapiya/1440.jpg",
+      "width": 1440,
+      "height": 11452
+    },
+    {
+      "output": "shots/kosmetologiya/mezoterapiya/390.jpg",
+      "width": 390,
+      "height": 15211
+    },
+    {
+      "output": "shots/kosmetologiya/nctf-135-ha/390.jpg",
+      "width": 390,
+      "height": 9025
+    },
+    {
+      "output": "shots/kosmetologiya/nctf-135-ha/1440.jpg",
+      "width": 1440,
+      "height": 7542
+    },
+    {
+      "output": "shots/kosmetologiya/nitevoy-lifting/390.jpg",
+      "width": 390,
+      "height": 16109
+    },
+    {
+      "output": "shots/kosmetologiya/nitevoy-lifting/1440.jpg",
+      "width": 1440,
+      "height": 12082
+    },
+    {
+      "output": "shots/kosmetologiya/no-filters/390.jpg",
+      "width": 390,
+      "height": 14066
+    },
+    {
+      "output": "shots/kosmetologiya/no-filters/1440.jpg",
+      "width": 1440,
+      "height": 11759
+    },
+    {
+      "output": "shots/kosmetologiya/pigmentnye-pyatna/390.jpg",
+      "width": 390,
+      "height": 13405
+    },
+    {
+      "output": "shots/kosmetologiya/pigmentnye-pyatna/1440.jpg",
+      "width": 1440,
+      "height": 11155
+    },
+    {
+      "output": "shots/kosmetologiya/profhilo/390.jpg",
+      "width": 390,
+      "height": 8337
+    },
+    {
+      "output": "shots/kosmetologiya/plazmoterapiya/1440.jpg",
+      "width": 1440,
+      "height": 14603
+    },
+    {
+      "output": "shots/kosmetologiya/plazmoterapiya/390.jpg",
+      "width": 390,
+      "height": 17348
+    },
+    {
+      "output": "shots/kosmetologiya/profhilo/1440.jpg",
+      "width": 1440,
+      "height": 6602
+    },
+    {
+      "output": "shots/kosmetologiya/radiesse/1440.jpg",
+      "width": 1440,
+      "height": 5263
+    },
+    {
+      "output": "shots/kosmetologiya/radiesse/390.jpg",
+      "width": 390,
+      "height": 7711
+    },
+    {
+      "output": "shots/kosmetologiya/rastyazhki/1440.jpg",
+      "width": 1440,
+      "height": 9389
+    },
+    {
+      "output": "shots/kosmetologiya/rastyazhki/390.jpg",
+      "width": 390,
+      "height": 12110
+    },
+    {
+      "output": "shots/kosmetologiya/rf-lifting-volnewmer/390.jpg",
+      "width": 390,
+      "height": 19054
+    },
+    {
+      "output": "shots/kosmetologiya/rubcy-i-postakne/390.jpg",
+      "width": 390,
+      "height": 12879
+    },
+    {
+      "output": "shots/kosmetologiya/rf-lifting-volnewmer/1440.jpg",
+      "width": 1440,
+      "height": 14950
+    },
+    {
+      "output": "shots/kosmetologiya/rubcy-i-postakne/1440.jpg",
+      "width": 1440,
+      "height": 10010
+    },
+    {
+      "output": "shots/kosmetologiya/shlifovka-pixel/390.jpg",
+      "width": 390,
+      "height": 12465
+    },
+    {
+      "output": "shots/kosmetologiya/shlifovka-pixel/1440.jpg",
+      "width": 1440,
+      "height": 9629
+    },
+    {
+      "output": "shots/kosmetologiya/stylage/390.jpg",
+      "width": 390,
+      "height": 9876
+    },
+    {
+      "output": "shots/kosmetologiya/smas-lifting-ultraformer/390.jpg",
+      "width": 390,
+      "height": 22651
+    },
+    {
+      "output": "shots/kosmetologiya/smas-lifting-ultraformer/1440.jpg",
+      "width": 1440,
+      "height": 20016
+    },
+    {
+      "output": "shots/kosmetologiya/stylage/1440.jpg",
+      "width": 1440,
+      "height": 8655
+    },
+    {
+      "output": "shots/kosmetologiya/udalenie-sosudov/390.jpg",
+      "width": 390,
+      "height": 13692
+    },
+    {
+      "output": "shots/kosmetologiya/udalenie-sosudov/1440.jpg",
+      "width": 1440,
+      "height": 11145
+    },
+    {
+      "output": "shots/kosmetologiya/udalenie-tatuirovok/390.jpg",
+      "width": 390,
+      "height": 12625
+    },
+    {
+      "output": "shots/kosmetologiya/udalenie-tatuirovok/1440.jpg",
+      "width": 1440,
+      "height": 9733
+    },
+    {
+      "output": "shots/kosmetologiya/w-lift/390.jpg",
+      "width": 390,
+      "height": 13467
+    },
+    {
+      "output": "shots/kosmetologiya/w-lift/1440.jpg",
+      "width": 1440,
+      "height": 11149
+    },
+    {
+      "output": "shots/patient/first-visit/390.jpg",
+      "width": 390,
+      "height": 5832
+    },
+    {
+      "output": "shots/patient/first-visit/1440.jpg",
+      "width": 1440,
+      "height": 5249
+    },
+    {
+      "output": "shots/patient/for-tax/390.jpg",
+      "width": 390,
+      "height": 5759
+    },
+    {
+      "output": "shots/patient/for-tax/1440.jpg",
+      "width": 1440,
+      "height": 4464
+    },
+    {
+      "output": "shots/patient/payment/390.jpg",
+      "width": 390,
+      "height": 5042
+    },
+    {
+      "output": "shots/patient/payment/1440.jpg",
+      "width": 1440,
+      "height": 3910
+    },
+    {
+      "output": "shots/patient/preparation/390.jpg",
+      "width": 390,
+      "height": 4062
+    },
+    {
+      "output": "shots/patient/preparation/1440.jpg",
+      "width": 1440,
+      "height": 3199
+    },
+    {
+      "output": "shots/patient/questions/390.jpg",
+      "width": 390,
+      "height": 2879
+    },
+    {
+      "output": "shots/patient/questions/1440.jpg",
+      "width": 1440,
+      "height": 2328
+    },
+    {
+      "output": "shots/prices/__q_fdd35385b58b1068b084/390.jpg",
+      "width": 390,
+      "height": 3614
+    },
+    {
+      "output": "shots/prices/__q_fdd35385b58b1068b084/1440.jpg",
+      "width": 1440,
+      "height": 3104
+    },
+    {
+      "output": "shots/prices/__q_a4ba6417ba9eb4ebe7ec/390.jpg",
+      "width": 390,
+      "height": 4231
+    },
+    {
+      "output": "shots/prices/1440.jpg",
+      "width": 1440,
+      "height": 24458
+    },
+    {
+      "output": "shots/prices/__q_a4ba6417ba9eb4ebe7ec/1440.jpg",
+      "width": 1440,
+      "height": 3232
+    },
+    {
+      "output": "shots/prices/390.jpg",
+      "width": 390,
+      "height": 28491
+    },
+    {
+      "output": "shots/prices/__q_e98099d2adfe597cb8b6/390.jpg",
+      "width": 390,
+      "height": 3133
+    },
+    {
+      "output": "shots/prices/__q_e98099d2adfe597cb8b6/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_16b1fea7f38f3205416e/390.jpg",
+      "width": 390,
+      "height": 4784
+    },
+    {
+      "output": "shots/prices/__q_16b1fea7f38f3205416e/1440.jpg",
+      "width": 1440,
+      "height": 3875
+    },
+    {
+      "output": "shots/prices/__q_885d25fb70d3992a7053/1440.jpg",
+      "width": 1440,
+      "height": 3941
+    },
+    {
+      "output": "shots/prices/__q_885d25fb70d3992a7053/390.jpg",
+      "width": 390,
+      "height": 4994
+    },
+    {
+      "output": "shots/prices/__q_cd4ef89bafe5caae9734/390.jpg",
+      "width": 390,
+      "height": 3610
+    },
+    {
+      "output": "shots/prices/__q_cd4ef89bafe5caae9734/1440.jpg",
+      "width": 1440,
+      "height": 3146
+    },
+    {
+      "output": "shots/prices/__q_d56789111d753ca85440/390.jpg",
+      "width": 390,
+      "height": 4358
+    },
+    {
+      "output": "shots/prices/__q_d56789111d753ca85440/1440.jpg",
+      "width": 1440,
+      "height": 3671
+    },
+    {
+      "output": "shots/prices/__q_c9fe1de93b116fa239c1/390.jpg",
+      "width": 390,
+      "height": 3106
+    },
+    {
+      "output": "shots/prices/__q_c9fe1de93b116fa239c1/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_e2d47c585957a34fdfec/390.jpg",
+      "width": 390,
+      "height": 5165
+    },
+    {
+      "output": "shots/prices/__q_e2d47c585957a34fdfec/1440.jpg",
+      "width": 1440,
+      "height": 4448
+    },
+    {
+      "output": "shots/prices/__q_e52139c972dd2a0ae728/390.jpg",
+      "width": 390,
+      "height": 3314
+    },
+    {
+      "output": "shots/prices/__q_e52139c972dd2a0ae728/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_2958fb529606a1df853b/390.jpg",
+      "width": 390,
+      "height": 3209
+    },
+    {
+      "output": "shots/prices/__q_2958fb529606a1df853b/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_54d52f59c644ff7eefb6/390.jpg",
+      "width": 390,
+      "height": 3507
+    },
+    {
+      "output": "shots/prices/__q_54d52f59c644ff7eefb6/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_c68f54ddd6b7bbcf5466/390.jpg",
+      "width": 390,
+      "height": 3045
+    },
+    {
+      "output": "shots/prices/__q_bdea1a5635cd2c1e9576/390.jpg",
+      "width": 390,
+      "height": 3372
+    },
+    {
+      "output": "shots/prices/__q_c68f54ddd6b7bbcf5466/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_bdea1a5635cd2c1e9576/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_edf7d33ffef73c167f12/390.jpg",
+      "width": 390,
+      "height": 3336
+    },
+    {
+      "output": "shots/prices/__q_edf7d33ffef73c167f12/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_246b91c099fb1677a47c/390.jpg",
+      "width": 390,
+      "height": 3266
+    },
+    {
+      "output": "shots/prices/__q_8fbd5bc916586d0496dd/390.jpg",
+      "width": 390,
+      "height": 3335
+    },
+    {
+      "output": "shots/prices/__q_246b91c099fb1677a47c/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_8fbd5bc916586d0496dd/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_afa9fd284ceca66b3b77/1440.jpg",
+      "width": 1440,
+      "height": 3362
+    },
+    {
+      "output": "shots/prices/__q_afa9fd284ceca66b3b77/390.jpg",
+      "width": 390,
+      "height": 4046
+    },
+    {
+      "output": "shots/prices/__q_5fb37153577c7fd14497/390.jpg",
+      "width": 390,
+      "height": 4307
+    },
+    {
+      "output": "shots/prices/__q_5fb37153577c7fd14497/1440.jpg",
+      "width": 1440,
+      "height": 3593
+    },
+    {
+      "output": "shots/prices/__q_3bd5184f36f139fa7524/390.jpg",
+      "width": 390,
+      "height": 5360
+    },
+    {
+      "output": "shots/prices/__q_3bd5184f36f139fa7524/1440.jpg",
+      "width": 1440,
+      "height": 4777
+    },
+    {
+      "output": "shots/prices/__q_6da1d3e1394e6032e8fb/390.jpg",
+      "width": 390,
+      "height": 3549
+    },
+    {
+      "output": "shots/prices/__q_6da1d3e1394e6032e8fb/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_4f94205f368f483d0ece/390.jpg",
+      "width": 390,
+      "height": 3366
+    },
+    {
+      "output": "shots/prices/__q_4f94205f368f483d0ece/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_0e867d6267ef2c0aa264/390.jpg",
+      "width": 390,
+      "height": 3113
+    },
+    {
+      "output": "shots/prices/__q_0e867d6267ef2c0aa264/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_562160af912c4882997f/390.jpg",
+      "width": 390,
+      "height": 4704
+    },
+    {
+      "output": "shots/prices/__q_562160af912c4882997f/1440.jpg",
+      "width": 1440,
+      "height": 3994
+    },
+    {
+      "output": "shots/prices/__q_032c2e1e3156f402feba/390.jpg",
+      "width": 390,
+      "height": 3066
+    },
+    {
+      "output": "shots/prices/__q_032c2e1e3156f402feba/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_c033b743bd0424149463/390.jpg",
+      "width": 390,
+      "height": 3066
+    },
+    {
+      "output": "shots/prices/__q_c033b743bd0424149463/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_97ec353bee7f218be060/390.jpg",
+      "width": 390,
+      "height": 3614
+    },
+    {
+      "output": "shots/prices/__q_97ec353bee7f218be060/1440.jpg",
+      "width": 1440,
+      "height": 3104
+    },
+    {
+      "output": "shots/prices/__q_81fcebf889a2e87b5129/390.jpg",
+      "width": 390,
+      "height": 3072
+    },
+    {
+      "output": "shots/prices/__q_81fcebf889a2e87b5129/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_d41cc4a92f1a1a9f1a74/390.jpg",
+      "width": 390,
+      "height": 3072
+    },
+    {
+      "output": "shots/prices/__q_d41cc4a92f1a1a9f1a74/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_c36307c69fd8accfdf90/390.jpg",
+      "width": 390,
+      "height": 3072
+    },
+    {
+      "output": "shots/prices/__q_c36307c69fd8accfdf90/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_54065a73ad736c1d093c/390.jpg",
+      "width": 390,
+      "height": 3072
+    },
+    {
+      "output": "shots/prices/__q_54065a73ad736c1d093c/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_09ffe6247e78b4385392/390.jpg",
+      "width": 390,
+      "height": 3018
+    },
+    {
+      "output": "shots/prices/__q_09ffe6247e78b4385392/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_9193be21e6c399f1c4ca/390.jpg",
+      "width": 390,
+      "height": 3090
+    },
+    {
+      "output": "shots/prices/__q_9193be21e6c399f1c4ca/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_5b33d6b24d71d0e1f874/390.jpg",
+      "width": 390,
+      "height": 3090
+    },
+    {
+      "output": "shots/prices/__q_5b33d6b24d71d0e1f874/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_0a71b31073b9c2dc9b15/390.jpg",
+      "width": 390,
+      "height": 3202
+    },
+    {
+      "output": "shots/prices/__q_0a71b31073b9c2dc9b15/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_29b1f297e3b864cb0cff/390.jpg",
+      "width": 390,
+      "height": 4791
+    },
+    {
+      "output": "shots/prices/__q_29b1f297e3b864cb0cff/1440.jpg",
+      "width": 1440,
+      "height": 3672
+    },
+    {
+      "output": "shots/prices/__q_ef73d8b2acd94a6a70ae/390.jpg",
+      "width": 390,
+      "height": 4704
+    },
+    {
+      "output": "shots/prices/__q_ef73d8b2acd94a6a70ae/1440.jpg",
+      "width": 1440,
+      "height": 3994
+    },
+    {
+      "output": "shots/prices/__q_55f007865671710e56f4/390.jpg",
+      "width": 390,
+      "height": 3202
+    },
+    {
+      "output": "shots/prices/__q_55f007865671710e56f4/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_d15044353295ac2894b1/390.jpg",
+      "width": 390,
+      "height": 3248
+    },
+    {
+      "output": "shots/prices/__q_d15044353295ac2894b1/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_65a77f7f8cced58d1f88/390.jpg",
+      "width": 390,
+      "height": 3042
+    },
+    {
+      "output": "shots/prices/__q_65a77f7f8cced58d1f88/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/prices/__q_1732ea05f8710d1e77b4/390.jpg",
+      "width": 390,
+      "height": 3133
+    },
+    {
+      "output": "shots/prices/__q_1732ea05f8710d1e77b4/1440.jpg",
+      "width": 1440,
+      "height": 3099
+    },
+    {
+      "output": "shots/programs/390.jpg",
+      "width": 390,
+      "height": 3133
+    },
+    {
+      "output": "shots/programs/1440.jpg",
+      "width": 1440,
+      "height": 2810
+    },
+    {
+      "output": "shots/reviews/390.jpg",
+      "width": 390,
+      "height": 3312
+    },
+    {
+      "output": "shots/search/390.jpg",
+      "width": 390,
+      "height": 1910
+    },
+    {
+      "output": "shots/reviews/1440.jpg",
+      "width": 1440,
+      "height": 2671
+    },
+    {
+      "output": "shots/search/1440.jpg",
+      "width": 1440,
+      "height": 1466
+    },
+    {
+      "output": "shots/services/napravleniya/1440.jpg",
+      "width": 1440,
+      "height": 2283
+    },
+    {
+      "output": "shots/services/napravleniya/390.jpg",
+      "width": 390,
+      "height": 3397
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/alex2-molekulyarnaya-diagnostika/390.jpg",
+      "width": 390,
+      "height": 5804
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/alex2-molekulyarnaya-diagnostika/1440.jpg",
+      "width": 1440,
+      "height": 4449
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya/390.jpg",
+      "width": 390,
+      "height": 9467
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/asit-allergen-spetsificheskaya-immunoterapiya/1440.jpg",
+      "width": 1440,
+      "height": 6284
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov/390.jpg",
+      "width": 390,
+      "height": 6024
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/bat-test-aktivatsii-bazofilov/1440.jpg",
+      "width": 1440,
+      "height": 4468
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/infuzionnaya-terapiya/1440.jpg",
+      "width": 1440,
+      "height": 5104
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/infuzionnaya-terapiya/390.jpg",
+      "width": 390,
+      "height": 7147
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/insektnaya-allergiya/390.jpg",
+      "width": 390,
+      "height": 6868
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/insektnaya-allergiya/1440.jpg",
+      "width": 1440,
+      "height": 4892
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/kozhnye-proby-allergoproby/390.jpg",
+      "width": 390,
+      "height": 7848
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/kozhnye-proby-allergoproby/1440.jpg",
+      "width": 1440,
+      "height": 5274
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/lekarstvennaya-allergiya/390.jpg",
+      "width": 390,
+      "height": 6953
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/lekarstvennaya-allergiya/1440.jpg",
+      "width": 1440,
+      "height": 4840
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/panch-biopsiya-kozhi/390.jpg",
+      "width": 390,
+      "height": 6770
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/panch-biopsiya-kozhi/1440.jpg",
+      "width": 1440,
+      "height": 4806
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/spetsificheskie-ige-immunocap/390.jpg",
+      "width": 390,
+      "height": 7092
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/spetsificheskie-ige-immunocap/1440.jpg",
+      "width": 1440,
+      "height": 5008
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/spirografiya-s-bronkhodilatatsionnoy-proboy/390.jpg",
+      "width": 422,
+      "height": 5666
+    },
+    {
+      "output": "shots/services/napravleniya/allergologiya/spirografiya-s-bronkhodilatatsionnoy-proboy/1440.jpg",
+      "width": 1440,
+      "height": 4088
+    },
+    {
+      "output": "shots/services/napravleniya/dermatovenerologiya/1440.jpg",
+      "width": 1440,
+      "height": 4990
+    },
+    {
+      "output": "shots/services/napravleniya/dermatovenerologiya/390.jpg",
+      "width": 390,
+      "height": 7026
+    },
+    {
+      "output": "shots/services/napravleniya/dermatovenerologiya/dermatoskopiya/390.jpg",
+      "width": 390,
+      "height": 6273
+    },
+    {
+      "output": "shots/services/napravleniya/dermatovenerologiya/dermatoskopiya/1440.jpg",
+      "width": 1440,
+      "height": 4446
+    },
+    {
+      "output": "shots/services/napravleniya/pulmonologiya/390.jpg",
+      "width": 390,
+      "height": 5041
+    },
+    {
+      "output": "shots/services/napravleniya/pulmonologiya/1440.jpg",
+      "width": 1440,
+      "height": 3762
+    },
+    {
+      "output": "shots/services/napravleniya/trikhologiya/1440.jpg",
+      "width": 1440,
+      "height": 5081
+    },
+    {
+      "output": "shots/services/napravleniya/trikhologiya/390.jpg",
+      "width": 390,
+      "height": 7316
+    },
+    {
+      "output": "shots/specials/390.jpg",
+      "width": 390,
+      "height": 4478
+    },
+    {
+      "output": "shots/specials/1440.jpg",
+      "width": 1440,
+      "height": 3802
+    },
+    {
+      "output": "shots/uzi/1440.jpg",
+      "width": 1440,
+      "height": 15073
+    },
+    {
+      "output": "shots/uzi/bryushnoy-polosti/390.jpg",
+      "width": 390,
+      "height": 10996
+    },
+    {
+      "output": "shots/uzi/390.jpg",
+      "width": 390,
+      "height": 21238
+    },
+    {
+      "output": "shots/uzi/bryushnoy-polosti/1440.jpg",
+      "width": 1440,
+      "height": 8409
+    },
+    {
+      "output": "shots/uzi/molochnyh-zhelez/390.jpg",
+      "width": 390,
+      "height": 9772
+    },
+    {
+      "output": "shots/uzi/molochnyh-zhelez/1440.jpg",
+      "width": 1440,
+      "height": 7478
+    },
+    {
+      "output": "shots/uzi/pochek-i-mochevogo-puzyrya/390.jpg",
+      "width": 390,
+      "height": 9755
+    },
+    {
+      "output": "shots/uzi/pochek-i-mochevogo-puzyrya/1440.jpg",
+      "width": 1440,
+      "height": 7546
+    },
+    {
+      "output": "shots/uzi/popov-sergey-viktorovich/390.jpg",
+      "width": 390,
+      "height": 7209
+    },
+    {
+      "output": "shots/uzi/popov-sergey-viktorovich/1440.jpg",
+      "width": 1440,
+      "height": 6294
+    },
+    {
+      "output": "shots/uzi/predstatelnoy-zhelezy/1440.jpg",
+      "width": 1440,
+      "height": 7780
+    },
+    {
+      "output": "shots/uzi/predstatelnoy-zhelezy/390.jpg",
+      "width": 390,
+      "height": 10158
+    },
+    {
+      "output": "shots/uzi/shchitovidnoy-zhelezy/390.jpg",
+      "width": 390,
+      "height": 10563
+    },
+    {
+      "output": "shots/uzi/shchitovidnoy-zhelezy/1440.jpg",
+      "width": 1440,
+      "height": 7807
+    }
+  ]
+}

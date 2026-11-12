@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-moloko-f2/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-moloko-f2/1440.jpg",
+  "source_path": "site/analizy/ige-moloko-f2/index.html",
+  "source_sha256": "8de987987f0e320427fb2ad4600c04e9ffb51779916e0300c154313a253bd0db",
+  "started_UTC": "2026-11-12T22:03:03.589Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7298,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Анализ на аллергию на коровье молоко (f2) — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 708768,
+  "sha256": "6d308404464cc85ece0bfcd5a9aa571932244f2083935bdcec5013f7d49034ad",
+  "finished_UTC": "2026-11-12T22:03:04.744Z"
+}

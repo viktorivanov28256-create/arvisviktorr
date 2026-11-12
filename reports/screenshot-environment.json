@@ -1,0 +1,28 @@
+{
+  "mode": "ALL",
+  "observed_UTC": "2026-11-12T22:02:07.500Z",
+  "playwright_installed": true,
+  "playwright_version": "1.62.1",
+  "node_version": "v24.22.1",
+  "loader": "Installed Node CommonJS require; node_repl ESM default-export interop failed",
+  "chrome": "Existing Google Chrome executable; headless temporary Playwright profile",
+  "personal_profile_used": false,
+  "packages_or_browsers_installed": 0,
+  "live_network_fallback": false,
+  "service_workers": "blocked",
+  "websockets": "all routes closed",
+  "cookies_or_consent_interacted": false,
+  "viewports": [
+    {
+      "width": 390,
+      "height": 844
+    },
+    {
+      "width": 1440,
+      "height": 900
+    }
+  ],
+  "manifest_sha256": "e7d8f785c40c1d276c7b82bcf4b7620c7d6e969b815bea2a2957698641d0fe10",
+  "unique_final_page_URLs": 367,
+  "source_bytes_rewritten": false
+}

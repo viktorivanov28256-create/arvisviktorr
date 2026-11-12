@@ -1,0 +1,288 @@
+/* Existing dermatology content and bindings; presentation only. */
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctors {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: stretch;
+  gap: 24px;
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor {
+  grid-column: auto;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  margin: 0;
+  padding: 24px;
+  border: 0;
+  border-radius: 16px;
+  background: #eeeee6;
+  box-shadow: none;
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-head {
+  display: grid;
+  grid-template-columns: 112px minmax(0, 1fr);
+  align-items: center;
+  gap: 20px;
+  margin: 0 0 20px;
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-head img {
+  position: static;
+  display: block;
+  width: 112px;
+  height: 140px;
+  min-height: 0;
+  max-height: none;
+  margin: 0;
+  border-radius: 12px;
+  object-fit: contain;
+  object-position: top;
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-head h3 {
+  max-width: none;
+  margin: 0 0 8px;
+  font-size: 22px;
+  line-height: 1.25;
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-head h3 a {
+  color: var(--promo-ink);
+  text-decoration: none;
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-head h3 a:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-head .arv-service__role {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--promo-muted);
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor > p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 16px;
+  margin: auto 0 0;
+  padding-top: 24px;
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding-block: 4px;
+  font-size: 14px;
+  line-height: 1.5;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-links a:is([data-arvis-booking-url],[data-arvis-dermatology-phone="pisarev"]) {
+  flex: 1 0 100%;
+  justify-content: center;
+  width: 100%;
+  min-height: 48px;
+  padding: 12px 18px;
+  border-radius: 10px;
+  background: var(--promo-red);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-links a:is([data-arvis-booking-url],[data-arvis-dermatology-phone="pisarev"]):hover {
+  background: #800911;
+  color: #fff;
+}
+
+@media (max-width: 1080px) {
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctors {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 760px) {
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-title {
+    grid-row: 1;
+  }
+
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-lead {
+    grid-row: 2;
+  }
+
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .arv-service__facts {
+    grid-row: 3;
+  }
+
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-actions {
+    grid-row: 4;
+  }
+
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-topic-media {
+    grid-row: 5;
+  }
+
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor {
+    padding: 20px;
+  }
+
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-head {
+    grid-template-columns: 96px minmax(0, 1fr);
+    gap: 16px;
+  }
+
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-head img {
+    width: 96px;
+    height: 120px;
+  }
+
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-head h3 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 360px) {
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor {
+    padding: 16px;
+  }
+
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-head {
+    grid-template-columns: 80px minmax(0, 1fr);
+  }
+
+  main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .arv-service__doctor-head img {
+    width: 80px;
+    height: 100px;
+  }
+}
+
+/* 2026-11-12: dermatology hero only. Native DOM order, actual fee and portrait retained. */
+@media screen and (forced-colors:none) {
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-topic-grid {
+    grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+    gap:48px;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero h1 {
+    max-width:14ch;
+    margin:0;
+    font-size:clamp(48px,4.7vw,68px);
+    line-height:1.05;
+    letter-spacing:-.03em;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-lead {
+    max-width:44ch;
+    margin:20px 0 24px;
+    font-size:18px;
+    line-height:1.55;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .arv-service__facts {
+    display:grid;
+    grid-template-columns:max-content minmax(0,1fr);
+    gap:8px 24px;
+    max-width:44ch;
+    margin:24px 0;
+    font-size:16px;
+    line-height:1.5;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .arv-service__facts > li:first-child {
+    grid-column:1 / -1;
+    display:flex;
+    flex-wrap:wrap;
+    align-items:baseline;
+    gap:6px 12px;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .arv-service__facts > li:first-child strong {
+    font-size:28px;
+    font-weight:500;
+    line-height:1.25;
+    color:var(--promo-ink);
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .arv-service__facts > li:first-child strong > span {
+    font-size:inherit;
+    line-height:inherit;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-topic-media {
+    width:100%;
+    max-width:520px;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero img.doctor-promotion-portrait {
+    width:100%;
+    height:auto;
+    max-height:none;
+    aspect-ratio:1856 / 2304;
+    object-fit:contain;
+    object-position:center top;
+  }
+}
+@media screen and (max-width:1000px) and (forced-colors:none) {
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-topic-grid {
+    gap:32px;
+  }
+}
+@media screen and (max-width:760px) and (forced-colors:none) {
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-topic-grid {
+    display:block;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-topic-copy {
+    display:block;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero h1 {
+    font-size:40px;
+    line-height:1.08;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-lead {
+    margin:18px 0 22px;
+    font-size:17px;
+    line-height:1.55;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .arv-service__facts {
+    gap:8px 20px;
+    margin:22px 0;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .arv-service__facts > li:first-child strong {
+    font-size:26px;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-actions {
+    display:grid;
+    grid-template-columns:minmax(0,1fr);
+    gap:4px;
+    margin:22px 0 0;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-actions > a.apv-btn--dark {
+    width:100%;
+    min-height:52px;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-actions > a.text-link {
+    display:inline-flex;
+    align-items:center;
+    justify-self:start;
+    min-height:44px;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .reader-topic-media {
+    width:100%;
+    max-width:none;
+    margin-top:24px;
+  }
+}
+@media screen and (max-width:359px) and (forced-colors:none) {
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero h1 {
+    font-size:36px;
+  }
+  :where(html:not([data-arvis-reading="on"])) main.dp-promotion[data-arvis-direction-promotion="r1"]:has(.doctor-promotion-card--dermatology) .doctor-promotion-hero .arv-service__facts > li:first-child strong {
+    font-size:24px;
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/immunocap-isac/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/immunocap-isac/1440.jpg",
+  "source_path": "site/analizy/immunocap-isac/index.html",
+  "source_sha256": "dc654a4cd3056e6187b0a73b1f5d70ba164a468ba7ceaa9f2a26a36c2933f2c8",
+  "started_UTC": "2026-11-12T22:03:26.606Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7383,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Аллергочип ImmunoCAP ISAC (E112i), 112 аллергокомпонентов — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 10,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 684665,
+  "sha256": "bda728c8edb0b0e46242a8269efd1f7ae8aa9b9db814071e7f85a56daa44939e",
+  "finished_UTC": "2026-11-12T22:03:27.576Z"
+}

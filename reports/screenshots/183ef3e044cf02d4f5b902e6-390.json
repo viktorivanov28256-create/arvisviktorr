@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-aspergillus-fumigatus-m3/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/analizy/ige-aspergillus-fumigatus-m3/390.jpg",
+  "source_path": "site/analizy/ige-aspergillus-fumigatus-m3/index.html",
+  "source_sha256": "a09b3c14670ddfca15d86bd1ba54ae322d5e3f4d32657d76ebca68441f8aeaaf",
+  "started_UTC": "2026-11-12T22:02:37.168Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 6303,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Aspergillus fumigatus (m3): специфические IgE — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 349439,
+  "sha256": "eb44c9555963c72f075a923ed5670776032edd91448fe917d3cb437f1c994ebe",
+  "finished_UTC": "2026-11-12T22:02:38.144Z"
+}

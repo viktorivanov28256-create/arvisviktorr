@@ -1,0 +1,77 @@
+/* Documents route only; preserves reader typography and original PDF assets. */
+#main.reader--info .arv-restore__document {
+  display: grid;
+  grid-template-columns: 160px minmax(0, 1fr);
+  align-items: start;
+  gap: 28px;
+  margin-block: 28px 16px;
+}
+#main.reader--info .arv-restore__document > a {
+  display: block;
+  width: 160px;
+  max-width: 100%;
+}
+#main.reader--info .arv-restore__document > a > img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+#main.reader--info .arv-restore__document > div {
+  min-width: 0;
+}
+#main.reader--info .arv-restore__document > div > h3 {
+  margin-top: 0;
+}
+#main.reader--info .arv-restore__document > div > p {
+  margin-bottom: 16px;
+}
+#main.reader--info .arv-restore__links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  margin-block: 16px;
+}
+#main.reader--info .arv-restore__links > a,
+#main.reader--info .arv-restore__note a[href$=".pdf"] {
+  display: inline-flex;
+  align-items: center;
+  box-sizing: border-box;
+  min-height: 48px;
+  max-width: 100%;
+  padding-block: 8px;
+  overflow-wrap: anywhere;
+  text-underline-offset: 4px;
+}
+#main.reader--info .arv-restore__document > div > :last-child {
+  margin-bottom: 0;
+}
+#main.reader--info .arv-restore__note {
+  margin-block: 16px 28px;
+}
+@media (max-width: 600px) {
+  #main.reader--info .arv-restore__document {
+    grid-template-columns: 110px minmax(0, 1fr);
+    gap: 16px;
+    margin-top: 24px;
+  }
+  #main.reader--info .arv-restore__document > a {
+    grid-column: 1;
+    grid-row: 1;
+    width: 110px;
+  }
+  #main.reader--info .arv-restore__document > div {
+    display: contents;
+  }
+  #main.reader--info .arv-restore__document > div > h3 {
+    grid-column: 2;
+    grid-row: 1;
+    align-self: center;
+    margin: 0;
+  }
+  #main.reader--info .arv-restore__document > div > :not(h3) {
+    grid-column: 1 / -1;
+    margin-block: 0;
+  }
+}

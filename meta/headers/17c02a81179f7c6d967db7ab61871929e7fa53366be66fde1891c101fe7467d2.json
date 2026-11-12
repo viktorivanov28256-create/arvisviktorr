@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://arvisclinic.ru/recovery-assets/equipment/classys-color-6765162d2f28.svg",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:31 GMT",
+      "Content-Type": "image/svg+xml",
+      "Content-Length": "4344",
+      "Last-Modified": "Sun, 08 Nov 2026 00:17:05 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6aefbf81-10f8\"",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

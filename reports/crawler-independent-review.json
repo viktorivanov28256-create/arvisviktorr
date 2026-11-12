@@ -1,0 +1,32 @@
+{
+  "status": "GO_ANONYMOUS_HTTP_CAPTURE_SOURCE_REVIEW_ONLY",
+  "source": {
+    "path": "crawl.py",
+    "sha256": "8c85fff058a3d9b4b57b77ec4d776c1e02fcd457fafcf5114035c59f89c8d5b6",
+    "bytes": 21636
+  },
+  "scope": "Independent full-source critical review; no crawler instantiated and no network/browser/CMS/GitHub action.",
+  "checks": {
+    "network": "Only normalized HTTPS arvisclinic.ru; no inherited proxy, cookie jar or authentication handler; TLS defaults remain enabled.",
+    "rate": "One shared sequential 0.51-second start gate for every request including assets/redirect hops; persisted timestamp on resume; exclusive process lock.",
+    "redirects": "Manual bounded same-host HTTPS redirects; forbidden paths and loops stop before following.",
+    "raw_payloads": "Response bytes saved unchanged; parsing is discovery-only, no HTML/link/CSS rewrites.",
+    "discovery": "Nested sitemaps, ordinary links, srcset, stylesheets, CSS url/import and inline style resources; resources retain paths with documented URL-qualified query/page mapping.",
+    "boundaries": "Video/audio/PDF downloads and private/core/config/log/backup paths excluded; no private project inputs read.",
+    "privacy": "Cookie/Auth/Token/API/CSRF-like headers redacted; metadata URL userinfo and sensitive query values removed; detected high-confidence secret bodies are not persisted.",
+    "resume_and_coverage": "Valid cached payload hashes checked; failed no-body records do not auto-retry; explicit retry flag; budgets/parse failures/pending queue remain visible; no universal coverage claim."
+  },
+  "validation": {
+    "AST": "PASS",
+    "offline_assertions": "PASS: URL/query order, host/userinfo/path rejection, private/PDF/video paths, allowed static vendor resource, metadata/header redaction, CSS import/url",
+    "network_requests": 0,
+    "crawler_instantiations": 0
+  },
+  "limitations": [
+    "Source review establishes intended request pacing, not empirical runtime timing.",
+    "Regex/HTMLParser discovery is bounded; client-generated JavaScript links are outside HTTP-only discovery.",
+    "Artifact byte/hash/path and secret checks must run on the completed dedicated audit folder before GitHub packaging.",
+    "The initial Playwright lookup missed a bundled runtime; parent later verified preinstalled 1.62.1. Final screenshot status and counts belong to the capture runner report."
+  ],
+  "source_modified_by_reviewer": false
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/zolotarnik-ili-ambroziya/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/zolotarnik-ili-ambroziya/390.jpg",
+  "source_path": "site/articles/zolotarnik-ili-ambroziya/index.html",
+  "source_sha256": "49ae2c0a464d8daae7fd6f52324fdd221230518074eb6b50237fbc6ddb1f2f7c",
+  "started_UTC": "2026-11-12T22:04:54.527Z",
+  "fulfilled": 32,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 11527,
+    "fonts_status": "loaded",
+    "image_total": 4,
+    "image_loaded": 4,
+    "title": "Золотарник или амброзия: кто на самом деле виноват в аллергии — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 16,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 713736,
+  "sha256": "59055ff4bec0032008be69a852ab0e755c6b6073772dca67193d9bb00fa12534",
+  "finished_UTC": "2026-11-12T22:04:55.886Z"
+}

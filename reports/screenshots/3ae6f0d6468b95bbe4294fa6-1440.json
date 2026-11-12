@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/eozinofily-povysheny-u-rebenka/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/articles/eozinofily-povysheny-u-rebenka/1440.jpg",
+  "source_path": "site/articles/eozinofily-povysheny-u-rebenka/index.html",
+  "source_sha256": "a7f11265ad9e2d51d0355c0afb4ccb316c376bae8f189c300eb3187c3b2e442a",
+  "started_UTC": "2026-11-12T22:04:05.456Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 10467,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Эозинофилы повышены у ребёнка: аллергия, глисты или ничего страшного — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 14,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 1138785,
+  "sha256": "be3f0502f0679d08865ad69535ee660d1b1ccd8e5e3342ac22c20fc437f9fa28",
+  "finished_UTC": "2026-11-12T22:04:08.009Z"
+}

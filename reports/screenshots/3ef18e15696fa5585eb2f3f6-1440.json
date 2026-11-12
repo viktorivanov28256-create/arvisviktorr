@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-govyadina-f27/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-govyadina-f27/1440.jpg",
+  "source_path": "site/analizy/ige-govyadina-f27/index.html",
+  "source_sha256": "6b4c04d8387ae5eaa5b9e009891132542dbba6a8af848f66aaaf873f524ff7f5",
+  "started_UTC": "2026-11-12T22:02:48.231Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4613,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к говядине (f27) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 530894,
+  "sha256": "c99c9958f5bf82c24ae3df901ddbe7392f18b3078213a01553d2d9788ae96d61",
+  "finished_UTC": "2026-11-12T22:02:49.092Z"
+}

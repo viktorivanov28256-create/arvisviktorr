@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://arvisclinic.ru/assets/arvis-booking.js?v=c790a833dea5",
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Thu, 12 Nov 2026 21:48:36 GMT",
+      "Content-Type": "application/javascript; charset=utf-8",
+      "Content-Length": "12926",
+      "Last-Modified": "Sun, 08 Nov 2026 03:38:41 GMT",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"6aefeec1-327e\"",
+      "Expires": "Sat, 12 Dec 2026 21:48:36 GMT",
+      "Cache-Control": "max-age=2592000",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Accept-Ranges": "bytes"
+    }
+  }
+]

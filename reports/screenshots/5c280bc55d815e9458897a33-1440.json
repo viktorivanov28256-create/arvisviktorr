@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/der-p-1-d202/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/der-p-1-d202/1440.jpg",
+  "source_path": "site/analizy/der-p-1-d202/index.html",
+  "source_sha256": "fdfb6b56e8dd07e9a5517f91c72a4b8c04e2dcb43cf6fee00166b5104134b5c2",
+  "started_UTC": "2026-11-12T22:02:27.560Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4587,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфический IgE к Der p 1: компонент клеща (d202) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 534282,
+  "sha256": "293b95d9b9a61ff834f83be24f801e45af8dfed0e1581d8c0e44b3c2db7da960",
+  "finished_UTC": "2026-11-12T22:02:28.303Z"
+}

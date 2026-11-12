@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ige-ezha-sbornaya-g3/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ige-ezha-sbornaya-g3/1440.jpg",
+  "source_path": "site/analizy/ige-ezha-sbornaya-g3/index.html",
+  "source_sha256": "e2d47b89b2b47dce1b54129037164d6672c006eee04d51f470e997d05009a096",
+  "started_UTC": "2026-11-12T22:02:44.915Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 4427,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Специфические IgE к пыльце ежи сборной (g3) | Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 508140,
+  "sha256": "bffd8dacacba45ed740b8ed1bfd33db3066e07a54bdfb8446e804e57797fefe8",
+  "finished_UTC": "2026-11-12T22:02:45.689Z"
+}

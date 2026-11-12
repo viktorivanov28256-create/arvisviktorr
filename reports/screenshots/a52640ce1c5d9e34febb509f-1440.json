@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ara-h-2-f423/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ara-h-2-f423/1440.jpg",
+  "source_path": "site/analizy/ara-h-2-f423/index.html",
+  "source_sha256": "ed2df4e78fbfd0f0d6a1e8b027c8f24bb2a75dc4987820f74c027e710bce1132",
+  "started_UTC": "2026-11-12T22:02:22.447Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 7046,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Арахис, компонент rAra h2 (f423), IgE ImmunoCAP — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 9,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 652923,
+  "sha256": "f08359ba75e56025192d04590d38fad06a430a8f21ed90bad4f9f2c5b0cf3fdd",
+  "finished_UTC": "2026-11-12T22:02:23.414Z"
+}

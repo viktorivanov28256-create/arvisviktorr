@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/about/requisites/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/about/requisites/390.jpg",
+  "source_path": "site/about/requisites/index.html",
+  "source_sha256": "5b24030d84bf6dff5218101f92caee6af40c13196ffdd1c34b0059d200151151",
+  "started_UTC": "2026-11-12T22:02:13.318Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 4761,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Реквизиты клиники — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 6,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 218305,
+  "sha256": "c9ce6f1c044c776e08a88db624bd4574e621a673bc7d9ae0d581334019e2211f",
+  "finished_UTC": "2026-11-12T22:02:14.027Z"
+}

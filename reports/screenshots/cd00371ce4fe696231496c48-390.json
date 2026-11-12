@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/articles/pischevaya-allergiya-u-grudnichka/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/articles/pischevaya-allergiya-u-grudnichka/390.jpg",
+  "source_path": "site/articles/pischevaya-allergiya-u-grudnichka/index.html",
+  "source_sha256": "adf9166af1b7e30257229cf8664c06969e4efa2f6a7293d6fa16d1aba72c48b2",
+  "started_UTC": "2026-11-12T22:04:30.766Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 12938,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Пищевая аллергия у грудничка: белок коровьего молока и что с ним делать — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 18,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 821159,
+  "sha256": "8b58770251a56ee4a23dfce7b819833a382a3734664a9e0e0f732e361366edef",
+  "finished_UTC": "2026-11-12T22:04:32.155Z"
+}

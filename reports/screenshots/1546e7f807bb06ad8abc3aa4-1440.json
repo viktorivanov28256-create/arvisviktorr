@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/analizy/ara-h-3-f424/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/analizy/ara-h-3-f424/1440.jpg",
+  "source_path": "site/analizy/ara-h-3-f424/index.html",
+  "source_sha256": "273713a1e0883f71527d44c675788f90a21f04354f56c9fa116dfdc3de2fad35",
+  "started_UTC": "2026-11-12T22:02:23.228Z",
+  "fulfilled": 30,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 3910,
+    "fonts_status": "loaded",
+    "image_total": 2,
+    "image_loaded": 2,
+    "title": "Ara h 3 (f424): 11S-глобулин и прежнее название Ara h 4 — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 393373,
+  "sha256": "c3fc263eeb8f249e3156ef6c43d99c57d8bafe760842ae1fd00074d1ec81f830",
+  "finished_UTC": "2026-11-12T22:02:23.850Z"
+}

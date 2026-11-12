@@ -1,0 +1,47 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/rf-lifting-volnewmer/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "output": "shots/kosmetologiya/rf-lifting-volnewmer/390.jpg",
+  "source_path": "site/kosmetologiya/rf-lifting-volnewmer/index.html",
+  "source_sha256": "1c8dbf5c82ff03554ed3244acf8b722bd4c340a25b7f851356ad2182afe06da0",
+  "started_UTC": "2026-11-12T22:05:40.483Z",
+  "fulfilled": 46,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    },
+    {
+      "url": "https://arvisclinic.ru/recovery-assets/media/arvis-volnewmer-demo-274b1ebfe2d9.mp4",
+      "method": "GET",
+      "resource_type": "media",
+      "reason": "not_in_HTTP_snapshot_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 390,
+    "viewport_width": 390,
+    "document_height": 19054,
+    "fonts_status": "loaded",
+    "image_total": 16,
+    "image_loaded": 16,
+    "title": "RF-лифтинг Volnewmer в Воронеже — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 27,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 864614,
+  "sha256": "66d54598cf6cd4cc4d2f717c4d0bc7d053076a7755a99c4ee5d33e9addc8207f",
+  "finished_UTC": "2026-11-12T22:05:42.607Z"
+}

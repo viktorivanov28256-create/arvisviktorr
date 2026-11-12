@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/lechenie-akne/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/kosmetologiya/lechenie-akne/1440.jpg",
+  "source_path": "site/kosmetologiya/lechenie-akne/index.html",
+  "source_sha256": "7fe2f8f11f54429732a403b030a096678a0a6cc8590e59df162ad9e27d5a005f",
+  "started_UTC": "2026-11-12T22:05:27.435Z",
+  "fulfilled": 36,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 9854,
+    "fonts_status": "loaded",
+    "image_total": 9,
+    "image_loaded": 9,
+    "title": "Лазерное лечение акне в Воронеже — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 13,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 813133,
+  "sha256": "b6ce113358d614a3aad9e1962a405319ccb4b0043b5e2f56fc787f2c4b6a7cad",
+  "finished_UTC": "2026-11-12T22:05:29.384Z"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/doctors/kurdesova-elena-sergeevna/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/doctors/kurdesova-elena-sergeevna/1440.jpg",
+  "source_path": "site/doctors/kurdesova-elena-sergeevna/index.html",
+  "source_sha256": "0eaf726c4495709ab915f2da7f853706eccf2189db025b7b46a1748a8c601d1f",
+  "started_UTC": "2026-11-12T22:05:02.145Z",
+  "fulfilled": 32,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 3837,
+    "fonts_status": "loaded",
+    "image_total": 3,
+    "image_loaded": 3,
+    "title": "Курдесова Елена Сергеевна — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 5,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 310976,
+  "sha256": "8af17c39a47561fdfcee3f5329c30b314d315ec049763ce97fce74565df080a3",
+  "finished_UTC": "2026-11-12T22:05:02.849Z"
+}

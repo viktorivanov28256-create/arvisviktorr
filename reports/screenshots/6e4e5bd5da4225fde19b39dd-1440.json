@@ -1,0 +1,41 @@
+{
+  "url": "https://arvisclinic.ru/kosmetologiya/biorevitalizaciya/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "output": "shots/kosmetologiya/biorevitalizaciya/1440.jpg",
+  "source_path": "site/kosmetologiya/biorevitalizaciya/index.html",
+  "source_sha256": "ab75745a6eec94f9c7342ce839f5e5227d45b308f210ff890210c319765513fd",
+  "started_UTC": "2026-11-12T22:05:12.862Z",
+  "fulfilled": 45,
+  "blocked": [
+    {
+      "url": "https://booking.medflex.ru/components/round/round_widget_button.js",
+      "method": "GET",
+      "resource_type": "script",
+      "reason": "outside_exact_HTTPS_origin_aborted"
+    }
+  ],
+  "websockets_blocked": 0,
+  "cookie_notice_interacted": false,
+  "saved_source_modified": false,
+  "actual_outbound_requests": 0,
+  "geometry": {
+    "document_width": 1440,
+    "viewport_width": 1440,
+    "document_height": 12437,
+    "fonts_status": "loaded",
+    "image_total": 22,
+    "image_loaded": 22,
+    "title": "Биоревитализация в Воронеже — Арвис Клиника",
+    "main_count": 1
+  },
+  "lazy_scroll_steps": 17,
+  "lazy_scroll_limit_reached": false,
+  "page_errors": [],
+  "status": "CAPTURED_OFFLINE",
+  "bytes": 968967,
+  "sha256": "6e9851f11def6c2d5e0e571021d23a09523e82aac7e6e62344c6f5287c94bbc6",
+  "finished_UTC": "2026-11-12T22:05:14.315Z"
+}
