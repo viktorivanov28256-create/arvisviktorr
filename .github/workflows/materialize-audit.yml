@@ -1,0 +1,30 @@
+name: Materialize verified public audit snapshot
+on:
+  push:
+    branches: [audit-transfer]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: materialize-arvis-audit-snapshot
+  cancel-in-progress: false
+jobs:
+  materialize:
+    if: github.repository == 'viktorivanov28256-create/arvisviktorr'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.sha }}
+          path: transfer
+          persist-credentials: false
+      - uses: actions/checkout@v7
+        with:
+          ref: e2c2c363d147e4079bbc93e4ccc8b2862280e840
+          path: target
+          persist-credentials: false
+      - name: Verify inert archive and publish clean branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 transfer/.audit-transfer/materialize.py transfer/.audit-transfer/manifest.json "$GITHUB_WORKSPACE/target"
